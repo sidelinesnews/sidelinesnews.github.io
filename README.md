@@ -28,8 +28,27 @@ Windows: double-click `Start.bat`. Anywhere else: `python aggregator.py`, then o
 
 Edit `feeds.json`. After a run, `docs/feed_status.json` lists any feeds that failed.
 
-## Principles
+## The promise
 
-- No ads, no trackers, no paywall, ever.
-- The ranking rules are public, and changes to them happen in the open.
-- Funded by donations only, if at all.
+Sidelines will never:
+
+- run ads
+- sell or rent placement on the page
+- track readers (no cookies, no analytics, no tracking pixels)
+- sell or share data about anyone
+
+The ranking rules are public, and any change to them happens in the open.
+
+**Money:** Sidelines only accepts donations and grants that come with no say over what appears on the page. Donations cover running costs and pay the maintainer a modest amount for their time. Every dollar in and out will be public on our Open Collective page (coming soon).
+
+If Sidelines ever breaks this promise, you already have the cure: the code is AGPL-3.0, so fork it and run the honest version.
+
+## Legacy
+
+Sidelines is meant to outlive me. This is my public statement of intent, made on 2 November 2026:
+
+If Sidelines grows beyond a one-person project, or if I die or can no longer care for it, I want everything that is mine to give (the code, the repository, the Sidelines name, and any remaining funds) to go to the **Freedom of the Press Foundation**. They adopted Aaron Swartz's unfinished SecureDrop project after his death and kept it alive, and I'd be proud for Sidelines to follow the same path.
+
+If they decline, it should go to another independent, non-commercial journalism or press-freedom organization that will keep the promise above.
+
+Sidelines is not affiliated with or endorsed by the Freedom of the Press Foundation, and any handover depends on their agreement. The code itself already belongs to everyone under the AGPL-3.0, so the idea can't be owned or buried either way.
