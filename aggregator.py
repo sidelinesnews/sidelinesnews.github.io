@@ -20,6 +20,8 @@ import json
 import math
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter
@@ -35,7 +37,7 @@ CONFIG = {
     "max_age_hours": 96,       # ignore anything older
     "half_life_hours": 36,     # freshness decay
     "timeout": 20,
-    "user_agent": "SidelinesBot/0.2 (+open-source news aggregator)",
+    "user_agent": "SidelinesBot/0.3 (+open-source news aggregator)",
 }
 
 STOP = set("""a an the and or but if of to in on at by for with from as is are was were be been being
@@ -53,6 +55,9 @@ class _Strip(HTMLParser):
 
     def handle_data(self, d):
         self.out.append(d)
+
+
+BOILERPLATE = re.compile(r"\s*(The post .{0,300}? appeared first on .{0,120}?\.?|Continue reading\W*|Read more\W*)\s*$", re.I)
 
 
 def strip_html(s):
@@ -100,30 +105,53 @@ def parse_date(s):
     return d.astimezone(timezone.utc)
 
 
+def _clean_xml(raw):
+    """Repairs the most common feed mistakes: junk before the first tag,
+    bare '&' characters, and invisible control characters."""
+    text = raw.decode("utf-8", errors="replace") if isinstance(raw, bytes) else raw
+    text = text[text.find("<"):] if "<" in text else text
+    text = re.sub(r"&(?!#?[A-Za-z0-9]+;)", "&amp;", text)
+    text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+    text = re.sub(r"^<\?xml[^>]*\?>", "", text)
+    return text.encode("utf-8")
+
+
 def parse_feed(raw):
-    """Handles RSS 2.0, RSS 1.0/RDF and Atom."""
-    root = ET.fromstring(raw)
+    """Handles RSS 2.0, RSS 1.0/RDF and Atom. Tries strict first, then repaired."""
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        root = ET.fromstring(_clean_xml(raw))
     items = []
     for el in root.iter():
         if local(el.tag) not in ("item", "entry"):
             continue
         title = strip_html(child_text(el, "title"))
         link = child_text(el, "link") or child_text(el, "guid", "id")
-        summ = strip_html(child_text(el, "description", "summary", "content", "encoded"))
+        summ = BOILERPLATE.sub("", strip_html(child_text(el, "description", "summary", "content", "encoded")))
         date = parse_date(child_text(el, "pubdate", "published", "updated", "date"))
         if title and link:
             items.append({"title": title, "link": link.strip(), "summary": summ[:280], "date": date})
     return items
 
 
-def fetch(feed):
-    req = urllib.request.Request(feed["url"], headers={"User-Agent": CONFIG["user_agent"]})
-    try:
-        with urllib.request.urlopen(req, timeout=CONFIG["timeout"]) as r:
-            items = parse_feed(r.read())
-        return feed, items, None
-    except Exception as e:
-        return feed, [], f"{type(e).__name__}: {e}"[:200]
+def fetch(feed, tries=2):
+    """One retry for hiccups (timeouts, 5xx). A 4xx means 'no', so we don't push."""
+    err = None
+    for attempt in range(tries):
+        req = urllib.request.Request(feed["url"], headers={"User-Agent": CONFIG["user_agent"]})
+        try:
+            with urllib.request.urlopen(req, timeout=CONFIG["timeout"]) as r:
+                return feed, parse_feed(r.read()), None
+        except urllib.error.HTTPError as e:
+            err = f"HTTPError: {e}"
+            if e.code < 500:
+                break
+        except Exception as e:
+            err = f"{type(e).__name__}: {e}"
+        if attempt + 1 < tries:
+            time.sleep(3)
+    return feed, [], err[:200]
 
 
 def fetch_all(feeds):
