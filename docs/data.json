@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T22:27:14.100706+00:00",
+ "updated": "2026-11-02T22:42:40.506356+00:00",
  "meter": {
-  "outlets": 36,
+  "outlets": 39,
   "regions": 11,
   "evenness": 99,
   "top_share": 3
@@ -28,6 +28,36 @@
    "score": 1.0
   },
   {
+   "title": "Deep-sea mussels trade tidal rhythms for a 24-hour cycle in the lab",
+   "link": "https://phys.org/news/2026-11-deep-sea-mussels-tidal-rhythms.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9995
+  },
+  {
+   "title": "Jared Polis proposes $600M in cuts to Medicaid to address state budget crunch",
+   "link": "https://coloradosun.com/2026/11/02/jared-polis-november-budget-proposal-2027-2028-medicaid-cuts/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9994
+  },
+  {
+   "title": "Russia\u2019s HIV epidemic is worsening despite official claims to the contrary. Here\u2019s what the numbers really show.",
+   "link": "https://meduza.io/en/cards/russia-s-hiv-epidemic-is-worsening-despite-official-claims-to-the-contrary-here-s-what-the-numbers-really-show",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9984
+  },
+  {
    "title": "Ex-TV host wanted in Mexico for fraud arrested by ICE; she and husband face same charges",
    "link": "https://mexiconewsdaily.com/news/tv-host-ines-gomez-fraud-ice-husband/",
    "outlet": "Mexico News Daily",
@@ -35,7 +65,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.999
+   "score": 0.9958
   },
   {
    "title": "Prof. Francesca Gino's Contract and Discrimination Claims Against Harvard Business School Dismissed",
@@ -45,7 +75,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9989
+   "score": 0.9957
   },
   {
    "title": "Former junior hockey commentator charged with child sexploitation, RCMP looking for more victims",
@@ -55,17 +85,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9989
-  },
-  {
-   "title": "Impact of deep-sea mining on seafloor ecosystem still evident 44 years later",
-   "link": "https://phys.org/news/2026-11-impact-deep-sea-seafloor-ecosystem.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9985
+   "score": 0.9957
   },
   {
    "title": "ICE agent accused of hitting immigrant in Houston with an SUV turns himself in",
@@ -75,17 +95,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9948
+   "score": 0.9916
   },
   {
-   "title": "Russian space startups may be passing off Chinese satellite imagery as their own, researcher finds",
-   "link": "https://meduza.io/en/feature/2026/11/03/russian-space-startups-may-be-passing-off-chinese-satellite-imagery-as-their-own-researcher-finds",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
+   "title": "Less than 10% of Nigerian property have proper land titles \u2013 Finance Ministry",
+   "link": "https://www.premiumtimesng.com/news/more-news/922262-less-than-10-of-nigerian-property-have-proper-land-titles-finance-ministry.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9947
+   "score": 0.9875
   },
   {
    "title": "\u2018Work to do\u2019: Authorities give update on Florida private jet crash",
@@ -95,7 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9868
+   "score": 0.9837
   },
   {
    "title": "Indigenous peoples and local communities solidify decision-making powers at COP17",
@@ -105,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.986
+   "score": 0.9828
   },
   {
    "title": "Tomba Dei Gigante S\u2019Ena e Thimes in Dorgali, Italy",
@@ -115,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9821
+   "score": 0.9789
   },
   {
    "title": "TBOX Founder Says This Year\u2019s Bar Crawl Will Be His Last. Will The Infamous Event Live On?",
@@ -125,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9765
+   "score": 0.9734
   },
   {
    "title": "US must help North Koreans find the truth that Kim Jong Un fears",
@@ -135,7 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9732
+   "score": 0.9701
   },
   {
    "title": "100,000 California State Workers Struck Last Month",
@@ -145,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9712
+   "score": 0.9682
   },
   {
    "title": "\u2018Bookkeeping Trick\u2019 and Fuzzy Math Conceal the Climate Impacts of Beef, Researchers Say",
@@ -155,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9701
+   "score": 0.967
   },
   {
    "title": "Abdul El-Sayed\u2019s Race Has Been Defined by Islamophobia. Will It Be Determined by It?",
@@ -165,17 +185,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9651
+   "score": 0.9621
   },
   {
-   "title": "Here\u2019s how residents impacted by flooding in southwestern Colorado can vote before polls close Tuesday",
-   "link": "https://coloradosun.com/2026/11/02/voting-flooding-southwest-colorado/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
+   "title": "Some Oleshky residents remain seeking evacuation, others still on the road to Ukraine, Lubinets says",
+   "link": "https://kyivindependent.com/some-oleshky-residents-remain-seeking-evacuation-others-still-on-the-road-to-ukraine-lubinets-says/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9629
+   "score": 0.9558
   },
   {
    "title": "The 5th Plenum and the CCP\u2019S Dark Warning to the Unfaithful",
@@ -185,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9576
+   "score": 0.9546
   },
   {
    "title": "Why can\u2019t we kick this Kosovan criminal out of Britain?",
@@ -195,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9573
+   "score": 0.9543
   },
   {
    "title": "Cuidado con el \u201cespejismo rojo\u201d si los republicanos de California obtienen ventaja la noche de las elecciones",
@@ -205,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9562
+   "score": 0.9532
   },
   {
    "title": "The Brazilian left\u2019s quest to \u2018tame\u2019 Meta: A narrative of denouncement and resistance",
@@ -215,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9483
+   "score": 0.9453
   },
   {
    "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
@@ -225,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9437
+   "score": 0.9408
   },
   {
    "title": "Liberia: A Bucket for the Senate, While Health Facilities Struggle",
@@ -235,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9415
+   "score": 0.9386
   },
   {
    "title": "The link between gut microbes and antibiotic resistance: Findings from a study in Nairobi",
@@ -245,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9296
+   "score": 0.9267
   },
   {
    "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
@@ -255,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9268
+   "score": 0.924
   },
   {
    "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
@@ -265,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9262
+   "score": 0.9233
   },
   {
    "title": "Is There Anything Left in the Dream of Cold Fusion?",
@@ -275,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.922
+   "score": 0.9192
   },
   {
    "title": "An Oxford professor to sit as the UK's chosen judge in the Falklands dispute in Hamburg",
@@ -285,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9173
+   "score": 0.9145
   },
   {
    "title": "Serbia Bank Owner Arrested Following Licence Revocation",
@@ -295,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9114
+   "score": 0.9086
   },
   {
    "title": "ICC holds 5th status conference on Rodrigo Duterte\u2019s case | The wRap",
@@ -305,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9024
+   "score": 0.8996
   },
   {
    "title": "Politicians have floated building more oil refineries in Canada. Here\u2019s what you need to know",
@@ -315,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8815
+   "score": 0.8789
   },
   {
    "title": "Chinese Communist Party outlines closer scrutiny of officials",
@@ -325,7 +345,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8793
+   "score": 0.8766
+  },
+  {
+   "title": "Startups recalibrate Chinese AI for the West",
+   "link": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "outlet": "Rest of World",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8688
   },
   {
    "title": "The American Dream wasn\u2019t built for climate change",
@@ -335,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.859
+   "score": 0.8564
   },
   {
    "title": "A BC Firm Aims to Mine in Tatshenshini Park, a World Heritage Site",
@@ -345,7 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8485
+   "score": 0.846
   },
   {
    "title": "The Media Whip Up Another Round of \u2018Fascism\u2019 Fears for the Midterms",
@@ -355,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8152
+   "score": 0.8129
   },
   {
    "title": "Iran-Contra still matters",
@@ -365,7 +395,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7743
+   "score": 0.7722
   },
   {
    "title": "Losing Agoa isn\u2019t a catastrophe \u2014 a botched response from Pretoria could be",
@@ -388,14 +418,14 @@
    "score": 1.0
   },
   {
-   "title": "Magnetic nanocomposites could help shrink the components that power computer chips",
-   "link": "https://phys.org/news/2026-11-magnetic-nanocomposites-components-power-chips.html",
+   "title": "To restore attention, reach out to nature",
+   "link": "https://phys.org/news/2026-11-attention-nature.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9985
+   "score": 0.9995
   },
   {
    "title": "Cody Drygeese makes history as Yellowknife swears in new mayor and council",
@@ -405,7 +435,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9976
+   "score": 0.9944
+  },
+  {
+   "title": "Russian space startups may be passing off Chinese satellite imagery as their own, researcher finds",
+   "link": "https://meduza.io/en/feature/2026/11/03/russian-space-startups-may-be-passing-off-chinese-satellite-imagery-as-their-own-researcher-finds",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9915
   },
   {
    "title": "D.C. Regulators Shut Down a Halloween Bar Crawl Under the District's 'Public Nuisance' Order",
@@ -415,17 +455,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9941
+   "score": 0.9909
   },
   {
-   "title": "Dozens gather outside a private house near Kyiv saying soldiers are being held and beaten there. National Guard says the building was used to house newly mobilized troops.",
-   "link": "https://meduza.io/en/news/2026/11/03/dozens-gather-outside-a-private-house-near-kyiv-saying-soldiers-are-being-held-and-beaten-there-national-guard-says-the-building-was-used-to-house-newly-mobilized-troops",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
+   "title": "2027: PDP expels aspirants challenging Pantami\u2019s candidacy as Gombe governorship candidate",
+   "link": "https://www.premiumtimesng.com/news/top-news/922260-2027-pdp-expels-aspirants-challenging-pantamis-candidacy-as-gombe-governorship-candidate.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9891
+   "score": 0.9849
   },
   {
    "title": "Mexican-American news executive assumes top Vatican role",
@@ -435,7 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9851
+   "score": 0.9819
   },
   {
    "title": "Diverse forests can better withstand extreme weather events, study finds. Here\u2019s why",
@@ -445,7 +485,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9831
+   "score": 0.9799
   },
   {
    "title": "Mamdani\u2019s progressive allies vie for seats in Congress",
@@ -455,7 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9798
+   "score": 0.9767
   },
   {
    "title": "Neon Trees, Michael James Scott, Thelma Houston To Headline Magnificent Mile Lights Parade",
@@ -465,7 +505,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9704
+   "score": 0.9673
+  },
+  {
+   "title": "Here\u2019s how residents impacted by flooding in southwestern Colorado can vote before polls close Tuesday",
+   "link": "https://coloradosun.com/2026/11/02/voting-flooding-southwest-colorado/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9599
   },
   {
    "title": "Leadenhall Wunderkammer in London, England",
@@ -475,7 +525,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9582
+   "score": 0.9552
   },
   {
    "title": "\u201cOffensive Driving\u201d: ICE\u2019s Deadly Weaponization of Vehicles Against Civilians",
@@ -485,7 +535,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9577
+   "score": 0.9547
+  },
+  {
+   "title": "Protesters, National Guard hold tense standoff over detainment of service members, draftees",
+   "link": "https://kyivindependent.com/confrontation-involving-national-guard-soldiers-unfolds-near-kyiv-police-deny-hostage-reports/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9545
   },
   {
    "title": "\u00bfNecesitas m\u00e1s ayuda financiera para la universidad? Esta nueva ley te facilitar\u00e1 solicitarla",
@@ -495,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9551
+   "score": 0.9522
   },
   {
    "title": "The growing slaughter of Ukrainian civilians",
@@ -505,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9475
+   "score": 0.9445
   },
   {
    "title": "Who Should the Turkic States\u2019 Organization Open Its Doors To?",
@@ -515,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9452
+   "score": 0.9423
   },
   {
    "title": "The US Electorate Is Permanently Mobilized and Unable to Move",
@@ -525,7 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9416
+   "score": 0.9386
   },
   {
    "title": "Tunisia: Amerigo Vespucci At La Goulette Port - Tunisian-Italian Maritime Cooperation in Spotlight",
@@ -535,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9413
+   "score": 0.9384
   },
   {
    "title": "The \u2018Third Worldist\u2019 roots of the Islamo-left alliance",
@@ -545,67 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9209
-  },
-  {
-   "title": "Flooding inundates southwestern Colorado as San Juan River crests below historic forecast",
-   "link": "https://coloradosun.com/2026/11/02/flooding-southwestern-colorado-san-juan-river/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9159
-  },
-  {
-   "title": "\u2018The country has grown teeth\u2019: Translated poems of resistance and protest",
-   "link": "https://scroll.in/article/1096683/the-country-has-grown-teeth-translated-poems-of-resistance-and-protest?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9131
-  },
-  {
-   "title": "ICC wraps up pre-trial hearings as Duterte\u2019s November 30 case nears",
-   "link": "https://www.rappler.com/philippines/icc-finishes-pre-trial-hearings-rodrigo-duterte-november-30-case-nears/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8974
-  },
-  {
-   "title": "Romania and Moldova Seal First Joint Defence Procurement Deal",
-   "link": "https://balkaninsight.com/2026/11/02/romania-and-moldova-seal-first-joint-defence-procurement-deal/bi/",
-   "outlet": "Balkan Insight",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.886
-  },
-  {
-   "title": "\u201cChaos\u201d in the Air: Five Ways Voting Could Be Disrupted on Election Day",
-   "link": "https://www.propublica.org/article/five-voting-disruptions-midterm-election",
-   "outlet": "ProPublica",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8714
-  },
-  {
-   "title": "Paxton vs. Talarico: Five things to watch in Texas\u2019 tight U.S. Senate race",
-   "link": "https://feeds.texastribune.org/link/16799/17513414/texas-paxton-talarico-senate-key-factors-2026-election-night",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8714
+   "score": 0.9181
   }
  ]
 }

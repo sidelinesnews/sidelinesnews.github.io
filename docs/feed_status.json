@@ -12,15 +12,7 @@
   "url": "https://www.middleeasteye.net/rss",
   "ok": false,
   "items": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 0",
-  "baseline": false
- },
- {
-  "name": "+972 Magazine",
-  "url": "https://www.972mag.com/feed/",
-  "ok": false,
-  "items": 0,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "error": "ParseError: not well-formed (invalid token): line 1, column 2",
   "baseline": false
  },
  {
@@ -32,11 +24,11 @@
   "baseline": false
  },
  {
-  "name": "Mail & Guardian",
-  "url": "https://mg.co.za/feed/",
-  "ok": false,
-  "items": 0,
-  "error": "HTTPError: HTTP Error 404: Not Found",
+  "name": "Premium Times",
+  "url": "https://www.premiumtimesng.com/feed",
+  "ok": true,
+  "items": 15,
+  "error": null,
   "baseline": false
  },
  {
@@ -113,10 +105,10 @@
  },
  {
   "name": "Kyiv Independent",
-  "url": "https://kyivindependent.com/rss/",
-  "ok": false,
-  "items": 0,
-  "error": "HTTPError: HTTP Error 404: Not Found",
+  "url": "https://kyivindependent.com/news-archive/rss/",
+  "ok": true,
+  "items": 15,
+  "error": null,
   "baseline": false
  },
  {
@@ -154,9 +146,9 @@
  {
   "name": "Rest of World",
   "url": "https://restofworld.org/feed/latest/",
-  "ok": false,
-  "items": 0,
-  "error": "ParseError: not well-formed (invalid token): line 26, column 122",
+  "ok": true,
+  "items": 12,
+  "error": null,
   "baseline": false
  },
  {
@@ -202,9 +194,9 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": true,
-  "items": 20,
-  "error": null,
+  "ok": false,
+  "items": 0,
+  "error": "ParseError: mismatched tag: line 93, column 2",
   "baseline": false
  },
  {
