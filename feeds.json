@@ -1,5 +1,7 @@
 {
   "_note": "pool = outlets we show. baseline = big mainstream outlets we DON'T show; we only read them to detect what's already hyped, so we can step around it. URLs are unverified until the first run - check docs/feed_status.json for dead ones.",
+  "donate_url": "",
+  "_donate_note": "Paste your Open Collective page address between the quotes (it must start with https://). Leave empty to hide the Support link.",
   "pool": [
     {
       "name": "Al Jazeera",
@@ -293,7 +295,11 @@
     },
     {
       "name": "CBC",
-      "url": "https://www.cbc.ca/webfeed/rss/rss-topstories"
+      "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+      "alt": [
+        "https://www.cbc.ca/webfeed/rss/rss-world",
+        "https://rss.cbc.ca/lineup/topstories.xml"
+      ]
     },
     {
       "name": "Washington Post",

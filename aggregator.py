@@ -135,23 +135,32 @@ def parse_feed(raw):
     return items
 
 
+HEADERS = {
+    "User-Agent": CONFIG["user_agent"],
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en",
+}
+
+
 def fetch(feed, tries=2):
-    """One retry for hiccups (timeouts, 5xx). A 4xx means 'no', so we don't push."""
+    """Tries the main URL, then any 'alt' URLs. One retry per URL for hiccups
+    (timeouts, 5xx), with more patience the second time. A 4xx means 'no'."""
     err = None
-    for attempt in range(tries):
-        req = urllib.request.Request(feed["url"], headers={"User-Agent": CONFIG["user_agent"]})
-        try:
-            with urllib.request.urlopen(req, timeout=CONFIG["timeout"]) as r:
-                return feed, parse_feed(r.read()), None
-        except urllib.error.HTTPError as e:
-            err = f"HTTPError: {e}"
-            if e.code < 500:
-                break
-        except Exception as e:
-            err = f"{type(e).__name__}: {e}"
-        if attempt + 1 < tries:
-            time.sleep(3)
-    return feed, [], err[:200]
+    for url in [feed["url"]] + feed.get("alt", []):
+        for attempt in range(tries):
+            req = urllib.request.Request(url, headers=HEADERS)
+            try:
+                with urllib.request.urlopen(req, timeout=CONFIG["timeout"] * (attempt + 1)) as r:
+                    return feed, parse_feed(r.read()), None
+            except urllib.error.HTTPError as e:
+                err = f"HTTPError: {e}"
+                if e.code < 500:
+                    break
+            except Exception as e:
+                err = f"{type(e).__name__}: {e}"
+            if attempt + 1 < tries:
+                time.sleep(3)
+    return feed, [], (err or "unknown error")[:200]
 
 
 def fetch_all(feeds):
@@ -202,6 +211,19 @@ def cluster(items):
 
 # ---------- scoring & selection ----------
 
+UNKNOWN_AGE_H = 18  # undated stories are treated as 'sort of recent', never as brand new
+
+
+def item_age_h(it, now):
+    d = it["date"]
+    if d is None:
+        return None
+    age = (now - d).total_seconds() / 3600
+    if age < -0.25:  # dated in the future: the feed's clock is wrong, so we can't trust it
+        return None
+    return max(0.0, age)
+
+
 def score_clusters(clusters, now):
     scored = []
     for c in clusters:
@@ -212,8 +234,12 @@ def score_clusters(clusters, now):
         pool_outlets = {i["outlet"] for i in pool}
         # rarity: penalise mainstream pickup hard, wide pool pickup gently
         rarity = 1.0 / (1 + 2.0 * len(base_outlets) + 0.5 * (len(pool_outlets) - 1))
-        lead = max(pool, key=lambda i: (i["date"] or now))
-        age_h = max(0.0, (now - (lead["date"] or now)).total_seconds() / 3600)
+        known = [i for i in pool if item_age_h(i, now) is not None]
+        lead = min(known, key=lambda i: item_age_h(i, now)) if known else pool[0]
+        age_h = item_age_h(lead, now)
+        date_known = age_h is not None
+        if not date_known:
+            age_h = UNKNOWN_AGE_H
         if age_h > CONFIG["max_age_hours"]:
             continue
         fresh = 0.5 ** (age_h / CONFIG["half_life_hours"])
@@ -224,6 +250,7 @@ def score_clusters(clusters, now):
             "rarity": rarity,
             "score": rarity * (0.35 + 0.65 * fresh),
             "age_h": age_h,
+            "date_known": date_known,
         })
     scored.sort(key=lambda s: s["score"], reverse=True)
     return scored
@@ -265,13 +292,13 @@ def diversity(picked):
 
 def ago(h):
     if h < 1:
-        return "just now"
+        return "under an hour ago"
     if h < 24:
         return f"{int(h)}h ago"
     return f"{int(h // 24)}d ago"
 
 
-def render(picked, meter, status, now):
+def render(picked, meter, status, now, donate_url=""):
     regions = sorted({s["lead"]["region"] for s in picked})
     cards = []
     for s in picked:
@@ -283,15 +310,19 @@ def render(picked, meter, status, now):
             notes.append("Mainstream pickup: " + ", ".join(html.escape(x) for x in s["mainstream"]))
         else:
             notes.append("No mainstream pickup")
+        when = (f' · <time datetime="{L["date"].isoformat()}">{ago(s["age_h"])}</time>'
+                if s["date_known"] else "")
         rare = "rare" if s["rarity"] >= 0.99 else ("uncommon" if s["rarity"] >= 0.5 else "known")
         cards.append(f"""
 <article data-region="{html.escape(L['region'])}">
-  <div class="meta"><span class="outlet">{html.escape(L['outlet'])}</span> · {html.escape(L['region'])} · {html.escape(L['kind'])} · {ago(s['age_h'])}<span class="badge {rare}">{rare}</span></div>
+  <div class="meta"><span class="outlet">{html.escape(L['outlet'])}</span> · {html.escape(L['region'])} · {html.escape(L['kind'])}{when}<span class="badge {rare}">{rare}</span></div>
   <h2><a href="{html.escape(L['link'], quote=True)}" rel="noopener noreferrer" target="_blank">{html.escape(L['title'])}</a></h2>
   {f'<p>{html.escape(L["summary"])}</p>' if L['summary'] else ''}
   <div class="notes">{' · '.join(notes)}</div>
 </article>""")
     ok = sum(1 for x in status if x["ok"])
+    donate = (f' · <a href="{html.escape(donate_url, quote=True)}" rel="noopener">Support Sidelines</a> (every dollar shown publicly)'
+              if donate_url.startswith("https://") else "")
     opts = "".join(f'<button data-r="{html.escape(r)}">{html.escape(r)}</button>' for r in regions)
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
@@ -334,9 +365,13 @@ footer{{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}}
 <footer>
 Updated {now.strftime('%Y-%m-%d %H:%M')} UTC · {ok}/{len(status)} feeds answered ·
 Stories that big mainstream outlets are already running get pushed down. Each outlet can place at most {CONFIG['per_outlet_cap']} stories.
-Open source. <a href="feed_status.json">Feed status</a> · <a href="data.json">Raw data</a>
+Open source. <a href="feed_status.json">Feed status</a> · <a href="data.json">Raw data</a>{donate}
 </footer>
 <script>
+document.querySelectorAll('time[datetime]').forEach(t=>{{
+ const h=(Date.now()-new Date(t.getAttribute('datetime')))/36e5;
+ t.textContent=h<1?'under an hour ago':h<24?Math.floor(h)+'h ago':Math.floor(h/24)+'d ago';
+}});
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{{
  document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));
  document.querySelectorAll('article').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?'':'none');
@@ -359,8 +394,10 @@ def main():
     print(f"Fetching {len(feeds)} feeds...")
     items, status = [], []
     for feed, got, err in fetch_all(feeds):
+        undated = sum(1 for it in got if item_age_h(it, now) is None)
         status.append({"name": feed["name"], "url": feed["url"], "ok": err is None,
-                       "items": len(got), "error": err, "baseline": feed["baseline"]})
+                       "items": len(got), "undated_or_future": undated,
+                       "error": err, "baseline": feed["baseline"]})
         mark = "ok " if err is None else "ERR"
         print(f"  [{mark}] {feed['name']:<28} {len(got):>3} items" + (f"  {err}" if err else ""))
         for it in got:
@@ -373,7 +410,7 @@ def main():
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    (out / "index.html").write_text(render(picked, meter, status, now), encoding="utf-8")
+    (out / "index.html").write_text(render(picked, meter, status, now, cfg.get("donate_url", "")), encoding="utf-8")
     (out / "feed_status.json").write_text(json.dumps(status, indent=1), encoding="utf-8")
     (out / "data.json").write_text(json.dumps({
         "updated": now.isoformat(), "meter": meter,
