@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sidelines: news from off the main stage</title>
+<meta name="description" content="Open-source, ad-free news aggregator for the stories the big outlets aren't covering.">
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1c1a;--mut:#6b675f;--line:#e4e0d8;--acc:#2f5d50}
+@media (prefers-color-scheme:dark){:root{--bg:#151514;--fg:#ebe8e2;--mut:#9a958b;--line:#2c2b28;--acc:#7fb8a4}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Georgia,'Iowan Old Style',serif}
+header,main,footer{max-width:760px;margin:0 auto;padding:0 20px}
+header{padding-top:36px}h1{font-size:30px;margin:0;letter-spacing:-.5px}
+.tag{color:var(--mut);margin:4px 0 20px}
+.meter{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}
+.meter b{display:block;font-size:22px;color:var(--acc)}
+.bar{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}
+nav{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}
+nav button{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}
+nav button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}
+article{border-bottom:1px solid var(--line);padding:18px 0}
+.meta,.notes{font:13px system-ui,sans-serif;color:var(--mut)}.outlet{color:var(--fg);font-weight:600}
+h2{font-size:20px;margin:6px 0;line-height:1.3}h2 a{color:inherit;text-decoration:none}h2 a:hover{text-decoration:underline}
+article p{margin:4px 0 8px}
+.badge{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}
+.badge.rare{color:var(--acc);border-color:var(--acc)}
+footer{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}a{color:var(--acc)}
+</style></head><body>
+<header>
+<h1>Sidelines</h1>
+<p class="tag">News from off the main stage. No ads, no tracking, no algorithmic feed, and never the same ten sources.</p>
+<div class="meter" title="How spread out today's page is">
+  <div><b>4</b>outlets on this page</div>
+  <div><b>3</b>regions</div>
+  <div><b>99%</b>source evenness<div class="bar"><i style="width:99%"></i></div></div>
+  <div><b>33%</b>biggest single source</div>
+</div>
+<nav><button class="on" data-r="">All</button><button data-r="Africa">Africa</button><button data-r="East Asia">East Asia</button><button data-r="Global">Global</button></nav>
+</header>
+<main>
+<article data-region="Global">
+  <div class="meta"><span class="outlet">Spammy Outlet</span> · Global · test · 1h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/8926536231971476996" rel="noopener noreferrer" target="_blank">Volcano monitoring drones</a></h2>
+  <p>Summary of Volcano monitoring drones</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="Africa">
+  <div class="meta"><span class="outlet">Indie Africa</span> · Africa · test · 3h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/302205941668269868" rel="noopener noreferrer" target="_blank">Kenyan farmers revive drought-proof sorghum varieties in Turkana</a></h2>
+  <p>Summary of Kenyan farmers revive drought-proof sorghum varieties in Turkana</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="East Asia">
+  <div class="meta"><span class="outlet">Asia Weekly</span> · East Asia · test · 5h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/7813214960829687917" rel="noopener noreferrer" target="_blank">Taiwan village turns abandoned school into seed library</a></h2>
+  <p>Summary of Taiwan village turns abandoned school into seed library</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="Global">
+  <div class="meta"><span class="outlet">Science Mag</span> · Global · test · 6h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/a0" rel="noopener noreferrer" target="_blank">Deep-sea microbes found digesting plastic at hydrothermal vents</a></h2>
+  <p>s</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="Global">
+  <div class="meta"><span class="outlet">Spammy Outlet</span> · Global · test · 1h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/5665768245654909579" rel="noopener noreferrer" target="_blank">Regional bakery strike spreads</a></h2>
+  <p>Summary of Regional bakery strike spreads</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="Africa">
+  <div class="meta"><span class="outlet">Indie Africa</span> · Africa · test · 10h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/6370811957972908366" rel="noopener noreferrer" target="_blank">Lagos fishermen map illegal trawlers using cheap GPS trackers</a></h2>
+  <p>Summary of Lagos fishermen map illegal trawlers using cheap GPS trackers</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="Global">
+  <div class="meta"><span class="outlet">Spammy Outlet</span> · Global · test · 1h ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/7923709656738189449" rel="noopener noreferrer" target="_blank">Glacier lake outburst warning</a></h2>
+  <p>Summary of Glacier lake outburst warning</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="Global">
+  <div class="meta"><span class="outlet">Science Mag</span> · Global · test · 1d ago<span class="badge rare">rare</span></div>
+  <h2><a href="https://example.org/a2" rel="noopener noreferrer" target="_blank">Mathematicians settle decades-old knot conjecture</a></h2>
+  <p>s</p>
+  <div class="notes">No mainstream pickup</div>
+</article>
+<article data-region="East Asia">
+  <div class="meta"><span class="outlet">Asia Weekly</span> · East Asia · test · 1h ago<span class="badge known">known</span></div>
+  <h2><a href="https://example.org/6215898665079298406" rel="noopener noreferrer" target="_blank">President signs sweeping tariff order on electronics imports</a></h2>
+  <p>Summary of President signs sweeping tariff order on electronics imports</p>
+  <div class="notes">Also covered by Indie Africa · Mainstream pickup: Big Paper, Big TV</div>
+</article></main>
+<footer>
+Updated 2026-11-02 21:46 UTC · 7/8 feeds answered ·
+Stories that big mainstream outlets are already running get pushed down. Each outlet can place at most 3 stories.
+Open source. <a href="feed_status.json">Feed status</a> · <a href="data.json">Raw data</a>
+</footer>
+<script>
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
+ document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));
+ document.querySelectorAll('article').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?'':'none');
+});
+</script>
+</body></html>
