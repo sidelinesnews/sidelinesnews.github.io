@@ -39,7 +39,7 @@ Sidelines will never:
 
 The ranking rules are public, and any change to them happens in the open.
 
-**Money:** Sidelines only accepts donations and grants that come with no say over what appears on the page. Donations cover running costs and pay the maintainer a modest amount for their time. Every dollar in and out will be public on our Open Collective page (coming soon).
+**Money:** Sidelines only accepts donations and grants that come with no say over what appears on the page. Donations cover running costs and pay the maintainer a modest amount for their time. Every dollar in and out will be public on our Open Collective page (coming soon). The site's Support link turns on once `donate_url` is filled in at the top of `feeds.json`.
 
 If Sidelines ever breaks this promise, you already have the cure: the code is AGPL-3.0, so fork it and run the honest version.
 
