@@ -4,6 +4,7 @@
   "url": "https://www.aljazeera.com/xml/rss/all.xml",
   "ok": true,
   "items": 25,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -12,7 +13,8 @@
   "url": "https://www.middleeasteye.net/rss",
   "ok": false,
   "items": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 2",
+  "undated_or_future": 0,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
@@ -20,6 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 50,
+  "undated_or_future": 2,
   "error": null,
   "baseline": false
  },
@@ -28,6 +31,7 @@
   "url": "https://www.premiumtimesng.com/feed",
   "ok": true,
   "items": 15,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -36,6 +40,7 @@
   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
   "ok": true,
   "items": 33,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -44,6 +49,7 @@
   "url": "https://feeds.feedburner.com/ScrollinArticles.rss",
   "ok": true,
   "items": 100,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -52,6 +58,7 @@
   "url": "https://thewire.in/rss",
   "ok": false,
   "items": 0,
+  "undated_or_future": 0,
   "error": "ParseError: syntax error: line 1, column 0",
   "baseline": false
  },
@@ -60,6 +67,7 @@
   "url": "https://www.rappler.com/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -68,6 +76,7 @@
   "url": "https://hongkongfp.com/feed/",
   "ok": true,
   "items": 30,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -76,6 +85,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 49,
+  "undated_or_future": 49,
   "error": null,
   "baseline": false
  },
@@ -84,6 +94,7 @@
   "url": "https://thediplomat.com/feed/",
   "ok": true,
   "items": 96,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -92,6 +103,7 @@
   "url": "https://asiatimes.com/feed/",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -100,6 +112,7 @@
   "url": "https://meduza.io/rss/en/all",
   "ok": true,
   "items": 30,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -108,6 +121,7 @@
   "url": "https://kyivindependent.com/news-archive/rss/",
   "ok": true,
   "items": 15,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -116,6 +130,7 @@
   "url": "https://balkaninsight.com/feed/",
   "ok": true,
   "items": 90,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -124,6 +139,7 @@
   "url": "https://mexiconewsdaily.com/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -132,6 +148,7 @@
   "url": "https://en.mercopress.com/rss",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -140,6 +157,7 @@
   "url": "https://globalvoices.org/feed/",
   "ok": true,
   "items": 15,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -148,6 +166,7 @@
   "url": "https://restofworld.org/feed/latest/",
   "ok": true,
   "items": 12,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -156,6 +175,7 @@
   "url": "https://www.bellingcat.com/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -164,6 +184,7 @@
   "url": "https://theconversation.com/global/articles.atom",
   "ok": true,
   "items": 46,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -172,6 +193,7 @@
   "url": "https://news.mongabay.com/feed/",
   "ok": true,
   "items": 32,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -180,6 +202,7 @@
   "url": "https://undark.org/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -188,6 +211,7 @@
   "url": "https://www.quantamagazine.org/feed/",
   "ok": true,
   "items": 5,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -196,7 +220,8 @@
   "url": "https://hakaimagazine.com/feed/",
   "ok": false,
   "items": 0,
-  "error": "ParseError: mismatched tag: line 93, column 2",
+  "undated_or_future": 0,
+  "error": "HTTPError: HTTP Error 415: Unsupported Media Type",
   "baseline": false
  },
  {
@@ -204,6 +229,7 @@
   "url": "https://phys.org/rss-feed/",
   "ok": true,
   "items": 30,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -212,6 +238,7 @@
   "url": "https://www.atlasobscura.com/feeds/latest",
   "ok": true,
   "items": 27,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -220,6 +247,7 @@
   "url": "https://www.propublica.org/feeds/propublica/main",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -228,6 +256,7 @@
   "url": "https://themarkup.org/feeds/rss.xml",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -236,6 +265,7 @@
   "url": "https://insideclimatenews.org/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -244,6 +274,7 @@
   "url": "https://grist.org/feed/",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -252,6 +283,7 @@
   "url": "https://reason.com/feed/",
   "ok": true,
   "items": 48,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -260,6 +292,7 @@
   "url": "https://www.theamericanconservative.com/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -268,6 +301,7 @@
   "url": "https://theintercept.com/feed/?lang=en",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -276,6 +310,7 @@
   "url": "https://jacobin.com/feed/",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -284,6 +319,7 @@
   "url": "https://unherd.com/feed/",
   "ok": true,
   "items": 30,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -292,6 +328,7 @@
   "url": "https://www.spiked-online.com/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -300,6 +337,7 @@
   "url": "https://www.texastribune.org/feeds/main/",
   "ok": true,
   "items": 20,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -308,6 +346,7 @@
   "url": "https://calmatters.org/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -316,6 +355,7 @@
   "url": "https://blockclubchicago.org/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -324,6 +364,7 @@
   "url": "https://coloradosun.com/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -332,6 +373,7 @@
   "url": "https://thenarwhal.ca/feed/",
   "ok": true,
   "items": 11,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -340,6 +382,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -348,6 +391,7 @@
   "url": "https://www.aptnnews.ca/feed/",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -356,6 +400,7 @@
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
   "items": 35,
+  "undated_or_future": 0,
   "error": null,
   "baseline": true
  },
@@ -364,6 +409,7 @@
   "url": "https://www.theguardian.com/world/rss",
   "ok": true,
   "items": 45,
+  "undated_or_future": 0,
   "error": null,
   "baseline": true
  },
@@ -372,6 +418,7 @@
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
   "items": 57,
+  "undated_or_future": 0,
   "error": null,
   "baseline": true
  },
@@ -380,6 +427,7 @@
   "url": "https://feeds.npr.org/1001/rss.xml",
   "ok": true,
   "items": 10,
+  "undated_or_future": 0,
   "error": null,
   "baseline": true
  },
@@ -388,6 +436,7 @@
   "url": "http://rss.cnn.com/rss/edition.rss",
   "ok": true,
   "items": 50,
+  "undated_or_future": 4,
   "error": null,
   "baseline": true
  },
@@ -396,6 +445,7 @@
   "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
   "ok": true,
   "items": 25,
+  "undated_or_future": 0,
   "error": null,
   "baseline": true
  },
@@ -404,6 +454,7 @@
   "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
   "ok": false,
   "items": 0,
+  "undated_or_future": 0,
   "error": "TimeoutError: The read operation timed out",
   "baseline": true
  },
@@ -412,6 +463,7 @@
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": false,
   "items": 0,
+  "undated_or_future": 0,
   "error": "HTTPError: HTTP Error 502: Bad Gateway",
   "baseline": true
  }
