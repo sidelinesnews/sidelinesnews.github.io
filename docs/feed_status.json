@@ -1,0 +1,426 @@
+[
+ {
+  "name": "Al Jazeera",
+  "url": "https://www.aljazeera.com/xml/rss/all.xml",
+  "ok": true,
+  "items": 25,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Middle East Eye",
+  "url": "https://www.middleeasteye.net/rss",
+  "ok": false,
+  "items": 0,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 0",
+  "baseline": false
+ },
+ {
+  "name": "+972 Magazine",
+  "url": "https://www.972mag.com/feed/",
+  "ok": false,
+  "items": 0,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "baseline": false
+ },
+ {
+  "name": "Daily Maverick",
+  "url": "https://www.dailymaverick.co.za/dmrss/",
+  "ok": true,
+  "items": 50,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Mail & Guardian",
+  "url": "https://mg.co.za/feed/",
+  "ok": false,
+  "items": 0,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "baseline": false
+ },
+ {
+  "name": "AllAfrica",
+  "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+  "ok": true,
+  "items": 33,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Scroll.in",
+  "url": "https://feeds.feedburner.com/ScrollinArticles.rss",
+  "ok": true,
+  "items": 100,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Wire (India)",
+  "url": "https://thewire.in/rss",
+  "ok": false,
+  "items": 0,
+  "error": "ParseError: syntax error: line 1, column 0",
+  "baseline": false
+ },
+ {
+  "name": "Rappler",
+  "url": "https://www.rappler.com/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Hong Kong Free Press",
+  "url": "https://hongkongfp.com/feed/",
+  "ok": true,
+  "items": 30,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Taipei Times",
+  "url": "https://www.taipeitimes.com/xml/index.rss",
+  "ok": true,
+  "items": 49,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Diplomat",
+  "url": "https://thediplomat.com/feed/",
+  "ok": true,
+  "items": 96,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Asia Times",
+  "url": "https://asiatimes.com/feed/",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Meduza (English)",
+  "url": "https://meduza.io/rss/en/all",
+  "ok": true,
+  "items": 30,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Kyiv Independent",
+  "url": "https://kyivindependent.com/rss/",
+  "ok": false,
+  "items": 0,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "baseline": false
+ },
+ {
+  "name": "Balkan Insight",
+  "url": "https://balkaninsight.com/feed/",
+  "ok": true,
+  "items": 90,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Mexico News Daily",
+  "url": "https://mexiconewsdaily.com/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "MercoPress",
+  "url": "https://en.mercopress.com/rss",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Global Voices",
+  "url": "https://globalvoices.org/feed/",
+  "ok": true,
+  "items": 15,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Rest of World",
+  "url": "https://restofworld.org/feed/latest/",
+  "ok": false,
+  "items": 0,
+  "error": "ParseError: not well-formed (invalid token): line 26, column 122",
+  "baseline": false
+ },
+ {
+  "name": "Bellingcat",
+  "url": "https://www.bellingcat.com/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Conversation",
+  "url": "https://theconversation.com/global/articles.atom",
+  "ok": true,
+  "items": 46,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Mongabay",
+  "url": "https://news.mongabay.com/feed/",
+  "ok": true,
+  "items": 32,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Undark",
+  "url": "https://undark.org/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Quanta Magazine",
+  "url": "https://www.quantamagazine.org/feed/",
+  "ok": true,
+  "items": 5,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Hakai Magazine",
+  "url": "https://hakaimagazine.com/feed/",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Phys.org",
+  "url": "https://phys.org/rss-feed/",
+  "ok": true,
+  "items": 30,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Atlas Obscura",
+  "url": "https://www.atlasobscura.com/feeds/latest",
+  "ok": true,
+  "items": 27,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "ProPublica",
+  "url": "https://www.propublica.org/feeds/propublica/main",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Markup",
+  "url": "https://themarkup.org/feeds/rss.xml",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Inside Climate News",
+  "url": "https://insideclimatenews.org/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Grist",
+  "url": "https://grist.org/feed/",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Reason",
+  "url": "https://reason.com/feed/",
+  "ok": true,
+  "items": 48,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The American Conservative",
+  "url": "https://www.theamericanconservative.com/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Intercept",
+  "url": "https://theintercept.com/feed/?lang=en",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Jacobin",
+  "url": "https://jacobin.com/feed/",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "UnHerd",
+  "url": "https://unherd.com/feed/",
+  "ok": true,
+  "items": 30,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Spiked",
+  "url": "https://www.spiked-online.com/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Texas Tribune",
+  "url": "https://www.texastribune.org/feeds/main/",
+  "ok": true,
+  "items": 20,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "CalMatters",
+  "url": "https://calmatters.org/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Block Club Chicago",
+  "url": "https://blockclubchicago.org/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Colorado Sun",
+  "url": "https://coloradosun.com/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Narwhal",
+  "url": "https://thenarwhal.ca/feed/",
+  "ok": true,
+  "items": 11,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Tyee",
+  "url": "https://thetyee.ca/rss2.xml",
+  "ok": true,
+  "items": 21,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "APTN News",
+  "url": "https://www.aptnnews.ca/feed/",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "BBC",
+  "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "ok": true,
+  "items": 35,
+  "error": null,
+  "baseline": true
+ },
+ {
+  "name": "The Guardian",
+  "url": "https://www.theguardian.com/world/rss",
+  "ok": true,
+  "items": 45,
+  "error": null,
+  "baseline": true
+ },
+ {
+  "name": "New York Times",
+  "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+  "ok": true,
+  "items": 57,
+  "error": null,
+  "baseline": true
+ },
+ {
+  "name": "NPR",
+  "url": "https://feeds.npr.org/1001/rss.xml",
+  "ok": true,
+  "items": 10,
+  "error": null,
+  "baseline": true
+ },
+ {
+  "name": "CNN",
+  "url": "http://rss.cnn.com/rss/edition.rss",
+  "ok": true,
+  "items": 50,
+  "error": null,
+  "baseline": true
+ },
+ {
+  "name": "Fox News",
+  "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+  "ok": true,
+  "items": 25,
+  "error": null,
+  "baseline": true
+ },
+ {
+  "name": "CBC",
+  "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+  "ok": false,
+  "items": 0,
+  "error": "TimeoutError: The read operation timed out",
+  "baseline": true
+ },
+ {
+  "name": "Washington Post",
+  "url": "https://feeds.washingtonpost.com/rss/world",
+  "ok": false,
+  "items": 0,
+  "error": "HTTPError: HTTP Error 502: Bad Gateway",
+  "baseline": true
+ }
+]

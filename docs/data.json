@@ -1,0 +1,611 @@
+{
+ "updated": "2026-11-02T22:27:14.100706+00:00",
+ "meter": {
+  "outlets": 36,
+  "regions": 11,
+  "evenness": 99,
+  "top_share": 3
+ },
+ "stories": [
+  {
+   "title": "BOOK EXCERPT: The Devil Wears Sneakers \u2014 Epstein and the network that allowed him to flourish",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-03-the-devil-wears-sneakers-epstein-and-the-network-that-allowed-him-to-flourish/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 1.0
+  },
+  {
+   "title": "Beijing to step up aggression: MAC official",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/03/2003867047",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 1.0
+  },
+  {
+   "title": "Ex-TV host wanted in Mexico for fraud arrested by ICE; she and husband face same charges",
+   "link": "https://mexiconewsdaily.com/news/tv-host-ines-gomez-fraud-ice-husband/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.999
+  },
+  {
+   "title": "Prof. Francesca Gino's Contract and Discrimination Claims Against Harvard Business School Dismissed",
+   "link": "https://reason.com/volokh/2026/11/02/prof-francesca-ginos-contract-and-discrimination-claims-against-harvard-business-school-dismissed/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9989
+  },
+  {
+   "title": "Former junior hockey commentator charged with child sexploitation, RCMP looking for more victims",
+   "link": "https://www.aptnnews.ca/national-news/former-junior-hockey-commentator-charged-with-child-sexploitation-rcmp-looking-for-more-victims/",
+   "outlet": "APTN News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9989
+  },
+  {
+   "title": "Impact of deep-sea mining on seafloor ecosystem still evident 44 years later",
+   "link": "https://phys.org/news/2026-11-impact-deep-sea-seafloor-ecosystem.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9985
+  },
+  {
+   "title": "ICE agent accused of hitting immigrant in Houston with an SUV turns himself in",
+   "link": "https://feeds.texastribune.org/link/16799/17514069/ice-agent-charged-pedestrian-houston-texas-bond-court",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9948
+  },
+  {
+   "title": "Russian space startups may be passing off Chinese satellite imagery as their own, researcher finds",
+   "link": "https://meduza.io/en/feature/2026/11/03/russian-space-startups-may-be-passing-off-chinese-satellite-imagery-as-their-own-researcher-finds",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9947
+  },
+  {
+   "title": "\u2018Work to do\u2019: Authorities give update on Florida private jet crash",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9868
+  },
+  {
+   "title": "Indigenous peoples and local communities solidify decision-making powers at COP17",
+   "link": "https://news.mongabay.com/short-article/2026/11/indigenous-peoples-and-local-communities-solidify-decision-making-powers-at-cop17/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.986
+  },
+  {
+   "title": "Tomba Dei Gigante S\u2019Ena e Thimes in Dorgali, Italy",
+   "link": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9821
+  },
+  {
+   "title": "TBOX Founder Says This Year\u2019s Bar Crawl Will Be His Last. Will The Infamous Event Live On?",
+   "link": "https://blockclubchicago.org/2026/11/02/tbox-founder-says-this-years-bar-crawl-will-be-his-last-will-the-infamous-event-live-on/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9765
+  },
+  {
+   "title": "US must help North Koreans find the truth that Kim Jong Un fears",
+   "link": "https://asiatimes.com/2026/11/us-must-help-north-koreans-find-the-truth-that-kim-jong-un-fears/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9732
+  },
+  {
+   "title": "100,000 California State Workers Struck Last Month",
+   "link": "https://jacobin.com/2026/11/california-seiu-state-strike-newsom",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9712
+  },
+  {
+   "title": "\u2018Bookkeeping Trick\u2019 and Fuzzy Math Conceal the Climate Impacts of Beef, Researchers Say",
+   "link": "https://insideclimatenews.org/news/02112026/beef-climate-impacts-accuracy/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9701
+  },
+  {
+   "title": "Abdul El-Sayed\u2019s Race Has Been Defined by Islamophobia. Will It Be Determined by It?",
+   "link": "https://theintercept.com/2026/11/02/michigan-el-sayed-rogers-muslim-islamophobia/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9651
+  },
+  {
+   "title": "Here\u2019s how residents impacted by flooding in southwestern Colorado can vote before polls close Tuesday",
+   "link": "https://coloradosun.com/2026/11/02/voting-flooding-southwest-colorado/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9629
+  },
+  {
+   "title": "The 5th Plenum and the CCP\u2019S Dark Warning to the Unfaithful",
+   "link": "https://thediplomat.com/2026/11/the-5th-plenum-and-the-ccps-dark-warning-to-the-unfaithful/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9576
+  },
+  {
+   "title": "Why can\u2019t we kick this Kosovan criminal out of Britain?",
+   "link": "https://www.spiked-online.com/2026/11/02/why-cant-we-kick-this-kosovan-criminal-out-of-britain/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9573
+  },
+  {
+   "title": "Cuidado con el \u201cespejismo rojo\u201d si los republicanos de California obtienen ventaja la noche de las elecciones",
+   "link": "https://calmatters.org/calmatters-en-espanol/2026/11/espejismo-rojo-california/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9562
+  },
+  {
+   "title": "The Brazilian left\u2019s quest to \u2018tame\u2019 Meta: A narrative of denouncement and resistance",
+   "link": "https://globalvoices.org/2026/11/02/brazilian-lefts-quest-to-tame-meta-a-narrative-of-denouncement-and-resistance/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9483
+  },
+  {
+   "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+   "link": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9437
+  },
+  {
+   "title": "Liberia: A Bucket for the Senate, While Health Facilities Struggle",
+   "link": "https://allafrica.com/stories/202611020701.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9415
+  },
+  {
+   "title": "The link between gut microbes and antibiotic resistance: Findings from a study in Nairobi",
+   "link": "https://scroll.in/article/1096519/the-link-between-gut-microbes-and-antibiotic-resistance-findings-from-a-study-in-nairobi?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9296
+  },
+  {
+   "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
+   "link": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
+   "outlet": "The Conversation",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9268
+  },
+  {
+   "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
+   "link": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+   "outlet": "Bellingcat",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9262
+  },
+  {
+   "title": "Is There Anything Left in the Dream of Cold Fusion?",
+   "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+   "outlet": "Quanta Magazine",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.922
+  },
+  {
+   "title": "An Oxford professor to sit as the UK's chosen judge in the Falklands dispute in Hamburg",
+   "link": "https://en.mercopress.com/2026/11/02/an-oxford-professor-to-sit-as-the-uk-s-chosen-judge-in-the-falklands-dispute-in-hamburg?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9173
+  },
+  {
+   "title": "Serbia Bank Owner Arrested Following Licence Revocation",
+   "link": "https://balkaninsight.com/2026/11/02/serbia-bank-owner-arrested-following-licence-revocation/bi/",
+   "outlet": "Balkan Insight",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9114
+  },
+  {
+   "title": "ICC holds 5th status conference on Rodrigo Duterte\u2019s case | The wRap",
+   "link": "https://www.rappler.com/video/daily-wrap/november-2-2026/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9024
+  },
+  {
+   "title": "Politicians have floated building more oil refineries in Canada. Here\u2019s what you need to know",
+   "link": "https://thenarwhal.ca/canada-oil-refineries-explainer/?utm_source=rss",
+   "outlet": "The Narwhal",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8815
+  },
+  {
+   "title": "Chinese Communist Party outlines closer scrutiny of officials",
+   "link": "https://hongkongfp.com/2026/11/02/chinese-communist-party-outlines-closer-scrutiny-of-officials/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8793
+  },
+  {
+   "title": "The American Dream wasn\u2019t built for climate change",
+   "link": "https://grist.org/economics/american-dream-climate-home-insurance-helene-affordability/",
+   "outlet": "Grist",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.859
+  },
+  {
+   "title": "A BC Firm Aims to Mine in Tatshenshini Park, a World Heritage Site",
+   "link": "https://thetyee.ca/News/2026/11/02/BC-Firm-Aims-Mine-Tatshenshini-Park/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8485
+  },
+  {
+   "title": "The Media Whip Up Another Round of \u2018Fascism\u2019 Fears for the Midterms",
+   "link": "https://www.theamericanconservative.com/the-media-whip-up-another-round-of-fascism-fears-for-the-midterms/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8152
+  },
+  {
+   "title": "Iran-Contra still matters",
+   "link": "https://unherd.com/2026/11/why-iran-contra-still-matters/?edition=us",
+   "outlet": "UnHerd",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7743
+  },
+  {
+   "title": "Losing Agoa isn\u2019t a catastrophe \u2014 a botched response from Pretoria could be",
+   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-02-losing-agoa-isnt-a-catastrophe-a-botched-response-from-pretoria-could-be/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 1.0
+  },
+  {
+   "title": "Taiwan, Japan might sign comprehensive trade pact: report",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/03/2003867048",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 1.0
+  },
+  {
+   "title": "Magnetic nanocomposites could help shrink the components that power computer chips",
+   "link": "https://phys.org/news/2026-11-magnetic-nanocomposites-components-power-chips.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9985
+  },
+  {
+   "title": "Cody Drygeese makes history as Yellowknife swears in new mayor and council",
+   "link": "https://www.aptnnews.ca/national-news/cody-drygeese-makes-history-as-yellowknife-swears-in-new-mayor-and-council/",
+   "outlet": "APTN News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9976
+  },
+  {
+   "title": "D.C. Regulators Shut Down a Halloween Bar Crawl Under the District's 'Public Nuisance' Order",
+   "link": "https://reason.com/2026/11/02/d-c-regulators-shut-down-a-halloween-bar-crawl-under-the-districts-public-nuisance-order/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9941
+  },
+  {
+   "title": "Dozens gather outside a private house near Kyiv saying soldiers are being held and beaten there. National Guard says the building was used to house newly mobilized troops.",
+   "link": "https://meduza.io/en/news/2026/11/03/dozens-gather-outside-a-private-house-near-kyiv-saying-soldiers-are-being-held-and-beaten-there-national-guard-says-the-building-was-used-to-house-newly-mobilized-troops",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9891
+  },
+  {
+   "title": "Mexican-American news executive assumes top Vatican role",
+   "link": "https://mexiconewsdaily.com/news/mexican-american-vatican-role/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9851
+  },
+  {
+   "title": "Diverse forests can better withstand extreme weather events, study finds. Here\u2019s why",
+   "link": "https://news.mongabay.com/2026/11/diverse-forests-can-better-withstand-extreme-weather-events-study-finds-heres-why/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9831
+  },
+  {
+   "title": "Mamdani\u2019s progressive allies vie for seats in Congress",
+   "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9798
+  },
+  {
+   "title": "Neon Trees, Michael James Scott, Thelma Houston To Headline Magnificent Mile Lights Parade",
+   "link": "https://blockclubchicago.org/2026/11/02/neon-trees-michael-james-scott-thelma-houston-to-headline-magnificent-mile-lights-parade/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9704
+  },
+  {
+   "title": "Leadenhall Wunderkammer in London, England",
+   "link": "https://www.atlasobscura.com/places/leadenhall-wunderkammer",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9582
+  },
+  {
+   "title": "\u201cOffensive Driving\u201d: ICE\u2019s Deadly Weaponization of Vehicles Against Civilians",
+   "link": "https://theintercept.com/2026/11/02/ice-vehicles-cars-hit-weapon/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9577
+  },
+  {
+   "title": "\u00bfNecesitas m\u00e1s ayuda financiera para la universidad? Esta nueva ley te facilitar\u00e1 solicitarla",
+   "link": "https://calmatters.org/calmatters-en-espanol/2026/11/mas-ayuda-financiera-universidad/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9551
+  },
+  {
+   "title": "The growing slaughter of Ukrainian civilians",
+   "link": "https://asiatimes.com/2026/11/the-growing-slaughter-of-ukrainian-civilians/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9475
+  },
+  {
+   "title": "Who Should the Turkic States\u2019 Organization Open Its Doors To?",
+   "link": "https://thediplomat.com/2026/11/who-should-the-turkic-states-organization-open-its-doors-to/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9452
+  },
+  {
+   "title": "The US Electorate Is Permanently Mobilized and Unable to Move",
+   "link": "https://jacobin.com/2026/11/midterms-us-politics-elections-reform",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9416
+  },
+  {
+   "title": "Tunisia: Amerigo Vespucci At La Goulette Port - Tunisian-Italian Maritime Cooperation in Spotlight",
+   "link": "https://allafrica.com/stories/202611020700.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9413
+  },
+  {
+   "title": "The \u2018Third Worldist\u2019 roots of the Islamo-left alliance",
+   "link": "https://www.spiked-online.com/2026/11/02/the-third-worldist-roots-of-the-islamo-left-alliance/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9209
+  },
+  {
+   "title": "Flooding inundates southwestern Colorado as San Juan River crests below historic forecast",
+   "link": "https://coloradosun.com/2026/11/02/flooding-southwestern-colorado-san-juan-river/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9159
+  },
+  {
+   "title": "\u2018The country has grown teeth\u2019: Translated poems of resistance and protest",
+   "link": "https://scroll.in/article/1096683/the-country-has-grown-teeth-translated-poems-of-resistance-and-protest?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9131
+  },
+  {
+   "title": "ICC wraps up pre-trial hearings as Duterte\u2019s November 30 case nears",
+   "link": "https://www.rappler.com/philippines/icc-finishes-pre-trial-hearings-rodrigo-duterte-november-30-case-nears/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8974
+  },
+  {
+   "title": "Romania and Moldova Seal First Joint Defence Procurement Deal",
+   "link": "https://balkaninsight.com/2026/11/02/romania-and-moldova-seal-first-joint-defence-procurement-deal/bi/",
+   "outlet": "Balkan Insight",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.886
+  },
+  {
+   "title": "\u201cChaos\u201d in the Air: Five Ways Voting Could Be Disrupted on Election Day",
+   "link": "https://www.propublica.org/article/five-voting-disruptions-midterm-election",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8714
+  },
+  {
+   "title": "Paxton vs. Talarico: Five things to watch in Texas\u2019 tight U.S. Senate race",
+   "link": "https://feeds.texastribune.org/link/16799/17513414/texas-paxton-talarico-senate-key-factors-2026-election-night",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8714
+  }
+ ]
+}
