@@ -21,7 +21,7 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 53,
+  "items": 52,
   "undated_or_future": 6,
   "error": null,
   "baseline": false
@@ -75,8 +75,8 @@
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
-  "items": 49,
-  "undated_or_future": 0,
+  "items": 52,
+  "undated_or_future": 52,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 26,
+  "items": 31,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
