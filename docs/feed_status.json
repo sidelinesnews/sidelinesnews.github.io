@@ -14,7 +14,7 @@
   "ok": false,
   "items": 0,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 2",
+  "error": "ParseError: not well-formed (invalid token): line 1, column 3",
   "baseline": false
  },
  {
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: mismatched tag: line 93, column 2",
+  "error": null,
   "baseline": false
  },
  {
