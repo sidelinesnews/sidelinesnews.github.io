@@ -32,7 +32,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 
 TAGLINE = "The dot outside the bubble."
-STYLE = ":root{--bg:#fbfaf7;--fg:#1d1c1a;--mut:#6b675f;--line:#e4e0d8;--acc:#2f5d50}\n@media (prefers-color-scheme:dark){:root{--bg:#151514;--fg:#ebe8e2;--mut:#9a958b;--line:#2c2b28;--acc:#7fb8a4}}\n*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Georgia,'Iowan Old Style',serif}\nheader,main,footer{max-width:760px;margin:0 auto;padding:0 20px}\nheader{padding-top:36px}h1{font-size:30px;margin:0;letter-spacing:-.5px;display:flex;align-items:center;gap:12px}\n.logo{width:38px;height:38px;color:var(--acc);flex:none}\n.tagline{margin:4px 0 0 50px;font-style:italic;color:var(--acc)}\n.tag{color:var(--mut);margin:10px 0 20px}\n.meter{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}\n.meter b{display:block;font-size:22px;color:var(--acc)}\n.bar{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}\nnav{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}\nnav button{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}\nnav button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}\narticle{border-bottom:1px solid var(--line);padding:18px 0}\n.meta,.notes{font:13px system-ui,sans-serif;color:var(--mut)}.outlet{color:var(--fg);font-weight:600}\nh2{font-size:20px;margin:6px 0;line-height:1.3}h2 a{color:inherit;text-decoration:none}h2 a:hover{text-decoration:underline}\narticle p{margin:4px 0 8px}\n.badge{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}\n.badge.rare{color:var(--acc);border-color:var(--acc)}\nfooter{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}a{color:var(--acc)}\n.links{font:14px system-ui,sans-serif;margin:10px 0 0 50px;display:flex;gap:14px;flex-wrap:wrap}\n.links a{text-decoration:none}.links a.here{color:var(--fg);font-weight:600}\n.page{max-width:760px;margin:0 auto;padding:0 20px 40px}.page h2{margin-top:28px}\n.page li{margin:6px 0}.src{font:14px system-ui,sans-serif}.src td{padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}\n.src th{text-align:left;font-weight:600;padding:6px 10px 6px 0;border-bottom:2px solid var(--line)}\n.fp{font:12px ui-monospace,monospace;word-break:break-all;background:var(--line);padding:8px;border-radius:6px}\n"
+STYLE = ":root{--bg:#faf7f1;--fg:#2a2723;--mut:#76706a;--line:#ebe5da;--acc:#3a6b5c}\n@media (prefers-color-scheme:dark){:root{--bg:#1a1917;--fg:#e8e3da;--mut:#a39d93;--line:#2f2d29;--acc:#8cbfac}}\n*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.65 Georgia,'Iowan Old Style',serif}\nheader,main,footer{max-width:700px;margin:0 auto;padding:0 20px}\nheader{padding-top:36px}h1{font-size:30px;margin:0;letter-spacing:-.5px;display:flex;align-items:center;gap:12px}\n.logo{width:38px;height:38px;color:var(--acc);flex:none}\n.tagline{margin:4px 0 0 50px;font-style:italic;color:var(--acc)}\n.tag{color:var(--mut);margin:10px 0 20px}\n.meter{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}\n.meter b{display:block;font-size:22px;color:var(--acc)}\n.bar{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}\nnav{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}\nnav button{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}\nnav button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}\narticle{border-bottom:1px solid var(--line);padding:18px 0}\n.meta,.notes{font:13px system-ui,sans-serif;color:var(--mut)}.outlet{color:var(--fg);font-weight:600}\nh2{font-size:20px;margin:6px 0;line-height:1.3}h2 a{color:inherit;text-decoration:none}h2 a:hover{text-decoration:underline}\narticle p{margin:4px 0 8px}\n.badge{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}\n.badge.rare{color:var(--acc);border-color:var(--acc)}\nfooter{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}a{color:var(--acc)}\n.links{font:14px system-ui,sans-serif;margin:10px 0 0 50px;display:flex;gap:14px;flex-wrap:wrap}\n.links a{text-decoration:none}.links a.here{color:var(--fg);font-weight:600}\n.page{max-width:700px;margin:0 auto;padding:0 20px 40px}.page h2{margin-top:28px}\n.page li{margin:6px 0}.src{font:14px system-ui,sans-serif}.src td{padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}\n.src th{text-align:left;font-weight:600;padding:6px 10px 6px 0;border-bottom:2px solid var(--line)}\n.fp{font:12px ui-monospace,monospace;word-break:break-all;background:var(--line);padding:8px;border-radius:6px}\n"
+STYLE += ".greet{font-style:italic;color:var(--mut);margin:14px 0 0}.calm{font:14px system-ui,sans-serif;color:var(--mut);text-align:center;margin:10px 0 4px}.done{text-align:center;color:var(--mut);margin:34px 0 0;font-style:italic}article{padding:20px 0}"
 STYLE += '.handful{border:1px solid var(--line);border-radius:12px;padding:6px 18px;margin:22px 0 14px}\n.handful h3,.box h3,h3.all{font:600 15px system-ui,sans-serif;margin:12px 0 4px;display:flex;align-items:center;gap:10px}\n.handful article:last-child{border-bottom:none}\n#surprise{margin-left:auto;font:13px system-ui,sans-serif;background:var(--acc);color:var(--bg);border:none;border-radius:20px;padding:6px 14px;cursor:pointer}\n.box{border-left:4px solid var(--acc);padding:4px 16px;margin:16px 0;background:color-mix(in srgb,var(--acc) 7%,transparent);border-radius:0 10px 10px 0}\n.box p{margin:6px 0 10px}.box ul{padding-left:18px}\nh3.all{margin-top:26px}\n.notes b{font-weight:600}\n@media (max-width:600px){body{font-size:17px}header{padding-top:22px}h1{font-size:26px}.logo{width:32px;height:32px}\n.tagline,.links{margin-left:0}.meter{display:grid;grid-template-columns:1fr 1fr;gap:12px}.bar{width:100%}\nh2{font-size:19px}nav button{padding:8px 13px;font-size:14px}.links{gap:16px;font-size:15px}\n.handful{padding:4px 14px}.src{font-size:13px}footer{line-height:1.9}}\n'
 ICON_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sidelines: the dot outside the bubble">'
             '<circle cx="27" cy="37" r="20" fill="none" stroke="#2f5d50" stroke-width="5"/>'
@@ -403,7 +404,7 @@ The proof file is <code>FOUNDING.md.ots</code> in the project.</p>"""
     return shell("about", "How it was built", body)
 
 
-INDEX_JS = "\ndocument.querySelectorAll('time[datetime]').forEach(t=>{\n const h=(Date.now()-new Date(t.getAttribute('datetime')))/36e5;\n t.textContent=h<1?'under an hour ago':h<24?Math.floor(h)+'h ago':Math.floor(h/24)+'d ago';\n});\ndocument.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{\n document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));\n document.querySelectorAll('main > article').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?'':'none');\n});\ndocument.getElementById('surprise').onclick=()=>{\n const a=[...document.querySelectorAll('article h2 a')]; if(a.length) window.open(a[Math.floor(Math.random()*a.length)].href,'_blank','noopener');\n};\n"
+INDEX_JS = '\ndocument.querySelectorAll(\'time[datetime]\').forEach(t=>{\n const h=(Date.now()-new Date(t.getAttribute(\'datetime\')))/36e5;\n t.textContent=h<1?\'under an hour ago\':h<24?Math.floor(h)+\'h ago\':Math.floor(h/24)+\'d ago\';\n});\ndocument.querySelectorAll(\'nav button\').forEach(b=>b.onclick=()=>{\n document.querySelectorAll(\'nav button\').forEach(x=>x.classList.toggle(\'on\',x===b));\n document.querySelectorAll(\'main > article\').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?\'\':\'none\');\n});\ndocument.getElementById(\'surprise\').onclick=()=>{\n const a=[...document.querySelectorAll(\'article h2 a\')]; if(a.length) window.open(a[Math.floor(Math.random()*a.length)].href,\'_blank\',\'noopener\');\n};\n\nconst H=new Date().getHours();document.getElementById("greet").textContent=H<5?"Up late? Here\'s something quiet.":H<12?"Good morning.":H<18?"Good afternoon.":"Good evening.";const N=document.getElementById("next");if(N){const d=new Date(N.dataset.next);N.textContent="Next update around "+d.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"})+".";}\n'
 SITE_URL = "https://sidelinesnews.github.io/"
 INDEXNOW_KEY = "5244cf36a6c4bc2414d6ddae3bb866a4"
 
@@ -423,6 +424,15 @@ def head_meta(path, title, desc, script=""):
             f'style-src \'self\' \'unsafe-inline\'; img-src \'self\' data:; connect-src \'none\'; '
             f'object-src \'none\'; base-uri \'self\'; form-action \'none\'">'
             f'<meta name="referrer" content="no-referrer">')
+
+
+def next_run(now):
+    """The robot runs at 17 minutes past every third hour (UTC)."""
+    from datetime import timedelta
+    t = now.replace(minute=17, second=0, microsecond=0)
+    while t <= now or t.hour % 3:
+        t += timedelta(hours=1)
+    return t
 
 
 def card(s, compact=False):
@@ -501,6 +511,7 @@ def render(picked, meter, status, now, donate_url="", found=()):
 <h1>{LOGO}Sidelines</h1>
 <p class="tagline">{TAGLINE}</p>
 {links("index")}
+<p class="greet" id="greet">Hello.</p>
 <p class="tag">News from off the main stage. No ads, no tracking, no algorithmic feed, and never the same ten sources.</p>
 <div class="meter" title="How spread out today's page is">
   <div><b>{meter['outlets']}</b>outlets on this page</div>
@@ -512,6 +523,7 @@ def render(picked, meter, status, now, donate_url="", found=()):
 <main>
 <section class="handful"><h3>Today's handful <button id="surprise" type="button">Surprise me</button></h3>
 {''.join(card(s, compact=True) for s in handful) or '<p>No stories this run.</p>'}
+<p class="calm">That's the handful. The rest can wait.</p>
 </section>
 {bubbling_block(bubbling)}
 <section class="box write"><h3>Write from the sidelines</h3>
@@ -520,6 +532,7 @@ def render(picked, meter, status, now, donate_url="", found=()):
 <h3 class="all">Everything else</h3>
 <nav><button class="on" data-r="">All</button>{opts}</nav>
 {''.join(card(s) for s in rest)}
+<p class="done">You're up to date. <span id="next" data-next="{next_run(now).isoformat()}">The next update is in a few hours.</span></p>
 </main>
 <footer>
 Updated {now.strftime('%Y-%m-%d %H:%M')} UTC · {ok}/{len(status)} feeds answered ·
