@@ -11,18 +11,18 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 51,
-  "undated_or_future": 2,
+  "items": 52,
+  "undated_or_future": 6,
   "error": null,
   "baseline": false
  },
@@ -119,10 +119,10 @@
  {
   "name": "Balkan Insight",
   "url": "https://balkaninsight.com/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 90,
   "undated_or_future": 0,
-  "error": "TimeoutError: The read operation timed out",
+  "error": null,
   "baseline": false
  },
  {
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 22,
+  "items": 24,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
