@@ -2,6 +2,12 @@
 
 Every change to how Sidelines chooses stories is recorded here, in the open.
 
+## 2 November 2026: sources
+
+- Added WIRED to the pool.
+- Added the Associated Press and Reuters to the mainstream comparison list (via Google News, as neither offers a public feed), so stories already on the wires are recognized.
+- Removed The Wire (India), which blocks automated readers.
+
 ## 2 November 2026: launch
 
 - Reads a public pool of independent, regional, local, science and across-the-spectrum outlets, plus a mainstream comparison list that is never shown.

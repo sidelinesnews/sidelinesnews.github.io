@@ -40,12 +40,6 @@
       "kind": "independent"
     },
     {
-      "name": "The Wire (India)",
-      "url": "https://thewire.in/rss",
-      "region": "South Asia",
-      "kind": "independent"
-    },
-    {
       "name": "Rappler",
       "url": "https://www.rappler.com/feed/",
       "region": "Southeast Asia",
@@ -266,6 +260,12 @@
       "url": "https://www.aptnnews.ca/feed/",
       "region": "North America",
       "kind": "Indigenous"
+    },
+    {
+      "name": "WIRED",
+      "url": "https://www.wired.com/feed/rss",
+      "region": "North America",
+      "kind": "tech magazine"
     }
   ],
   "baseline": [
@@ -309,6 +309,16 @@
         "https://news.google.com/rss/search?q=site:washingtonpost.com&hl=en-US&gl=US&ceid=US:en"
       ],
       "title_strip": "\\s+-\\s+(The )?Washington Post$"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+      "title_strip": "\\s+-\\s+(AP News|The Associated Press)$"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+      "title_strip": "\\s+-\\s+Reuters$"
     }
   ]
 }
