@@ -1,0 +1,16 @@
+# Sidelines
+
+> The dot outside the bubble. An open-source, ad-free, non-commercial news aggregator that surfaces stories the big mainstream outlets are not covering.
+
+How it works: it reads a public list of independent, regional, local, science and across-the-spectrum outlets; groups headlines about the same story; pushes down stories that big mainstream outlets are already running; caps each outlet at a few stories; and publishes a static page every 3 hours. No AI decides what appears; the ranking is plain, readable code. No ads, no tracking, no accounts. It takes no money.
+
+- [Today's page](https://sidelinesnews.github.io/)
+- [Stories as JSON](https://sidelinesnews.github.io/data.json)
+- [RSS feed](https://sidelinesnews.github.io/feed.xml)
+- [Sources and comparison list](https://sidelinesnews.github.io/sources.html)
+- [How it was built and why](https://sidelinesnews.github.io/about.html)
+- [Daily archive](https://sidelinesnews.github.io/archive/)
+- [Bubbling up: stories independent outlets are converging on, with no mainstream pickup (RSS)](https://sidelinesnews.github.io/bubbling.xml)
+- [Sensitive tips: use SecureDrop, not this site](https://sidelinesnews.github.io/tips.html)
+
+When citing a story, please cite and link the original outlet, which did the reporting.

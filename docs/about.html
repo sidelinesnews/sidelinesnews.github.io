@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How it was built · Sidelines</title>
+<link rel="canonical" href="https://sidelinesnews.github.io/about.html"><meta property="og:title" content="How it was built · Sidelines"><meta property="og:description" content="Sidelines: the dot outside the bubble. How it was built."><meta property="og:url" content="https://sidelinesnews.github.io/about.html"><meta property="og:type" content="website"><meta property="og:image" content="https://sidelinesnews.github.io/icon.svg"><meta name="twitter:card" content="summary"><meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'"><meta name="referrer" content="no-referrer">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<style>:root{--bg:#faf7f1;--fg:#2a2723;--mut:#76706a;--line:#ebe5da;--acc:#3a6b5c}
+@media (prefers-color-scheme:dark){:root{--bg:#1a1917;--fg:#e8e3da;--mut:#a39d93;--line:#2f2d29;--acc:#8cbfac}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.65 Georgia,'Iowan Old Style',serif}
+header,main,footer{max-width:700px;margin:0 auto;padding:0 20px}
+header{padding-top:36px}h1{font-size:30px;margin:0;letter-spacing:-.5px;display:flex;align-items:center;gap:12px}
+.logo{width:38px;height:38px;color:var(--acc);flex:none}
+.tagline{margin:4px 0 0 50px;font-style:italic;color:var(--acc)}
+.tag{color:var(--mut);margin:10px 0 20px}
+.meter{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}
+.meter b{display:block;font-size:22px;color:var(--acc)}
+.bar{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}
+nav{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}
+nav button{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}
+nav button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}
+article{border-bottom:1px solid var(--line);padding:18px 0}
+.meta,.notes{font:13px system-ui,sans-serif;color:var(--mut)}.outlet{color:var(--fg);font-weight:600}
+h2{font-size:20px;margin:6px 0;line-height:1.3}h2 a{color:inherit;text-decoration:none}h2 a:hover{text-decoration:underline}
+article p{margin:4px 0 8px}
+.badge{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}
+.badge.rare{color:var(--acc);border-color:var(--acc)}
+footer{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}a{color:var(--acc)}
+.links{font:14px system-ui,sans-serif;margin:10px 0 0 50px;display:flex;gap:14px;flex-wrap:wrap}
+.links a{text-decoration:none}.links a.here{color:var(--fg);font-weight:600}
+.page{max-width:700px;margin:0 auto;padding:0 20px 40px}.page h2{margin-top:28px}
+.page li{margin:6px 0}.src{font:14px system-ui,sans-serif}.src td{padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.src th{text-align:left;font-weight:600;padding:6px 10px 6px 0;border-bottom:2px solid var(--line)}
+.fp{font:12px ui-monospace,monospace;word-break:break-all;background:var(--line);padding:8px;border-radius:6px}
+.greet{font-style:italic;color:var(--mut);margin:14px 0 0}.calm{font:14px system-ui,sans-serif;color:var(--mut);text-align:center;margin:10px 0 4px}.done{text-align:center;color:var(--mut);margin:34px 0 0;font-style:italic}article{padding:20px 0}.handful{border:1px solid var(--line);border-radius:12px;padding:6px 18px;margin:22px 0 14px}
+.handful h3,.box h3,h3.all{font:600 15px system-ui,sans-serif;margin:12px 0 4px;display:flex;align-items:center;gap:10px}
+.handful article:last-child{border-bottom:none}
+#surprise{margin-left:auto;font:13px system-ui,sans-serif;background:var(--acc);color:var(--bg);border:none;border-radius:20px;padding:6px 14px;cursor:pointer}
+.box{border-left:4px solid var(--acc);padding:4px 16px;margin:16px 0;background:color-mix(in srgb,var(--acc) 7%,transparent);border-radius:0 10px 10px 0}
+.box p{margin:6px 0 10px}.box ul{padding-left:18px}
+h3.all{margin-top:26px}
+.notes b{font-weight:600}
+@media (max-width:600px){body{font-size:17px}header{padding-top:22px}h1{font-size:26px}.logo{width:32px;height:32px}
+.tagline,.links{margin-left:0}.meter{display:grid;grid-template-columns:1fr 1fr;gap:12px}.bar{width:100%}
+h2{font-size:19px}nav button{padding:8px 13px;font-size:14px}.links{gap:16px;font-size:15px}
+.handful{padding:4px 14px}.src{font-size:13px}footer{line-height:1.9}}
+</style></head><body>
+<header><h1><svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><circle cx="27" cy="37" r="20" fill="none" stroke="currentColor" stroke-width="5"/><circle cx="53" cy="11" r="6.5" fill="currentColor"/></svg>Sidelines</h1><p class="tagline">The dot outside the bubble.</p><p class="links"><a href="index.html">Today</a> <a href="sources.html">Sources</a> <a href="write.html">Write</a> <a href="tips.html">Tips</a> <a href="support.html">Support</a> <a href="about.html" class=here>How it was built</a></p></header>
+<div class="page"><h2>How Sidelines was built</h2>
+<p>Sidelines started as one person's frustration: noticing that almost all their news came from the same ten places.
+On 2 November 2026 it went from idea to a live site in a single afternoon, built with the help of Claude, an AI made by Anthropic.
+The idea, the rules and every decision below came from its founder; the AI helped write the code and explain each step.</p>
+<h2>The decisions, and why</h2>
+<ul>
+<li><b>Push down what's already everywhere.</b> Most news apps show the big story from more angles. Sidelines shows different stories.</li>
+<li><b>Cap every source.</b> No outlet can place more than three stories, and the page shows how evenly sources are spread.</li>
+<li><b>No AI decides what you see.</b> The ranking is a few hundred lines of plain, readable code.</li>
+<li><b>No ads, no tracking, no accounts, no comments.</b> Nothing to sell, nothing to moderate, no one to please.</li>
+<li><b>No tip jar.</b> It costs nothing to run, so asking for money would only be reaching. Support goes to the journalists instead.</li>
+<li><b>Open source under AGPL-3.0.</b> If Sidelines ever breaks its promise, anyone can run the honest version.</li>
+<li><b>A legacy plan.</b> Everything is meant to pass to the Freedom of the Press Foundation one day, if they'll have it.</li>
+<li><b>Pseudonymous on purpose.</b> The project should stand on its rules, not on who made it.</li>
+</ul>
+<h2>The founding statement, stamped</h2>
+<p>The founding promise lives in <code>FOUNDING.md</code> in the project. Its fingerprint (SHA-256) is stamped into
+the Bitcoin ledger with OpenTimestamps, so anyone can check it existed, unchanged, since the day it was written.
+The proof file is <code>FOUNDING.md.ots</code> in the project.</p></div>
+<footer>Open source under AGPL-3.0. No ads, no tracking. Built with the help of Claude, an AI made by Anthropic.</footer>
+</body></html>
