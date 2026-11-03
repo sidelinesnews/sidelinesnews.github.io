@@ -1,21 +1,51 @@
 {
- "updated": "2026-11-03T08:05:18.301717+00:00",
+ "updated": "2026-11-03T08:13:14.470337+00:00",
  "meter": {
-  "outlets": 40,
+  "outlets": 41,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Army destroys kidnappers\u2019 hideout, recovers ammunition in Kogi",
-   "link": "https://www.premiumtimesng.com/news/922301-army-destroys-kidnappers-hideout-recovers-ammunition-in-kogi.html",
+   "title": "Hong Kong police arrest 61-year-old man over suspected drink spiking of Japanese DJ Mao Hamasaki",
+   "link": "https://hongkongfp.com/2026/11/03/hong-kong-police-arrest-61-year-old-man-over-suspected-drink-spiking-of-japanese-dj-mao-hamasaki/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9998
+  },
+  {
+   "title": "2027 Politics Watch: Battle for place on ballot, Kano question INEC yet to answer",
+   "link": "https://www.premiumtimesng.com/news/top-news/922304-2027-politics-watch-battle-for-place-on-ballot-kano-question-inec-yet-to-answer.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9987
+   "score": 0.9992
+  },
+  {
+   "title": "Camarines Norte communities take charge of local climate fight",
+   "link": "https://www.rappler.com/people/human-interest/camarines-norte-communities-take-charge-climate-fight/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9984
+  },
+  {
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/11/03/open-thread-377/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9972
   },
   {
    "title": "\u2018Boiling Point\u2019: How America lit and fueled the Ukraine war",
@@ -25,7 +55,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9974
+   "score": 0.9958
   },
   {
    "title": "\u2018I try to create a chasm between the word and the image that only the reader can bridge\u2019",
@@ -35,7 +65,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9954
+   "score": 0.9937
   },
   {
    "title": "General Staff: Russia has lost 1,594,830 troops in Ukraine since Feb. 24, 2022",
@@ -45,7 +75,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9948
+   "score": 0.9932
   },
   {
    "title": "Kenya: President Ruto Mourns Former Ag Paul Kihara, Hails His Contribution to Judiciary",
@@ -55,17 +85,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9928
-  },
-  {
-   "title": "Iran chief negotiator says ball in US court to 'prevent war'",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-chief-negotiator-says-ball-us-court-prevent-war",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9914
+   "score": 0.9911
   },
   {
    "title": "Post-Vucic Serbia Will Reengage with Europe, But It Will Not Be a Honeymoon",
@@ -75,7 +95,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9862
+   "score": 0.9846
   },
   {
    "title": "Uncertainty surrounds controversial resort in Zanzibar forest reserve as work stalls",
@@ -85,7 +105,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9841
+   "score": 0.9825
   },
   {
    "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
@@ -95,27 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9838
-  },
-  {
-   "title": "LTFRB fines Move It P555-M after exceeding motorcycle taxi rider limit",
-   "link": "https://www.rappler.com/philippines/ltfrb-fines-moveit-millions-exceeds-motorcycle-taxi-rider-limit/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.98
-  },
-  {
-   "title": "Legislature\u2019s legal advice arm urges clarity on public interest rules as gov\u2019t moves to tighten land records access",
-   "link": "https://hongkongfp.com/2026/11/03/legislatures-legal-advice-arm-urges-clarity-on-public-interest-rules-as-govt-moves-to-tighten-land-records-access/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9789
+   "score": 0.9821
   },
   {
    "title": "30% Off Canon Promo Codes | November 2026",
@@ -125,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9744
+   "score": 0.9728
   },
   {
    "title": "Today Is the End of the World as We Know It",
@@ -135,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9635
+   "score": 0.9619
   },
   {
    "title": "INSOLVENCY & LIQUIDATION : Business rescue \u2014 lifeline or delay tactic for struggling companies?",
@@ -145,17 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9634
-  },
-  {
-   "title": "The Logic of Voting for a Lesser Evil - and Other Writings on the Ethics of Voting",
-   "link": "https://reason.com/volokh/2026/11/02/the-logic-of-voting-for-a-lesser-evil-and-other-writings-on-the-ethics-of-voting/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9557
+   "score": 0.9618
   },
   {
    "title": "China imports millions of donkey hides from Africa every year: New book traces the drivers and impact",
@@ -165,7 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9508
+   "score": 0.9493
   },
   {
    "title": "Unpacking Hong Kong\u2019s rule of law score according to the World Justice Project\u2019s ranking",
@@ -175,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9435
+   "score": 0.942
   },
   {
    "title": "Former Assembly staffer claims retaliation, hostile work environment in lawsuit",
@@ -185,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9148
+   "score": 0.9134
   },
   {
    "title": "Corruption joins the cost of living as a top concern for US voters",
@@ -195,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9118
+   "score": 0.9104
   },
   {
    "title": "Rencontre historique : PM du Qu\u00e9bec absent",
@@ -205,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9106
+   "score": 0.9092
   },
   {
    "title": "Britain should decolonize the Commonwealth",
@@ -215,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.907
+   "score": 0.9056
   },
   {
    "title": "Beijing to step up aggression: MAC official",
@@ -225,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9063
+   "score": 0.9048
   },
   {
    "title": "Johnson, Other Candidates Face Challenges To Nominating Petitions For Mayor\u2019s Race",
@@ -235,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9025
+   "score": 0.9011
   },
   {
    "title": "Rave at Russia\u2019s main state library sparks backlash from pro-war commentators",
@@ -245,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9018
+   "score": 0.9004
   },
   {
    "title": "A new road opens in Canc\u00fan, better connecting the airport with the hotel zone",
@@ -255,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9003
+   "score": 0.8989
   },
   {
    "title": "Southwestern Colorado saw damaging floods overnight. Here\u2019s what residents documented.",
@@ -265,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8957
+   "score": 0.8943
   },
   {
    "title": "Is India Extending Its Control Over Islamic Practice In Kashmir?",
@@ -275,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8799
+   "score": 0.8786
   },
   {
    "title": "Tomba Dei Gigante S\u2019Ena e Thimes in Dorgali, Italy",
@@ -285,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.875
+   "score": 0.8737
   },
   {
    "title": "100,000 California State Workers Struck Last Month",
@@ -295,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.866
+   "score": 0.8647
   },
   {
    "title": "\u2018Bookkeeping Trick\u2019 and Fuzzy Math Conceal the Climate Impacts of Beef, Researchers Say",
@@ -305,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8651
+   "score": 0.8638
   },
   {
    "title": "King Charles shouldn\u2019t apologise for Britain\u2019s role in the slave trade",
@@ -315,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8601
+   "score": 0.8588
   },
   {
    "title": "\u201cOffensive Driving\u201d: ICE\u2019s Deadly Weaponization of Vehicles Against Civilians",
@@ -325,7 +315,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8548
+   "score": 0.8535
+  },
+  {
+   "title": "The Student Movement Addressing Campus Polarization Head On",
+   "link": "https://reasonstobecheerful.world/students-addressing-campus-polarization-healthy-debate/",
+   "outlet": "Reasons to be Cheerful",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8475
   },
   {
    "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
@@ -335,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8432
+   "score": 0.8419
   },
   {
    "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
@@ -345,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8292
+   "score": 0.8279
   },
   {
    "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
@@ -355,7 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8286
+   "score": 0.8274
   },
   {
    "title": "Is There Anything Left in the Dream of Cold Fusion?",
@@ -365,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8252
+   "score": 0.824
   },
   {
    "title": "Politicians have floated building more oil refineries in Canada. Here\u2019s what you need to know",
@@ -375,7 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7915
+   "score": 0.7904
   },
   {
    "title": "Inside the booth: Faith, economy and immigration inspired these Texans\u2019 votes",
@@ -385,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7831
+   "score": 0.782
   },
   {
    "title": "The American Dream wasn\u2019t built for climate change",
@@ -395,7 +395,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7728
+   "score": 0.7717
+  },
+  {
+   "title": "The women\u2019s boxing nights helping abuse survivors",
+   "link": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+   "outlet": "Positive News",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7692
   },
   {
    "title": "A BC Firm Aims to Mine in Tatshenshini Park, a World Heritage Site",
@@ -405,17 +415,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7641
+   "score": 0.763
   },
   {
-   "title": "Bandits abduct 14 Islamic school pupils, teacher in Niger, police confirm",
-   "link": "https://www.premiumtimesng.com/regional/north-central/922299-bandits-abduct-14-islamic-school-pupils-teacher-in-niger-police-confirm.html",
+   "title": "St. Luke\u2019s, NPC investigating data breach on mobile app",
+   "link": "https://www.rappler.com/technology/st-lukes-investigating-data-breach-mobile-application/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9984
+  },
+  {
+   "title": "Army destroys kidnappers\u2019 hideout, recovers ammunition in Kogi",
+   "link": "https://www.premiumtimesng.com/news/922301-army-destroys-kidnappers-hideout-recovers-ammunition-in-kogi.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9963
+   "score": 0.997
   },
   {
    "title": "Ahmedabad: 61 allegedly undocumented immigrants detained in \u2018pre-Diwali safety drive\u2019",
@@ -425,17 +445,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9942
-  },
-  {
-   "title": "Trump says US might have to 'go after' Iran's Pickaxe Mountain if no deal is reached",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-might-have-go-after-irans-pickaxe-mountain-if-no-deal",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9899
+   "score": 0.9926
   },
   {
    "title": "Kenya: Woman Killed By Suspected Stray Bullet in Moyale Amid Ethiopia Conflict",
@@ -445,7 +455,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9862
+   "score": 0.9846
   },
   {
    "title": "Waste Crisis Blights Kosovo\u2019s Capital and its Mayor\u2019s Political Ambitions",
@@ -455,7 +465,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9861
+   "score": 0.9845
   },
   {
    "title": "As Moldova speeds past Ukraine on reforms, Brussels set to reveal verdict on Kyiv's EU progress",
@@ -465,7 +475,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.981
+   "score": 0.9794
+  },
+  {
+   "title": "Legislature\u2019s legal advice arm urges clarity on public interest rules as gov\u2019t moves to tighten land records access",
+   "link": "https://hongkongfp.com/2026/11/03/legislatures-legal-advice-arm-urges-clarity-on-public-interest-rules-as-govt-moves-to-tighten-land-records-access/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9773
   },
   {
    "title": "How a Harvard dream ended in tragedy for a Pakistani family",
@@ -475,17 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9727
-  },
-  {
-   "title": "Sea drone makers compete in Taiwan for soaring investment",
-   "link": "https://hongkongfp.com/2026/11/03/sea-drone-makers-compete-in-taiwan-for-soaring-investment/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9725
+   "score": 0.9711
   },
   {
    "title": "Serbia\u2019s Political Tsunami Won\u2019t Bring Geopolitical Transformation",
@@ -495,17 +505,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9631
+   "score": 0.9615
   },
   {
-   "title": "[Vantage Point] The bank Ginbee Go will inherit",
-   "link": "https://www.rappler.com/voices/newsletters/vantage-point-bpi-bank-ginbee-go-inherit/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
+   "title": "The Logic of Voting for a Lesser Evil - and Other Writings on the Ethics of Voting",
+   "link": "https://reason.com/volokh/2026/11/02/the-logic-of-voting-for-a-lesser-evil-and-other-writings-on-the-ethics-of-voting/",
+   "outlet": "Reason",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9508
+   "score": 0.9541
   },
   {
    "title": "How political disagreement with our neighbors relates to whether we bother casting a ballot",
@@ -515,17 +525,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9431
-  },
-  {
-   "title": "Full Court Denies DOJ Petition In California Election Case In About 7 Hours, No Reply Needed",
-   "link": "https://reason.com/volokh/2026/11/02/full-court-denies-doj-petition-in-california-election-case-in-about-7-hours-no-reply-needed/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9159
+   "score": 0.9416
   },
   {
    "title": "B\u00e9b\u00e9 Maxime est finalement r\u00e9inhumer aux c\u00f4t\u00e9s de ses parents (Suite)",
@@ -535,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.91
+   "score": 0.9086
   },
   {
    "title": "Falklands representative in London honours the Islands\u2019 fallen at Westminster",
@@ -545,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9077
+   "score": 0.9063
   },
   {
    "title": "BOOK EXCERPT: The Devil Wears Sneakers \u2014 Epstein and the network that allowed him to flourish",
@@ -555,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9072
+   "score": 0.9058
   },
   {
    "title": "Why British Jews prefer a London suburb to New York",
@@ -565,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9067
+   "score": 0.9052
   },
   {
    "title": "Taiwan, Japan might sign comprehensive trade pact: report",
@@ -575,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9063
+   "score": 0.9048
   },
   {
    "title": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -585,7 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9045
+   "score": 0.9031
   },
   {
    "title": "These pipelines once carried Russian gas to Europe. Now they carry Russian and Ukrainian soldiers into battle.",
@@ -595,17 +595,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9
+   "score": 0.8986
   },
   {
-   "title": "Two public servants in Brazil removed after threatening to poison Indigenous people",
-   "link": "https://news.mongabay.com/short-article/2026/11/two-public-servants-in-brazil-removed-after-threatening-to-poison-indigenous-people/",
-   "outlet": "Mongabay",
-   "region": "Global",
+   "title": "The Online Right\u2019s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+   "link": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
+   "outlet": "WIRED",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.893
+   "score": 0.8973
   }
  ]
 }
