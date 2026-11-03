@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 50,
-  "undated_or_future": 0,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -399,7 +399,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 35,
+  "items": 36,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
