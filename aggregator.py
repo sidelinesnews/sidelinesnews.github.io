@@ -36,6 +36,7 @@ STYLE = ":root{--bg:#faf7f1;--fg:#2a2723;--mut:#76706a;--line:#ebe5da;--acc:#3a6
 STYLE += ".slot{font:600 11px system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--acc);margin-bottom:2px}"
 STYLE += ".greet{font-style:italic;color:var(--mut);margin:14px 0 0}.calm{font:14px system-ui,sans-serif;color:var(--mut);text-align:center;margin:10px 0 4px}.done{text-align:center;color:var(--mut);margin:34px 0 0;font-style:italic}article{padding:20px 0}"
 STYLE += '.handful{border:1px solid var(--line);border-radius:12px;padding:6px 18px;margin:22px 0 14px}\n.handful h3,.box h3,h3.all{font:600 15px system-ui,sans-serif;margin:12px 0 4px;display:flex;align-items:center;gap:10px}\n.handful article:last-child{border-bottom:none}\n#surprise{margin-left:auto;font:13px system-ui,sans-serif;background:var(--acc);color:var(--bg);border:none;border-radius:20px;padding:6px 14px;cursor:pointer}\n.box{border-left:4px solid var(--acc);padding:4px 16px;margin:16px 0;background:color-mix(in srgb,var(--acc) 7%,transparent);border-radius:0 10px 10px 0}\n.box p{margin:6px 0 10px}.box ul{padding-left:18px}\nh3.all{margin-top:26px}\n.notes b{font-weight:600}\n@media (max-width:600px){body{font-size:17px}header{padding-top:22px}h1{font-size:26px}.logo{width:32px;height:32px}\n.tagline,.links{margin-left:0}.meter{display:grid;grid-template-columns:1fr 1fr;gap:12px}.bar{width:100%}\nh2{font-size:19px}nav button{padding:8px 13px;font-size:14px}.links{gap:16px;font-size:15px}\n.handful{padding:4px 14px}.src{font-size:13px}footer{line-height:1.9}}\n'
+STYLE += "#gentle{font:13px system-ui,sans-serif;font-style:normal;background:none;color:var(--acc);border:1px solid var(--acc);border-radius:20px;padding:3px 12px;margin-left:8px;cursor:pointer;vertical-align:middle}#gentle[aria-pressed=true]{background:var(--acc);color:var(--bg)}.gnote{font:14px system-ui,sans-serif;color:var(--mut);margin:6px 0 0}body.gentle article[data-tone=heavy],body.gentle article[data-tone=plain],body.gentle .bubbling,body.gentle .write{display:none!important}"
 ICON_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sidelines: the dot outside the bubble">'
             '<circle cx="27" cy="37" r="20" fill="none" stroke="#2f5d50" stroke-width="5"/>'
             '<circle cx="53" cy="11" r="6.5" fill="#2f5d50"/></svg>')
@@ -67,6 +68,8 @@ class _Strip(HTMLParser):
         self.out.append(d)
 
 
+# Shopping posts are ads in a news costume. Sidelines promises no ads, so they never reach the page.
+SHOPPING = re.compile(r"promo codes?|coupons?|discount codes?|\$\d+ off|\d+% off|\bdeals?\b.{0,40}\b(today|this week|sale)|best .{0,40}(deals|to buy)|black friday|cyber monday|prime day|gift guide|on sale|\bour (top|favorite) picks", re.I)
 BOILERPLATE = re.compile(r"\s*(The post .{0,300}? appeared first on .{0,120}?\.?|Continue reading\W*|Read more\W*)\s*$", re.I)
 
 
@@ -438,7 +441,7 @@ The proof file is <code>FOUNDING.md.ots</code> in the project.</p>"""
     return shell("about", "How it was built", body)
 
 
-INDEX_JS = '\ndocument.querySelectorAll(\'time[datetime]\').forEach(t=>{\n const h=(Date.now()-new Date(t.getAttribute(\'datetime\')))/36e5;\n t.textContent=h<1?\'under an hour ago\':h<24?Math.floor(h)+\'h ago\':Math.floor(h/24)+\'d ago\';\n});\ndocument.querySelectorAll(\'nav button\').forEach(b=>b.onclick=()=>{\n document.querySelectorAll(\'nav button\').forEach(x=>x.classList.toggle(\'on\',x===b));\n document.querySelectorAll(\'main > article\').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?\'\':\'none\');\n});\ndocument.getElementById(\'surprise\').onclick=()=>{\n const a=[...document.querySelectorAll(\'article h2 a\')]; if(a.length) window.open(a[Math.floor(Math.random()*a.length)].href,\'_blank\',\'noopener\');\n};\n\nconst H=new Date().getHours();document.getElementById("greet").textContent=H<5?"Up late? Here\'s something quiet.":H<12?"Good morning.":H<18?"Good afternoon.":"Good evening.";const N=document.getElementById("next");if(N){const d=new Date(N.dataset.next);N.textContent="Next update around "+d.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"})+".";}\n'
+INDEX_JS = '\ndocument.querySelectorAll(\'time[datetime]\').forEach(t=>{\n const h=(Date.now()-new Date(t.getAttribute(\'datetime\')))/36e5;\n t.textContent=h<1?\'under an hour ago\':h<24?Math.floor(h)+\'h ago\':Math.floor(h/24)+\'d ago\';\n});\ndocument.querySelectorAll(\'nav button\').forEach(b=>b.onclick=()=>{\n document.querySelectorAll(\'nav button\').forEach(x=>x.classList.toggle(\'on\',x===b));\n document.querySelectorAll(\'main > article\').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?\'\':\'none\');\n});\ndocument.getElementById(\'surprise\').onclick=()=>{\n const a=[...document.querySelectorAll(\'article h2 a\')].filter(x=>x.offsetParent); if(a.length) window.open(a[Math.floor(Math.random()*a.length)].href,\'_blank\',\'noopener\');\n};\n\nconst H=new Date().getHours();document.getElementById("greet").textContent=H<5?"Up late? Here\'s something quiet.":H<12?"Good morning.":H<18?"Good afternoon.":"Good evening.";const N=document.getElementById("next");if(N){const d=new Date(N.dataset.next);N.textContent="Next update around "+d.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"})+".";}\nconst G=document.getElementById("gentle"),GN=document.getElementById("gnote");function gentle(on){document.body.classList.toggle("gentle",on);G.setAttribute("aria-pressed",on);GN.hidden=!on;try{localStorage.setItem("gentle",on?"1":"")}catch(e){}}if(G){G.onclick=()=>gentle(!document.body.classList.contains("gentle"));try{if(localStorage.getItem("gentle"))gentle(true)}catch(e){}}\n'
 SITE_URL = "https://sidelinesnews.github.io/"
 INDEXNOW_KEY = "5244cf36a6c4bc2414d6ddae3bb866a4"
 
@@ -482,7 +485,7 @@ def card(s, compact=False, label=""):
     rare = "rare" if s["rarity"] >= 0.99 else ("uncommon" if s["rarity"] >= 0.5 else "known")
     summ = f'<p>{html.escape(L["summary"])}</p>' if L["summary"] and not compact else ""
     return f"""
-<article data-region="{html.escape(L['region'])}">
+<article data-region="{html.escape(L['region'])}" data-tone="{s.get('_tone', 'plain')}">
   {f'<div class="slot">{html.escape(label)}</div>' if label else ''}<div class="meta"><span class="outlet">{html.escape(L['outlet'])}</span> · {html.escape(L['region'])} · {html.escape(L['kind'])}{when}<span class="badge {rare}">{rare}</span></div>
   <h2><a href="{html.escape(L['link'], quote=True)}" rel="noopener noreferrer" target="_blank">{html.escape(L['title'])}</a></h2>
   {summ}
@@ -622,6 +625,8 @@ def render(picked, meter, status, now, donate_url="", found=(), reserve=()):
                 and id(s) not in {id(h) for h, _ in handful}][:5]
     shown = {id(x) for x, _ in handful} | {id(x) for x in bubbling}
     rest = brighten([s for s in picked if id(s) not in shown], picked, reserve, tones, handful)
+    for x in [h for h, _ in handful] + bubbling + rest:
+        x["_tone"] = tone(x, tones)
     ok = sum(1 for x in status if x["ok"])
     donate = (f' · <a href="{html.escape(donate_url, quote=True)}" rel="noopener">Support Sidelines</a> (every dollar shown publicly)'
               if donate_url.startswith("https://") else "")
@@ -641,7 +646,8 @@ def render(picked, meter, status, now, donate_url="", found=(), reserve=()):
 <h1>{LOGO}Sidelines</h1>
 <p class="tagline">{TAGLINE}</p>
 {links("index")}
-<p class="greet" id="greet">Hello.</p>
+<p class="greet"><span id="greet">Hello.</span> <button id="gentle" type="button" aria-pressed="false" title="Show only good and wondrous stories. Your choice stays in your own browser.">Gentle</button></p>
+<p class="gnote" id="gnote" hidden>Gentle mode: only good and wondrous stories. The hard news is still here; tap Gentle again to see it.</p>
 <p class="tag">News from off the main stage. No ads, no tracking, no algorithmic feed, and never the same ten sources.</p>
 <div class="meter" title="How spread out today's page is">
   <div><b>{meter['outlets']}</b>outlets on this page</div>
@@ -784,6 +790,8 @@ def main():
         print(f"  [{mark}] {feed['name']:<28} {len(got):>3} items" + (f"  {err}" if err else ""))
         strip = re.compile(feed["title_strip"]) if feed.get("title_strip") else None
         for it in got:
+            if SHOPPING.search(it["title"]):
+                continue
             if strip:
                 it["title"] = strip.sub("", it["title"]).strip()
             it.update(outlet=feed["name"], region=feed["region"], kind=feed["kind"],

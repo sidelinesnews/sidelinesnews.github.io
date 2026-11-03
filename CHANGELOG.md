@@ -2,6 +2,12 @@
 
 Every change to how Sidelines chooses stories is recorded here, in the open.
 
+## 3 November 2026: the Gentle button
+
+A **Gentle** button next to the greeting. One tap shows only good and wondrous stories; tap again and the hard news is back. Nothing is deleted or ranked differently, it's just hidden on your screen. The choice is remembered in your own browser only (localStorage); Sidelines never sees it. Suggested by a reader's mom, who would prefer 4 good stories to every 1 bad one.
+
+Also: **shopping posts are blocked.** A WIRED coupon post ("Uber Eats Promo Codes") reached the handful labelled "Something good". Sidelines promises no ads, so headlines that look like coupons, deals or gift guides are now skipped before anything else happens.
+
 ## 3 November 2026: labels are promises
 
 The first live run of the balanced handful mislabelled two stories: an election-timing explainer was called "Something good", and a story about a controversial resort was called "Something wondrous". Fixes:
