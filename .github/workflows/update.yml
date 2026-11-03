@@ -6,7 +6,7 @@ on:
   workflow_dispatch:          # lets you hit "Run workflow" by hand
 
 permissions:
-  contents: write
+  contents: write             # the only permission the robot gets: saving the page
 
 concurrency:
   group: update
@@ -15,9 +15,13 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
+      # Tools are pinned to exact versions (commit IDs), so a hijacked tool can't sneak in.
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09   # v5.1.0
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1   # v6.3.0
         with:
           python-version: "3.12"
       - run: python aggregator.py
@@ -28,3 +32,6 @@ jobs:
           git add docs
           git diff --cached --quiet || git commit -m "Update stories"
           git push
+      - name: Tell search engines the page changed (IndexNow)
+        continue-on-error: true
+        run: curl -s -o /dev/null -w "%{http_code}\n" "https://api.indexnow.org/indexnow?url=https://sidelinesnews.github.io/&key=5244cf36a6c4bc2414d6ddae3bb866a4"
