@@ -6,6 +6,8 @@ Every change to how Sidelines chooses stories is recorded here, in the open.
 
 A **Gentle** button next to the greeting. One tap shows only good and wondrous stories; tap again and the hard news is back. Nothing is deleted or ranked differently, it's just hidden on your screen. The choice is remembered in your own browser only (localStorage); Sidelines never sees it. Suggested by a reader's mom, who would prefer 4 good stories to every 1 bad one.
 
+Also: **"rescue" is no longer a hopeful word** (in South Africa, "business rescue" is a bankruptcy process), and words like insolvency, liquidation, slaughter, smuggling and poaching now count as heavy.
+
 Also: **shopping posts are blocked.** A WIRED coupon post ("Uber Eats Promo Codes") reached the handful labelled "Something good". Sidelines promises no ads, so headlines that look like coupons, deals or gift guides are now skipped before anything else happens.
 
 ## 3 November 2026: labels are promises
