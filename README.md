@@ -1,4 +1,10 @@
+<img src="docs/icon.svg" width="64" alt="Sidelines logo: a dot outside a bubble">
+
 # Sidelines
+
+*The dot outside the bubble.*
+
+**Live:** [sidelinesnews.github.io](https://sidelinesnews.github.io) · [Sources](https://sidelinesnews.github.io/sources.html) · [Support](https://sidelinesnews.github.io/support.html) · [How it was built](https://sidelinesnews.github.io/about.html)
 
 An open-source, ad-free news aggregator for the stories that never make it to the main stage.
 
@@ -28,6 +34,30 @@ Windows: double-click `Start.bat`. Anywhere else: `python aggregator.py`, then o
 
 Edit `feeds.json`. After a run, `docs/feed_status.json` lists any feeds that failed.
 
+## Following Sidelines
+
+- **RSS:** `feed.xml` on the site, for any feed reader.
+- **Data:** `data.json`, for anyone who wants to build on it.
+- **For AI tools:** `llms.txt` explains the site and its rules in plain text.
+- **Archive:** the last page of every day is kept under `archive/`.
+- **For reporters:** `bubbling.xml` is an RSS feed of stories several independent outlets are covering that the mainstream hasn't picked up yet.
+- **Search engines:** `robots.txt` and `sitemap.xml` welcome everyone, and each update pings IndexNow so search engines (and the AI tools built on them) see changes quickly.
+
+## Sensitive tips
+
+Sidelines collects nothing, on purpose. The [Tips page](https://sidelinesnews.github.io/tips.html) sends anyone with a sensitive tip to SecureDrop, the system maintained by the Freedom of the Press Foundation.
+
+## Security
+
+- No server, no database, no forms, no cookies: there's nothing stored to steal.
+- Every page carries a content security policy that only allows the site's own script.
+- The update robot's tools are pinned to exact versions, and it has only the one permission it needs.
+- Ranking changes are logged in [`CHANGELOG.md`](CHANGELOG.md).
+
+## Found by readers
+
+To feature a story a reader sent in, edit `reader_found.json` and add it to `items` (the file includes an example). Only add links to stories that are already published elsewhere. Each one shows on the front page for 14 days.
+
 ## The promise
 
 Sidelines will never:
@@ -39,7 +69,7 @@ Sidelines will never:
 
 The ranking rules are public, and any change to them happens in the open.
 
-**Money:** Sidelines only accepts donations and grants that come with no say over what appears on the page. Donations cover running costs and pay the maintainer a modest amount for their time. Every dollar in and out will be public on our Open Collective page (coming soon). The site's Support link turns on once `donate_url` is filled in at the top of `feeds.json`.
+**Money:** Sidelines takes no money. It costs nothing to run. If you want to help, support the journalists and the free-press organizations listed on the [Support page](https://sidelinesnews.github.io/support.html). (A donate switch exists in `feeds.json` as `donate_url`. It is off, and would only ever be turned on in the open if real running costs appeared.)
 
 If Sidelines ever breaks this promise, you already have the cure: the code is AGPL-3.0, so fork it and run the honest version.
 
@@ -52,3 +82,15 @@ If Sidelines grows beyond a one-person project, or if I die or can no longer car
 If they decline, it should go to another independent, non-commercial journalism or press-freedom organization that will keep the promise above.
 
 Sidelines is not affiliated with or endorsed by the Freedom of the Press Foundation, and any handover depends on their agreement. The code itself already belongs to everyone under the AGPL-3.0, so the idea can't be owned or buried either way.
+
+## Identifier
+
+The founding statement lives in [`FOUNDING.md`](FOUNDING.md) and is never edited. Its SHA-256 fingerprint is:
+
+`113a4b9d9e1987b9398a5035db0ffabf282c4a93b3f193fe7f3e905bc3a44164`
+
+That fingerprint is stamped into the Bitcoin ledger with [OpenTimestamps](https://opentimestamps.org) (proof file: `FOUNDING.md.ots`), so anyone can verify that the founding statement existed, unchanged, from 2 November 2026.
+
+---
+
+Built with the help of Claude, an AI made by Anthropic.

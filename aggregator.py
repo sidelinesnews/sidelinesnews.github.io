@@ -31,6 +31,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 
+TAGLINE = "The dot outside the bubble."
+STYLE = ":root{--bg:#fbfaf7;--fg:#1d1c1a;--mut:#6b675f;--line:#e4e0d8;--acc:#2f5d50}\n@media (prefers-color-scheme:dark){:root{--bg:#151514;--fg:#ebe8e2;--mut:#9a958b;--line:#2c2b28;--acc:#7fb8a4}}\n*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Georgia,'Iowan Old Style',serif}\nheader,main,footer{max-width:760px;margin:0 auto;padding:0 20px}\nheader{padding-top:36px}h1{font-size:30px;margin:0;letter-spacing:-.5px;display:flex;align-items:center;gap:12px}\n.logo{width:38px;height:38px;color:var(--acc);flex:none}\n.tagline{margin:4px 0 0 50px;font-style:italic;color:var(--acc)}\n.tag{color:var(--mut);margin:10px 0 20px}\n.meter{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}\n.meter b{display:block;font-size:22px;color:var(--acc)}\n.bar{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}\nnav{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}\nnav button{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}\nnav button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}\narticle{border-bottom:1px solid var(--line);padding:18px 0}\n.meta,.notes{font:13px system-ui,sans-serif;color:var(--mut)}.outlet{color:var(--fg);font-weight:600}\nh2{font-size:20px;margin:6px 0;line-height:1.3}h2 a{color:inherit;text-decoration:none}h2 a:hover{text-decoration:underline}\narticle p{margin:4px 0 8px}\n.badge{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}\n.badge.rare{color:var(--acc);border-color:var(--acc)}\nfooter{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}a{color:var(--acc)}\n.links{font:14px system-ui,sans-serif;margin:10px 0 0 50px;display:flex;gap:14px;flex-wrap:wrap}\n.links a{text-decoration:none}.links a.here{color:var(--fg);font-weight:600}\n.page{max-width:760px;margin:0 auto;padding:0 20px 40px}.page h2{margin-top:28px}\n.page li{margin:6px 0}.src{font:14px system-ui,sans-serif}.src td{padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}\n.src th{text-align:left;font-weight:600;padding:6px 10px 6px 0;border-bottom:2px solid var(--line)}\n.fp{font:12px ui-monospace,monospace;word-break:break-all;background:var(--line);padding:8px;border-radius:6px}\n"
+STYLE += '.handful{border:1px solid var(--line);border-radius:12px;padding:6px 18px;margin:22px 0 14px}\n.handful h3,.box h3,h3.all{font:600 15px system-ui,sans-serif;margin:12px 0 4px;display:flex;align-items:center;gap:10px}\n.handful article:last-child{border-bottom:none}\n#surprise{margin-left:auto;font:13px system-ui,sans-serif;background:var(--acc);color:var(--bg);border:none;border-radius:20px;padding:6px 14px;cursor:pointer}\n.box{border-left:4px solid var(--acc);padding:4px 16px;margin:16px 0;background:color-mix(in srgb,var(--acc) 7%,transparent);border-radius:0 10px 10px 0}\n.box p{margin:6px 0 10px}.box ul{padding-left:18px}\nh3.all{margin-top:26px}\n.notes b{font-weight:600}\n@media (max-width:600px){body{font-size:17px}header{padding-top:22px}h1{font-size:26px}.logo{width:32px;height:32px}\n.tagline,.links{margin-left:0}.meter{display:grid;grid-template-columns:1fr 1fr;gap:12px}.bar{width:100%}\nh2{font-size:19px}nav button{padding:8px 13px;font-size:14px}.links{gap:16px;font-size:15px}\n.handful{padding:4px 14px}.src{font-size:13px}footer{line-height:1.9}}\n'
+ICON_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sidelines: the dot outside the bubble">'
+            '<circle cx="27" cy="37" r="20" fill="none" stroke="#2f5d50" stroke-width="5"/>'
+            '<circle cx="53" cy="11" r="6.5" fill="#2f5d50"/></svg>')
+
 CONFIG = {
     "max_stories": 60,         # stories on the page
     "per_outlet_cap": 3,       # max stories from any one outlet
@@ -148,12 +155,15 @@ def fetch(feed, tries=2):
     err = None
     for url in [feed["url"]] + feed.get("alt", []):
         for attempt in range(tries):
-            req = urllib.request.Request(url, headers=HEADERS)
+            plain = err is not None and ("415" in err or "406" in err)
+            req = urllib.request.Request(url, headers={"User-Agent": CONFIG["user_agent"]} if plain else HEADERS)
             try:
                 with urllib.request.urlopen(req, timeout=CONFIG["timeout"] * (attempt + 1)) as r:
                     return feed, parse_feed(r.read()), None
             except urllib.error.HTTPError as e:
                 err = f"HTTPError: {e}"
+                if e.code in (406, 415) and attempt + 1 < tries:
+                    continue  # try again without the Accept header
                 if e.code < 500:
                     break
             except Exception as e:
@@ -298,28 +308,180 @@ def ago(h):
     return f"{int(h // 24)}d ago"
 
 
-def render(picked, meter, status, now, donate_url=""):
-    regions = sorted({s["lead"]["region"] for s in picked})
-    cards = []
-    for s in picked:
-        L = s["lead"]
-        notes = []
-        if s["also"]:
-            notes.append("Also covered by " + ", ".join(html.escape(x) for x in s["also"][:4]))
-        if s["mainstream"]:
-            notes.append("Mainstream pickup: " + ", ".join(html.escape(x) for x in s["mainstream"]))
-        else:
-            notes.append("No mainstream pickup")
-        when = (f' · <time datetime="{L["date"].isoformat()}">{ago(s["age_h"])}</time>'
-                if s["date_known"] else "")
-        rare = "rare" if s["rarity"] >= 0.99 else ("uncommon" if s["rarity"] >= 0.5 else "known")
-        cards.append(f"""
+LOGO = ('<svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><circle cx="27" cy="37" r="20" fill="none" '
+        'stroke="currentColor" stroke-width="5"/><circle cx="53" cy="11" r="6.5" fill="currentColor"/></svg>')
+PAGES = [("index", "index.html", "Today"), ("sources", "sources.html", "Sources"), ("write", "write.html", "Write"), ("tips", "tips.html", "Tips"),
+         ("support", "support.html", "Support"), ("about", "about.html", "How it was built")]
+
+
+PATHS = {"sources": "sources.html", "write": "write.html", "tips": "tips.html", "support": "support.html",
+         "about": "about.html", "archive": "archive/"}
+
+
+def links(here):
+    return '<p class="links">' + " ".join(
+        f'<a href="{f}"{" class=here" if k == here else ""}>{t}</a>' for k, f, t in PAGES) + "</p>"
+
+
+def shell(key, title, body, base=""):
+    return f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{title} · Sidelines</title>{f'<base href="{base}">' if base else ""}
+{head_meta(PATHS.get(key, ""), title + " · Sidelines", "Sidelines: the dot outside the bubble. " + title + ".")}
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<style>{STYLE}</style></head><body>
+<header><h1>{LOGO}Sidelines</h1><p class="tagline">{TAGLINE}</p>{links(key)}</header>
+<div class="page">{body}</div>
+<footer>Open source under AGPL-3.0. No ads, no tracking. Built with the help of Claude, an AI made by Anthropic.</footer>
+</body></html>"""
+
+
+def home(url):
+    m = re.match(r"(https?://[^/]+)", url)
+    return m.group(1) + "/" if m else url
+
+
+def render_sources(cfg, status):
+    ok = {s["name"]: s["ok"] for s in status}
+    rows = "".join(
+        f'<tr><td><a href="{html.escape(home(f["url"]), quote=True)}" rel="noopener">{html.escape(f["name"])}</a></td>'
+        f'<td>{html.escape(f["region"])}</td><td>{html.escape(f["kind"])}</td>'
+        f'<td>{"working" if ok.get(f["name"]) else "not answering"}</td></tr>'
+        for f in sorted(cfg["pool"], key=lambda f: (f["region"], f["name"])))
+    base = ", ".join(html.escape(f["name"]) for f in cfg["baseline"])
+    body = f"""<h2>Where the stories come from</h2>
+<p>Every outlet Sidelines reads, with its region and the kind of outlet it is. The list deliberately spans
+independent, local, regional, science and left, right and heterodox outlets. Anyone can propose changes in public.</p>
+<table class="src"><tr><th>Outlet</th><th>Region</th><th>Kind</th><th>Last run</th></tr>{rows}</table>
+<h2>The comparison list (never shown)</h2>
+<p>These big mainstream outlets are read only to see what's already everywhere, so Sidelines can step around it:
+{base}.</p>"""
+    return shell("sources", "Sources", body)
+
+
+def render_support(cfg):
+    outlets = "".join(
+        f'<li><a href="{html.escape(home(f["url"]), quote=True)}" rel="noopener">{html.escape(f["name"])}</a></li>'
+        for f in sorted(cfg["pool"], key=lambda f: f["name"]))
+    body = f"""<h2>Sidelines takes no money</h2>
+<p>It costs nothing to run, so there's nothing to pay for. If you'd like to help, put your support where the work happens.</p>
+<h2>Support the journalism</h2>
+<p>The outlets on Sidelines do the actual reporting. If a story mattered to you, support the people who wrote it.</p>
+<ul>{outlets}</ul>
+<h2>Support a free press and a free web</h2>
+<ul>
+<li><a href="https://freedom.press/donate/" rel="noopener">Freedom of the Press Foundation</a>, which carries on Aaron Swartz's SecureDrop and is named in Sidelines' legacy.</li>
+<li><a href="https://archive.org/donate" rel="noopener">Internet Archive</a>, the web's public memory.</li>
+<li><a href="https://donate.wikimedia.org/" rel="noopener">Wikipedia</a>, the encyclopedia anyone can edit.</li>
+</ul>
+<h2>Support Sidelines itself</h2>
+<p>Share it with someone stuck in a bubble. Suggest an outlet. That's all it needs.</p>"""
+    return shell("support", "Support", body)
+
+
+def render_about():
+    body = """<h2>How Sidelines was built</h2>
+<p>Sidelines started as one person's frustration: noticing that almost all their news came from the same ten places.
+On 2 November 2026 it went from idea to a live site in a single afternoon, built with the help of Claude, an AI made by Anthropic.
+The idea, the rules and every decision below came from its founder; the AI helped write the code and explain each step.</p>
+<h2>The decisions, and why</h2>
+<ul>
+<li><b>Push down what's already everywhere.</b> Most news apps show the big story from more angles. Sidelines shows different stories.</li>
+<li><b>Cap every source.</b> No outlet can place more than three stories, and the page shows how evenly sources are spread.</li>
+<li><b>No AI decides what you see.</b> The ranking is a few hundred lines of plain, readable code.</li>
+<li><b>No ads, no tracking, no accounts, no comments.</b> Nothing to sell, nothing to moderate, no one to please.</li>
+<li><b>No tip jar.</b> It costs nothing to run, so asking for money would only be reaching. Support goes to the journalists instead.</li>
+<li><b>Open source under AGPL-3.0.</b> If Sidelines ever breaks its promise, anyone can run the honest version.</li>
+<li><b>A legacy plan.</b> Everything is meant to pass to the Freedom of the Press Foundation one day, if they'll have it.</li>
+<li><b>Pseudonymous on purpose.</b> The project should stand on its rules, not on who made it.</li>
+</ul>
+<h2>The founding statement, stamped</h2>
+<p>The founding promise lives in <code>FOUNDING.md</code> in the project. Its fingerprint (SHA-256) is stamped into
+the Bitcoin ledger with OpenTimestamps, so anyone can check it existed, unchanged, since the day it was written.
+The proof file is <code>FOUNDING.md.ots</code> in the project.</p>"""
+    return shell("about", "How it was built", body)
+
+
+INDEX_JS = "\ndocument.querySelectorAll('time[datetime]').forEach(t=>{\n const h=(Date.now()-new Date(t.getAttribute('datetime')))/36e5;\n t.textContent=h<1?'under an hour ago':h<24?Math.floor(h)+'h ago':Math.floor(h/24)+'d ago';\n});\ndocument.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{\n document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));\n document.querySelectorAll('main > article').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?'':'none');\n});\ndocument.getElementById('surprise').onclick=()=>{\n const a=[...document.querySelectorAll('article h2 a')]; if(a.length) window.open(a[Math.floor(Math.random()*a.length)].href,'_blank','noopener');\n};\n"
+SITE_URL = "https://sidelinesnews.github.io/"
+INDEXNOW_KEY = "5244cf36a6c4bc2414d6ddae3bb866a4"
+
+
+def head_meta(path, title, desc, script=""):
+    """Canonical link, share-preview tags and a strict content security policy.
+    The CSP only allows the one script we ship (by its fingerprint), so injected scripts won't run."""
+    import base64, hashlib
+    sh = ("'sha256-" + base64.b64encode(hashlib.sha256(script.encode()).digest()).decode() + "'") if script else "'none'"
+    url = SITE_URL + path
+    return (f'<link rel="canonical" href="{url}">'
+            f'<meta property="og:title" content="{html.escape(title, quote=True)}">'
+            f'<meta property="og:description" content="{html.escape(desc, quote=True)}">'
+            f'<meta property="og:url" content="{url}"><meta property="og:type" content="website">'
+            f'<meta property="og:image" content="{SITE_URL}icon.svg"><meta name="twitter:card" content="summary">'
+            f'<meta http-equiv="Content-Security-Policy" content="default-src \'self\'; script-src {sh}; '
+            f'style-src \'self\' \'unsafe-inline\'; img-src \'self\' data:; connect-src \'none\'; '
+            f'object-src \'none\'; base-uri \'self\'; form-action \'none\'">'
+            f'<meta name="referrer" content="no-referrer">')
+
+
+def card(s, compact=False):
+    L = s["lead"]
+    n = 1 + len(s["also"])
+    why = [f"{n} outlet{'s' if n > 1 else ''} running this"]
+    why.append("mainstream pickup: " + ", ".join(html.escape(x) for x in s["mainstream"])
+               if s["mainstream"] else "no mainstream pickup")
+    if s["also"]:
+        why.append("also at " + ", ".join(html.escape(x) for x in s["also"][:3]))
+    when = (f' · <time datetime="{L["date"].isoformat()}">{ago(s["age_h"])}</time>'
+            if s["date_known"] else "")
+    rare = "rare" if s["rarity"] >= 0.99 else ("uncommon" if s["rarity"] >= 0.5 else "known")
+    summ = f'<p>{html.escape(L["summary"])}</p>' if L["summary"] and not compact else ""
+    return f"""
 <article data-region="{html.escape(L['region'])}">
   <div class="meta"><span class="outlet">{html.escape(L['outlet'])}</span> · {html.escape(L['region'])} · {html.escape(L['kind'])}{when}<span class="badge {rare}">{rare}</span></div>
   <h2><a href="{html.escape(L['link'], quote=True)}" rel="noopener noreferrer" target="_blank">{html.escape(L['title'])}</a></h2>
-  {f'<p>{html.escape(L["summary"])}</p>' if L['summary'] else ''}
-  <div class="notes">{' · '.join(notes)}</div>
-</article>""")
+  {summ}
+  <div class="notes"><b>Why it's here:</b> {' · '.join(why)}</div>
+</article>"""
+
+
+def json_ld(picked, now):
+    items = [{"@type": "ListItem", "position": i + 1, "item": {
+        "@type": "NewsArticle", "headline": s["lead"]["title"], "url": s["lead"]["link"],
+        "publisher": {"@type": "Organization", "name": s["lead"]["outlet"]},
+        **({"datePublished": s["lead"]["date"].isoformat()} if s["date_known"] else {})}}
+        for i, s in enumerate(picked)]
+    data = {"@context": "https://schema.org", "@type": "ItemList",
+            "name": "Sidelines: stories from off the main stage", "dateModified": now.isoformat(),
+            "itemListElement": items}
+    return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+
+
+def bubbling_block(bub):
+    if not bub:
+        return ""
+    return ("<section class=\"handful bubbling\"><h3>Bubbling up</h3><p class=\"meta\">Independent outlets are converging on these, "
+            "and the mainstream hasn't picked them up yet. For reporters: <a href=\"bubbling.xml\">follow this list by RSS</a>.</p>"
+            + "".join(card(s, compact=True) for s in bub) + "</section>")
+
+
+def reader_block(found):
+    if not found:
+        return ""
+    lis = "".join(
+        f'<li><a href="{html.escape(f["url"], quote=True)}" rel="noopener noreferrer" target="_blank">'
+        f'{html.escape(f["title"])}</a> <span class="meta">· {html.escape(f.get("outlet", ""))}'
+        f'{" · " + html.escape(f["note"]) if f.get("note") else ""}</span></li>' for f in found)
+    return f'<section class="box"><h3>Found by readers</h3><ul>{lis}</ul></section>'
+
+
+def render(picked, meter, status, now, donate_url="", found=()):
+    regions = sorted({s["lead"]["region"] for s in picked})
+    handful = picked[:5]
+    bubbling = [s for s in picked if s["also"] and not s["mainstream"]][:5]
+    shown = {id(x) for x in handful} | {id(x) for x in bubbling}
+    rest = [s for s in picked if id(s) not in shown]
     ok = sum(1 for x in status if x["ok"])
     donate = (f' · <a href="{html.escape(donate_url, quote=True)}" rel="noopener">Support Sidelines</a> (every dollar shown publicly)'
               if donate_url.startswith("https://") else "")
@@ -327,31 +489,18 @@ def render(picked, meter, status, now, donate_url=""):
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Sidelines: news from off the main stage</title>
-<meta name="description" content="Open-source, ad-free news aggregator for the stories the big outlets aren't covering.">
+<title>Sidelines: the dot outside the bubble</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Sidelines" href="feed.xml">
+<meta name="description" content="Open-source, ad-free news aggregator for the stories the big outlets aren't covering. The dot outside the bubble.">
+{head_meta("", "Sidelines: the dot outside the bubble", "Open-source, ad-free news from off the main stage. No tracking, never the same ten sources.", INDEX_JS)}
+<script type="application/ld+json">{json_ld(picked, now)}</script>
 <style>
-:root{{--bg:#fbfaf7;--fg:#1d1c1a;--mut:#6b675f;--line:#e4e0d8;--acc:#2f5d50}}
-@media (prefers-color-scheme:dark){{:root{{--bg:#151514;--fg:#ebe8e2;--mut:#9a958b;--line:#2c2b28;--acc:#7fb8a4}}}}
-*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Georgia,'Iowan Old Style',serif}}
-header,main,footer{{max-width:760px;margin:0 auto;padding:0 20px}}
-header{{padding-top:36px}}h1{{font-size:30px;margin:0;letter-spacing:-.5px}}
-.tag{{color:var(--mut);margin:4px 0 20px}}
-.meter{{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}}
-.meter b{{display:block;font-size:22px;color:var(--acc)}}
-.bar{{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}}.bar i{{display:block;height:100%;background:var(--acc);border-radius:3px}}
-nav{{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}}
-nav button{{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}}
-nav button.on{{background:var(--acc);color:var(--bg);border-color:var(--acc)}}
-article{{border-bottom:1px solid var(--line);padding:18px 0}}
-.meta,.notes{{font:13px system-ui,sans-serif;color:var(--mut)}}.outlet{{color:var(--fg);font-weight:600}}
-h2{{font-size:20px;margin:6px 0;line-height:1.3}}h2 a{{color:inherit;text-decoration:none}}h2 a:hover{{text-decoration:underline}}
-article p{{margin:4px 0 8px}}
-.badge{{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}}
-.badge.rare{{color:var(--acc);border-color:var(--acc)}}
-footer{{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}}a{{color:var(--acc)}}
-</style></head><body>
+{STYLE}</style></head><body>
 <header>
-<h1>Sidelines</h1>
+<h1>{LOGO}Sidelines</h1>
+<p class="tagline">{TAGLINE}</p>
+{links("index")}
 <p class="tag">News from off the main stage. No ads, no tracking, no algorithmic feed, and never the same ten sources.</p>
 <div class="meter" title="How spread out today's page is">
   <div><b>{meter['outlets']}</b>outlets on this page</div>
@@ -359,25 +508,115 @@ footer{{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}}
   <div><b>{meter['evenness']}%</b>source evenness<div class="bar"><i style="width:{meter['evenness']}%"></i></div></div>
   <div><b>{meter['top_share']}%</b>biggest single source</div>
 </div>
-<nav><button class="on" data-r="">All</button>{opts}</nav>
 </header>
-<main>{''.join(cards) or '<p>No stories this run.</p>'}</main>
+<main>
+<section class="handful"><h3>Today's handful <button id="surprise" type="button">Surprise me</button></h3>
+{''.join(card(s, compact=True) for s in handful) or '<p>No stories this run.</p>'}
+</section>
+{bubbling_block(bubbling)}
+<section class="box write"><h3>Write from the sidelines</h3>
+<p>Seeing a story the main stage ignores? Don't wait for someone else to tell it. <a href="write.html">Here's how to get it written and published →</a></p></section>
+{reader_block(found)}
+<h3 class="all">Everything else</h3>
+<nav><button class="on" data-r="">All</button>{opts}</nav>
+{''.join(card(s) for s in rest)}
+</main>
 <footer>
 Updated {now.strftime('%Y-%m-%d %H:%M')} UTC · {ok}/{len(status)} feeds answered ·
-Stories that big mainstream outlets are already running get pushed down. Each outlet can place at most {CONFIG['per_outlet_cap']} stories.
-Open source. <a href="feed_status.json">Feed status</a> · <a href="data.json">Raw data</a>{donate}
+Stories that big mainstream outlets are already running get pushed down. Each outlet can place at most {CONFIG['per_outlet_cap']} stories.<br>
+<a href="sources.html">Sources</a> · <a href="write.html">Write</a> · <a href="tips.html">Tips</a> · <a href="support.html">Support</a> · <a href="about.html">How it was built</a> · <a href="archive/">Archive</a> · <a href="feed.xml">RSS</a> · <a href="data.json">Raw data</a> · <a href="feed_status.json">Feed status</a>{donate}<br>
+Open source under AGPL-3.0. Built with the help of Claude, an AI made by Anthropic.
 </footer>
-<script>
-document.querySelectorAll('time[datetime]').forEach(t=>{{
- const h=(Date.now()-new Date(t.getAttribute('datetime')))/36e5;
- t.textContent=h<1?'under an hour ago':h<24?Math.floor(h)+'h ago':Math.floor(h/24)+'d ago';
-}});
-document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{{
- document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));
- document.querySelectorAll('article').forEach(a=>a.style.display=(!b.dataset.r||a.dataset.region===b.dataset.r)?'':'none');
-}});
-</script>
+<script>{INDEX_JS}</script>
 </body></html>"""
+
+
+def render_tips():
+    body = """<h2>Got a sensitive tip?</h2>
+<p><b>Please don't send it to Sidelines.</b> Sidelines doesn't collect anything, on purpose, so there's nothing here to leak, hack or hand over.
+If you have information a journalist needs and you need to stay anonymous, use <b>SecureDrop</b>: the whistleblower system
+Aaron Swartz began building, now maintained and independently audited by the Freedom of the Press Foundation.
+Many newsrooms run their own SecureDrop.</p>
+<h2>How to use it safely</h2>
+<ol>
+<li>Use a device and network that aren't your work's. Don't do this from a work laptop or work Wi-Fi.</li>
+<li>Download <a href="https://www.torproject.org/download/" rel="noopener">Tor Browser</a> from the official Tor Project site.</li>
+<li>Open the <a href="https://securedrop.org/directory/" rel="noopener">official SecureDrop Directory</a> and choose a news organization.</li>
+<li>Check that the .onion address on the newsroom's own page matches the directory entry before you continue.</li>
+<li>Follow the newsroom's instructions. You'll get a codename: write it down to check for replies.</li>
+</ol>
+<p>The Freedom of the Press Foundation publishes guides on staying safe: <a href="https://freedom.press/" rel="noopener">freedom.press</a>.</p>"""
+    return shell("tips", "Tips", body)
+
+
+def render_write():
+    body = """<h2>Write from the sidelines</h2>
+<p>Seeing a story the main stage ignores? Don't wait for someone else to tell it. Sidelines doesn't publish stories itself,
+but here's how to get yours written, edited and read.</p>
+<h2>Write for Global Voices</h2>
+<p>Global Voices is a nonprofit, mostly volunteer community of writers and translators. Its volunteer writers report on
+conversations in their own regions, with an emphasis on voices missing from international mainstream media.
+Every story is checked by its editors, and stories can be translated into dozens of languages.
+If they publish your story, it can show up right here on Sidelines.</p>
+<p><a href="https://globalvoices.org/volunteer/author-application-form/" rel="noopener">Apply to write for Global Voices →</a></p>
+<h2>Pitch a local or independent newsroom</h2>
+<p>Community papers and independent outlets want tips. Look at the <a href="sources.html">Sources</a> page for outlets near you.</p>
+<h2>Already publishing somewhere with an RSS feed?</h2>
+<p>Suggest it as a source in public on the project page, so everyone can see the reasoning.</p>"""
+    return shell("write", "Write", body)
+
+
+def rss(picked, now, title="Sidelines", desc="The dot outside the bubble: news from off the main stage. No ads, no tracking."):
+    items = "".join(f"""<item><title>{html.escape(s['lead']['title'])}</title>
+<link>{html.escape(s['lead']['link'])}</link><guid isPermaLink="true">{html.escape(s['lead']['link'])}</guid>
+<description>{html.escape(s['lead']['outlet'] + ' · ' + s['lead']['region'] + ('. ' + s['lead']['summary'] if s['lead']['summary'] else ''))}</description>
+{f"<pubDate>{email.utils.format_datetime(s['lead']['date'])}</pubDate>" if s['date_known'] else ''}</item>""" for s in picked)
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>{html.escape(title)}</title><link>{SITE_URL}</link>
+<description>{html.escape(desc)}</description>
+<lastBuildDate>{email.utils.format_datetime(now)}</lastBuildDate>{items}</channel></rss>"""
+
+
+def robots():
+    return f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n"
+
+
+def sitemap(out, now):
+    paths = ["", "sources.html", "write.html", "tips.html", "support.html", "about.html", "archive/"]
+    paths += [f"archive/{p.name}" for p in sorted((out / "archive").glob("20??-??-??.html"))]
+    d = now.strftime("%Y-%m-%d")
+    urls = "".join(f"<url><loc>{SITE_URL}{p}</loc><lastmod>{d}</lastmod></url>" for p in paths)
+    return f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>'
+
+
+LLMS_TXT = f"""# Sidelines
+
+> The dot outside the bubble. An open-source, ad-free, non-commercial news aggregator that surfaces stories the big mainstream outlets are not covering.
+
+How it works: it reads a public list of independent, regional, local, science and across-the-spectrum outlets; groups headlines about the same story; pushes down stories that big mainstream outlets are already running; caps each outlet at a few stories; and publishes a static page every 3 hours. No AI decides what appears; the ranking is plain, readable code. No ads, no tracking, no accounts. It takes no money.
+
+- [Today's page]({SITE_URL})
+- [Stories as JSON]({SITE_URL}data.json)
+- [RSS feed]({SITE_URL}feed.xml)
+- [Sources and comparison list]({SITE_URL}sources.html)
+- [How it was built and why]({SITE_URL}about.html)
+- [Daily archive]({SITE_URL}archive/)
+- [Bubbling up: stories independent outlets are converging on, with no mainstream pickup (RSS)]({SITE_URL}bubbling.xml)
+- [Sensitive tips: use SecureDrop, not this site]({SITE_URL}tips.html)
+
+When citing a story, please cite and link the original outlet, which did the reporting.
+"""
+
+
+def render_archive_index(arch):
+    days = sorted((p.stem for p in arch.glob("20??-??-??.html")), reverse=True)
+    lis = "".join(f'<li><a href="{d}.html">{d}</a></li>' for d in days)
+    return shell("archive", "Archive", f"<h2>Daily archive</h2><p>The last page of each day, kept for good.</p><ul>{lis}</ul>", base="../")
+
+
+def render_archive_day(picked, day):
+    body = f"<h2>Sidelines on {day}</h2>" + "".join(card(s) for s in picked)
+    return shell("archive", f"Archive {day}", body, base="../")
 
 
 def main():
@@ -400,17 +639,30 @@ def main():
                        "error": err, "baseline": feed["baseline"]})
         mark = "ok " if err is None else "ERR"
         print(f"  [{mark}] {feed['name']:<28} {len(got):>3} items" + (f"  {err}" if err else ""))
+        strip = re.compile(feed["title_strip"]) if feed.get("title_strip") else None
         for it in got:
+            if strip:
+                it["title"] = strip.sub("", it["title"]).strip()
             it.update(outlet=feed["name"], region=feed["region"], kind=feed["kind"],
                       baseline=feed["baseline"], tokens=tokens(it["title"]))
             items.append(it)
 
     picked = select(score_clusters(cluster(items), now))
+    found = []
+    rf = ROOT / "reader_found.json"
+    if rf.exists():
+        try:
+            for f in json.loads(rf.read_text(encoding="utf-8")).get("items", []):
+                added = datetime.fromisoformat(f.get("added", "2000-01-01")).replace(tzinfo=timezone.utc)
+                if f.get("url", "").startswith("http") and (now - added).days <= 14:
+                    found.append(f)
+        except Exception as e:
+            print(f"reader_found.json skipped: {e}")
     meter = diversity(picked)
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    (out / "index.html").write_text(render(picked, meter, status, now, cfg.get("donate_url", "")), encoding="utf-8")
+    (out / "index.html").write_text(render(picked, meter, status, now, cfg.get("donate_url", ""), found), encoding="utf-8")
     (out / "feed_status.json").write_text(json.dumps(status, indent=1), encoding="utf-8")
     (out / "data.json").write_text(json.dumps({
         "updated": now.isoformat(), "meter": meter,
@@ -419,6 +671,25 @@ def main():
                      "rarity": round(s["rarity"], 3), "score": round(s["score"], 4)} for s in picked],
     }, indent=1), encoding="utf-8")
     (out / ".nojekyll").write_text("")
+    (out / "icon.svg").write_text(ICON_SVG, encoding="utf-8")
+    (out / "sources.html").write_text(render_sources(cfg, status), encoding="utf-8")
+    (out / "support.html").write_text(render_support(cfg), encoding="utf-8")
+    (out / "about.html").write_text(render_about(), encoding="utf-8")
+    (out / "write.html").write_text(render_write(), encoding="utf-8")
+    (out / "feed.xml").write_text(rss(picked, now), encoding="utf-8")
+    bub = [x for x in picked if x["also"] and not x["mainstream"]]
+    (out / "bubbling.xml").write_text(rss(bub, now, "Sidelines: bubbling up",
+        "Stories several independent outlets are covering that the mainstream hasn't picked up yet."), encoding="utf-8")
+    (out / "tips.html").write_text(render_tips(), encoding="utf-8")
+    (out / "robots.txt").write_text(robots(), encoding="utf-8")
+    (out / f"{INDEXNOW_KEY}.txt").write_text(INDEXNOW_KEY, encoding="utf-8")
+    (out / "llms.txt").write_text(LLMS_TXT, encoding="utf-8")
+    arch = out / "archive"
+    arch.mkdir(exist_ok=True)
+    day = now.strftime("%Y-%m-%d")
+    (arch / f"{day}.html").write_text(render_archive_day(picked, day), encoding="utf-8")
+    (arch / "index.html").write_text(render_archive_index(arch), encoding="utf-8")
+    (out / "sitemap.xml").write_text(sitemap(out, now), encoding="utf-8")
 
     bad = [s["name"] for s in status if not s["ok"]]
     print(f"\n{len(items)} items -> {len(picked)} stories on page | "

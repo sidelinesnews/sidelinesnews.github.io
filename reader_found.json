@@ -1,0 +1,5 @@
+{
+  "_note": "Stories readers sent in that the robot missed. Add one by copying the example inside 'items' (remove the leading underscore from the key name). Each shows on the front page for 14 days after its 'added' date. Only add links to stories already published elsewhere.",
+  "_example": {"title": "Headline of the story", "url": "https://example.org/the-story", "outlet": "Name of the outlet", "note": "optional: why it matters", "added": "2026-11-02"},
+  "items": []
+}

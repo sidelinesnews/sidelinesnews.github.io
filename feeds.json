@@ -298,12 +298,17 @@
       "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
       "alt": [
         "https://www.cbc.ca/webfeed/rss/rss-world",
-        "https://rss.cbc.ca/lineup/topstories.xml"
-      ]
+        "https://news.google.com/rss/search?q=site:cbc.ca&hl=en-CA&gl=CA&ceid=CA:en"
+      ],
+      "title_strip": "\\s+-\\s+CBC( News)?$"
     },
     {
       "name": "Washington Post",
-      "url": "https://feeds.washingtonpost.com/rss/world"
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "alt": [
+        "https://news.google.com/rss/search?q=site:washingtonpost.com&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "title_strip": "\\s+-\\s+(The )?Washington Post$"
     }
   ]
 }
