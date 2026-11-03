@@ -18,7 +18,8 @@ No ads. No tracking. No accounts. No algorithmic feed tuned for engagement.
 2. **Group:** headlines that describe the same story are merged, so one event doesn't take up ten slots.
 3. **Score:** stories the mainstream baseline is covering lose most of their score. Stories picked up widely across the pool lose a little. Newer stories rank higher.
 4. **Balance:** each outlet can place at most 3 stories, and repeats from the same outlet are penalized so sources interleave.
-5. **Publish:** writes a static page to `docs/` with a diversity meter showing how spread out that day's page is.
+5. **A balanced handful:** the top five are two "Worth knowing", one "Something good", one "Something wondrous" and one "Off the map", with never more than two heavy stories. The word lists that decide "heavy" and "hopeful" are public in `tones.json`.
+6. **Publish:** writes a static page to `docs/` with a diversity meter showing how spread out that day's page is.
 
 All the logic is in `aggregator.py`, in plain Python with no dependencies. Anyone can read exactly why a story is on the page.
 

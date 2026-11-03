@@ -266,6 +266,24 @@
       "url": "https://www.wired.com/feed/rss",
       "region": "North America",
       "kind": "tech magazine"
+    },
+    {
+      "name": "Reasons to be Cheerful",
+      "url": "https://reasonstobecheerful.world/feed/",
+      "region": "Global",
+      "kind": "solutions"
+    },
+    {
+      "name": "Positive News",
+      "url": "https://www.positive.news/feed/",
+      "region": "Global",
+      "kind": "solutions"
+    },
+    {
+      "name": "YES! Magazine",
+      "url": "https://www.yesmagazine.org/feed",
+      "region": "Global",
+      "kind": "solutions"
     }
   ],
   "baseline": [

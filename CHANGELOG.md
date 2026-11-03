@@ -2,6 +2,13 @@
 
 Every change to how Sidelines chooses stories is recorded here, in the open.
 
+## 3 November 2026: a balanced handful
+
+- The top five now follow a fixed recipe: two "Worth knowing" (the most under-covered stories), one "Something good", one "Something wondrous" (science, curiosity, nature) and one "Off the map" (a region not already shown).
+- Never more than two heavy stories in the handful. Heavy stories still appear in the full list; nothing is hidden.
+- The words that mark a story as heavy or hopeful are public in `tones.json`.
+- Added three solutions-journalism outlets: Reasons to be Cheerful, Positive News and YES! Magazine.
+
 ## 3 November 2026: smarter story matching
 
 - Headlines are now also matched on rare, specific words (names, places, numbers), not only on how many words they share. Rare words count more than common ones, so "Ebola", "Congo" and "5,300" outweigh words like "says" or "new".

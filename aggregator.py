@@ -33,6 +33,7 @@ ROOT = Path(__file__).resolve().parent
 
 TAGLINE = "The dot outside the bubble."
 STYLE = ":root{--bg:#faf7f1;--fg:#2a2723;--mut:#76706a;--line:#ebe5da;--acc:#3a6b5c}\n@media (prefers-color-scheme:dark){:root{--bg:#1a1917;--fg:#e8e3da;--mut:#a39d93;--line:#2f2d29;--acc:#8cbfac}}\n*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.65 Georgia,'Iowan Old Style',serif}\nheader,main,footer{max-width:700px;margin:0 auto;padding:0 20px}\nheader{padding-top:36px}h1{font-size:30px;margin:0;letter-spacing:-.5px;display:flex;align-items:center;gap:12px}\n.logo{width:38px;height:38px;color:var(--acc);flex:none}\n.tagline{margin:4px 0 0 50px;font-style:italic;color:var(--acc)}\n.tag{color:var(--mut);margin:10px 0 20px}\n.meter{display:flex;gap:22px;flex-wrap:wrap;border:1px solid var(--line);border-radius:10px;padding:14px 18px;font:14px system-ui,sans-serif}\n.meter b{display:block;font-size:22px;color:var(--acc)}\n.bar{height:6px;background:var(--line);border-radius:3px;margin-top:6px;width:120px}.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}\nnav{margin:18px 0 6px;display:flex;gap:6px;flex-wrap:wrap}\nnav button{font:13px system-ui,sans-serif;background:none;border:1px solid var(--line);color:var(--fg);border-radius:20px;padding:4px 11px;cursor:pointer}\nnav button.on{background:var(--acc);color:var(--bg);border-color:var(--acc)}\narticle{border-bottom:1px solid var(--line);padding:18px 0}\n.meta,.notes{font:13px system-ui,sans-serif;color:var(--mut)}.outlet{color:var(--fg);font-weight:600}\nh2{font-size:20px;margin:6px 0;line-height:1.3}h2 a{color:inherit;text-decoration:none}h2 a:hover{text-decoration:underline}\narticle p{margin:4px 0 8px}\n.badge{margin-left:8px;font-size:11px;padding:1px 7px;border-radius:9px;border:1px solid var(--line)}\n.badge.rare{color:var(--acc);border-color:var(--acc)}\nfooter{font:13px system-ui,sans-serif;color:var(--mut);padding:30px 20px 50px}a{color:var(--acc)}\n.links{font:14px system-ui,sans-serif;margin:10px 0 0 50px;display:flex;gap:14px;flex-wrap:wrap}\n.links a{text-decoration:none}.links a.here{color:var(--fg);font-weight:600}\n.page{max-width:700px;margin:0 auto;padding:0 20px 40px}.page h2{margin-top:28px}\n.page li{margin:6px 0}.src{font:14px system-ui,sans-serif}.src td{padding:6px 10px 6px 0;border-bottom:1px solid var(--line);vertical-align:top}\n.src th{text-align:left;font-weight:600;padding:6px 10px 6px 0;border-bottom:2px solid var(--line)}\n.fp{font:12px ui-monospace,monospace;word-break:break-all;background:var(--line);padding:8px;border-radius:6px}\n"
+STYLE += ".slot{font:600 11px system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--acc);margin-bottom:2px}"
 STYLE += ".greet{font-style:italic;color:var(--mut);margin:14px 0 0}.calm{font:14px system-ui,sans-serif;color:var(--mut);text-align:center;margin:10px 0 4px}.done{text-align:center;color:var(--mut);margin:34px 0 0;font-style:italic}article{padding:20px 0}"
 STYLE += '.handful{border:1px solid var(--line);border-radius:12px;padding:6px 18px;margin:22px 0 14px}\n.handful h3,.box h3,h3.all{font:600 15px system-ui,sans-serif;margin:12px 0 4px;display:flex;align-items:center;gap:10px}\n.handful article:last-child{border-bottom:none}\n#surprise{margin-left:auto;font:13px system-ui,sans-serif;background:var(--acc);color:var(--bg);border:none;border-radius:20px;padding:6px 14px;cursor:pointer}\n.box{border-left:4px solid var(--acc);padding:4px 16px;margin:16px 0;background:color-mix(in srgb,var(--acc) 7%,transparent);border-radius:0 10px 10px 0}\n.box p{margin:6px 0 10px}.box ul{padding-left:18px}\nh3.all{margin-top:26px}\n.notes b{font-weight:600}\n@media (max-width:600px){body{font-size:17px}header{padding-top:22px}h1{font-size:26px}.logo{width:32px;height:32px}\n.tagline,.links{margin-left:0}.meter{display:grid;grid-template-columns:1fr 1fr;gap:12px}.bar{width:100%}\nh2{font-size:19px}nav button{padding:8px 13px;font-size:14px}.links{gap:16px;font-size:15px}\n.handful{padding:4px 14px}.src{font-size:13px}footer{line-height:1.9}}\n'
 ICON_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sidelines: the dot outside the bubble">'
@@ -423,6 +424,9 @@ The idea, the rules and every decision below came from its founder; the AI helpe
 <li><b>No tip jar.</b> It costs nothing to run, so asking for money would only be reaching. Support goes to the journalists instead.</li>
 <li><b>Open source under AGPL-3.0.</b> If Sidelines ever breaks its promise, anyone can run the honest version.</li>
 <li><b>A legacy plan.</b> Everything is meant to pass to the Freedom of the Press Foundation one day, if they'll have it.</li>
+<li><b>A balanced handful.</b> The top five follow an old idea: something worth knowing (the True), something good,
+something wondrous (the Beautiful), and something off the map, with never more than two heavy stories (Aristotle's mean).
+The words that mark a story as heavy or hopeful are public in <code>tones.json</code> (Bacon: show your method).</li>
 <li><b>Pseudonymous on purpose.</b> The project should stand on its rules, not on who made it.</li>
 </ul>
 <h2>The founding statement, stamped</h2>
@@ -463,7 +467,7 @@ def next_run(now):
     return t
 
 
-def card(s, compact=False):
+def card(s, compact=False, label=""):
     L = s["lead"]
     n = 1 + len(s["also"])
     why = [f"{n} outlet{'s' if n > 1 else ''} running this"]
@@ -477,7 +481,7 @@ def card(s, compact=False):
     summ = f'<p>{html.escape(L["summary"])}</p>' if L["summary"] and not compact else ""
     return f"""
 <article data-region="{html.escape(L['region'])}">
-  <div class="meta"><span class="outlet">{html.escape(L['outlet'])}</span> · {html.escape(L['region'])} · {html.escape(L['kind'])}{when}<span class="badge {rare}">{rare}</span></div>
+  {f'<div class="slot">{html.escape(label)}</div>' if label else ''}<div class="meta"><span class="outlet">{html.escape(L['outlet'])}</span> · {html.escape(L['region'])} · {html.escape(L['kind'])}{when}<span class="badge {rare}">{rare}</span></div>
   <h2><a href="{html.escape(L['link'], quote=True)}" rel="noopener noreferrer" target="_blank">{html.escape(L['title'])}</a></h2>
   {summ}
   <div class="notes"><b>Why it's here:</b> {' · '.join(why)}</div>
@@ -494,6 +498,61 @@ def json_ld(picked, now):
             "name": "Sidelines: stories from off the main stage", "dateModified": now.isoformat(),
             "itemListElement": items}
     return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+
+
+def load_tones():
+    try:
+        t = json.loads((ROOT / "tones.json").read_text(encoding="utf-8"))
+    except Exception:
+        t = {}
+    return ({w.lower() for w in t.get("heavy", [])}, {w.lower() for w in t.get("hopeful", [])},
+            set(t.get("wonder_kinds", [])), set(t.get("good_kinds", [])))
+
+
+def tone(s, tones):
+    heavy, hopeful, wonder_kinds, good_kinds = tones
+    L = s["lead"]
+    text = " " + re.sub(r"[^a-z0-9 ]", " ", (L["title"] + " " + L["summary"][:200]).lower()) + " "
+    has = lambda words: any(f" {w} " in text for w in words)
+    if has(heavy):
+        return "heavy"
+    if L["kind"] in good_kinds or has(hopeful):
+        return "good"
+    if L["kind"] in wonder_kinds:
+        return "wonder"
+    return "plain"
+
+
+def curate_handful(picked, tones):
+    """Plato: the True, the Good, the Beautiful. Aristotle: the mean, at most 2 heavy stories.
+    Bacon: rules in the open (tones.json), so anyone can check them."""
+    t = {id(s): tone(s, tones) for s in picked}
+    chosen = []
+
+    def take(pred, label):
+        for s in picked:
+            if id(s) not in {id(c) for c, _ in chosen} and pred(s):
+                chosen.append((s, label))
+                return True
+        return False
+
+    take(lambda s: True, "Worth knowing")
+    take(lambda s: True, "Worth knowing")
+    take(lambda s: t[id(s)] == "good", "Something good") or take(lambda s: t[id(s)] != "heavy", "Something good")
+    take(lambda s: t[id(s)] == "wonder", "Something wondrous") or take(lambda s: t[id(s)] not in ("heavy",), "Something wondrous")
+    regions = {c["lead"]["region"] for c, _ in chosen}
+    take(lambda s: t[id(s)] != "heavy" and s["lead"]["region"] not in regions, "Off the map") or \
+        take(lambda s: t[id(s)] != "heavy", "Off the map")
+    # Aristotle's mean: never more than two heavy stories in the handful
+    heavy_count = 0
+    out = []
+    for s, label in chosen:
+        if t[id(s)] == "heavy":
+            heavy_count += 1
+            if heavy_count > 2:
+                continue
+        out.append((s, label))
+    return out
 
 
 def bubbling_block(bub):
@@ -516,9 +575,10 @@ def reader_block(found):
 
 def render(picked, meter, status, now, donate_url="", found=()):
     regions = sorted({s["lead"]["region"] for s in picked})
-    handful = picked[:5]
-    bubbling = [s for s in picked if s["also"] and not s["mainstream"]][:5]
-    shown = {id(x) for x in handful} | {id(x) for x in bubbling}
+    handful = curate_handful(picked, load_tones())
+    bubbling = [s for s in picked if s["also"] and not s["mainstream"]
+                and id(s) not in {id(h) for h, _ in handful}][:5]
+    shown = {id(x) for x, _ in handful} | {id(x) for x in bubbling}
     rest = [s for s in picked if id(s) not in shown]
     ok = sum(1 for x in status if x["ok"])
     donate = (f' · <a href="{html.escape(donate_url, quote=True)}" rel="noopener">Support Sidelines</a> (every dollar shown publicly)'
@@ -550,7 +610,7 @@ def render(picked, meter, status, now, donate_url="", found=()):
 </header>
 <main>
 <section class="handful"><h3>Today's handful <button id="surprise" type="button">Surprise me</button></h3>
-{''.join(card(s, compact=True) for s in handful) or '<p>No stories this run.</p>'}
+{''.join(card(s, compact=True, label=lab) for s, lab in handful) or '<p>No stories this run.</p>'}
 <p class="calm">That's the handful. The rest can wait.</p>
 </section>
 {bubbling_block(bubbling)}

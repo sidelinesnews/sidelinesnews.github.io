@@ -1,0 +1,7 @@
+{
+  "_note": "Public word lists used to balance the front-page handful. A story is 'heavy' if its headline or first lines contain a heavy word; 'hopeful' if it contains a hopeful word and no heavy word. Nothing is hidden: heavy stories still appear in the full list. Edit in the open and log changes in CHANGELOG.md.",
+  "heavy": ["kill", "killed", "kills", "dead", "death", "deaths", "dies", "died", "war", "attack", "attacks", "strike", "strikes", "bomb", "bombing", "shooting", "massacre", "outbreak", "epidemic", "famine", "crash", "collapse", "disaster", "flood", "floods", "wildfire", "earthquake", "murder", "abuse", "torture", "genocide", "invasion", "missile", "drone", "hostage", "executed", "execution", "crisis", "violence", "riot", "riots", "arrested", "jailed", "sentenced", "lawsuit", "scandal", "fraud"],
+  "hopeful": ["restore", "restored", "restoring", "recover", "recovered", "recovery", "revive", "revived", "rescue", "rescued", "saved", "saves", "protect", "protected", "breakthrough", "discover", "discovered", "discovery", "cure", "solution", "solutions", "rebuild", "rebuilt", "return", "returns", "thrive", "thriving", "win", "wins", "success", "succeeds", "celebrate", "celebrates", "first", "new species", "community", "volunteers", "free", "clean", "planted", "reopens", "reunited", "hope"],
+  "wonder_kinds": ["science", "curiosity", "tech magazine", "academic", "environment"],
+  "good_kinds": ["solutions"]
+}
