@@ -185,38 +185,66 @@ def fetch_all(feeds):
 # ---------- clustering ----------
 
 def tokens(text):
-    words = re.findall(r"[a-z0-9]+", text.lower())
+    # "5,300" and "5300" should be the same fingerprint
+    text = re.sub(r"(?<=\d)[,.](?=\d{3}\b)", "", text.lower())
+    words = re.findall(r"[a-z0-9]+", text)
     out = set()
     for w in words:
-        if w in STOP or len(w) < 3:
+        if w in STOP or (len(w) < 3 and not w.isdigit()):
             continue
-        if len(w) > 4 and w.endswith("s") and not w.endswith("ss"):
+        if len(w) > 4 and w.endswith("s") and not w.endswith("ss") and not w.isdigit():
             w = w[:-1]
         out.add(w)
     return out
 
 
-def same_story(a, b):
+def same_story(a, b, weight=None, strong=None):
+    """Two headlines are the same story if they share enough words (the original rule),
+    OR if they share at least two rare, specific words (names, numbers) that carry
+    most of their meaning. Rare words count more than common ones: 'Ebola', 'Congo'
+    and '5300' tell you far more than 'says' or 'new'."""
     shared = a & b
-    if len(shared) < 3:
+    if len(shared) >= 3 and len(shared) / min(len(a), len(b)) >= 0.5:
+        return True
+    if weight is None or len(shared) < 2:
         return False
-    return len(shared) / min(len(a), len(b)) >= 0.5
+    rare = [t for t in shared if t in strong]
+    if len(rare) < 2:
+        return False
+    wa, wb = sum(weight(t) for t in a), sum(weight(t) for t in b)
+    return sum(weight(t) for t in shared) / min(wa, wb) >= 0.35
 
 
 def cluster(items):
-    clusters = []
+    # How many headlines use each word, across everything fetched this run.
+    df = Counter()
+    for it in items:
+        df.update(it["tokens"])
+    n = max(len(items), 1)
+    strong = {t for t, c in df.items() if c <= max(3, n * 0.006)}
+
+    def weight(t):
+        return math.log((n + 1) / (df[t] + 1))
+
+    clusters, index = [], {}
     for it in items:
         tk = it["tokens"]
-        if len(tk) < 3:
+        home = None
+        if len(tk) >= 2:
+            # only look at clusters that share at least one word (fast)
+            cands = sorted({ci for t in tk for ci in index.get(t, ())})
+            for ci in cands:
+                if any(same_story(tk, m["tokens"], weight, strong) for m in clusters[ci]["items"]):
+                    home = ci
+                    break
+        if home is None:
             clusters.append({"items": [it], "tokens": set(tk)})
-            continue
-        for c in clusters:
-            if same_story(tk, c["tokens"]):
-                c["items"].append(it)
-                c["tokens"] |= tk
-                break
+            home = len(clusters) - 1
         else:
-            clusters.append({"items": [it], "tokens": set(tk)})
+            clusters[home]["items"].append(it)
+            clusters[home]["tokens"] |= tk
+        for t in tk:
+            index.setdefault(t, set()).add(home)
     return clusters
 
 

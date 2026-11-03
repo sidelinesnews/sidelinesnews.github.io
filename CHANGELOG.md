@@ -2,6 +2,12 @@
 
 Every change to how Sidelines chooses stories is recorded here, in the open.
 
+## 3 November 2026: smarter story matching
+
+- Headlines are now also matched on rare, specific words (names, places, numbers), not only on how many words they share. Rare words count more than common ones, so "Ebola", "Congo" and "5,300" outweigh words like "says" or "new".
+- Two headlines are treated as the same story if they share at least two rare words that carry most of their meaning. Numbers like "5,300" and "5300" now match.
+- Result: fewer stories wrongly labelled "no mainstream pickup", and a more trustworthy Bubbling up list.
+
 ## 2 November 2026: sources
 
 - Added WIRED to the pool.
