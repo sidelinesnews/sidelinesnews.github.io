@@ -21,8 +21,8 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 50,
-  "undated_or_future": 1,
+  "items": 51,
+  "undated_or_future": 2,
   "error": null,
   "baseline": false
  },
@@ -119,10 +119,10 @@
  {
   "name": "Balkan Insight",
   "url": "https://balkaninsight.com/feed/",
-  "ok": true,
-  "items": 90,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "TimeoutError: The read operation timed out",
   "baseline": false
  },
  {
@@ -423,6 +423,51 @@
   "baseline": false
  },
  {
+  "name": "Good News Network",
+  "url": "https://www.goodnewsnetwork.org/feed/",
+  "ok": true,
+  "items": 50,
+  "undated_or_future": 0,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Optimist Daily",
+  "url": "https://www.optimistdaily.com/feed/",
+  "ok": true,
+  "items": 10,
+  "undated_or_future": 0,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "Good News Network: Animals",
+  "url": "https://www.goodnewsnetwork.org/category/news/animals/feed/",
+  "ok": true,
+  "items": 50,
+  "undated_or_future": 0,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "McSweeney's",
+  "url": "https://feeds.feedburner.com/mcsweeneys",
+  "ok": true,
+  "items": 20,
+  "undated_or_future": 0,
+  "error": null,
+  "baseline": false
+ },
+ {
+  "name": "The Beaverton",
+  "url": "https://www.thebeaverton.com/feed/",
+  "ok": true,
+  "items": 10,
+  "undated_or_future": 0,
+  "error": null,
+  "baseline": false
+ },
+ {
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
@@ -444,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 57,
+  "items": 56,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
