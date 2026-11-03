@@ -44,6 +44,7 @@ CONFIG = {
     "max_stories": 60,         # stories on the page
     "per_outlet_cap": 3,       # max stories from any one outlet
     "max_age_hours": 96,       # ignore anything older
+    "gentle_max_age_hours": 336,  # good/wondrous handful slots may reach back 14 days
     "half_life_hours": 36,     # freshness decay
     "timeout": 20,
     "user_agent": "SidelinesBot/0.3 (+open-source news aggregator)",
@@ -264,7 +265,8 @@ def item_age_h(it, now):
     return max(0.0, age)
 
 
-def score_clusters(clusters, now):
+def score_clusters(clusters, now, max_age=None):
+    max_age = CONFIG["max_age_hours"] if max_age is None else max_age
     scored = []
     for c in clusters:
         pool = [i for i in c["items"] if not i["baseline"]]
@@ -280,7 +282,7 @@ def score_clusters(clusters, now):
         date_known = age_h is not None
         if not date_known:
             age_h = UNKNOWN_AGE_H
-        if age_h > CONFIG["max_age_hours"]:
+        if age_h > max_age:
             continue
         fresh = 0.5 ** (age_h / CONFIG["half_life_hours"])
         scored.append({
@@ -523,35 +525,74 @@ def tone(s, tones):
     return "plain"
 
 
-def curate_handful(picked, tones):
+def curate_handful(picked, tones, reserve=()):
     """Plato: the True, the Good, the Beautiful. Aristotle: the mean, at most 2 heavy stories.
-    Bacon: rules in the open (tones.json), so anyone can check them."""
-    t = {id(s): tone(s, tones) for s in picked}
+    Bacon: rules in the open (tones.json), so anyone can check them.
+    A label is a promise: if nothing truly good or wondrous turned up, the slot says 'Something else'."""
+    links = {p["lead"]["link"] for p in picked}
+    pool = list(picked) + [r for r in reserve if r["lead"]["link"] not in links]
+    t = {id(s): tone(s, tones) for s in pool}
     chosen = []
+    # one story per outlet in the handful, so no single voice sets the mood
+    used = lambda: ({id(c) for c, _ in chosen}, {c["lead"]["outlet"] for c, _ in chosen})
 
-    def take(pred, label):
-        for s in picked:
-            if id(s) not in {id(c) for c, _ in chosen} and pred(s):
+    def take(src, pred, label):
+        ids, outlets = used()
+        for s in src:
+            if id(s) not in ids and s["lead"]["outlet"] not in outlets and pred(s):
                 chosen.append((s, label))
                 return True
         return False
 
-    take(lambda s: True, "Worth knowing")
-    take(lambda s: True, "Worth knowing")
-    take(lambda s: t[id(s)] == "good", "Something good") or take(lambda s: t[id(s)] != "heavy", "Something good")
-    take(lambda s: t[id(s)] == "wonder", "Something wondrous") or take(lambda s: t[id(s)] not in ("heavy",), "Something wondrous")
+    take(picked, lambda s: True, "Worth knowing")
+    take(picked, lambda s: True, "Worth knowing")
+    take(picked, lambda s: t[id(s)] == "good", "Something good") or \
+        take(pool, lambda s: t[id(s)] == "good", "Something good") or \
+        take(picked, lambda s: t[id(s)] != "heavy", "Something else")
+    take(picked, lambda s: t[id(s)] == "wonder", "Something wondrous") or \
+        take(pool, lambda s: t[id(s)] == "wonder", "Something wondrous") or \
+        take(picked, lambda s: t[id(s)] != "heavy", "Something else")
     regions = {c["lead"]["region"] for c, _ in chosen}
-    take(lambda s: t[id(s)] != "heavy" and s["lead"]["region"] not in regions, "Off the map") or \
-        take(lambda s: t[id(s)] != "heavy", "Off the map")
-    # Aristotle's mean: never more than two heavy stories in the handful
-    heavy_count = 0
-    out = []
-    for s, label in chosen:
+    take(picked, lambda s: t[id(s)] != "heavy" and s["lead"]["region"] not in regions, "Off the map") or \
+        take(picked, lambda s: t[id(s)] != "heavy", "Off the map")
+    out, heavy_count = [], 0
+    for s, label in chosen:  # Aristotle's mean: never more than two heavy stories
         if t[id(s)] == "heavy":
             heavy_count += 1
             if heavy_count > 2:
                 continue
         out.append((s, label))
+    return out
+
+
+def brighten(rest, picked, reserve, tones, handful, every=3):
+    """Every third story in the full list is a good one (or, failing that, a wondrous one).
+    Good stories already on the page move up; if there aren't enough, the 14-day well tops up.
+    When the well runs dry, the list just carries on: nothing is invented, nothing is hidden."""
+    t = lambda s: tone(s, tones)
+    links = {s["lead"]["link"] for s in picked} | {h["lead"]["link"] for h, _ in handful}
+    extra_outlets = Counter()
+    well = []
+    for r in reserve:
+        if r["lead"]["link"] in links or extra_outlets[r["lead"]["outlet"]] >= CONFIG["per_outlet_cap"]:
+            continue
+        if t(r) in ("good", "wonder"):
+            well.append(r); extra_outlets[r["lead"]["outlet"]] += 1
+    bright = [s for s in rest if t(s) == "good"] + [s for s in well if t(s) == "good"] + \
+             [s for s in rest if t(s) == "wonder"] + [s for s in well if t(s) == "wonder"]
+    bright_ids = {id(s) for s in bright}
+    other = [s for s in rest if id(s) not in bright_ids]
+    out = []
+    while other or bright:
+        if (len(out) + 1) % every == 0 and bright:
+            out.append(bright.pop(0))
+        elif other:
+            out.append(other.pop(0))
+        elif bright and any(id(x) in {id(r) for r in rest} for x in bright):
+            out.extend(x for x in bright if id(x) in {id(r) for r in rest})  # leftover on-page stories stay
+            break
+        else:
+            break
     return out
 
 
@@ -573,13 +614,14 @@ def reader_block(found):
     return f'<section class="box"><h3>Found by readers</h3><ul>{lis}</ul></section>'
 
 
-def render(picked, meter, status, now, donate_url="", found=()):
+def render(picked, meter, status, now, donate_url="", found=(), reserve=()):
     regions = sorted({s["lead"]["region"] for s in picked})
-    handful = curate_handful(picked, load_tones())
+    tones = load_tones()
+    handful = curate_handful(picked, tones, reserve)
     bubbling = [s for s in picked if s["also"] and not s["mainstream"]
                 and id(s) not in {id(h) for h, _ in handful}][:5]
     shown = {id(x) for x, _ in handful} | {id(x) for x in bubbling}
-    rest = [s for s in picked if id(s) not in shown]
+    rest = brighten([s for s in picked if id(s) not in shown], picked, reserve, tones, handful)
     ok = sum(1 for x in status if x["ok"])
     donate = (f' · <a href="{html.escape(donate_url, quote=True)}" rel="noopener">Support Sidelines</a> (every dollar shown publicly)'
               if donate_url.startswith("https://") else "")
@@ -748,7 +790,9 @@ def main():
                       baseline=feed["baseline"], tokens=tokens(it["title"]))
             items.append(it)
 
-    picked = select(score_clusters(cluster(items), now))
+    clusters = cluster(items)
+    picked = select(score_clusters(clusters, now))
+    reserve = score_clusters(clusters, now, CONFIG["gentle_max_age_hours"])
     found = []
     rf = ROOT / "reader_found.json"
     if rf.exists():
@@ -763,7 +807,7 @@ def main():
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    (out / "index.html").write_text(render(picked, meter, status, now, cfg.get("donate_url", ""), found), encoding="utf-8")
+    (out / "index.html").write_text(render(picked, meter, status, now, cfg.get("donate_url", ""), found, reserve), encoding="utf-8")
     (out / "feed_status.json").write_text(json.dumps(status, indent=1), encoding="utf-8")
     (out / "data.json").write_text(json.dumps({
         "updated": now.isoformat(), "meter": meter,

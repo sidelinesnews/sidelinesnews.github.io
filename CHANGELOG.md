@@ -2,6 +2,16 @@
 
 Every change to how Sidelines chooses stories is recorded here, in the open.
 
+## 3 November 2026: labels are promises
+
+The first live run of the balanced handful mislabelled two stories: an election-timing explainer was called "Something good", and a story about a controversial resort was called "Something wondrous". Fixes:
+
+- **No false labels.** If no story truly fits "good" or "wondrous", the slot now says **Something else**.
+- **A deeper well.** Hopeful outlets publish less often, so the good and wondrous slots may reach back up to 14 days. Everything else still sticks to the last 4 days.
+- **Every third story is a bright one.** In the full list, every third story is good news (or, failing that, something wondrous), topped up from the 14-day well. When the well runs dry, the list carries on as normal: nothing is invented, nothing is hidden. Doom sells; Sidelines isn't selling anything.
+- **One outlet per handful**, so no single voice sets the mood.
+- **Word lists tuned** (`tones.json`): added heavier words (arrest, police, controversial, uncertainty, protest…); removed noisy hopeful words (first, free, win, return, community, clean); environment outlets no longer count as automatically "wondrous".
+
 ## 3 November 2026: a balanced handful
 
 - The top five now follow a fixed recipe: two "Worth knowing" (the most under-covered stories), one "Something good", one "Something wondrous" (science, curiosity, nature) and one "Off the map" (a region not already shown).
