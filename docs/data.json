@@ -1,31 +1,41 @@
 {
- "updated": "2026-11-03T08:38:29.423137+00:00",
+ "updated": "2026-11-03T08:44:01.235105+00:00",
  "meter": {
-  "outlets": 41,
+  "outlets": 42,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Ukrainian drone strike sparks major fire at one of Russia\u2019s largest oil refineries",
-   "link": "https://meduza.io/en/news/2026/11/03/ukrainian-drone-strike-sparks-major-fire-at-one-of-russia-s-largest-oil-refineries",
+   "title": "VIDEO: Poll Dancing: Watch Politically Aweh\u2019s elections comedy special before you vote",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-03-poll-dancing-watch-politically-awehs-elections-comedy-special-before-you-vote/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 1.0
+  },
+  {
+   "title": "Zelensky to visit Berlin on Nov. 3, says German chancellor",
+   "link": "https://kyivindependent.com/zelensky-to-visit-berlin-on-nov-3-says-german-chancellor-2/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9999
+  },
+  {
+   "title": "Russia to ban two people from riding a single e-scooter and prohibit delivery couriers from using sidewalks",
+   "link": "https://meduza.io/en/news/2026/11/03/russia-to-ban-two-people-from-riding-a-single-e-scooter-and-prohibit-delivery-couriers-from-using-sidewalks",
    "outlet": "Meduza (English)",
    "region": "Russia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9986
-  },
-  {
-   "title": "FIFA to share documents related to World Cup sell-off plan",
-   "link": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9977
+   "score": 0.9997
   },
   {
    "title": "Lawmakers propose 74 additional seats for women in Nigeria\u2019s National Assembly",
@@ -35,7 +45,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9963
+   "score": 0.9951
   },
   {
    "title": "Firms with questionable capacity bagged thousands of DPWH contracts \u2013 COA report",
@@ -45,7 +55,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9957
+   "score": 0.9946
+  },
+  {
+   "title": "Can the world withstand another winter of war?",
+   "link": "https://www.middleeasteye.net/opinion/can-world-withstand-another-winter-war",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.994
   },
   {
    "title": "Hong Kong police arrest 61-year-old man over suspected drink spiking of Japanese DJ Mao Hamasaki",
@@ -55,7 +75,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9946
+   "score": 0.9934
   },
   {
    "title": "Open Thread",
@@ -65,7 +85,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.992
+   "score": 0.9909
   },
   {
    "title": "\u2018Boiling Point\u2019: How America lit and fueled the Ukraine war",
@@ -75,7 +95,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9906
+   "score": 0.9894
   },
   {
    "title": "\u2018I try to create a chasm between the word and the image that only the reader can bridge\u2019",
@@ -85,17 +105,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9885
-  },
-  {
-   "title": "General Staff: Russia has lost 1,594,830 troops in Ukraine since Feb. 24, 2022",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-594-830-troops-in-ukraine-since-feb-24-2022/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.988
+   "score": 0.9874
   },
   {
    "title": "Kenya: President Ruto Mourns Former Ag Paul Kihara, Hails His Contribution to Judiciary",
@@ -105,347 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.986
-  },
-  {
-   "title": "Post-Vucic Serbia Will Reengage with Europe, But It Will Not Be a Honeymoon",
-   "link": "https://balkaninsight.com/2026/11/03/post-vucic-serbia-will-reengage-with-europe-but-it-will-not-be-a-honeymoon/bi/",
-   "outlet": "Balkan Insight",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9794
-  },
-  {
-   "title": "Uncertainty surrounds controversial resort in Zanzibar forest reserve as work stalls",
-   "link": "https://news.mongabay.com/2026/11/uncertainty-surrounds-controversial-resort-in-zanzibar-forest-reserve-as-work-stalls/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9774
-  },
-  {
-   "title": "Today Is the End of the World as We Know It",
-   "link": "https://www.theamericanconservative.com/today-is-the-end-of-the-world-as-we-know-it/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.957
-  },
-  {
-   "title": "INSOLVENCY & LIQUIDATION : Business rescue \u2014 lifeline or delay tactic for struggling companies?",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-03-business-rescue-lifeline-or-delay-tactic-for-struggling-companies/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9569
-  },
-  {
-   "title": "China imports millions of donkey hides from Africa every year: New book traces the drivers and impact",
-   "link": "https://phys.org/news/2026-11-china-imports-millions-donkey-africa.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9444
-  },
-  {
-   "title": "Unpacking Hong Kong\u2019s rule of law score according to the World Justice Project\u2019s ranking",
-   "link": "https://globalvoices.org/2026/11/03/unpacking-hong-kongs-rule-of-law-score-according-to-the-world-justice-projects-ranking/",
-   "outlet": "Global Voices",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9372
-  },
-  {
-   "title": "Former Assembly staffer claims retaliation, hostile work environment in lawsuit",
-   "link": "https://calmatters.org/politics/2026/11/california-lawmaker-pacheco-sued/",
-   "outlet": "CalMatters",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9088
-  },
-  {
-   "title": "Corruption joins the cost of living as a top concern for US voters",
-   "link": "https://en.mercopress.com/2026/11/03/corruption-joins-the-cost-of-living-as-a-top-concern-for-us-voters?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9059
-  },
-  {
-   "title": "Rencontre historique : PM du Qu\u00e9bec absent",
-   "link": "https://www.aptnnews.ca/reportages/rencontre-historique-pm-du-quebec-absent/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9047
-  },
-  {
-   "title": "Britain should decolonize the Commonwealth",
-   "link": "https://unherd.com/2026/11/lets-decolonise-the-commonwealth/?edition=us",
-   "outlet": "UnHerd",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9011
-  },
-  {
-   "title": "Beijing to step up aggression: MAC official",
-   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/03/2003867047",
-   "outlet": "Taipei Times",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9004
-  },
-  {
-   "title": "Johnson, Other Candidates Face Challenges To Nominating Petitions For Mayor\u2019s Race",
-   "link": "https://blockclubchicago.org/2026/11/02/johnson-other-candidates-face-challenges-to-nominating-petitions-for-mayors-race/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8966
-  },
-  {
-   "title": "A new road opens in Canc\u00fan, better connecting the airport with the hotel zone",
-   "link": "https://mexiconewsdaily.com/travel/new-roadway-cancun-airport-hotel-zone/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8944
-  },
-  {
-   "title": "The Online Right\u2019s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
-   "link": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8929
-  },
-  {
-   "title": "Southwestern Colorado saw damaging floods overnight. Here\u2019s what residents documented.",
-   "link": "https://coloradosun.com/2026/11/02/southwestern-colorado-flood-damage-videos/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8899
-  },
-  {
-   "title": "Is India Extending Its Control Over Islamic Practice In Kashmir?",
-   "link": "https://thediplomat.com/2026/11/is-india-extending-its-control-over-islamic-practice-in-kashmir/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8743
-  },
-  {
-   "title": "Tomba Dei Gigante S\u2019Ena e Thimes in Dorgali, Italy",
-   "link": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
-   "outlet": "Atlas Obscura",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8695
-  },
-  {
-   "title": "100,000 California State Workers Struck Last Month",
-   "link": "https://jacobin.com/2026/11/california-seiu-state-strike-newsom",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8606
-  },
-  {
-   "title": "\u2018Bookkeeping Trick\u2019 and Fuzzy Math Conceal the Climate Impacts of Beef, Researchers Say",
-   "link": "https://insideclimatenews.org/news/02112026/beef-climate-impacts-accuracy/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8596
-  },
-  {
-   "title": "Abdul El-Sayed\u2019s Race Has Been Defined by Islamophobia. Will It Be Determined by It?",
-   "link": "https://theintercept.com/2026/11/02/michigan-el-sayed-rogers-muslim-islamophobia/",
-   "outlet": "The Intercept",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8556
-  },
-  {
-   "title": "King Charles shouldn\u2019t apologise for Britain\u2019s role in the slave trade",
-   "link": "https://www.spiked-online.com/2026/11/02/king-charles-shouldnt-apologise-for-britains-role-in-the-slave-trade/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8547
-  },
-  {
-   "title": "The Student Movement Addressing Campus Polarization Head On",
-   "link": "https://reasonstobecheerful.world/students-addressing-campus-polarization-healthy-debate/",
-   "outlet": "Reasons to be Cheerful",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8435
-  },
-  {
-   "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
-   "link": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
-   "outlet": "ProPublica",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.838
-  },
-  {
-   "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
-   "link": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
-   "outlet": "The Conversation",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8241
-  },
-  {
-   "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
-   "link": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
-   "outlet": "Bellingcat",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8235
-  },
-  {
-   "title": "Is There Anything Left in the Dream of Cold Fusion?",
-   "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-   "outlet": "Quanta Magazine",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8201
-  },
-  {
-   "title": "Politicians have floated building more oil refineries in Canada. Here\u2019s what you need to know",
-   "link": "https://thenarwhal.ca/canada-oil-refineries-explainer/?utm_source=rss",
-   "outlet": "The Narwhal",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7868
-  },
-  {
-   "title": "Inside the booth: Faith, economy and immigration inspired these Texans\u2019 votes",
-   "link": "https://feeds.texastribune.org/link/16799/17513413/why-texas-voters-voted-midterm-election-2026",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7785
-  },
-  {
-   "title": "The American Dream wasn\u2019t built for climate change",
-   "link": "https://grist.org/economics/american-dream-climate-home-insurance-helene-affordability/",
-   "outlet": "Grist",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7683
-  },
-  {
-   "title": "The women\u2019s boxing nights helping abuse survivors",
-   "link": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
-   "outlet": "Positive News",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7658
-  },
-  {
-   "title": "A BC Firm Aims to Mine in Tatshenshini Park, a World Heritage Site",
-   "link": "https://thetyee.ca/News/2026/11/02/BC-Firm-Aims-Mine-Tatshenshini-Park/",
-   "outlet": "The Tyee",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7597
-  },
-  {
-   "title": "2027 Politics Watch: Battle for place on ballot, Kano question INEC yet to answer",
-   "link": "https://www.premiumtimesng.com/news/top-news/922304-2027-politics-watch-battle-for-place-on-ballot-kano-question-inec-yet-to-answer.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.994
-  },
-  {
-   "title": "Camarines Norte communities take charge of local climate fight",
-   "link": "https://www.rappler.com/people/human-interest/camarines-norte-communities-take-charge-climate-fight/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9932
-  },
-  {
-   "title": "Ahmedabad: 61 allegedly undocumented immigrants detained in \u2018pre-Diwali safety drive\u2019",
-   "link": "https://scroll.in/latest/1096831/ahmedabad-61-allegedly-undocumented-immigrants-detained-in-pre-diwali-safety-drive?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9874
+   "score": 0.9848
   },
   {
    "title": "When will we know the US midterm election results?",
@@ -455,7 +125,367 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9853
+   "score": 0.9842
+  },
+  {
+   "title": "Post-Vucic Serbia Will Reengage with Europe, But It Will Not Be a Honeymoon",
+   "link": "https://balkaninsight.com/2026/11/03/post-vucic-serbia-will-reengage-with-europe-but-it-will-not-be-a-honeymoon/bi/",
+   "outlet": "Balkan Insight",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9783
+  },
+  {
+   "title": "Uncertainty surrounds controversial resort in Zanzibar forest reserve as work stalls",
+   "link": "https://news.mongabay.com/2026/11/uncertainty-surrounds-controversial-resort-in-zanzibar-forest-reserve-as-work-stalls/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9763
+  },
+  {
+   "title": "Today Is the End of the World as We Know It",
+   "link": "https://www.theamericanconservative.com/today-is-the-end-of-the-world-as-we-know-it/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9559
+  },
+  {
+   "title": "China imports millions of donkey hides from Africa every year: New book traces the drivers and impact",
+   "link": "https://phys.org/news/2026-11-china-imports-millions-donkey-africa.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9434
+  },
+  {
+   "title": "Unpacking Hong Kong\u2019s rule of law score according to the World Justice Project\u2019s ranking",
+   "link": "https://globalvoices.org/2026/11/03/unpacking-hong-kongs-rule-of-law-score-according-to-the-world-justice-projects-ranking/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9361
+  },
+  {
+   "title": "Former Assembly staffer claims retaliation, hostile work environment in lawsuit",
+   "link": "https://calmatters.org/politics/2026/11/california-lawmaker-pacheco-sued/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9078
+  },
+  {
+   "title": "Corruption joins the cost of living as a top concern for US voters",
+   "link": "https://en.mercopress.com/2026/11/03/corruption-joins-the-cost-of-living-as-a-top-concern-for-us-voters?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9049
+  },
+  {
+   "title": "Rencontre historique : PM du Qu\u00e9bec absent",
+   "link": "https://www.aptnnews.ca/reportages/rencontre-historique-pm-du-quebec-absent/",
+   "outlet": "APTN News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9037
+  },
+  {
+   "title": "Britain should decolonize the Commonwealth",
+   "link": "https://unherd.com/2026/11/lets-decolonise-the-commonwealth/?edition=us",
+   "outlet": "UnHerd",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9002
+  },
+  {
+   "title": "Beijing to step up aggression: MAC official",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/03/2003867047",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8994
+  },
+  {
+   "title": "Johnson, Other Candidates Face Challenges To Nominating Petitions For Mayor\u2019s Race",
+   "link": "https://blockclubchicago.org/2026/11/02/johnson-other-candidates-face-challenges-to-nominating-petitions-for-mayors-race/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8957
+  },
+  {
+   "title": "A new road opens in Canc\u00fan, better connecting the airport with the hotel zone",
+   "link": "https://mexiconewsdaily.com/travel/new-roadway-cancun-airport-hotel-zone/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8935
+  },
+  {
+   "title": "Southwestern Colorado saw damaging floods overnight. Here\u2019s what residents documented.",
+   "link": "https://coloradosun.com/2026/11/02/southwestern-colorado-flood-damage-videos/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8889
+  },
+  {
+   "title": "How to Save $25 on Burga\u2019s Phone Accessories With This Sale",
+   "link": "https://www.wired.com/story/burga-sale-november-2026/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8736
+  },
+  {
+   "title": "Is India Extending Its Control Over Islamic Practice In Kashmir?",
+   "link": "https://thediplomat.com/2026/11/is-india-extending-its-control-over-islamic-practice-in-kashmir/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8734
+  },
+  {
+   "title": "Tomba Dei Gigante S\u2019Ena e Thimes in Dorgali, Italy",
+   "link": "https://www.atlasobscura.com/places/tomba-dei-gigante-s-ena-e-thimes",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8686
+  },
+  {
+   "title": "100,000 California State Workers Struck Last Month",
+   "link": "https://jacobin.com/2026/11/california-seiu-state-strike-newsom",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8597
+  },
+  {
+   "title": "\u2018Bookkeeping Trick\u2019 and Fuzzy Math Conceal the Climate Impacts of Beef, Researchers Say",
+   "link": "https://insideclimatenews.org/news/02112026/beef-climate-impacts-accuracy/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8587
+  },
+  {
+   "title": "Abdul El-Sayed\u2019s Race Has Been Defined by Islamophobia. Will It Be Determined by It?",
+   "link": "https://theintercept.com/2026/11/02/michigan-el-sayed-rogers-muslim-islamophobia/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8547
+  },
+  {
+   "title": "King Charles shouldn\u2019t apologise for Britain\u2019s role in the slave trade",
+   "link": "https://www.spiked-online.com/2026/11/02/king-charles-shouldnt-apologise-for-britains-role-in-the-slave-trade/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8538
+  },
+  {
+   "title": "The Student Movement Addressing Campus Polarization Head On",
+   "link": "https://reasonstobecheerful.world/students-addressing-campus-polarization-healthy-debate/",
+   "outlet": "Reasons to be Cheerful",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8426
+  },
+  {
+   "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+   "link": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8371
+  },
+  {
+   "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
+   "link": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
+   "outlet": "The Conversation",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8232
+  },
+  {
+   "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
+   "link": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising/",
+   "outlet": "Bellingcat",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8227
+  },
+  {
+   "title": "Is There Anything Left in the Dream of Cold Fusion?",
+   "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+   "outlet": "Quanta Magazine",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8193
+  },
+  {
+   "title": "Politicians have floated building more oil refineries in Canada. Here\u2019s what you need to know",
+   "link": "https://thenarwhal.ca/canada-oil-refineries-explainer/?utm_source=rss",
+   "outlet": "The Narwhal",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7861
+  },
+  {
+   "title": "Inside the booth: Faith, economy and immigration inspired these Texans\u2019 votes",
+   "link": "https://feeds.texastribune.org/link/16799/17513413/why-texas-voters-voted-midterm-election-2026",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7777
+  },
+  {
+   "title": "The American Dream wasn\u2019t built for climate change",
+   "link": "https://grist.org/economics/american-dream-climate-home-insurance-helene-affordability/",
+   "outlet": "Grist",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7676
+  },
+  {
+   "title": "The women\u2019s boxing nights helping abuse survivors",
+   "link": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+   "outlet": "Positive News",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7651
+  },
+  {
+   "title": "A BC Firm Aims to Mine in Tatshenshini Park, a World Heritage Site",
+   "link": "https://thetyee.ca/News/2026/11/02/BC-Firm-Aims-Mine-Tatshenshini-Park/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7589
+  },
+  {
+   "title": "Ukrainian drone strike sparks major fire at one of Russia\u2019s largest oil refineries",
+   "link": "https://meduza.io/en/news/2026/11/03/ukrainian-drone-strike-sparks-major-fire-at-one-of-russia-s-largest-oil-refineries",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9974
+  },
+  {
+   "title": "Morning update",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-659",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9938
+  },
+  {
+   "title": "2027 Politics Watch: Battle for place on ballot, Kano question INEC yet to answer",
+   "link": "https://www.premiumtimesng.com/news/top-news/922304-2027-politics-watch-battle-for-place-on-ballot-kano-question-inec-yet-to-answer.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9929
+  },
+  {
+   "title": "Camarines Norte communities take charge of local climate fight",
+   "link": "https://www.rappler.com/people/human-interest/camarines-norte-communities-take-charge-climate-fight/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9921
+  },
+  {
+   "title": "General Staff: Russia has lost 1,594,830 troops in Ukraine since Feb. 24, 2022",
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-594-830-troops-in-ukraine-since-feb-24-2022/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9869
+  },
+  {
+   "title": "Ahmedabad: 61 allegedly undocumented immigrants detained in \u2018pre-Diwali safety drive\u2019",
+   "link": "https://scroll.in/latest/1096831/ahmedabad-61-allegedly-undocumented-immigrants-detained-in-pre-diwali-safety-drive?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9863
   },
   {
    "title": "Kenya: Woman Killed By Suspected Stray Bullet in Moyale Amid Ethiopia Conflict",
@@ -465,7 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9795
+   "score": 0.9784
   },
   {
    "title": "Waste Crisis Blights Kosovo\u2019s Capital and its Mayor\u2019s Political Ambitions",
@@ -475,17 +505,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9794
+   "score": 0.9783
   },
   {
-   "title": "As Moldova speeds past Ukraine on reforms, Brussels set to reveal verdict on Kyiv's EU progress",
-   "link": "https://kyivindependent.com/as-moldova-races-ahead-of-ukraine-on-reforms-eu-set-to-reveal-verdict-on-kyivs-progress/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
+   "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
+   "link": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9743
+   "score": 0.9759
   },
   {
    "title": "Legislature\u2019s legal advice arm urges clarity on public interest rules as gov\u2019t moves to tighten land records access",
@@ -495,7 +525,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9722
+   "score": 0.9711
+  },
+  {
+   "title": "INSOLVENCY & LIQUIDATION : Business rescue \u2014 lifeline or delay tactic for struggling companies?",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-03-business-rescue-lifeline-or-delay-tactic-for-struggling-companies/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9558
   },
   {
    "title": "Serbia\u2019s Political Tsunami Won\u2019t Bring Geopolitical Transformation",
@@ -505,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9566
+   "score": 0.9555
   },
   {
    "title": "The Logic of Voting for a Lesser Evil - and Other Writings on the Ethics of Voting",
@@ -515,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9492
+   "score": 0.9482
   },
   {
    "title": "How political disagreement with our neighbors relates to whether we bother casting a ballot",
@@ -525,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9369
+   "score": 0.9358
   },
   {
    "title": "B\u00e9b\u00e9 Maxime est finalement r\u00e9inhumer aux c\u00f4t\u00e9s de ses parents (Suite)",
@@ -535,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9041
+   "score": 0.9031
   },
   {
    "title": "Falklands representative in London honours the Islands\u2019 fallen at Westminster",
@@ -545,17 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9018
-  },
-  {
-   "title": "BOOK EXCERPT: The Devil Wears Sneakers \u2014 Epstein and the network that allowed him to flourish",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-03-the-devil-wears-sneakers-epstein-and-the-network-that-allowed-him-to-flourish/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9013
+   "score": 0.9008
   },
   {
    "title": "Why British Jews prefer a London suburb to New York",
@@ -565,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9008
+   "score": 0.8998
   },
   {
    "title": "Taiwan, Japan might sign comprehensive trade pact: report",
@@ -575,37 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9004
-  },
-  {
-   "title": "In Kosovo, a new app makes reporting problems to the government fast and easy",
-   "link": "https://globalvoices.org/2026/11/02/in-kosovo-a-new-app-makes-reporting-problems-to-the-government-fast-and-easy/",
-   "outlet": "Global Voices",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8986
-  },
-  {
-   "title": "Rave at Russia\u2019s main state library sparks backlash from pro-war commentators",
-   "link": "https://meduza.io/en/feature/2026/11/03/rave-at-russia-s-main-state-library-sparks-backlash-from-pro-war-commentators",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.896
-  },
-  {
-   "title": "Two public servants in Brazil removed after threatening to poison Indigenous people",
-   "link": "https://news.mongabay.com/short-article/2026/11/two-public-servants-in-brazil-removed-after-threatening-to-poison-indigenous-people/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8872
+   "score": 0.8994
   }
  ]
 }
