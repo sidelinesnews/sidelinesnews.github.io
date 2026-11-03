@@ -102,14 +102,11 @@
     "restoring",
     "recover",
     "recovered",
-    "recovery",
     "revive",
     "revived",
     "rescued",
     "saved",
     "saves",
-    "protect",
-    "protected",
     "breakthrough",
     "discover",
     "discovered",
@@ -123,8 +120,6 @@
     "thriving",
     "success",
     "succeeds",
-    "celebrate",
-    "celebrates",
     "new species",
     "volunteers",
     "planted",
@@ -140,8 +135,7 @@
     "comeback",
     "milestone",
     "record low",
-    "grassroots",
-    "together"
+    "grassroots"
   ],
   "wonder_kinds": [
     "science",

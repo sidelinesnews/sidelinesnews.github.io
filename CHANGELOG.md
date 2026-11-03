@@ -2,11 +2,19 @@
 
 Every change to how Sidelines chooses stories is recorded here, in the open.
 
+## 3 November 2026: a rhythm (good, laughs, pets)
+
+The full list now has a rhythm: **every 3rd story is good news** (or something wondrous), **every 5th is a laugh**, and **every 6th is a pet or animal story**. Satire is always labelled **"A laugh · satire"**, because satire without a label on a news site is how jokes become misinformation. Satire with heavy words (war, killed…) is skipped. Laughs and pets are kept out of the news ranking and the meter; they're slotted in on purpose, from up to 14 days back, and if they run out the list simply carries on.
+
+New sources: Good News Network and The Optimist Daily (good news), Good News Network's animals section (pets & critters), and McSweeney's Internet Tendency and The Beaverton (laughs).
+
 ## 3 November 2026: the Gentle button
 
 A **Gentle** button next to the greeting. One tap shows only good and wondrous stories; tap again and the hard news is back. Nothing is deleted or ranked differently, it's just hidden on your screen. The choice is remembered in your own browser only (localStorage); Sidelines never sees it. Suggested by a reader's mom, who would prefer 4 good stories to every 1 bad one.
 
 Also: **"rescue" is no longer a hopeful word** (in South Africa, "business rescue" is a bankruptcy process), and words like insolvency, liquidation, slaughter, smuggling and poaching now count as heavy.
+
+Also: **hopeful words now only count in the headline.** Checked against the live page, words like "protect" and "recovery" kept turning up in the summaries of grim stories ("a plan to prevent Democrats from being seated", "data centers to protect against drones"). "Protect", "celebrate", "recovery", "together" and "community" were removed from the hopeful list. Heavy words still count anywhere.
 
 Also: **shopping posts are blocked.** A WIRED coupon post ("Uber Eats Promo Codes") reached the handful labelled "Something good". Sidelines promises no ads, so headlines that look like coupons, deals or gift guides are now skipped before anything else happens.
 

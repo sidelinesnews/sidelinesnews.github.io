@@ -1,342 +1,378 @@
 {
-  "_note": "pool = outlets we show. baseline = big mainstream outlets we DON'T show; we only read them to detect what's already hyped, so we can step around it. URLs are unverified until the first run - check docs/feed_status.json for dead ones.",
-  "donate_url": "",
-  "_donate_note": "Paste your Open Collective page address between the quotes (it must start with https://). Leave empty to hide the Support link.",
-  "pool": [
-    {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "region": "Middle East",
-      "kind": "international"
-    },
-    {
-      "name": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/rss",
-      "region": "Middle East",
-      "kind": "independent"
-    },
-    {
-      "name": "Daily Maverick",
-      "url": "https://www.dailymaverick.co.za/dmrss/",
-      "region": "Africa",
-      "kind": "independent"
-    },
-    {
-      "name": "Premium Times",
-      "url": "https://www.premiumtimesng.com/feed",
-      "region": "Africa",
-      "kind": "independent"
-    },
-    {
-      "name": "AllAfrica",
-      "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
-      "region": "Africa",
-      "kind": "aggregator"
-    },
-    {
-      "name": "Scroll.in",
-      "url": "https://feeds.feedburner.com/ScrollinArticles.rss",
-      "region": "South Asia",
-      "kind": "independent"
-    },
-    {
-      "name": "Rappler",
-      "url": "https://www.rappler.com/feed/",
-      "region": "Southeast Asia",
-      "kind": "independent"
-    },
-    {
-      "name": "Hong Kong Free Press",
-      "url": "https://hongkongfp.com/feed/",
-      "region": "East Asia",
-      "kind": "independent"
-    },
-    {
-      "name": "Taipei Times",
-      "url": "https://www.taipeitimes.com/xml/index.rss",
-      "region": "East Asia",
-      "kind": "national"
-    },
-    {
-      "name": "The Diplomat",
-      "url": "https://thediplomat.com/feed/",
-      "region": "Asia-Pacific",
-      "kind": "magazine"
-    },
-    {
-      "name": "Asia Times",
-      "url": "https://asiatimes.com/feed/",
-      "region": "Asia-Pacific",
-      "kind": "magazine"
-    },
-    {
-      "name": "Meduza (English)",
-      "url": "https://meduza.io/rss/en/all",
-      "region": "Russia",
-      "kind": "independent"
-    },
-    {
-      "name": "Kyiv Independent",
-      "url": "https://kyivindependent.com/news-archive/rss/",
-      "region": "Europe",
-      "kind": "independent"
-    },
-    {
-      "name": "Balkan Insight",
-      "url": "https://balkaninsight.com/feed/",
-      "region": "Europe",
-      "kind": "investigative"
-    },
-    {
-      "name": "Mexico News Daily",
-      "url": "https://mexiconewsdaily.com/feed/",
-      "region": "Latin America",
-      "kind": "national"
-    },
-    {
-      "name": "MercoPress",
-      "url": "https://en.mercopress.com/rss",
-      "region": "Latin America",
-      "kind": "regional"
-    },
-    {
-      "name": "Global Voices",
-      "url": "https://globalvoices.org/feed/",
-      "region": "Global",
-      "kind": "citizen media"
-    },
-    {
-      "name": "Rest of World",
-      "url": "https://restofworld.org/feed/latest/",
-      "region": "Global",
-      "kind": "tech"
-    },
-    {
-      "name": "Bellingcat",
-      "url": "https://www.bellingcat.com/feed/",
-      "region": "Global",
-      "kind": "investigative"
-    },
-    {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/global/articles.atom",
-      "region": "Global",
-      "kind": "academic"
-    },
-    {
-      "name": "Mongabay",
-      "url": "https://news.mongabay.com/feed/",
-      "region": "Global",
-      "kind": "environment"
-    },
-    {
-      "name": "Undark",
-      "url": "https://undark.org/feed/",
-      "region": "Global",
-      "kind": "science"
-    },
-    {
-      "name": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/feed/",
-      "region": "Global",
-      "kind": "science"
-    },
-    {
-      "name": "Hakai Magazine",
-      "url": "https://hakaimagazine.com/feed/",
-      "region": "Global",
-      "kind": "science"
-    },
-    {
-      "name": "Phys.org",
-      "url": "https://phys.org/rss-feed/",
-      "region": "Global",
-      "kind": "science"
-    },
-    {
-      "name": "Atlas Obscura",
-      "url": "https://www.atlasobscura.com/feeds/latest",
-      "region": "Global",
-      "kind": "curiosity"
-    },
-    {
-      "name": "ProPublica",
-      "url": "https://www.propublica.org/feeds/propublica/main",
-      "region": "North America",
-      "kind": "investigative"
-    },
-    {
-      "name": "The Markup",
-      "url": "https://themarkup.org/feeds/rss.xml",
-      "region": "North America",
-      "kind": "investigative"
-    },
-    {
-      "name": "Inside Climate News",
-      "url": "https://insideclimatenews.org/feed/",
-      "region": "North America",
-      "kind": "environment"
-    },
-    {
-      "name": "Grist",
-      "url": "https://grist.org/feed/",
-      "region": "North America",
-      "kind": "environment"
-    },
-    {
-      "name": "Reason",
-      "url": "https://reason.com/feed/",
-      "region": "North America",
-      "kind": "libertarian"
-    },
-    {
-      "name": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/feed/",
-      "region": "North America",
-      "kind": "conservative"
-    },
-    {
-      "name": "The Intercept",
-      "url": "https://theintercept.com/feed/?lang=en",
-      "region": "North America",
-      "kind": "left"
-    },
-    {
-      "name": "Jacobin",
-      "url": "https://jacobin.com/feed/",
-      "region": "North America",
-      "kind": "left"
-    },
-    {
-      "name": "UnHerd",
-      "url": "https://unherd.com/feed/",
-      "region": "Europe",
-      "kind": "heterodox"
-    },
-    {
-      "name": "Spiked",
-      "url": "https://www.spiked-online.com/feed/",
-      "region": "Europe",
-      "kind": "heterodox"
-    },
-    {
-      "name": "Texas Tribune",
-      "url": "https://www.texastribune.org/feeds/main/",
-      "region": "North America",
-      "kind": "local"
-    },
-    {
-      "name": "CalMatters",
-      "url": "https://calmatters.org/feed/",
-      "region": "North America",
-      "kind": "local"
-    },
-    {
-      "name": "Block Club Chicago",
-      "url": "https://blockclubchicago.org/feed/",
-      "region": "North America",
-      "kind": "local"
-    },
-    {
-      "name": "The Colorado Sun",
-      "url": "https://coloradosun.com/feed/",
-      "region": "North America",
-      "kind": "local"
-    },
-    {
-      "name": "The Narwhal",
-      "url": "https://thenarwhal.ca/feed/",
-      "region": "North America",
-      "kind": "environment"
-    },
-    {
-      "name": "The Tyee",
-      "url": "https://thetyee.ca/rss2.xml",
-      "region": "North America",
-      "kind": "independent"
-    },
-    {
-      "name": "APTN News",
-      "url": "https://www.aptnnews.ca/feed/",
-      "region": "North America",
-      "kind": "Indigenous"
-    },
-    {
-      "name": "WIRED",
-      "url": "https://www.wired.com/feed/rss",
-      "region": "North America",
-      "kind": "tech magazine"
-    },
-    {
-      "name": "Reasons to be Cheerful",
-      "url": "https://reasonstobecheerful.world/feed/",
-      "region": "Global",
-      "kind": "solutions"
-    },
-    {
-      "name": "Positive News",
-      "url": "https://www.positive.news/feed/",
-      "region": "Global",
-      "kind": "solutions"
-    },
-    {
-      "name": "YES! Magazine",
-      "url": "https://www.yesmagazine.org/feed",
-      "region": "Global",
-      "kind": "solutions"
-    }
-  ],
-  "baseline": [
-    {
-      "name": "BBC",
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
-    },
-    {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/rss"
-    },
-    {
-      "name": "New York Times",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-    },
-    {
-      "name": "NPR",
-      "url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "name": "CNN",
-      "url": "http://rss.cnn.com/rss/edition.rss"
-    },
-    {
-      "name": "Fox News",
-      "url": "https://moxie.foxnews.com/google-publisher/latest.xml"
-    },
-    {
-      "name": "CBC",
-      "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
-      "alt": [
-        "https://www.cbc.ca/webfeed/rss/rss-world",
-        "https://news.google.com/rss/search?q=site:cbc.ca&hl=en-CA&gl=CA&ceid=CA:en"
-      ],
-      "title_strip": "\\s+-\\s+CBC( News)?$"
-    },
-    {
-      "name": "Washington Post",
-      "url": "https://feeds.washingtonpost.com/rss/world",
-      "alt": [
-        "https://news.google.com/rss/search?q=site:washingtonpost.com&hl=en-US&gl=US&ceid=US:en"
-      ],
-      "title_strip": "\\s+-\\s+(The )?Washington Post$"
-    },
-    {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-      "title_strip": "\\s+-\\s+(AP News|The Associated Press)$"
-    },
-    {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-      "title_strip": "\\s+-\\s+Reuters$"
-    }
-  ]
+ "_note": "pool = outlets we show. baseline = big mainstream outlets we DON'T show; we only read them to detect what's already hyped, so we can step around it. URLs are unverified until the first run - check docs/feed_status.json for dead ones.",
+ "donate_url": "",
+ "_donate_note": "Paste your Open Collective page address between the quotes (it must start with https://). Leave empty to hide the Support link.",
+ "pool": [
+  {
+   "name": "Al Jazeera",
+   "url": "https://www.aljazeera.com/xml/rss/all.xml",
+   "region": "Middle East",
+   "kind": "international"
+  },
+  {
+   "name": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/rss",
+   "region": "Middle East",
+   "kind": "independent"
+  },
+  {
+   "name": "Daily Maverick",
+   "url": "https://www.dailymaverick.co.za/dmrss/",
+   "region": "Africa",
+   "kind": "independent"
+  },
+  {
+   "name": "Premium Times",
+   "url": "https://www.premiumtimesng.com/feed",
+   "region": "Africa",
+   "kind": "independent"
+  },
+  {
+   "name": "AllAfrica",
+   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+   "region": "Africa",
+   "kind": "aggregator"
+  },
+  {
+   "name": "Scroll.in",
+   "url": "https://feeds.feedburner.com/ScrollinArticles.rss",
+   "region": "South Asia",
+   "kind": "independent"
+  },
+  {
+   "name": "Rappler",
+   "url": "https://www.rappler.com/feed/",
+   "region": "Southeast Asia",
+   "kind": "independent"
+  },
+  {
+   "name": "Hong Kong Free Press",
+   "url": "https://hongkongfp.com/feed/",
+   "region": "East Asia",
+   "kind": "independent"
+  },
+  {
+   "name": "Taipei Times",
+   "url": "https://www.taipeitimes.com/xml/index.rss",
+   "region": "East Asia",
+   "kind": "national"
+  },
+  {
+   "name": "The Diplomat",
+   "url": "https://thediplomat.com/feed/",
+   "region": "Asia-Pacific",
+   "kind": "magazine"
+  },
+  {
+   "name": "Asia Times",
+   "url": "https://asiatimes.com/feed/",
+   "region": "Asia-Pacific",
+   "kind": "magazine"
+  },
+  {
+   "name": "Meduza (English)",
+   "url": "https://meduza.io/rss/en/all",
+   "region": "Russia",
+   "kind": "independent"
+  },
+  {
+   "name": "Kyiv Independent",
+   "url": "https://kyivindependent.com/news-archive/rss/",
+   "region": "Europe",
+   "kind": "independent"
+  },
+  {
+   "name": "Balkan Insight",
+   "url": "https://balkaninsight.com/feed/",
+   "region": "Europe",
+   "kind": "investigative"
+  },
+  {
+   "name": "Mexico News Daily",
+   "url": "https://mexiconewsdaily.com/feed/",
+   "region": "Latin America",
+   "kind": "national"
+  },
+  {
+   "name": "MercoPress",
+   "url": "https://en.mercopress.com/rss",
+   "region": "Latin America",
+   "kind": "regional"
+  },
+  {
+   "name": "Global Voices",
+   "url": "https://globalvoices.org/feed/",
+   "region": "Global",
+   "kind": "citizen media"
+  },
+  {
+   "name": "Rest of World",
+   "url": "https://restofworld.org/feed/latest/",
+   "region": "Global",
+   "kind": "tech"
+  },
+  {
+   "name": "Bellingcat",
+   "url": "https://www.bellingcat.com/feed/",
+   "region": "Global",
+   "kind": "investigative"
+  },
+  {
+   "name": "The Conversation",
+   "url": "https://theconversation.com/global/articles.atom",
+   "region": "Global",
+   "kind": "academic"
+  },
+  {
+   "name": "Mongabay",
+   "url": "https://news.mongabay.com/feed/",
+   "region": "Global",
+   "kind": "environment"
+  },
+  {
+   "name": "Undark",
+   "url": "https://undark.org/feed/",
+   "region": "Global",
+   "kind": "science"
+  },
+  {
+   "name": "Quanta Magazine",
+   "url": "https://www.quantamagazine.org/feed/",
+   "region": "Global",
+   "kind": "science"
+  },
+  {
+   "name": "Hakai Magazine",
+   "url": "https://hakaimagazine.com/feed/",
+   "region": "Global",
+   "kind": "science"
+  },
+  {
+   "name": "Phys.org",
+   "url": "https://phys.org/rss-feed/",
+   "region": "Global",
+   "kind": "science"
+  },
+  {
+   "name": "Atlas Obscura",
+   "url": "https://www.atlasobscura.com/feeds/latest",
+   "region": "Global",
+   "kind": "curiosity"
+  },
+  {
+   "name": "ProPublica",
+   "url": "https://www.propublica.org/feeds/propublica/main",
+   "region": "North America",
+   "kind": "investigative"
+  },
+  {
+   "name": "The Markup",
+   "url": "https://themarkup.org/feeds/rss.xml",
+   "region": "North America",
+   "kind": "investigative"
+  },
+  {
+   "name": "Inside Climate News",
+   "url": "https://insideclimatenews.org/feed/",
+   "region": "North America",
+   "kind": "environment"
+  },
+  {
+   "name": "Grist",
+   "url": "https://grist.org/feed/",
+   "region": "North America",
+   "kind": "environment"
+  },
+  {
+   "name": "Reason",
+   "url": "https://reason.com/feed/",
+   "region": "North America",
+   "kind": "libertarian"
+  },
+  {
+   "name": "The American Conservative",
+   "url": "https://www.theamericanconservative.com/feed/",
+   "region": "North America",
+   "kind": "conservative"
+  },
+  {
+   "name": "The Intercept",
+   "url": "https://theintercept.com/feed/?lang=en",
+   "region": "North America",
+   "kind": "left"
+  },
+  {
+   "name": "Jacobin",
+   "url": "https://jacobin.com/feed/",
+   "region": "North America",
+   "kind": "left"
+  },
+  {
+   "name": "UnHerd",
+   "url": "https://unherd.com/feed/",
+   "region": "Europe",
+   "kind": "heterodox"
+  },
+  {
+   "name": "Spiked",
+   "url": "https://www.spiked-online.com/feed/",
+   "region": "Europe",
+   "kind": "heterodox"
+  },
+  {
+   "name": "Texas Tribune",
+   "url": "https://www.texastribune.org/feeds/main/",
+   "region": "North America",
+   "kind": "local"
+  },
+  {
+   "name": "CalMatters",
+   "url": "https://calmatters.org/feed/",
+   "region": "North America",
+   "kind": "local"
+  },
+  {
+   "name": "Block Club Chicago",
+   "url": "https://blockclubchicago.org/feed/",
+   "region": "North America",
+   "kind": "local"
+  },
+  {
+   "name": "The Colorado Sun",
+   "url": "https://coloradosun.com/feed/",
+   "region": "North America",
+   "kind": "local"
+  },
+  {
+   "name": "The Narwhal",
+   "url": "https://thenarwhal.ca/feed/",
+   "region": "North America",
+   "kind": "environment"
+  },
+  {
+   "name": "The Tyee",
+   "url": "https://thetyee.ca/rss2.xml",
+   "region": "North America",
+   "kind": "independent"
+  },
+  {
+   "name": "APTN News",
+   "url": "https://www.aptnnews.ca/feed/",
+   "region": "North America",
+   "kind": "Indigenous"
+  },
+  {
+   "name": "WIRED",
+   "url": "https://www.wired.com/feed/rss",
+   "region": "North America",
+   "kind": "tech magazine"
+  },
+  {
+   "name": "Reasons to be Cheerful",
+   "url": "https://reasonstobecheerful.world/feed/",
+   "region": "Global",
+   "kind": "solutions"
+  },
+  {
+   "name": "Positive News",
+   "url": "https://www.positive.news/feed/",
+   "region": "Global",
+   "kind": "solutions"
+  },
+  {
+   "name": "YES! Magazine",
+   "url": "https://www.yesmagazine.org/feed",
+   "region": "Global",
+   "kind": "solutions"
+  },
+  {
+   "name": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/feed/",
+   "region": "Global",
+   "kind": "solutions"
+  },
+  {
+   "name": "The Optimist Daily",
+   "url": "https://www.optimistdaily.com/feed/",
+   "region": "Global",
+   "kind": "solutions"
+  },
+  {
+   "name": "Good News Network: Animals",
+   "url": "https://www.goodnewsnetwork.org/category/news/animals/feed/",
+   "alt": [
+    "https://www.goodnewsnetwork.org/category/animals/feed/"
+   ],
+   "region": "Global",
+   "kind": "animals"
+  },
+  {
+   "name": "McSweeney's",
+   "url": "https://feeds.feedburner.com/mcsweeneys",
+   "alt": [
+    "https://www.mcsweeneys.net/feeds/articles"
+   ],
+   "region": "North America",
+   "kind": "humor"
+  },
+  {
+   "name": "The Beaverton",
+   "url": "https://www.thebeaverton.com/feed/",
+   "region": "North America",
+   "kind": "humor"
+  }
+ ],
+ "baseline": [
+  {
+   "name": "BBC",
+   "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+   "name": "The Guardian",
+   "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+   "name": "New York Times",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  },
+  {
+   "name": "NPR",
+   "url": "https://feeds.npr.org/1001/rss.xml"
+  },
+  {
+   "name": "CNN",
+   "url": "http://rss.cnn.com/rss/edition.rss"
+  },
+  {
+   "name": "Fox News",
+   "url": "https://moxie.foxnews.com/google-publisher/latest.xml"
+  },
+  {
+   "name": "CBC",
+   "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+   "alt": [
+    "https://www.cbc.ca/webfeed/rss/rss-world",
+    "https://news.google.com/rss/search?q=site:cbc.ca&hl=en-CA&gl=CA&ceid=CA:en"
+   ],
+   "title_strip": "\\s+-\\s+CBC( News)?$"
+  },
+  {
+   "name": "Washington Post",
+   "url": "https://feeds.washingtonpost.com/rss/world",
+   "alt": [
+    "https://news.google.com/rss/search?q=site:washingtonpost.com&hl=en-US&gl=US&ceid=US:en"
+   ],
+   "title_strip": "\\s+-\\s+(The )?Washington Post$"
+  },
+  {
+   "name": "Associated Press",
+   "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+   "title_strip": "\\s+-\\s+(AP News|The Associated Press)$"
+  },
+  {
+   "name": "Reuters",
+   "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+   "title_strip": "\\s+-\\s+Reuters$"
+  }
+ ]
 }

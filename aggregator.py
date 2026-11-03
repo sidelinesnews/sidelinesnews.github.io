@@ -68,8 +68,10 @@ class _Strip(HTMLParser):
         self.out.append(d)
 
 
+LIGHT_KINDS = ("humor", "animals")  # kept out of the news ranking; slotted in on purpose
+
 # Shopping posts are ads in a news costume. Sidelines promises no ads, so they never reach the page.
-SHOPPING = re.compile(r"promo codes?|coupons?|discount codes?|\$\d+ off|\d+% off|\bdeals?\b.{0,40}\b(today|this week|sale)|best .{0,40}(deals|to buy)|black friday|cyber monday|prime day|gift guide|on sale|\bour (top|favorite) picks", re.I)
+SHOPPING = re.compile(r"promo codes?|coupons?|discount codes?|\$\d+ off|\d+% off|\bdeals?\b.{0,40}\b(today|this week|sale)|best .{0,40}(deals|to buy)|black friday|cyber monday|prime day|gift guide|on sale|\bour (top|favorite) picks|^open thread$", re.I)
 BOILERPLATE = re.compile(r"\s*(The post .{0,300}? appeared first on .{0,120}?\.?|Continue reading\W*|Read more\W*)\s*$", re.I)
 
 
@@ -474,6 +476,7 @@ def next_run(now):
 
 def card(s, compact=False, label=""):
     L = s["lead"]
+    label = label or s.get("_label", "")
     n = 1 + len(s["also"])
     why = [f"{n} outlet{'s' if n > 1 else ''} running this"]
     why.append("mainstream pickup: " + ", ".join(html.escape(x) for x in s["mainstream"])
@@ -521,7 +524,13 @@ def tone(s, tones):
     has = lambda words: any(f" {w} " in text for w in words)
     if has(heavy):
         return "heavy"
-    if L["kind"] in good_kinds or has(hopeful):
+    if L["kind"] == "humor":
+        return "laugh"
+    if L["kind"] == "animals":
+        return "good"
+    # hopeful words only count in the headline: summaries mention "protect" or "recovery" in grim stories too
+    head = " " + re.sub(r"[^a-z0-9 ]", " ", L["title"].lower()) + " "
+    if L["kind"] in good_kinds or any(f" {w} " in head for w in hopeful):
         return "good"
     if L["kind"] in wonder_kinds:
         return "wonder"
@@ -569,32 +578,49 @@ def curate_handful(picked, tones, reserve=()):
 
 
 def brighten(rest, picked, reserve, tones, handful, every=3):
-    """Every third story in the full list is a good one (or, failing that, a wondrous one).
-    Good stories already on the page move up; if there aren't enough, the 14-day well tops up.
-    When the well runs dry, the list just carries on: nothing is invented, nothing is hidden."""
+    """The rhythm of the full list: every 6th story is a pet or animal story, every 5th is a laugh
+    (always labelled satire), every 3rd is good news (or, failing that, something wondrous).
+    Good stories already on the page move up; the 14-day well tops up the rest.
+    When a well runs dry, the list just carries on: nothing is invented, nothing is hidden."""
     t = lambda s: tone(s, tones)
     links = {s["lead"]["link"] for s in picked} | {h["lead"]["link"] for h, _ in handful}
-    extra_outlets = Counter()
-    well = []
+    per = Counter()
+    pets, laughs, well = [], [], []
     for r in reserve:
-        if r["lead"]["link"] in links or extra_outlets[r["lead"]["outlet"]] >= CONFIG["per_outlet_cap"]:
+        if r["lead"]["link"] in links or per[r["lead"]["outlet"]] >= CONFIG["per_outlet_cap"] + 2:
             continue
-        if t(r) in ("good", "wonder"):
-            well.append(r); extra_outlets[r["lead"]["outlet"]] += 1
+        k, tn = r["lead"]["kind"], t(r)
+        if k == "animals" and tn != "heavy":
+            pets.append(r)
+        elif k == "humor" and tn == "laugh":
+            laughs.append(r)
+        elif k not in LIGHT_KINDS and tn in ("good", "wonder"):
+            well.append(r)
+        else:
+            continue
+        per[r["lead"]["outlet"]] += 1
+    for x in pets:
+        x["_label"] = "Pets & critters"
+    for x in laughs:
+        x["_label"] = "A laugh · satire"
     bright = [s for s in rest if t(s) == "good"] + [s for s in well if t(s) == "good"] + \
              [s for s in rest if t(s) == "wonder"] + [s for s in well if t(s) == "wonder"]
     bright_ids = {id(s) for s in bright}
     other = [s for s in rest if id(s) not in bright_ids]
+    rest_ids = {id(r) for r in rest}
     out = []
     while other or bright:
-        if (len(out) + 1) % every == 0 and bright:
+        n = len(out) + 1
+        if n % 6 == 0 and pets:
+            out.append(pets.pop(0))
+        elif n % 5 == 0 and laughs:
+            out.append(laughs.pop(0))
+        elif n % every == 0 and bright:
             out.append(bright.pop(0))
         elif other:
             out.append(other.pop(0))
-        elif bright and any(id(x) in {id(r) for r in rest} for x in bright):
-            out.extend(x for x in bright if id(x) in {id(r) for r in rest})  # leftover on-page stories stay
-            break
         else:
+            out.extend(x for x in bright if id(x) in rest_ids)  # leftover on-page stories stay
             break
     return out
 
@@ -798,9 +824,12 @@ def main():
                       baseline=feed["baseline"], tokens=tokens(it["title"]))
             items.append(it)
 
-    clusters = cluster(items)
+    news = [i for i in items if i["kind"] not in LIGHT_KINDS]
+    light_items = [i for i in items if i["kind"] in LIGHT_KINDS]
+    clusters = cluster(news)
     picked = select(score_clusters(clusters, now))
     reserve = score_clusters(clusters, now, CONFIG["gentle_max_age_hours"])
+    reserve += score_clusters(cluster(light_items), now, CONFIG["gentle_max_age_hours"])
     found = []
     rf = ROOT / "reader_found.json"
     if rf.exists():
