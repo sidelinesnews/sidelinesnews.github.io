@@ -11,10 +11,10 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 50,
-  "undated_or_future": 3,
+  "undated_or_future": 1,
   "error": null,
   "baseline": false
  },
