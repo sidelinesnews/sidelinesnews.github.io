@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:03:55.204788+00:00",
+ "updated": "2026-11-03T21:55:34.525852+00:00",
  "meter": {
   "outlets": 44,
   "regions": 11,
@@ -8,6 +8,146 @@
  },
  "stories": [
   {
+   "title": "INTERNATIONAL INTERVENTION: World Aquatics grants alternative water polo body power to select World Cup teams",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-03-world-aquatics-grants-alternative-water-polo-body-power-to-select-world-cup-teams/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9997
+  },
+  {
+   "title": "Enugu govt empowers 520 vulnerable persons with grinding machines",
+   "link": "https://www.premiumtimesng.com/regional/ssouth-east/922535-enugu-govt-empowers-520-vulnerable-persons-with-grinding-machines.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9991
+  },
+  {
+   "title": "The Deceptions That Crippled a Renewable Energy Industry",
+   "link": "https://thetyee.ca/Analysis/2026/11/03/Deceptions-Killed-Alberta-Renewable-Energy-Industry/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9978
+  },
+  {
+   "title": "Study finds stronger trade secret protection leads firms to break down innovation silos",
+   "link": "https://phys.org/news/2026-11-stronger-secret-firms-silos.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9968
+  },
+  {
+   "title": "Why Is Donald Trump Suddenly Obsessed With Men's Bodies, Especially Their Butts?",
+   "link": "https://reason.com/2026/11/03/why-is-donald-trump-suddenly-obsessed-with-mens-bodies-especially-their-butts/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.994
+  },
+  {
+   "title": "Norway deploys additional air defense sensors, troops near Russia border",
+   "link": "https://kyivindependent.com/norway-deploys-additional-air-defense-sensors-troops-near-russia-border/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9938
+  },
+  {
+   "title": "$1,200 Off the iPhone Duo? Here\u2019s How Carrier Deals Actually Work",
+   "link": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9937
+  },
+  {
+   "title": "Mexico-Canada trade was up more than 18% through August",
+   "link": "https://mexiconewsdaily.com/news/mexico-canada-trade-up/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9927
+  },
+  {
+   "title": "Netanyahu\u2019s eight-seat problem",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9925
+  },
+  {
+   "title": "A 21-year-old soccer player in his first season at Turkish club Galatasaray becomes the first Russian in 11 years to score twice in a Champions League match",
+   "link": "https://meduza.io/en/news/2026/11/04/a-21-year-old-soccer-player-in-his-first-season-at-turkish-club-galatasaray-becomes-the-first-russian-in-11-years-to-score-twice-in-a-champions-league-match",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9923
+  },
+  {
+   "title": "Tanker hit by two unknown projectiles off Oman, UKMTO says",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-two-unknown-projectiles-oman-ukmto-says",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9897
+  },
+  {
+   "title": "Miniature Landscapes in Beek-Ubbergen, Netherlands",
+   "link": "https://www.atlasobscura.com/places/miniature-landscapes",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9885
+  },
+  {
+   "title": "Trumpism Is Running Out of Gas",
+   "link": "https://jacobin.com/2026/11/midterms-defeat-trumpism-maga-populism",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9727
+  },
+  {
+   "title": "Loch Ness Is About to Welcome a New Monster Not Seen There in 500 Years\u2013the Beaver!",
+   "link": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9704
+  },
+  {
    "title": "Chicago Voter Turnout In 2026 Midterms Appears Strong So Far, Officials Say",
    "link": "https://blockclubchicago.org/2026/11/03/chicago-voter-turnout-in-2026-midterms-appears-strong-so-far-officials-say/",
    "outlet": "Block Club Chicago",
@@ -15,27 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9994
-  },
-  {
-   "title": "Pregnant mandrill monkeys are more likely to miscarry when also nursing an infant",
-   "link": "https://phys.org/news/2026-11-pregnant-mandrill-monkeys-miscarry-nursing.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9992
-  },
-  {
-   "title": "The Street Shrines of Victoria in Victoria, Malta",
-   "link": "https://www.atlasobscura.com/places/the-street-shrines-of-victoria-gozo",
-   "outlet": "Atlas Obscura",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9992
+   "score": 0.9646
   },
   {
    "title": "14 propositions are on the California ballot. Voters are deciding on taxes, healthcare and more",
@@ -45,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9992
+   "score": 0.9644
   },
   {
    "title": "Few Repercussions for Oil Firm\u2019s Continued Leaks After Couple\u2019s Death From Toxic Gas",
@@ -55,7 +175,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9986
+   "score": 0.9639
+  },
+  {
+   "title": "Trump Scrambles to Halt Military Aid to Israel to Deprive El-Sayed of a Talking Point",
+   "link": "https://theintercept.com/2026/11/03/trump-us-military-aid-israel-el-sayed/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9628
   },
   {
    "title": "Amendment 81 election results",
@@ -65,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9969
+   "score": 0.9622
   },
   {
    "title": "Human-wildlife coexistence with wolves in Europe requires a holistic approach",
@@ -75,37 +205,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9967
+   "score": 0.962
   },
   {
-   "title": "French judges probe war crimes complaint against Israeli army in Lebanon",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/french-judges-probe-war-crimes-complaint-against-israeli-army-lebanon",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
+   "title": "The Danger of Being a Female Livestreamer in China",
+   "link": "https://thediplomat.com/2026/11/the-danger-of-being-a-female-livestreamer-in-china/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9952
-  },
-  {
-   "title": "Ibori loses appeal over \u00a3102million corrupt assets forfeiture",
-   "link": "https://www.premiumtimesng.com/regional/south-south-regional/922480-ibori-loses-appeal-over-102million-corrupt-assets-forfeiture.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.995
-  },
-  {
-   "title": "Palestinian Americans turn to US flags to protect West Bank homes",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9948
+   "score": 0.9603
   },
   {
    "title": "Stanley Cup lands in Pikangikum for \u2018dream\u2019 visit in a community obsessed with hockey",
@@ -115,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9919
+   "score": 0.9575
   },
   {
    "title": "A strong start for Takaichi, but the real work is only beginning",
@@ -125,37 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9901
-  },
-  {
-   "title": "Russia\u2019s FSB gets round-the-clock access to crypto exchange customer data starting in March",
-   "link": "https://meduza.io/en/news/2026/11/03/russia-s-fsb-gets-round-the-clock-access-to-crypto-exchange-customer-data-starting-in-march",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9895
-  },
-  {
-   "title": "Sheinbaum breaks her US midterm silence for one candidate: Tuesday\u2019s ma\u00f1anera recapped",
-   "link": "https://mexiconewsdaily.com/politics/sheinbaum-us-midterm-mananera-tuesday/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9852
-  },
-  {
-   "title": "A Fight for Workers\u2019 Rights Turned the Tide in Brazil",
-   "link": "https://jacobin.com/2026/11/brazil-hilton-lula-workweek-campaign",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9833
+   "score": 0.9558
   },
   {
    "title": "Kenya: Second Female Body Recovered From Eastleigh Building Collapse Rubble",
@@ -165,37 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9826
-  },
-  {
-   "title": "The US and Europe have a narrow window to change Russia's war trajectory",
-   "link": "https://kyivindependent.com/the-us-and-europe-have-a-narrow-window-to-change-russias-war-trajectory/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9796
-  },
-  {
-   "title": "The DSA's Coming-Out Party",
-   "link": "https://reason.com/2026/11/03/the-dsas-coming-out-party/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9784
-  },
-  {
-   "title": "STATES OF GOVERNANCE OP-ED: Can SA\u2019s Public Service Amendment Act deliver better governance in Joburg\u2019s Deep South?",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-03-can-sas-public-service-amendment-act-deliver-better-governance-in-joburgs-deep-south/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9741
+   "score": 0.9487
   },
   {
    "title": "The James Orr inquisition shames Cambridge",
@@ -205,17 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9688
-  },
-  {
-   "title": "He Donated His Ultra-rare Blood 545 Times While Visiting Every Blood Bank in Australia",
-   "link": "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9688
+   "score": 0.9357
   },
   {
    "title": "As energy needs of data centres draw scrutiny, their hardware deserves the same attention",
@@ -225,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9687
+   "score": 0.9355
   },
   {
    "title": "After decades of suppression, Canadians are embracing Indigenous cultural burns",
@@ -235,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9627
+   "score": 0.9299
   },
   {
    "title": "The Counter-Extremism Expert Building Our Capacity for Compassion",
@@ -245,37 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9526
-  },
-  {
-   "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
-   "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9482
-  },
-  {
-   "title": "Outgoing Mayor\u2019s Chief of Staff Lands Job at VPD",
-   "link": "https://thetyee.ca/News/2026/11/03/Outgoing-Mayor-Chief-Staff-Lands-Job-VPD/",
-   "outlet": "The Tyee",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9476
-  },
-  {
-   "title": "Ashley Hinson\u2019s Digital Chief Oversees Firm Paid Millions to Push Israeli Propaganda",
-   "link": "https://theintercept.com/2026/11/03/ashley-hinson-israel-aipac/",
-   "outlet": "The Intercept",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9471
+   "score": 0.9203
   },
   {
    "title": "Seven Arrested in International Investment Fraud Crackdown in Balkans",
@@ -285,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9471
+   "score": 0.9151
   },
   {
    "title": "What if we stop treating social care like a service? This village shows the way",
@@ -295,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9461
+   "score": 0.9142
   },
   {
    "title": "World No. 17 Alex Eala downs Emerson Jones to start Hong Kong Open bid",
@@ -305,17 +315,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9398
+   "score": 0.9082
   },
   {
-   "title": "We Can\u2019t Predict What Will Happen on Election Day. But We\u2019ll Be Here to Cover It.",
+   "title": "How We\u2019re Covering the Midterms \u2014 and the Aftermath",
    "link": "https://www.propublica.org/article/propublica-approach-2026-midterm-elections",
    "outlet": "ProPublica",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9065
+   "score": 0.8767
   },
   {
    "title": "It\u2019s Election Day. Here\u2019s what to watch as Texas wraps its most competitive electoral season in years.",
@@ -325,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9065
+   "score": 0.8767
   },
   {
    "title": "Electric aviation is taking off in unexpected ways",
@@ -335,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8933
+   "score": 0.8642
   },
   {
    "title": "Ayuso honours Kast in Madrid on the eve of the Ibero-American Summit: \u201cWe defend the same things\u201d",
@@ -345,7 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8886
+   "score": 0.8597
   },
   {
    "title": "Hong Kong police arrest 61-year-old man over suspected drink spiking of Japanese DJ Mao Hamasaki",
@@ -355,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8773
+   "score": 0.8491
   },
   {
    "title": "Today Is the End of the World as We Know It",
@@ -365,27 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8466
-  },
-  {
-   "title": "Uzbekistan Wins the Biggest Olympiad in History. Now Sindarov Goes for the World Crown",
-   "link": "https://thediplomat.com/2026/11/uzbekistan-wins-the-biggest-olympiad-in-history-now-sindarov-goes-for-the-world-crown/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8436
-  },
-  {
-   "title": "Unpacking Hong Kong\u2019s rule of law score according to the World Justice Project\u2019s ranking",
-   "link": "https://globalvoices.org/2026/11/03/unpacking-hong-kongs-rule-of-law-score-according-to-the-world-justice-projects-ranking/",
-   "outlet": "Global Voices",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8304
+   "score": 0.82
   },
   {
    "title": "Lai touts Taiwan\u2019s economic resilience",
@@ -398,6 +388,16 @@
    "score": 0.8096
   },
   {
+   "title": "Unpacking Hong Kong\u2019s rule of law score according to the World Justice Project\u2019s ranking",
+   "link": "https://globalvoices.org/2026/11/03/unpacking-hong-kongs-rule-of-law-score-according-to-the-world-justice-projects-ranking/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8047
+  },
+  {
    "title": "Britain should decolonize the Commonwealth",
    "link": "https://unherd.com/2026/11/lets-decolonise-the-commonwealth/?edition=us",
    "outlet": "UnHerd",
@@ -405,7 +405,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8009
+   "score": 0.7768
   },
   {
    "title": "How carbon credits helped unlock the Great Koala National Park in NSW",
@@ -415,17 +415,117 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8004
+   "score": 0.7763
   },
   {
-   "title": "Five ways that sea\u2011level rise affects your daily life, even if you live inland",
-   "link": "https://phys.org/news/2026-11-ways-sealevel-affects-daily-life.html",
+   "title": "Watch \u2013 Firoz Cachalia on the Madlanga Commission and fixing the police",
+   "link": "https://www.dailymaverick.co.za/video/2026-11-03-watch-firoz-cachalia-on-the-madlanga-commission-and-fixing-the-police/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9989
+  },
+  {
+   "title": "Police probe teenager\u2019s corpse found in Cross River community",
+   "link": "https://www.premiumtimesng.com/regional/south-south-regional/922536-police-probe-teenagers-corpse-found-in-cross-river-community.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9979
+  },
+  {
+   "title": "A laser can draw superconductivity at the nanoscale",
+   "link": "https://phys.org/news/2026-11-laser-superconductivity-nanoscale.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9992
+   "score": 0.9968
+  },
+  {
+   "title": "Palestinian families return home after Israeli siege of Hebron",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9916
+  },
+  {
+   "title": "The Internet\u2019s Conspiracy Theorists Are Desperate for Voter Fraud",
+   "link": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9908
+  },
+  {
+   "title": "Your Guide Today Will Be Indigenous Knowledge",
+   "link": "https://thetyee.ca/WhatWorks/2026/11/03/Guide-Today-Indigenous-Knowledge/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9883
+  },
+  {
+   "title": "Opinion: How an election defeat triggered a carnival of racism against Palestinians",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-election-defeat-triggered-carnival-racism-against",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9874
+  },
+  {
+   "title": "MND Local BCS: PGA golf and Day of the Dead celebrations in Los Cabos",
+   "link": "https://mexiconewsdaily.com/lifestyle/mnd-local-golf-day-of-the-dead-los-cabos/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9763
+  },
+  {
+   "title": "Trump's Dismissed Epstein Letter Lawsuit Is the Latest Example of His Failure To State Cognizable Claims",
+   "link": "https://reason.com/2026/11/03/trumps-dismissed-epstein-letter-lawsuit-is-the-latest-example-of-his-failure-to-state-cognizable-claims/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9745
+  },
+  {
+   "title": "Hidden audio-recording software found on interactive panels in Moscow schools, with data sent to the mayor\u2019s office",
+   "link": "https://meduza.io/en/news/2026/11/03/hidden-audio-recording-software-found-on-interactive-panels-in-moscow-schools-with-data-sent-to-the-mayor-s-office",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9694
+  },
+  {
+   "title": "The Street Shrines of Victoria in Victoria, Malta",
+   "link": "https://www.atlasobscura.com/places/the-street-shrines-of-victoria-gozo",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9644
   },
   {
    "title": "Californians are choosing 8 statewide leaders today. Only 1 of them gets Gavin Newsom\u2019s office",
@@ -435,7 +535,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9992
+   "score": 0.9644
+  },
+  {
+   "title": "Ukraine war latest: Russia launches biggest mass attack on Ukraine's energy infrastructure this year",
+   "link": "https://kyivindependent.com/ukraine-war-latest-russia-launches-biggest-mass-attack-on-ukraines-energy-infrastructure-this-year/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9641
   },
   {
    "title": "Colorado state treasurer election results",
@@ -445,57 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9969
-  },
-  {
-   "title": "NDC senatorial candidate expresses concerns over alleged intimidation of opposition parties in Edo",
-   "link": "https://www.premiumtimesng.com/regional/south-south-regional/922471-ndc-senatorial-candidate-expresses-concerns-over-alleged-intimidation-of-opposition-parties-in-edo.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9933
-  },
-  {
-   "title": "Israeli air strikes hit Lebanon\u2019s Bint Jbeil district",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-lebanons-bint-jbeil-district",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9917
-  },
-  {
-   "title": "Active remediation of Yukon\u2019s Faro mine expected to begin in 2029",
-   "link": "https://www.aptnnews.ca/national-news/active-remediation-of-yukons-faro-mine-expected-to-begin-in-2029/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9898
-  },
-  {
-   "title": "High expectations but no agreement on Antarctic marine protection, krill fishing",
-   "link": "https://news.mongabay.com/2026/11/high-expectations-but-no-agreement-on-antarctic-marine-protection-krill-fishing/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9873
-  },
-  {
-   "title": "Vladimir Uglev, one of the developers of the Novichok nerve agent, dies at 80",
-   "link": "https://meduza.io/en/news/2026/11/03/vladimir-uglev-one-of-the-developers-of-the-novichok-nerve-agent-dies-at-80",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.984
+   "score": 0.9622
   },
   {
    "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
@@ -505,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7379
+   "score": 0.7171
   },
   {
    "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
@@ -515,27 +575,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7374
+   "score": 0.7167
   },
   {
-   "title": "East Africa: PM Nsengiyumva Calls for Fresh Push to Unlock EAC Trade",
-   "link": "https://allafrica.com/stories/202611030712.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
+   "title": "Active remediation of Yukon\u2019s Faro mine expected to begin in 2029",
+   "link": "https://www.aptnnews.ca/national-news/active-remediation-of-yukons-faro-mine-expected-to-begin-in-2029/",
+   "outlet": "APTN News",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.982
+   "score": 0.9555
   },
   {
-   "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "High expectations but no agreement on Antarctic marine protection, krill fishing",
+   "link": "https://news.mongabay.com/2026/11/high-expectations-but-no-agreement-on-antarctic-marine-protection-krill-fishing/",
+   "outlet": "Mongabay",
+   "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9799
+   "score": 0.9532
   },
   {
    "title": "Is There Anything Left in the Dream of Cold Fusion?",
@@ -545,67 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7346
-  },
-  {
-   "title": "Life Beneath the Melting Glaciers",
-   "link": "https://jacobin.com/2026/11/pakistan-climate-change-glaciers-flooding",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9784
-  },
-  {
-   "title": "Is It Better to Speak, or to \u2018Hush\u2019?",
-   "link": "https://insideclimatenews.org/news/03112026/todays-climate-election-hushing/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9752
-  },
-  {
-   "title": "Muurhuizen (Wall Houses) in Amersfoort, Netherlands",
-   "link": "https://www.atlasobscura.com/places/muurhuizen-wall-houses",
-   "outlet": "Atlas Obscura",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9747
-  },
-  {
-   "title": "TURNING POINT: South Africa\u2019s unfinished Lula Moment \u2014 lessons from Brazil",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-03-south-africas-unfinished-lula-moment-lessons-from-brazil/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.974
-  },
-  {
-   "title": "Ukraine, allies to coordinate peace efforts ahead of planned talks with Russia",
-   "link": "https://kyivindependent.com/ukraines-allies-to-coordinate-peace-efforts-ahead-of-planned-talks-with-russia-us/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9706
-  },
-  {
-   "title": "Americans Would Rather Win the Midterms Than a Sports Title. Here's Why That Might Be.",
-   "link": "https://reason.com/2026/11/03/americans-would-rather-win-the-midterms-than-a-sports-title-heres-why-that-might-be/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9687
+   "score": 0.714
   }
  ]
 }
