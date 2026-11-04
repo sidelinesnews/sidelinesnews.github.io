@@ -29,10 +29,10 @@
  {
   "name": "Premium Times",
   "url": "https://www.premiumtimesng.com/feed",
-  "ok": true,
-  "items": 15,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 755",
   "baseline": false
  },
  {
