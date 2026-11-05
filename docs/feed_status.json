@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 53,
-  "undated_or_future": 0,
+  "undated_or_future": 7,
   "error": null,
   "baseline": false
  },
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 54,
+  "items": 55,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
