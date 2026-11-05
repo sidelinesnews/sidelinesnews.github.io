@@ -22,17 +22,17 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 53,
-  "undated_or_future": 3,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
  {
   "name": "Premium Times",
   "url": "https://www.premiumtimesng.com/feed",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 15,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 755",
+  "error": null,
   "baseline": false
  },
  {
@@ -76,7 +76,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 51,
-  "undated_or_future": 51,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 55,
+  "items": 54,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
