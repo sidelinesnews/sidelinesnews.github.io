@@ -11,18 +11,18 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 51,
-  "undated_or_future": 1,
+  "items": 50,
+  "undated_or_future": 2,
   "error": null,
   "baseline": false
  },
@@ -75,8 +75,8 @@
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
-  "items": 49,
-  "undated_or_future": 0,
+  "items": 50,
+  "undated_or_future": 50,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 28,
+  "items": 25,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 54,
+  "items": 53,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
