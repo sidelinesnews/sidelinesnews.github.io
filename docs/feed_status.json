@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 51,
-  "undated_or_future": 2,
+  "undated_or_future": 1,
   "error": null,
   "baseline": false
  },
@@ -84,7 +84,7 @@
   "name": "The Diplomat",
   "url": "https://thediplomat.com/feed/",
   "ok": true,
-  "items": 95,
+  "items": 96,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 27,
+  "items": 28,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
