@@ -1,41 +1,91 @@
 {
- "updated": "2026-11-07T01:11:49.802456+00:00",
+ "updated": "2026-11-07T03:58:31.801337+00:00",
  "meter": {
-  "outlets": 43,
+  "outlets": 42,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "A Fighter. A Leader. Meet Dr. Joanne Liu",
-   "link": "https://thetyee.ca/Culture/2026/11/06/Joanne-Liu-Doctors-Without-Borders-International-Health/",
-   "outlet": "The Tyee",
-   "region": "North America",
+   "title": "\u2018Egrets, While War\u2019: Poet Tishani Doshi\u2019s most existential and reflective work yet",
+   "link": "https://scroll.in/article/1096504/egrets-while-war-poet-tishani-doshis-most-existential-and-reflective-work-yet?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 1.0
+   "score": 0.9879
   },
   {
-   "title": "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-would-be-no-israel-if-iran-was-allowed-nuclear-weapon",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9985
-  },
-  {
-   "title": "5 dead in Malasiqui fireworks factory blast: What we know so far",
-   "link": "https://www.rappler.com/philippines/luzon/things-to-know-malasiqui-pangasinan-fireworks-factory-blast/",
+   "title": "This activist lives the real-world struggle of \u2018Bloom Where You Are Planted\u2019",
+   "link": "https://www.rappler.com/people/newsmakers/activist-amanda-echanis-bloom-where-you-are-planted-documentary/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9975
+   "score": 0.9879
+  },
+  {
+   "title": "\u201cThey all must go\u201d: Pe\u00f1a\u2019s removal fails to calm anger on Paraguay\u2019s streets",
+   "link": "https://en.mercopress.com/2026/11/07/they-all-must-go-pena-s-removal-fails-to-calm-anger-on-paraguay-s-streets?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9859
+  },
+  {
+   "title": "Disasters and debt. Escaping the 'climate-debt doom loop'",
+   "link": "https://phys.org/news/2026-11-disasters-debt-climate-doom-loop.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9798
+  },
+  {
+   "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+   "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9747
+  },
+  {
+   "title": "The Sky\u2019s the Limit",
+   "link": "https://thetyee.ca/Culture/2026/11/06/Mia-Noblet-Setting-New-Records-Emerging-Sport-Highlining/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9717
+  },
+  {
+   "title": "HKFP Lens: The Cathay Camera Club\u2019s Monocolour Exhibition",
+   "link": "https://hongkongfp.com/2026/11/07/hkfp-lens-the-cathay-camera-clubs-monocolour-exhibition/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9697
+  },
+  {
+   "title": "Texas appeals court cancels oral arguments in challenge to state hemp rules",
+   "link": "https://feeds.texastribune.org/link/16799/17517225/texas-15th-court-appeals-arguments-cancel-hemp",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9632
   },
   {
    "title": "A US Senator\u2019s Push to Fast-Track Pipelines Would Benefit His Former Company",
@@ -45,27 +95,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9915
-  },
-  {
-   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9897
-  },
-  {
-   "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
-   "link": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9893
+   "score": 0.9581
   },
   {
    "title": "The world after Trump",
@@ -75,7 +105,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9863
+   "score": 0.9532
   },
   {
    "title": "Musk reposts tweet calling Starlink service for Ukraine 'mistake'",
@@ -85,17 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9861
-  },
-  {
-   "title": "Court rejects ex-press union head Ronson Chan\u2019s bid to take police obstruction appeal to top court",
-   "link": "https://hongkongfp.com/2026/11/07/court-rejects-ex-press-union-head-ronson-chans-bid-to-take-police-obstruction-appeal-to-top-court/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9852
+   "score": 0.953
   },
   {
    "title": "Taiwan to activate NSF amid stock rout",
@@ -105,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9852
+   "score": 0.9521
   },
   {
    "title": "Japan, Taiwan, China and the emerging 2028 strategic test",
@@ -115,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.985
+   "score": 0.9519
   },
   {
    "title": "Rogers Park Family Killed In Fire Remembered For The Love They Gave",
@@ -125,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9823
+   "score": 0.9493
   },
   {
    "title": "Akwesasne community members fighting the opening of a Hyperscale data center",
@@ -135,7 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.982
+   "score": 0.9491
   },
   {
    "title": "Mexico City\u2019s Quintonil named best restaurant in Latin America",
@@ -145,17 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9782
-  },
-  {
-   "title": "In historic first, women poised to hold top three leadership positions in Texas government",
-   "link": "https://feeds.texastribune.org/link/16799/17517204/texas-governor-speaker-big-three-women-midterms-2026",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9743
+   "score": 0.9455
   },
   {
    "title": "POLITICALLY AWEH: Why is rent so expensive in Cape Town, and would rent control help?",
@@ -165,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9708
+   "score": 0.9384
   },
   {
    "title": "The Cybertruck\u2019s Death Is Actually Great News for EVs",
@@ -175,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9674
+   "score": 0.9352
   },
   {
    "title": "Mbah inaugurates 68 development centre administrators to take projects, policies to more communities",
@@ -185,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9662
+   "score": 0.9341
   },
   {
    "title": "A Major Reform of California's Environmental Regulations Looks Destined for Failure",
@@ -195,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9632
+   "score": 0.9313
   },
   {
    "title": "Republicans Are Desperate to Pretend They Never Supported the War With Iran",
@@ -205,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9542
+   "score": 0.9228
   },
   {
    "title": "People Around the World Help Buy Royal Estate for Wildlife Conservation",
@@ -215,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9528
+   "score": 0.9214
   },
   {
    "title": "Melania Trump receives Ukraine\u2019s Order of Princess Olha at White House meeting on Oleshky evacuation",
@@ -225,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.951
+   "score": 0.9197
   },
   {
    "title": "Fuente de los Ni\u00f1os Miones in Guadalajara, Mexico",
@@ -235,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9495
+   "score": 0.9183
   },
   {
    "title": "U.S. Economy Added 165,000 Jobs In October, Surpassing Expectations",
@@ -245,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9495
+   "score": 0.9183
   },
   {
    "title": "Lakewood police identify officer who died in shoot-out on RTD bus",
@@ -255,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9425
+   "score": 0.9116
   },
   {
    "title": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
@@ -265,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9383
+   "score": 0.9077
   },
   {
    "title": "Guatemala faces a human rights court over violent evictions of Indigenous communities",
@@ -275,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9349
+   "score": 0.9044
   },
   {
    "title": "Democrats take control of Georgia\u2019s powerful utility regulator",
@@ -285,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9262
+   "score": 0.8962
   },
   {
    "title": "The Taipei Mayor Election Is Not About China",
@@ -295,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9239
+   "score": 0.894
   },
   {
    "title": "On the Ground in the Final Days Before Trump\u2019s Midterm Debacle",
@@ -305,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9214
+   "score": 0.8916
   },
   {
    "title": "Israel\u2019s Shaky Democracy Continues to Crumble",
@@ -315,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9166
+   "score": 0.8871
   },
   {
    "title": "We need to talk about Meta: Political interference and interests in the Brazilian elections",
@@ -325,17 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9147
-  },
-  {
-   "title": "Which migraine remedies actually work?",
-   "link": "https://scroll.in/article/1096733/which-migraine-remedies-actually-work?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8998
+   "score": 0.8853
   },
   {
    "title": "A Strange Quantum Theorem Has Killed Einstein\u2019s Reality",
@@ -345,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8926
+   "score": 0.8643
   },
   {
    "title": "ARTE Europe Weekly: How Europe\u2019s Youth are Rejecting \u2018Politics-as-Usual\u2019",
@@ -355,7 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8824
+   "score": 0.8547
   },
   {
    "title": "Zimbabwe: Manhunt for Chitungwiza Man Accused of Killing Mother",
@@ -365,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8662
+   "score": 0.8393
   },
   {
    "title": "Distant polls, spotty mail obstruct Native American voting 6 years after law meant to help them",
@@ -375,7 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.864
+   "score": 0.8372
   },
   {
    "title": "Inside the Big House connecting generations to Ha\u00ed\u026bzaqv knowledge",
@@ -385,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.864
+   "score": 0.8372
   },
   {
    "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
@@ -395,7 +395,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8168
+   "score": 0.7925
   },
   {
    "title": "Labour has embraced the two great lies of the anti-Brexit lobby",
@@ -405,7 +405,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7985
+   "score": 0.7751
   },
   {
    "title": "What went right this week: the good news that matters",
@@ -415,17 +415,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7907
+   "score": 0.7678
   },
   {
-   "title": "Pe\u00f1a says he will face his impeachment trial as Argentina denies he has entered the country",
-   "link": "https://en.mercopress.com/2026/11/06/pena-says-he-will-face-his-impeachment-trial-as-argentina-denies-he-has-entered-the-country?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "title": "Princess Anne to arrive in the Falklands on the eve of the Hamburg hearing",
+   "link": "https://en.mercopress.com/2026/11/07/princess-anne-to-arrive-in-the-falklands-on-the-eve-of-the-hamburg-hearing?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
    "outlet": "MercoPress",
    "region": "Latin America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7653
+   "score": 0.984
+  },
+  {
+   "title": "Weekend watch: Vijay Sethupathi delivers a bear hug of a film in \u2018Baththa\u2019",
+   "link": "https://scroll.in/reel/1096940/weekend-watch-vijay-sethupathi-delivers-a-bear-hug-of-a-film-in-baththa?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9818
+  },
+  {
+   "title": "Jacobina: More than a biscuit, the pride of Mendez town",
+   "link": "https://www.rappler.com/people/human-interest/jacobina-biscuits-origin-pride-mendez-cavite/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9757
   },
   {
    "title": "Solar kits are changing what disaster relief looks like",
@@ -435,27 +455,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7502
+   "score": 0.7293
   },
   {
-   "title": "Does \u2018The Artist\u2019s Way\u2019 Really Work?",
-   "link": "https://thetyee.ca/Culture/2026/11/06/Does-The-Artists-Way-Really-Work/",
+   "title": "A Fighter. A Leader. Meet Dr. Joanne Liu",
+   "link": "https://thetyee.ca/Culture/2026/11/06/Joanne-Liu-Doctors-Without-Borders-International-Health/",
    "outlet": "The Tyee",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9996
+   "score": 0.9678
   },
   {
-   "title": "Iranian air defence destroys MQ-9 drone over Qeshm Island, report says",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-air-defence-destroys-mq-9-drone-over-qeshm-island-report-says",
-   "outlet": "Middle East Eye",
+   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+   "outlet": "Al Jazeera",
    "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9872
+   "score": 0.9563
+  },
+  {
+   "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
+   "link": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.956
   },
   {
    "title": "Inside the Chinese manosphere",
@@ -465,17 +495,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9859
+   "score": 0.9528
   },
   {
-   "title": "[Vantage Point] Gov\u2019t dismantling a grid monopoly is only half the job",
-   "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-dismantling-national-grid-philippines-monopoly-only-half-the-job/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
+   "title": "Court rejects ex-press union head Ronson Chan\u2019s bid to take police obstruction appeal to top court",
+   "link": "https://hongkongfp.com/2026/11/07/court-rejects-ex-press-union-head-ronson-chans-bid-to-take-police-obstruction-appeal-to-top-court/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9854
+   "score": 0.9521
   },
   {
    "title": "Legislator May Chin indicted on security charges",
@@ -485,17 +515,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9852
+   "score": 0.9521
   },
   {
-   "title": "New Zealanders head to polls on final day of voting",
-   "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "State-appointed managers in Texas takeover school districts brace for imminent removal",
+   "link": "https://feeds.texastribune.org/link/16799/17517226/texas-school-takeovers-board-managers-gina-hinojosa",
+   "outlet": "Texas Tribune",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9828
+   "score": 0.9495
   },
   {
    "title": "Here\u2019s why Pyongyang is testing an array of missile capabilities",
@@ -505,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9805
+   "score": 0.9477
   },
   {
    "title": "APTN Nouvelles nationales \u2013 6 novembre 2026",
@@ -515,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9795
+   "score": 0.9467
   },
   {
    "title": "Mexico City ponders 9-year prison terms for poisoners of animals in publc spaces",
@@ -525,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9755
+   "score": 0.9429
   },
   {
    "title": "Global Campaign Seeks to Curb Emissions of World\u2019s Most Potent Greenhouse Gas",
@@ -535,17 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9735
-  },
-  {
-   "title": "Spot a baby bird on the ground? Don't be tempted to bird\u2011nap it",
-   "link": "https://phys.org/news/2026-11-baby-bird-ground-dont-birdnap.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9731
+   "score": 0.941
   },
   {
    "title": "Two Scooter Riders Killed In Separate Chicago Crashes, Including One Involving Police",
@@ -555,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.972
+   "score": 0.9396
   },
   {
    "title": "Russian ballistic missiles slam Kyiv after Zelensky warns of mass attack",
@@ -565,7 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.962
+   "score": 0.9301
   },
   {
    "title": "White House Warns Conservative Groups It Is 'Monitoring' What They Say Amid Discontent Over Midterm Results",
@@ -575,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9573
+   "score": 0.9257
   },
   {
    "title": "LOCAL ELECTIONS 2026: MK party takes four KZN municipalities from ANC as governance test looms",
@@ -585,27 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9549
-  },
-  {
-   "title": "EFCC secures final forfeiture of $163,592 proceeds of US fraud",
-   "link": "https://www.premiumtimesng.com/news/top-news/923290-efcc-secures-final-forfeiture-of-163592-proceeds-of-us-fraud.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9526
-  },
-  {
-   "title": "How Stephen Miller Schemed His Way to the Top",
-   "link": "https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9515
+   "score": 0.9234
   }
  ]
 }
