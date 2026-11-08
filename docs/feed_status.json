@@ -21,7 +21,7 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 50,
+  "items": 51,
   "undated_or_future": 1,
   "error": null,
   "baseline": false
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: mismatched tag: line 93, column 2",
   "baseline": false
  },
  {
