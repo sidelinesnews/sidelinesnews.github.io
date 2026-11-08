@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:55:54.609737+00:00",
+ "updated": "2026-11-08T13:01:47.106407+00:00",
  "meter": {
   "outlets": 41,
   "regions": 11,
@@ -8,84 +8,134 @@
  },
  "stories": [
   {
-   "title": "Democrats\u2019 congressional win could strengthen Ukraine\u2019s hand against Russia",
-   "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9947
-  },
-  {
-   "title": "STEPPING UP: Simon Harmer\u2019s transition from exile to Proteas\u2019 top Test spinner",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-08-simon-harmers-transition-from-exile-to-proteas-top-test-spinner/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9926
-  },
-  {
-   "title": "\u201cWhen They Find Me\u201d: Hunters and hunted collide in a high-country blizzard",
-   "link": "https://coloradosun.com/2026/11/08/sunlit-when-they-find-me-carter-wilson/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9915
-  },
-  {
-   "title": "Russian attacks kill 5, injure 10 in Ukraine over the past day, striking Zaporizhzhia Oblast over 700 times",
-   "link": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9883
-  },
-  {
-   "title": "Baze University acquires two aircraft as founder expands aviation education",
-   "link": "https://www.premiumtimesng.com/business/business-news/923676-baze-university-acquires-two-aircraft-as-founder-expands-aviation-education.html",
+   "title": "Truck overturns in Lagos, kills passenger",
+   "link": "https://www.premiumtimesng.com/news/top-news/923712-truck-overturns-in-lagos-kills-passenger.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9763
+   "score": 0.9972
   },
   {
-   "title": "Sunday book pick: The cat\u2019s commandments to a good life in \u2018Feline Philosophy\u2019",
-   "link": "https://scroll.in/article/1096723/sunday-book-pick-the-cats-commandments-to-a-good-life-in-feline-philosophy?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
+   "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+   "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9763
+   "score": 0.9914
   },
   {
-   "title": "Good News in History, November 8",
-   "link": "https://www.goodnewsnetwork.org/events061108/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9763
-  },
-  {
-   "title": "Pedro Taduran retains world crown by clear unanimous decision",
-   "link": "https://www.rappler.com/people/athletes/boxing-results-pedro-taduran-brandon-moreno-world-title-november-7-2026/",
+   "title": "HOMESTRETCH: Surfing legends make history in Siargao",
+   "link": "https://www.rappler.com/sports/homestretch-surfing-legends-make-history-siargao-cloud-9-world-surf-league/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9757
+   "score": 0.9874
+  },
+  {
+   "title": "\u2018The Lights of Shantinagar\u2019: A heartwarming novel about the things people do out of and for love",
+   "link": "https://scroll.in/article/1096554/the-lights-of-shantinagar-a-heartwarming-novel-about-the-things-people-do-out-of-and-for-love?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9872
+  },
+  {
+   "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+   "link": "https://www.wired.com/gallery/best-computer-speakers/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9872
+  },
+  {
+   "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+   "link": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9842
+  },
+  {
+   "title": "Their town has been burned, flooded and nearly cut in half. But residents want you to know \u201cPagosa is here.\u201d",
+   "link": "https://coloradosun.com/2026/11/08/pagosa-springs-flood-recovery/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9811
+  },
+  {
+   "title": "Africa: CANEX WKND 2026 Showcases Africa's Creative Brilliance in a Night of Fashion and Awards",
+   "link": "https://allafrica.com/stories/202611080008.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9807
+  },
+  {
+   "title": "SOUTH AFRICAN CONNECTION: How an anglophone education in Durban shaped Fernando Pessoa, giant of European literature",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-08-how-an-anglophone-education-in-durban-shaped-fernando-pessoa-giant-of-european-literature/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9797
+  },
+  {
+   "title": "The Pressure on LA\u2019s First Socialist Mayor",
+   "link": "https://theintercept.com/2026/11/08/nithya-raman-la-mayor-socialist-progressive/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9751
+  },
+  {
+   "title": "Moscow police detain over 200 people, reportedly forcing some to sign military contracts",
+   "link": "https://kyivindependent.com/moscow-police-detain-over-200-people-reportedly-forcing-some-to-sign-military-contracts/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9726
+  },
+  {
+   "title": "The Unrelenting Ordeal of Wildfire Recovery",
+   "link": "https://insideclimatenews.org/news/08112026/maui-family-wildfire-recovery/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9642
+  },
+  {
+   "title": "An 11-Day-Old Baby Couldn\u2019t Stop Bleeding. For Hours, the ER Didn\u2019t Provide a Critical Vitamin Shot.",
+   "link": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9632
   },
   {
    "title": "Top US, China officials raise trade \u2018concerns\u2019 as APEC approaches",
@@ -95,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9461
+   "score": 0.9116
   },
   {
    "title": "How the GOP Can Win Back Latinos",
@@ -105,17 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9421
-  },
-  {
-   "title": "Why the tropics lose the most birds when cities expand",
-   "link": "https://phys.org/news/2026-11-tropics-birds-cities.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9026
+   "score": 0.9078
   },
   {
    "title": "Taiwan Strait peace a priority: IPAC",
@@ -125,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8869
+   "score": 0.8558
   },
   {
    "title": "MND Tutor | US midterm elections",
@@ -135,347 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8667
-  },
-  {
-   "title": "Africa: CANEX Opens Doors for Gambian Fashion Entrepreneurs Seeking Global Recognition",
-   "link": "https://allafrica.com/stories/202611070240.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8269
-  },
-  {
-   "title": "Court Allows Discovery as to Vindictive Prosecution Defense by Smartmatic's Parent Company",
-   "link": "https://reason.com/volokh/2026/11/07/court-allows-discovery-as-to-vindictive-prosecution-defense-by-smartmatics-parent-company/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.823
-  },
-  {
-   "title": "Enough With the \u201cPublic Option\u201d Already",
-   "link": "https://jacobin.com/2026/11/public-option-health-care-insurance",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8134
-  },
-  {
-   "title": "Texas officials acknowledge problems with voter registration system, will work with locals on a fix",
-   "link": "https://feeds.texastribune.org/link/16799/17517543/texas-elections-teams-fix-secretary-state",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8129
-  },
-  {
-   "title": "These cranberry bogs come with a side of solar",
-   "link": "https://grist.org/solutions/these-cranberry-bogs-come-with-a-side-of-solar/",
-   "outlet": "Grist",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7928
-  },
-  {
-   "title": "\u2018Soul-hurting pain\u2019: Victims\u2019 families enraged at Newsom\u2019s death row decision",
-   "link": "https://calmatters.org/justice/2026/11/death-penalty-commutations-families/",
-   "outlet": "CalMatters",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7844
-  },
-  {
-   "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-   "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7844
-  },
-  {
-   "title": "Trump\u2019s hubris more comedy than tragedy but echoes Greek original",
-   "link": "https://asiatimes.com/2026/11/trumps-hubris/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7752
-  },
-  {
-   "title": "These divers are killing a beautiful coral to save Brazil\u2019s marine life",
-   "link": "https://news.mongabay.com/video/2026/11/these-divers-are-killing-a-beautiful-coral-to-save-brazils-marine-life/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7705
-  },
-  {
-   "title": "How a Socialist Can Govern a City Under the Thumb of the Trump Administration",
-   "link": "https://theintercept.com/2026/11/07/janeese-lewis-george-dsa-dc-mayor/",
-   "outlet": "The Intercept",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.768
-  },
-  {
-   "title": "Climate Change Is Bringing Dengue Fever to the High Himalayas",
-   "link": "https://insideclimatenews.org/news/07112026/nepal-himalayas-dengue-fever/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.76
-  },
-  {
-   "title": "Why are so many charities lobbying for open borders?",
-   "link": "https://www.spiked-online.com/2026/11/07/why-are-so-many-charities-lobbying-for-open-borders/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7516
-  },
-  {
-   "title": "Floods in Gaza leave tens of thousands without shelter",
-   "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9944
-  },
-  {
-   "title": "How people in Montenegro are making their country cleaner",
-   "link": "https://globalvoices.org/2026/11/07/how-people-in-montenegro-are-making-their-country-cleaner/",
-   "outlet": "Global Voices",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7457
-  },
-  {
-   "title": "CULTURAL TENSIONS: Is halaal food becoming more common in SA? Debunking viral myths",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-08-is-halaal-food-becoming-more-common-in-sa-debunking-viral-myths/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9907
-  },
-  {
-   "title": "Carter Wilson\u2019s reflection on home invasion sparked latest thriller",
-   "link": "https://coloradosun.com/2026/11/08/sunlit-carter-wilson-when-they-find-me/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9905
-  },
-  {
-   "title": "Strawberry cansi? Art meets food at Mt. Camisong for Ibagiw 2026",
-   "link": "https://www.rappler.com/people/human-interest/mt-camisong-ibagiw-2026-art-food-cordillera/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9737
-  },
-  {
-   "title": "Gift Orban overtakes Victor Osimhen in Turkish Super Lig Golden Boot race",
-   "link": "https://www.premiumtimesng.com/sports/football/923668-gift-orban-overtakes-victor-osimhen-in-turkish-super-lig-golden-boot-race.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9721
-  },
-  {
-   "title": "General Staff: Russia has lost 1,606,400 troops in Ukraine since Feb. 24, 2022",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-606-400-troops-in-ukraine-since-feb-24-2022/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9702
-  },
-  {
-   "title": "Karnataka chief electoral office admits multiple voter IDs generated for same person during SIR",
-   "link": "https://scroll.in/latest/1096953/karnataka-chief-electoral-office-admits-multiple-voter-ids-generated-for-same-person-during-sir?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9633
-  },
-  {
-   "title": "Princess Anne to arrive in the Falklands on the eve of the Hamburg hearing",
-   "link": "https://en.mercopress.com/2026/11/07/princess-anne-to-arrive-in-the-falklands-on-the-eve-of-the-hamburg-hearing?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7077
-  },
-  {
-   "title": "The Midterms Prove Left-Populism Is Rising",
-   "link": "https://www.theamericanconservative.com/the-midterms-prove-left-populism-is-rising/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9419
-  },
-  {
-   "title": "The Sky\u2019s the Limit",
-   "link": "https://thetyee.ca/Culture/2026/11/06/Mia-Noblet-Setting-New-Records-Emerging-Sport-Highlining/",
-   "outlet": "The Tyee",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6992
-  },
-  {
-   "title": "The world after Trump",
-   "link": "https://unherd.com/2026/11/the-world-after-trump/?edition=us",
-   "outlet": "UnHerd",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6888
-  },
-  {
-   "title": "Rogers Park Family Killed In Fire Remembered For The Love They Gave",
-   "link": "https://blockclubchicago.org/2026/11/06/rogers-park-family-killed-in-fire-remembered-for-the-love-they-gave/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6866
-  },
-  {
-   "title": "APTN Nouvelles nationales \u2013 6 novembre 2026",
-   "link": "https://www.aptnnews.ca/featured/aptn-nouvelles-nationales-6-novembre-2026/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6852
-  },
-  {
-   "title": "Fuente de los Ni\u00f1os Miones in Guadalajara, Mexico",
-   "link": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
-   "outlet": "Atlas Obscura",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6692
-  },
-  {
-   "title": "Russia adds two unregistered antiwar opposition parties to its \u2018foreign agents\u2019 list",
-   "link": "https://meduza.io/en/news/2026/11/06/russia-adds-two-unregistered-antiwar-opposition-parties-to-its-foreign-agents-list",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6678
-  },
-  {
-   "title": "PLA may be simulating Taiwan isolation: report",
-   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/08/2003867351",
-   "outlet": "Taipei Times",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8869
-  },
-  {
-   "title": "Personalized savings reminders can help boost retirement savings",
-   "link": "https://phys.org/news/2026-11-personalized-boost.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8817
-  },
-  {
-   "title": "Taipei\u2019s Voters Aren\u2019t Choosing Independence or Unification",
-   "link": "https://thediplomat.com/2026/11/the-taipei-mayor-election-is-not-about-china/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6556
-  },
-  {
-   "title": "On the Ground in the Final Days Before Trump\u2019s Midterm Debacle",
-   "link": "https://www.propublica.org/article/trump-movement-rally-voters-appeal",
-   "outlet": "ProPublica",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6542
-  },
-  {
-   "title": "We need to talk about Meta: Political interference and interests in the Brazilian elections",
-   "link": "https://theconversation.com/we-need-to-talk-about-meta-political-interference-and-interests-in-the-brazilian-elections-296102",
-   "outlet": "The Conversation",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.6507
-  },
-  {
-   "title": "Mexico\u2019s week in review: INE crisis deepens, economy gains momentum and Latino voters reshape US midterms",
-   "link": "https://mexiconewsdaily.com/news/mexicos-week-in-review-ine-crisis-economy-latino-voters-us-midterms/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8649
+   "score": 0.8368
   },
   {
    "title": "Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside",
@@ -485,7 +185,317 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8649
+   "score": 0.8351
+  },
+  {
+   "title": "Court Allows Discovery as to Vindictive Prosecution Defense by Smartmatic's Parent Company",
+   "link": "https://reason.com/volokh/2026/11/07/court-allows-discovery-as-to-vindictive-prosecution-defense-by-smartmatics-parent-company/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7956
+  },
+  {
+   "title": "Enough With the \u201cPublic Option\u201d Already",
+   "link": "https://jacobin.com/2026/11/public-option-health-care-insurance",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7866
+  },
+  {
+   "title": "Texas officials acknowledge problems with voter registration system, will work with locals on a fix",
+   "link": "https://feeds.texastribune.org/link/16799/17517543/texas-elections-teams-fix-secretary-state",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7861
+  },
+  {
+   "title": "These cranberry bogs come with a side of solar",
+   "link": "https://grist.org/solutions/these-cranberry-bogs-come-with-a-side-of-solar/",
+   "outlet": "Grist",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7672
+  },
+  {
+   "title": "\u2018Soul-hurting pain\u2019: Victims\u2019 families enraged at Newsom\u2019s death row decision",
+   "link": "https://calmatters.org/justice/2026/11/death-penalty-commutations-families/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7592
+  },
+  {
+   "title": "Trump\u2019s hubris more comedy than tragedy but echoes Greek original",
+   "link": "https://asiatimes.com/2026/11/trumps-hubris/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7506
+  },
+  {
+   "title": "Open a FirstBank account digitally, anytime, anywhere",
+   "link": "https://www.premiumtimesng.com/promoted/923707-open-a-firstbank-account-digitally-anytime-anywhere.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9952
+  },
+  {
+   "title": "These divers are killing a beautiful coral to save Brazil\u2019s marine life",
+   "link": "https://news.mongabay.com/video/2026/11/these-divers-are-killing-a-beautiful-coral-to-save-brazils-marine-life/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7462
+  },
+  {
+   "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
+   "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9872
+  },
+  {
+   "title": "Chimp sanctuary delivers an ape's food by drone amid Florida floods",
+   "link": "https://phys.org/news/2026-11-chimp-sanctuary-ape-food-drone.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9841
+  },
+  {
+   "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+   "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9759
+  },
+  {
+   "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
+   "link": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9731
+  },
+  {
+   "title": "Why are so many charities lobbying for open borders?",
+   "link": "https://www.spiked-online.com/2026/11/07/why-are-so-many-charities-lobbying-for-open-borders/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7283
+  },
+  {
+   "title": "Littwin: With the election sort-of over \u2014 still waiting on Boebert \u2014 I have thoughts. Many of them.",
+   "link": "https://coloradosun.com/2026/11/08/midterm-election-colorado-opinion-littwin/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9642
+  },
+  {
+   "title": "How people in Montenegro are making their country cleaner",
+   "link": "https://globalvoices.org/2026/11/07/how-people-in-montenegro-are-making-their-country-cleaner/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7228
+  },
+  {
+   "title": "The Scientists Fighting to Help Wildfire Survivors Heal",
+   "link": "https://insideclimatenews.org/news/08112026/maui-wildfire-exposure-study-public-health/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9632
+  },
+  {
+   "title": "STEPPING UP: Simon Harmer\u2019s transition from exile to Proteas\u2019 top Test spinner",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-08-simon-harmers-transition-from-exile-to-proteas-top-test-spinner/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9554
+  },
+  {
+   "title": "Russian attacks kill 7, injure 16 in Ukraine over the past day, striking Zaporizhzhia Oblast over 700 times",
+   "link": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9514
+  },
+  {
+   "title": "Sunday book pick: The cat\u2019s commandments to a good life in \u2018Feline Philosophy\u2019",
+   "link": "https://scroll.in/article/1096723/sunday-book-pick-the-cats-commandments-to-a-good-life-in-feline-philosophy?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.94
+  },
+  {
+   "title": "Princess Anne to arrive in the Falklands on the eve of the Hamburg hearing",
+   "link": "https://en.mercopress.com/2026/11/07/princess-anne-to-arrive-in-the-falklands-on-the-eve-of-the-hamburg-hearing?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.687
+  },
+  {
+   "title": "The Midterms Prove Left-Populism Is Rising",
+   "link": "https://www.theamericanconservative.com/the-midterms-prove-left-populism-is-rising/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9076
+  },
+  {
+   "title": "The Sky\u2019s the Limit",
+   "link": "https://thetyee.ca/Culture/2026/11/06/Mia-Noblet-Setting-New-Records-Emerging-Sport-Highlining/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.679
+  },
+  {
+   "title": "The world after Trump",
+   "link": "https://unherd.com/2026/11/the-world-after-trump/?edition=us",
+   "outlet": "UnHerd",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6692
+  },
+  {
+   "title": "Rogers Park Family Killed In Fire Remembered For The Love They Gave",
+   "link": "https://blockclubchicago.org/2026/11/06/rogers-park-family-killed-in-fire-remembered-for-the-love-they-gave/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6672
+  },
+  {
+   "title": "APTN Nouvelles nationales \u2013 6 novembre 2026",
+   "link": "https://www.aptnnews.ca/featured/aptn-nouvelles-nationales-6-novembre-2026/",
+   "outlet": "APTN News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6658
+  },
+  {
+   "title": "Fuente de los Ni\u00f1os Miones in Guadalajara, Mexico",
+   "link": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6507
+  },
+  {
+   "title": "Russia adds two unregistered antiwar opposition parties to its \u2018foreign agents\u2019 list",
+   "link": "https://meduza.io/en/news/2026/11/06/russia-adds-two-unregistered-antiwar-opposition-parties-to-its-foreign-agents-list",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6494
+  },
+  {
+   "title": "PLA may be simulating Taiwan isolation: report",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/08/2003867351",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8558
+  },
+  {
+   "title": "Taipei\u2019s Voters Aren\u2019t Choosing Independence or Unification",
+   "link": "https://thediplomat.com/2026/11/the-taipei-mayor-election-is-not-about-china/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6379
+  },
+  {
+   "title": "We need to talk about Meta: Political interference and interests in the Brazilian elections",
+   "link": "https://theconversation.com/we-need-to-talk-about-meta-political-interference-and-interests-in-the-brazilian-elections-296102",
+   "outlet": "The Conversation",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.6333
+  },
+  {
+   "title": "Mexico\u2019s week in review: INE crisis deepens, economy gains momentum and Latino voters reshape US midterms",
+   "link": "https://mexiconewsdaily.com/news/mexicos-week-in-review-ine-crisis-economy-latino-voters-us-midterms/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8351
   },
   {
    "title": "A Strange Quantum Theorem Has Killed Einstein\u2019s Reality",
@@ -495,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6389
+   "score": 0.6222
   },
   {
    "title": "ARTE Europe Weekly: How Europe\u2019s Youth are Rejecting \u2018Politics-as-Usual\u2019",
@@ -505,7 +515,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6335
+   "score": 0.6171
   },
   {
    "title": "Inside the Big House connecting generations to Ha\u00ed\u026bzaqv knowledge",
@@ -515,7 +525,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6237
+   "score": 0.6078
+  },
+  {
+   "title": "Africa: CANEX Opens Doors for Gambian Fashion Entrepreneurs Seeking Global Recognition",
+   "link": "https://allafrica.com/stories/202611070240.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7993
   },
   {
    "title": "Prosecution Over Threat to American Federation of Teachers President Randi Weingarten Can Go Forward",
@@ -525,27 +545,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8192
+   "score": 0.792
   },
   {
-   "title": "Africa: A Just Energy Transition Cannot Leave Water Behind",
-   "link": "https://allafrica.com/stories/202611070229.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
+   "title": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
+   "link": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+   "outlet": "Good News Network",
+   "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8179
-  },
-  {
-   "title": "The Trump Era Is Bad. But Is It Evil?",
-   "link": "https://jacobin.com/2026/11/review-neiman-evil-trump-era",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.805
+   "score": 0.7918
   },
   {
    "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
@@ -555,7 +565,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.5986
+   "score": 0.5842
+  },
+  {
+   "title": "The Trump Era Is Bad. But Is It Evil?",
+   "link": "https://jacobin.com/2026/11/review-neiman-evil-trump-era",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7786
   },
   {
    "title": "What went right this week: the good news that matters",
@@ -565,17 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.5847
-  },
-  {
-   "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-   "link": "https://www.wired.com/gallery/best-wifi-routers/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7761
+   "score": 0.5711
   },
   {
    "title": "This riverside border town is fueling an illegal gold rush",
@@ -585,27 +595,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7691
+   "score": 0.7448
   },
   {
-   "title": "With Democrats sweeping Texas, the GOP-led war on cities nears its end",
-   "link": "https://feeds.texastribune.org/link/16799/17517395/texas-local-control-wars-over-cities-counties",
-   "outlet": "Texas Tribune",
+   "title": "How a Socialist Can Govern a City Under the Thumb of the Trump Administration",
+   "link": "https://theintercept.com/2026/11/07/janeese-lewis-george-dsa-dc-mayor/",
+   "outlet": "The Intercept",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.768
-  },
-  {
-   "title": "Democrats Vow to Reset \u201cValues and Agenda\u201d for House Natural Resources Committee",
-   "link": "https://insideclimatenews.org/news/07112026/rep-jared-huffman-natural-resources-committee/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7587
+   "score": 0.7438
   }
  ]
 }
