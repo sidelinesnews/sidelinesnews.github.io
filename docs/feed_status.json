@@ -21,8 +21,8 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 53,
-  "undated_or_future": 0,
+  "items": 52,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -39,7 +39,7 @@
   "name": "AllAfrica",
   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
   "ok": true,
-  "items": 33,
+  "items": 31,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 28,
+  "items": 27,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
