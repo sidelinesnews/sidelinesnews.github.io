@@ -11,10 +11,10 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
+  "error": null,
   "baseline": false
  },
  {
@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 52,
-  "undated_or_future": 3,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -39,7 +39,7 @@
   "name": "AllAfrica",
   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
   "ok": true,
-  "items": 31,
+  "items": 33,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 0,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 27,
+  "items": 28,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 55,
+  "items": 54,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
