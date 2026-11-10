@@ -21,8 +21,8 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 49,
-  "undated_or_future": 3,
+  "items": 48,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 0,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 31,
+  "items": 33,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
