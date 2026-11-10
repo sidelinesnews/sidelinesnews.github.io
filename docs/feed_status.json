@@ -21,8 +21,8 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 48,
-  "undated_or_future": 0,
+  "items": 49,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: mismatched tag: line 93, column 2",
   "baseline": false
  },
  {
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 3,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -461,17 +461,17 @@
  {
   "name": "The Beaverton",
   "url": "https://www.thebeaverton.com/feed/",
-  "ok": true,
-  "items": 10,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "baseline": false
  },
  {
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 33,
+  "items": 29,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 17,
+  "items": 15,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
