@@ -21,8 +21,8 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 50,
-  "undated_or_future": 3,
+  "items": 49,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: mismatched tag: line 93, column 2",
+  "error": null,
   "baseline": false
  },
  {
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 0,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -517,7 +517,7 @@
   "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
   "ok": true,
   "items": 25,
-  "undated_or_future": 0,
+  "undated_or_future": 1,
   "error": null,
   "baseline": true
  },
