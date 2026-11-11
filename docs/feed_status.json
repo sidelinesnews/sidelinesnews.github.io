@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 51,
-  "undated_or_future": 1,
+  "undated_or_future": 6,
   "error": null,
   "baseline": false
  },
@@ -75,8 +75,8 @@
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
-  "items": 50,
-  "undated_or_future": 0,
+  "items": 54,
+  "undated_or_future": 54,
   "error": null,
   "baseline": false
  },
@@ -407,10 +407,10 @@
  {
   "name": "Positive News",
   "url": "https://www.positive.news/feed/",
-  "ok": true,
-  "items": 10,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 403: Forbidden",
   "baseline": false
  },
  {
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 25,
+  "items": 24,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 56,
+  "items": 55,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -517,7 +517,7 @@
   "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
   "ok": true,
   "items": 25,
-  "undated_or_future": 1,
+  "undated_or_future": 0,
   "error": null,
   "baseline": true
  },
