@@ -21,7 +21,7 @@
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 52,
+  "items": 51,
   "undated_or_future": 1,
   "error": null,
   "baseline": false
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 0,
+  "undated_or_future": 2,
   "error": null,
   "baseline": false
  },
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 12,
+  "items": 11,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
