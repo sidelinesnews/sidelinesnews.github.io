@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:15:01.539491+00:00",
+ "updated": "2026-11-14T09:55:28.061496+00:00",
  "meter": {
   "outlets": 42,
   "regions": 11,
@@ -8,14 +8,104 @@
  },
  "stories": [
   {
-   "title": "PARTY RESET OP-ED: The ANC\u2019s liberation history cannot substitute for effective governance",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-14-the-ancs-liberation-history-cannot-substitute-for-effective-governance/",
+   "title": "A Clean Air Advocate Will Represent Part of America\u2019s Oil Capital in Congress",
+   "link": "https://insideclimatenews.org/news/14112026/a-clean-air-advocate-will-represent-part-of-americas-oil-capital-in-congress/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9978
+  },
+  {
+   "title": "Tinubu, Mbah, APC and the South-East, Collins Ogbu",
+   "link": "https://www.premiumtimesng.com/promoted/925096-tinubu-mbah-apc-and-the-south-east-collins-ogbu.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9972
+  },
+  {
+   "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9943
+  },
+  {
+   "title": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
+   "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9924
+  },
+  {
+   "title": "WHO MADE 2026?: Heroes, villains and moegoes: nominate your People of the Year 2026",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-14-heroes-villains-and-moegoes-nominate-your-people-of-the-year-2026/",
    "outlet": "Daily Maverick",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9969
+   "score": 0.9918
+  },
+  {
+   "title": "The Green Report: Wars, El Ni\u00f1o, and COP\u2019s new sales pitch",
+   "link": "https://www.rappler.com/environment/climate-change/the-green-report-wars-el-nino-cop31-new-sales-pitch/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9887
+  },
+  {
+   "title": "Ramachandra Guha: Six decades later, an Australian envoy\u2019s book on Nehru remains essential reading",
+   "link": "https://scroll.in/article/1097076/ramachandra-guha-six-decades-later-an-australian-envoys-book-on-nehru-remains-essential-reading?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9885
+  },
+  {
+   "title": "Essay: I can\u2019t vote yet, but I just helped run the Colorado elections",
+   "link": "https://coloradosun.com/2026/11/14/opinion-colorado-election-judge-democracy/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9824
+  },
+  {
+   "title": "The small-boats spying scandal",
+   "link": "https://www.spiked-online.com/2026/11/14/the-small-boats-spying-scandal/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9754
+  },
+  {
+   "title": "General Staff: Russia has lost 1,620,630 troops in Ukraine since Feb. 24, 2022",
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-620-630-troops-in-ukraine-since-feb-24-2022/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9727
   },
   {
    "title": "Outlook Went Down? Microsoft May Owe You Money",
@@ -25,17 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9969
-  },
-  {
-   "title": "The ANC\u2019s implosion was decades in the making",
-   "link": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9954
+   "score": 0.9644
   },
   {
    "title": "Chinese tip in Aceh meth bust makes a case for three-way policing",
@@ -45,17 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9951
-  },
-  {
-   "title": "Ateneo de Davao bullying incident: What we know so far",
-   "link": "https://www.rappler.com/philippines/mindanao/things-to-know-ateneo-de-davao-bullying-incident/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9935
+   "score": 0.9627
   },
   {
    "title": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences of silence",
@@ -65,17 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.987
-  },
-  {
-   "title": "When a Canadian prime minister walked through mud lanes to keep India out of the Soviet orbit",
-   "link": "https://scroll.in/magazine/1097023/when-a-canadian-prime-minister-walked-through-mud-lanes-to-keep-india-out-of-the-soviet-orbit?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9845
+   "score": 0.955
   },
   {
    "title": "US resumes flights after a four-and-a-half-hour shutdown caused by obsolete equipment",
@@ -85,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9772
+   "score": 0.9458
   },
   {
    "title": "Why the Democrats Won\u2019t Get Trump to Back Amnesty",
@@ -95,17 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9734
-  },
-  {
-   "title": "Lagos thugs, London protesters and the chaos before the ballot, By Adeola Akinremi",
-   "link": "https://www.premiumtimesng.com/opinion/925067-lagos-thugs-london-protesters-and-the-chaos-before-the-ballot-by-adeola-akinremi.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9704
+   "score": 0.9422
   },
   {
    "title": "Spies and silicon chips: Alice Huang\u2019s tangled corporate web",
@@ -115,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9656
+   "score": 0.9347
   },
   {
    "title": "New Bronzeville Development Will Only Displace Residents If New Bears Stadium Is Part Of Project",
@@ -125,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9481
+   "score": 0.9181
   },
   {
    "title": "The role of social relationships in scaling agricultural innovations: A dimension that remains underreported in research",
@@ -135,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9451
+   "score": 0.9152
   },
   {
    "title": "From Two Sad Stories, a Glint of Hope",
@@ -145,17 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9337
-  },
-  {
-   "title": "Colorado wolf found dead in Utah, the 20th to die since 2023 reintroduction",
-   "link": "https://coloradosun.com/2026/11/13/colorado-wolf-found-dead-in-utah/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.921
+   "score": 0.9044
   },
   {
    "title": "GOP candidate seeks to block Dem\u2019s win amid eligibility question",
@@ -165,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9202
+   "score": 0.8916
   },
   {
    "title": "Russia detains federal youth agency official and Synergy private university vice-rector over allegedly unusable online courses",
@@ -175,17 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9201
-  },
-  {
-   "title": "Fisheries Commission Lowers Chesapeake Bay Menhaden Cap But Advocates Remain Worried",
-   "link": "https://insideclimatenews.org/news/13112026/fisheries-commission-lowers-chesapeake-bay-menhaden-cap/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9185
+   "score": 0.8915
   },
   {
    "title": "Ready to host another World Cup? Mexico-US-Costa Rica-Jamaica joint bid for 2031 women\u2019s tournament likely",
@@ -195,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.918
+   "score": 0.8895
   },
   {
    "title": "Who whacked Jensen Huang?",
@@ -205,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.916
+   "score": 0.8876
   },
   {
    "title": "Align director, wife charged over suspicious chips",
@@ -215,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9153
+   "score": 0.8869
   },
   {
    "title": "APTN Nouvelles nationales \u2013 13 novembre 2026",
@@ -225,17 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9098
-  },
-  {
-   "title": "South African court dismisses appeal over planned coal-fired power plants",
-   "link": "https://news.mongabay.com/short-article/2026/11/south-african-court-dismisses-appeal-over-planned-coal-fired-power-plants/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9062
+   "score": 0.8817
   },
   {
    "title": "D.C. Rejects Robotaxis To Protect Jobs",
@@ -245,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8979
+   "score": 0.8704
   },
   {
    "title": "CA Insurance Department accidentally reveals another judge complained about internal misconduct",
@@ -255,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8973
+   "score": 0.8698
   },
   {
    "title": "Democrats Did Their Best Bernie Impression in the Midterms",
@@ -265,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8958
+   "score": 0.8684
   },
   {
    "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
@@ -275,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8922
+   "score": 0.865
   },
   {
    "title": "Congress Might Sneakily Use Lame Duck to Deeply Intertwine the U.S. and Israeli Militaries",
@@ -285,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8903
+   "score": 0.8632
   },
   {
    "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
@@ -295,17 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8836
-  },
-  {
-   "title": "European leaders agree on joint team for Ukraine peace negotiations, Costa says",
-   "link": "https://kyivindependent.com/european-leaders-agree-on-joint-team-for-ukraine-peace-negotiations-costa-says/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8802
+   "score": 0.8568
   },
   {
    "title": "Dr. King\u2019s Lost Draft of \u2018I Have a Dream\u2019 Emerges from a Desk Drawer",
@@ -315,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8684
+   "score": 0.8424
   },
   {
    "title": "Indigenous leaders at COP31 say it\u2019s past time to turn promises into action",
@@ -325,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8675
+   "score": 0.8416
   },
   {
    "title": "Trump and Xi Can Reopen Trade. But for Whom?",
@@ -335,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8662
+   "score": 0.8403
   },
   {
    "title": "Africa: Mudavadi, Mbadi Back Increased African Funding to Reduce AU's Reliance On Donors",
@@ -345,17 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8457
-  },
-  {
-   "title": "The nauseating hypocrisy of Greta Thunberg",
-   "link": "https://www.spiked-online.com/2026/11/13/the-nauseating-hypocrisy-of-greta-thunberg/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8441
+   "score": 0.8209
   },
   {
    "title": "Podcast Transcript November 13th, 2026\u2014 This midterm\u2019s historic governor firsts, flying electric ferries, and eat-your-skincare",
@@ -365,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8394
+   "score": 0.8148
   },
   {
    "title": "Week in Review: To Be Or Not To Be",
@@ -375,7 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8205
+   "score": 0.7969
   },
   {
    "title": "A Winnipeg bridge is coming down and 99% of it has been recycled",
@@ -385,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8074
+   "score": 0.7845
   },
   {
    "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
@@ -395,7 +395,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8001
+   "score": 0.7775
+  },
+  {
+   "title": "A New Top Priority for House Democrats? Restoring Science",
+   "link": "https://insideclimatenews.org/news/14112026/a-new-top-priority-for-house-democrats-restoring-science/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9968
   },
   {
    "title": "Maui Is Becoming a Living Laboratory for Regenerative Tourism",
@@ -405,37 +415,57 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7655
+   "score": 0.7446
   },
   {
-   "title": "The season is now \u2014 Time to enact family-law reform",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-14-the-season-is-now-time-to-enact-family-law-reform/",
-   "outlet": "Daily Maverick",
+   "title": "Nigerian govt issues travel advisory to Addis Ababa",
+   "link": "https://www.premiumtimesng.com/news/headlines/925094-nigerian-govt-issues-travel-advisory-to-addis-ababa.html",
+   "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9969
+   "score": 0.9926
   },
   {
-   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-   "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9944
-  },
-  {
-   "title": "SPECIAL REPORT: The Lopez heirs who ran Rockwell but never controlled it",
-   "link": "https://www.rappler.com/newsbreak/inside-track/lopez-heirs-who-ran-rockwell-land-but-never-controlled/",
+   "title": "Not good enough for the 27 Club",
+   "link": "https://www.rappler.com/people/neighbors/not-good-enough-27-club/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9884
+   "score": 0.9885
+  },
+  {
+   "title": "Warner accuses Cricket Australia of \u2018cover-up\u2019 in ball-tampering scandal",
+   "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9784
+  },
+  {
+   "title": "November international fiction: Six new novels to relax with as festivities continue",
+   "link": "https://scroll.in/article/1096829/november-international-fiction-six-new-novels-to-relax-with-as-festivities-continue?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9764
+  },
+  {
+   "title": "PARTY RESET OP-ED: The ANC\u2019s liberation history cannot substitute for effective governance",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-14-the-ancs-liberation-history-cannot-substitute-for-effective-governance/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9644
   },
   {
    "title": "Vietnam\u2019s real trade test lies beyond Trump\u2019s tariffs",
@@ -445,7 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9847
+   "score": 0.9529
   },
   {
    "title": "Beijing\u2019s Taiwan \u2018Reunification\u2019 Dreams Are Fanciful",
@@ -455,27 +485,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.973
-  },
-  {
-   "title": "A democratic landslide is not a blank cheque, By Osmund Agbo",
-   "link": "https://www.premiumtimesng.com/opinion/925064-a-democratic-landslide-is-not-a-blank-cheque-by-osmund-agbo.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9684
-  },
-  {
-   "title": "Helle Lyng on visa cancellation: \u2018I was told it is on orders from above\u2019",
-   "link": "https://scroll.in/video/1097053/helle-lyng-on-visa-row-i-was-told-it-is-on-orders-from-above?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9661
+   "score": 0.9418
   },
   {
    "title": "Hong Kong\u2019s Sikh temple lit in blue for \u2018Day of Liberation\u2019 festival",
@@ -485,7 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9337
+   "score": 0.9044
   },
   {
    "title": "\u2018Where the Blood Mixes\u2019 Confronts a Painful Past",
@@ -495,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9319
+   "score": 0.9027
   },
   {
    "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
@@ -505,7 +515,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.93
+   "score": 0.9009
+  },
+  {
+   "title": "Colorado wolf found dead in Utah, the 20th to die since 2023 reintroduction",
+   "link": "https://coloradosun.com/2026/11/13/colorado-wolf-found-dead-in-utah/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8923
   },
   {
    "title": "Russian MMA fighter Usman Nurmagomedov gets six months in a UAE prison over hotel brawl with former UFC champion Merab Dvalishvili",
@@ -515,17 +535,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9194
+   "score": 0.8908
   },
   {
-   "title": "Zoomers want to be shocked",
-   "link": "https://unherd.com/2026/11/zoomers-want-to-be-shocked/?edition=us",
+   "title": "The moral confusion of MeToo",
+   "link": "https://unherd.com/2026/11/the-moral-confusion-of-metoo/?edition=us",
    "outlet": "UnHerd",
    "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9158
+   "score": 0.8875
   },
   {
    "title": "Legislature passes parental leave increase",
@@ -535,37 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9153
-  },
-  {
-   "title": "Mishandled Data Means No One Knows if California\u2019s New Pesticide Regulation Protects Workers",
-   "link": "https://insideclimatenews.org/news/13112026/mishandled-data-california-pesticide-regulation/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9076
-  },
-  {
-   "title": "Texas maternal death rate drops to pre-pandemic levels as mental health becomes the leading cause",
-   "link": "https://feeds.texastribune.org/link/16799/17524299/texas-maternal-mortality-pregnancy-death-report-abortion",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.907
-  },
-  {
-   "title": "Mexico sets a new record for tourist arrivals and spending, even as growth slows",
-   "link": "https://mexiconewsdaily.com/travel/mexico-tourist-arrivals-spending-record-september/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9057
+   "score": 0.8869
   },
   {
    "title": "Can Network Science Transform Health and Nutrition?",
@@ -575,7 +565,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6777
+   "score": 0.6613
+  },
+  {
+   "title": "Texas maternal death rate drops to pre-pandemic levels as mental health becomes the leading cause",
+   "link": "https://feeds.texastribune.org/link/16799/17524299/texas-maternal-mortality-pregnancy-death-report-abortion",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.879
+  },
+  {
+   "title": "South African court dismisses appeal over planned coal-fired power plants",
+   "link": "https://news.mongabay.com/short-article/2026/11/south-african-court-dismisses-appeal-over-planned-coal-fired-power-plants/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8783
+  },
+  {
+   "title": "Mexico sets a new record for tourist arrivals and spending, even as growth slows",
+   "link": "https://mexiconewsdaily.com/travel/mexico-tourist-arrivals-spending-record-september/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8779
   },
   {
    "title": "Democrats Defeated the GOP. It\u2019s Up to the People to Defeat Big Tech.",
@@ -585,27 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6744
-  },
-  {
-   "title": "Manitoba group needs $17M to bring 3,000 Indigenous artefacts home",
-   "link": "https://www.aptnnews.ca/national-news/manitoba-group-needs-17m-to-bring-3000-indigenous-artefacts-home/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8933
-  },
-  {
-   "title": "Trader Joe\u2019s Uptown Store Opens Monday",
-   "link": "https://blockclubchicago.org/2026/11/13/trader-joes-uptown-store-opens-monday/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8914
+   "score": 0.6581
   }
  ]
 }
