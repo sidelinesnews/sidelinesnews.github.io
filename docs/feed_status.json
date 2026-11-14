@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 2,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
