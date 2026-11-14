@@ -11,10 +11,10 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
@@ -29,10 +29,10 @@
  {
   "name": "Premium Times",
   "url": "https://www.premiumtimesng.com/feed",
-  "ok": true,
-  "items": 15,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
   "baseline": false
  },
  {
@@ -75,8 +75,8 @@
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
-  "items": 47,
-  "undated_or_future": 0,
+  "items": 46,
+  "undated_or_future": 46,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 27,
+  "items": 23,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 13,
+  "items": 11,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
