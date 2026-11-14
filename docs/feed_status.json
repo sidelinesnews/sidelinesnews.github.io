@@ -14,7 +14,7 @@
   "ok": false,
   "items": 0,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
+  "error": "ParseError: not well-formed (invalid token): line 1, column 2",
   "baseline": false
  },
  {
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 25,
+  "items": 27,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 55,
+  "items": 56,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
