@@ -1,51 +1,81 @@
 {
- "updated": "2026-11-15T01:18:29.420184+00:00",
+ "updated": "2026-11-15T04:01:35.624511+00:00",
  "meter": {
-  "outlets": 41,
+  "outlets": 40,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Coalition forces intercept another drone over Saudi Arabia's Eastern Region",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-forces-intercept-another-drone-over-saudi-arabias-eastern",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9967
-  },
-  {
-   "title": "What are the government\u2019s Super El Ni\u00f1o measures?",
-   "link": "https://www.rappler.com/philippines/government/super-el-nino-measures/",
+   "title": "LIST: Personal information possibly exposed in gov\u2019t data leaks",
+   "link": "https://www.rappler.com/technology/data-exposed-government-agencies-leaks-november-2026/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9962
+   "score": 0.9992
   },
   {
-   "title": "Three commercial ships struck by drones near Romania's Black Sea coast over two days",
-   "link": "https://kyivindependent.com/three-commercial-ships-struck-by-drones-near-romanias-black-sea-coast-over-two-days/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9878
-  },
-  {
-   "title": "SpaceX\u2019s Starship captured by launchpad arms in dramatic first",
-   "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+   "title": "Italian artist reimagines Madonna paintings to expose Gaza\u2019s pain",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
    "outlet": "Al Jazeera",
    "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9868
+   "score": 0.9935
+  },
+  {
+   "title": "Can a politician\u2019s memoirs ever be \u2018personal\u2019?",
+   "link": "https://scroll.in/article/1097073/can-a-politicians-memoirs-ever-be-personal?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9934
+  },
+  {
+   "title": "Fire reported at industrial facility in Russia's Tatarstan amid drone attack",
+   "link": "https://kyivindependent.com/fire-reported-at-industrial-facility-in-russias-tatarstan-amid-drone-attack/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9921
+  },
+  {
+   "title": "Targeted by al-Shabaab for defending Kenya\u2019s ecosystems: Foundation founder gets award",
+   "link": "https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9767
+  },
+  {
+   "title": "How a housing safety disaster was averted, four decades before the Tai Po fire tragedy",
+   "link": "https://hongkongfp.com/2026/11/15/how-a-housing-safety-disaster-was-averted-four-decades-before-the-tai-po-fire-tragedy/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9751
+  },
+  {
+   "title": "Is this iconic black hole image accurate? New study delivers an independent result",
+   "link": "https://phys.org/news/2026-11-iconic-black-hole-image-accurate.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9691
   },
   {
    "title": "US firms tout orbital threat detection",
@@ -55,7 +85,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9838
+   "score": 0.9515
   },
   {
    "title": "Border Search of Immigration Lawyer's Phone Was Likely Unconstitutional Retaliation for Lawyer's Speech",
@@ -65,7 +95,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9709
+   "score": 0.9393
   },
   {
    "title": "2027: Udeh unveils ATM support group for Tinubu, Mbah, APC candidates",
@@ -75,7 +105,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9679
+   "score": 0.9364
   },
   {
    "title": "MND Tutor | Teen inventor",
@@ -85,17 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.96
-  },
-  {
-   "title": "Urban expansion causes ecological collapse in streams in the S\u00e3o Paulo Metropolitan Area",
-   "link": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9599
+   "score": 0.9289
   },
   {
    "title": "The Ceaseless Ceasefire",
@@ -105,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9256
+   "score": 0.8962
   },
   {
    "title": "Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs",
@@ -115,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9249
+   "score": 0.8956
   },
   {
    "title": "Learning under trees in the era of AI: The paradox of education in Mozambique",
@@ -125,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9218
+   "score": 0.8927
   },
   {
    "title": "Iran War Day 260: Iranian Tanker Attacks Continue",
@@ -135,17 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9084
-  },
-  {
-   "title": "When authoritarian regimes censor disaster news, everyone suffers",
-   "link": "https://scroll.in/article/1096853/when-authoritarian-regimes-censor-disaster-news-everyone-suffers?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8986
+   "score": 0.8799
   },
   {
    "title": "Inside Colombia\u2019s FARC, as Victory Gave Way to Survival",
@@ -155,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8967
+   "score": 0.8688
   },
   {
    "title": "The spiked app is here",
@@ -165,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8874
+   "score": 0.86
   },
   {
    "title": "The scientists fighting to help Maui wildfire survivors heal",
@@ -175,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8728
+   "score": 0.8462
   },
   {
    "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -185,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8629
+   "score": 0.8367
   },
   {
    "title": "What\u2019s Working: What happens when AI bots take over landscaping? An Aspen company finds out",
@@ -195,7 +205,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8435
+   "score": 0.8183
+  },
+  {
+   "title": "LOCAL ELECTIONS 2026: Politicians\u2019 egos and ideological hang-ups no longer win votes in SA",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-15-politicians-egos-and-ideological-hang-ups-no-longer-win-votes-in-sa/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8096
   },
   {
    "title": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
@@ -205,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8341
+   "score": 0.8094
   },
   {
    "title": "A Wildland Firefighter Ends Montana Democrats\u2019 Three-Decade Drought in the US House",
@@ -215,27 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8341
-  },
-  {
-   "title": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
-   "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8277
-  },
-  {
-   "title": "WHO MADE 2026?: Heroes, villains and moegoes: nominate your People of the Year 2026",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-14-heroes-villains-and-moegoes-nominate-your-people-of-the-year-2026/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8273
+   "score": 0.8094
   },
   {
    "title": "Chinese tip in Aceh meth bust makes a case for three-way policing",
@@ -245,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8056
+   "score": 0.7824
   },
   {
    "title": "US resumes flights after a four-and-a-half-hour shutdown caused by obsolete equipment",
@@ -255,17 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.793
-  },
-  {
-   "title": "Spies and silicon chips: Alice Huang\u2019s tangled corporate web",
-   "link": "https://hongkongfp.com/2026/11/14/spies-and-silicon-chips-alice-huangs-tangled-corporate-web/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7848
+   "score": 0.7704
   },
   {
    "title": "New Bronzeville Development Will Only Displace Residents If New Bears Stadium Is Part Of Project",
@@ -275,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7725
+   "score": 0.7509
   },
   {
    "title": "From Two Sad Stories, a Glint of Hope",
@@ -285,7 +275,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7623
+   "score": 0.7413
+  },
+  {
+   "title": "Delhi pollution: Centre orders closure of 191 industries for lack of emission control equipment",
+   "link": "https://scroll.in/latest/1097086/delhi-pollution-centre-orders-closure-of-191-industries-for-lack-of-emission-control-equipment?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.988
+  },
+  {
+   "title": "[Two Pronged] Worried my son is getting gym-obsessed because his dad came back",
+   "link": "https://www.rappler.com/people/human-interest/two-pronged-worried-son-getting-gym-obsessed-absent-dad-return/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9873
   },
   {
    "title": "GOP candidate seeks to block Dem\u2019s win amid eligibility question",
@@ -295,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7528
+   "score": 0.7322
   },
   {
    "title": "Russia detains federal youth agency official and Synergy private university vice-rector over allegedly unusable online courses",
@@ -305,7 +315,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7527
+   "score": 0.7322
+  },
+  {
+   "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+   "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9741
   },
   {
    "title": "The moral confusion of MeToo",
@@ -315,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7499
+   "score": 0.7295
   },
   {
    "title": "APTN Nouvelles nationales \u2013 13 novembre 2026",
@@ -325,47 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7454
-  },
-  {
-   "title": "Israeli strike kills Palestinian man, wounds two others in Gaza",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-palestinian-man-wounds-two-others-gaza",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9849
-  },
-  {
-   "title": "Iran war live: Israel vows Gaza \u2018offensive policy\u2019 despite caretaker status",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9839
-  },
-  {
-   "title": "The mountain took her family. Now she is fighting to save the hospital that saved her.",
-   "link": "https://www.rappler.com/people/human-interest/good-news-clinic-hospital-banaue-ifugao/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9838
-  },
-  {
-   "title": "Allies tout Taiwan at climate conference",
-   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/15/2003867755",
-   "outlet": "Taipei Times",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9838
+   "score": 0.7252
   },
   {
    "title": "CA Insurance Department accidentally reveals another judge complained about internal misconduct",
@@ -375,7 +355,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7365
+   "score": 0.7168
+  },
+  {
+   "title": "Three commercial ships struck by drones near Romania's Black Sea coast over two days",
+   "link": "https://kyivindependent.com/three-commercial-ships-struck-by-drones-near-romanias-black-sea-coast-over-two-days/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9553
+  },
+  {
+   "title": "Allies tout Taiwan at climate conference",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/15/2003867755",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9515
   },
   {
    "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
@@ -385,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7269
+   "score": 0.7077
   },
   {
    "title": "Rights group hails DSS Director General, Ajayi, over The Sun \u2018Courage in Leadership Award\u2019",
@@ -395,7 +395,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9641
+   "score": 0.9328
+  },
+  {
+   "title": "Urban expansion causes ecological collapse in streams in the S\u00e3o Paulo Metropolitan Area",
+   "link": "https://phys.org/news/2026-11-urban-expansion-ecological-collapse-streams.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9288
   },
   {
    "title": "Trump and Xi Can Reopen Trade. But for Whom?",
@@ -405,37 +415,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7146
-  },
-  {
-   "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
-   "link": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9483
-  },
-  {
-   "title": "Tsikhanouskaya ally condemns Belarusian athlete for insulting Ukrainian opponent, complacency in Russia's war",
-   "link": "https://kyivindependent.com/tsikhanouskaya-ally-condemns-belarusian-athlete-for-insulting-ukrainian-opponent-complacency-in-russias-war/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9475
-  },
-  {
-   "title": "From the archive: The joy of having things made in Mexico",
-   "link": "https://mexiconewsdaily.com/mexico-living/from-the-archive-things-made-mexico/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.937
+   "score": 0.696
   },
   {
    "title": "Africa: Mudavadi, Mbadi Back Increased African Funding to Reduce AU's Reliance On Donors",
@@ -445,7 +425,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7001
+   "score": 0.6823
+  },
+  {
+   "title": "From the archive: The joy of having things made in Mexico",
+   "link": "https://mexiconewsdaily.com/mexico-living/from-the-archive-things-made-mexico/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.907
   },
   {
    "title": "Podcast Transcript November 13th, 2026\u2014 This midterm\u2019s historic governor firsts, flying electric ferries, and eat-your-skincare",
@@ -455,7 +445,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6956
+   "score": 0.678
   },
   {
    "title": "Week in Review: To Be Or Not To Be",
@@ -465,7 +455,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6823
+   "score": 0.6654
   },
   {
    "title": "A Winnipeg bridge is coming down and 99% of it has been recycled",
@@ -475,37 +465,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6731
-  },
-  {
-   "title": "Organizing for Tenant and Political Power in Montana",
-   "link": "https://jacobin.com/2026/11/interview-bozeman-montana-forstag-tenant-unions",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8964
-  },
-  {
-   "title": "Two of the \u2018Last Wild Ecosystems\u2019 Untouched by Humans Are Declared New Sanctuaries",
-   "link": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8962
-  },
-  {
-   "title": "Our Amicus Brief in Case Challenging Trump's Section 338 Tariffs Against Canada",
-   "link": "https://reason.com/volokh/2026/11/14/our-amicus-brief-in-case-challenging-trumps-section-338-tariffs-against-canada/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8909
+   "score": 0.6566
   },
   {
    "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
@@ -515,17 +475,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6679
+   "score": 0.6517
   },
   {
-   "title": "Checking in to a fictional world: The enduring appeal of literary hotels",
-   "link": "https://scroll.in/article/1096987/checking-in-to-a-fictional-world-the-enduring-appeal-of-literary-hotels?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
+   "title": "Organizing for Tenant and Political Power in Montana",
+   "link": "https://jacobin.com/2026/11/interview-bozeman-montana-forstag-tenant-unions",
+   "outlet": "Jacobin",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.883
+   "score": 0.8686
+  },
+  {
+   "title": "Two of the \u2018Last Wild Ecosystems\u2019 Untouched by Humans Are Declared New Sanctuaries",
+   "link": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8683
+  },
+  {
+   "title": "Our Amicus Brief in Case Challenging Trump's Section 338 Tariffs Against Canada",
+   "link": "https://reason.com/volokh/2026/11/14/our-amicus-brief-in-case-challenging-trumps-section-338-tariffs-against-canada/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8633
   },
   {
    "title": "Maui Is Becoming a Living Laboratory for Regenerative Tourism",
@@ -535,7 +515,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6434
+   "score": 0.6285
   },
   {
    "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
@@ -545,7 +525,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8539
+   "score": 0.8282
   },
   {
    "title": "From above: Photos reveal devastation caused by back-to-back historic floods in southwestern Colorado",
@@ -555,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8435
+   "score": 0.8183
   },
   {
    "title": "Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli Settlements?",
@@ -565,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8341
+   "score": 0.8094
   },
   {
    "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia",
@@ -575,7 +555,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8333
+   "score": 0.8086
+  },
+  {
+   "title": "Spicy ping-pong balls and flaming dung keep elephants at bay in Zimbabwe",
+   "link": "https://news.mongabay.com/short-article/2026/11/spicy-ping-pong-balls-and-flaming-dung-keep-elephants-at-bay-in-zimbabwe/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8034
+  },
+  {
+   "title": "WHO MADE 2026?: Heroes, villains and moegoes: nominate your People of the Year 2026",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-14-heroes-villains-and-moegoes-nominate-your-people-of-the-year-2026/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.803
   },
   {
    "title": "The small-boats spying scandal",
@@ -585,17 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8151
-  },
-  {
-   "title": "PARTY RESET OP-ED: The ANC\u2019s liberation history cannot substitute for effective governance",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-14-the-ancs-liberation-history-cannot-substitute-for-effective-governance/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8069
+   "score": 0.7914
   },
   {
    "title": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences of silence",
@@ -605,7 +595,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7999
+   "score": 0.777
+  },
+  {
+   "title": "Vietnam\u2019s real trade test lies beyond Trump\u2019s tariffs",
+   "link": "https://asiatimes.com/2026/11/vietnam-real-trade-test-lies-beyond-trumps-tariffs/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7755
   }
  ]
 }
