@@ -11,10 +11,10 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": true,
-  "items": 20,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
@@ -39,7 +39,7 @@
   "name": "AllAfrica",
   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
   "ok": true,
-  "items": 30,
+  "items": 31,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 4,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 20,
+  "items": 24,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -524,10 +524,10 @@
  {
   "name": "CBC",
   "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
-  "ok": true,
-  "items": 100,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable",
   "baseline": true
  },
  {
@@ -542,19 +542,19 @@
  {
   "name": "Associated Press",
   "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": true,
-  "items": 100,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable",
   "baseline": true
  },
  {
   "name": "Reuters",
   "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": true,
-  "items": 100,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 503: Service Unavailable",
   "baseline": true
  }
 ]
