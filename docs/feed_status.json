@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 52,
-  "undated_or_future": 3,
+  "undated_or_future": 4,
   "error": null,
   "baseline": false
  },
@@ -39,7 +39,7 @@
   "name": "AllAfrica",
   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
   "ok": true,
-  "items": 31,
+  "items": 32,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -74,10 +74,10 @@
  {
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 47,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "error": null,
   "baseline": false
  },
  {
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: mismatched tag: line 93, column 2",
+  "error": null,
   "baseline": false
  },
  {
@@ -524,17 +524,17 @@
  {
   "name": "CBC",
   "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "baseline": true
  },
  {
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 8,
+  "items": 9,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -542,19 +542,19 @@
  {
   "name": "Associated Press",
   "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "baseline": true
  },
  {
   "name": "Reuters",
   "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "baseline": true
  }
 ]
