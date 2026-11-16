@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 52,
-  "undated_or_future": 8,
+  "undated_or_future": 7,
   "error": null,
   "baseline": false
  },
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: mismatched tag: line 93, column 2",
+  "error": null,
   "baseline": false
  },
  {
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 23,
+  "items": 21,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 10,
+  "items": 12,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -542,19 +542,19 @@
  {
   "name": "Associated Press",
   "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": true,
-  "items": 100,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
   "baseline": true
  },
  {
   "name": "Reuters",
   "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": true,
-  "items": 100,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "HTTPError: HTTP Error 429: Too Many Requests",
   "baseline": true
  }
 ]
