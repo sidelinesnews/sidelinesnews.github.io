@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 52,
-  "undated_or_future": 2,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -76,7 +76,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 47,
-  "undated_or_future": 47,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 9,
+  "items": 8,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
