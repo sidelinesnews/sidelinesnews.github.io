@@ -14,15 +14,15 @@
   "ok": false,
   "items": 0,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 2",
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 52,
-  "undated_or_future": 0,
+  "items": 51,
+  "undated_or_future": 2,
   "error": null,
   "baseline": false
  },
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 4,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 58,
+  "items": 59,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -524,17 +524,17 @@
  {
   "name": "CBC",
   "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "error": null,
   "baseline": true
  },
  {
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 10,
+  "items": 11,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -551,10 +551,10 @@
  {
   "name": "Reuters",
   "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
+  "error": null,
   "baseline": true
  }
 ]
