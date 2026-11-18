@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:12:52.265801+00:00",
+ "updated": "2026-11-18T19:08:24.638368+00:00",
  "meter": {
   "outlets": 41,
   "regions": 11,
@@ -8,24 +8,184 @@
  },
  "stories": [
   {
-   "title": "Big Oil is weaponising the law, and it\u2019s critical that Africa fights back",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-18-big-oil-is-weaponising-the-law-and-its-critical-that-africa-fights-back/",
-   "outlet": "Daily Maverick",
+   "title": "Slovenia stops taking tourist visa applications in Russia, extends restrictions to Russians in Serbia",
+   "link": "https://meduza.io/en/news/2026/11/18/slovenia-stops-taking-tourist-visa-applications-in-russia-extends-restrictions-to-russians-in-serbia",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9984
+  },
+  {
+   "title": "Global Biodiversity Framework at risk of becoming an empty promise",
+   "link": "https://phys.org/news/2026-11-global-biodiversity-framework.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9983
+  },
+  {
+   "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "link": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9982
+  },
+  {
+   "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+   "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9982
+  },
+  {
+   "title": "John Yoo Joins the Exodus from California; Departs for Texas",
+   "link": "https://reason.com/volokh/2026/11/18/john-yoo-joins-the-exodus-from-california-departs-for-texas/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.998
+  },
+  {
+   "title": "Millionaires Tax Passes Council 50-0, Weeks After Voters Give It Overwhelming Approval",
+   "link": "https://blockclubchicago.org/2026/11/18/millionaires-tax-passes-council-50-0-weeks-after-voters-give-it-overwhelming-approval/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9972
+  },
+  {
+   "title": "The American Woman Who Joined Algeria\u2019s Socialist Experiment",
+   "link": "https://jacobin.com/2026/11/mokhtefi-algeria-panthers-third-world-revolution",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9937
+  },
+  {
+   "title": "After just 4 months in the job, calls grow for resignation of Ukraine\u2019s veterans minister",
+   "link": "https://kyivindependent.com/after-just-4-months-in-the-job-calls-grow-for-resignation-of-ukraines-veterans-minister/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9913
+  },
+  {
+   "title": "Africa: Climate Finance Needs Proof, not Promises",
+   "link": "https://allafrica.com/stories/202611180680.html",
+   "outlet": "AllAfrica",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 1.0
+   "score": 0.9912
   },
   {
-   "title": "Coronation Group backs Nigeria\u2019s historic hosting of FIP World Polo Championship qualifiers",
-   "link": "https://www.premiumtimesng.com/promoted/926243-coronation-group-backs-nigerias-historic-hosting-of-fip-world-polo-championship-qualifiers.html",
+   "title": "Nigeria destroys 1,000 illicit weapons, takes total destroyed to 20,000 \u2013 Official",
+   "link": "https://www.premiumtimesng.com/news/top-news/926304-nigeria-destroys-1000-illicit-weapons-takes-total-destroyed-to-20000-official.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9995
+   "score": 0.9911
+  },
+  {
+   "title": "Utah online retailer Backcountry buys Colorado-born Christy Sports",
+   "link": "https://coloradosun.com/2026/11/18/utah-online-retailer-backcountry-buys-colorado-born-christy-sports/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.991
+  },
+  {
+   "title": "Grand Canyon\u2019s South Rim hotels to reopen as park eases water restrictions",
+   "link": "https://news.mongabay.com/short-article/2026/11/grand-canyons-south-rim-hotels-to-reopen-as-park-eases-water-restrictions/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9907
+  },
+  {
+   "title": "Israeli court extends Gaza doctor Abu Safia\u2019s detention without charge",
+   "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9905
+  },
+  {
+   "title": "An AI chatbot can explain your rights. But can it get you justice?",
+   "link": "https://globalvoices.org/2026/11/18/an-ai-chatbot-can-explain-your-rights-but-can-it-get-you-justice/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.987
+  },
+  {
+   "title": "Rohingya ruling is no rehearsal for Gaza, and Navi Pillay is no puppet master",
+   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-18-rohingya-ruling-is-no-rehearsal-for-gaza-and-navi-pillay-is-no-puppet-master/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9854
+  },
+  {
+   "title": "MND Local BCS: Stargazing, unchecked growth and an epic Baja 1000 hits the finish line",
+   "link": "https://mexiconewsdaily.com/baja-california-peninsula/mnd-local-bcs-stargazing-unchecked-growth/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9739
+  },
+  {
+   "title": "Siblings Build 430-Step \u2018Sky Ladder\u2019 for Their Mother Who Refuses to Live in the City",
+   "link": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9679
+  },
+  {
+   "title": "Why young protesters are boycotting \u2018France\u2019s equivalent of Fox news\u2019",
+   "link": "https://scroll.in/article/1097168/why-young-protesters-are-boycotting-frances-equivalent-of-fox-news?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9678
   },
   {
    "title": "Turkish Court Hands Imamoglu New Jail Term, Political Ban",
@@ -35,37 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9993
-  },
-  {
-   "title": "How firms can use political access to target rivals' violations",
-   "link": "https://phys.org/news/2026-11-firms-political-access-rivals-violations.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9974
-  },
-  {
-   "title": "Can Javier Milei Make Argentina Rich Again?",
-   "link": "https://reason.com/podcast/2026/11/18/can-javier-milei-make-argentina-rich-again/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9974
-  },
-  {
-   "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-   "link": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9968
+   "score": 0.9637
   },
   {
    "title": "How M.C. Escher\u2019s Art Creates Bizarre Mathematical Worlds",
@@ -75,397 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9956
-  },
-  {
-   "title": "Iran War Day 264: Iran Launches Strikes on Kuwait, Bahrain",
-   "link": "https://www.theamericanconservative.com/iran-war-day-264-iran-launches-strikes-on-kuwait-bahrain/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9946
-  },
-  {
-   "title": "Exclusive: Trump's envoys warn Russia that time is running out to secure a deal on Ukraine",
-   "link": "https://kyivindependent.com/exclusive-trumps-envoys-warn-russia-that-time-is-running-out-to-secure-a-deal-on-ukraine/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.994
-  },
-  {
-   "title": "Gambia: APRC No-to-Alliance's Almameh Manneh Says 'The Gambia First' Must Come Before Political Ambition",
-   "link": "https://allafrica.com/stories/202611180498.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9939
-  },
-  {
-   "title": "Russia has closed one in six maternity hospitals in six years, BBC Russia finds. Officials blame falling birth rates and declining women\u2019s health.",
-   "link": "https://meduza.io/en/feature/2026/11/18/russia-has-closed-one-in-six-maternity-hospitals-in-six-years-bbc-russia-finds-officials-blame-falling-birth-rates-and-declining-women-s-health",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9895
-  },
-  {
-   "title": "Nathan Cofnas and the violent cult of fragility",
-   "link": "https://www.spiked-online.com/2026/11/18/nathan-cofnas-and-the-violent-cult-of-fragility/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9886
-  },
-  {
-   "title": "\u2018Just Ridiculous\u2019: A Famed Philosopher Takes on AI Consciousness",
-   "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9855
-  },
-  {
-   "title": "What would a global collapse look like? These six post\u2011apocalyptic novels imagine it in various ways",
-   "link": "https://scroll.in/article/1097100/what-would-a-global-collapse-look-like-these-six-post-apocalyptic-novels-imagine-it-in-various-ways?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.985
-  },
-  {
-   "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
-   "link": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
-   "outlet": "Atlas Obscura",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.985
-  },
-  {
-   "title": "Indigenous communities in Panama fear a second dam as damage from first goes unrepaired",
-   "link": "https://news.mongabay.com/2026/11/indigenous-communities-in-panama-fear-a-second-dam-as-damage-from-first-goes-unrepaired/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9821
-  },
-  {
-   "title": "Ag School Students Serve Up Thanksgiving Dinner They Grew For Seniors",
-   "link": "https://blockclubchicago.org/2026/11/18/ag-school-students-serve-up-thanksgiving-dinner-they-grew-for-seniors/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9807
-  },
-  {
-   "title": "Hamburg tribunal confirms it will deliver its Sea Lion order on November 28",
-   "link": "https://en.mercopress.com/2026/11/18/hamburg-tribunal-confirms-it-will-deliver-its-sea-lion-order-on-november-28?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9771
-  },
-  {
-   "title": "Opinion: Why Guadalajara\u2019s water crisis is a warning to the rest of us",
-   "link": "https://mexiconewsdaily.com/opinion/guadalajara-water-crisis-industrial-pollution/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9731
-  },
-  {
-   "title": "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling",
-   "link": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.973
-  },
-  {
-   "title": "The biggest upsets that changed who CA sent to Congress",
-   "link": "https://calmatters.org/newsletter/midterm-congress-upsets/",
-   "outlet": "CalMatters",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9729
-  },
-  {
-   "title": "Is This the End of Pedro S\u00e1nchez?",
-   "link": "https://jacobin.com/2026/11/sanchez-psoe-elections-housing-immigration",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9725
-  },
-  {
-   "title": "A world so busy \u2013 overworked \u2013 can\u2019t run with nothing in reserve",
-   "link": "https://asiatimes.com/2026/11/a-world-so-busy-overworked-cant-run-with-nothing-in-reserve/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9633
-  },
-  {
-   "title": "AI a \u2018growing concern\u2019 at ASEAN\u2019s parliamentary org, but no concrete measures yet",
-   "link": "https://www.rappler.com/philippines/artificial-intelligence-growing-concern-asean-inter-parliamentary-assembly-november-2026/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9535
-  },
-  {
-   "title": "Hong Kong whistleblower of student app scandal charged with doxxing",
-   "link": "https://hongkongfp.com/2026/11/18/hong-kong-whistleblower-of-student-app-scandal-charged-with-doxxing/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9407
-  },
-  {
-   "title": "BLM considers opening more than 100 miles of trails from Parachute to Eagle to e-bikes",
-   "link": "https://coloradosun.com/2026/11/18/blm-considers-opening-more-than-100-miles-of-trails-from-parachute-to-eagle-to-e-bikes/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9398
-  },
-  {
-   "title": "They Were Just Admitted to the Bar. Now They\u2019re Federal Prosecutors. Meet Trump\u2019s New DOJ.",
-   "link": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
-   "outlet": "ProPublica",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9379
-  },
-  {
-   "title": "When the U.S. Military Implemented AI, Civilian Deaths Rose",
-   "link": "https://theintercept.com/2026/11/18/ai-strikes-project-maven-civilian-deaths/",
-   "outlet": "The Intercept",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9379
-  },
-  {
-   "title": "Texas sees political momentum for legalizing weed, but significant hurdles remain",
-   "link": "https://feeds.texastribune.org/link/16799/17527008/texas-thc-cannabis-bills-lawmakers",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9379
-  },
-  {
-   "title": "They migrated to New York for work. Now they\u2019re fighting to climate-proof it.",
-   "link": "https://grist.org/food-and-agriculture/they-migrated-to-new-york-for-work-now-theyre-fighting-to-climate-proof-it/",
-   "outlet": "Grist",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9239
-  },
-  {
-   "title": "In Western Pennsylvania, You Might Live Next to\u2014or on Top of\u2014an Unplugged Well",
-   "link": "https://insideclimatenews.org/news/18112026/western-pennsylvania-residents-unplugged-oil-wells/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9166
-  },
-  {
-   "title": "Vancouver\u2019s New Council Faces an Uphill Battle to Reform Policing",
-   "link": "https://thetyee.ca/Opinion/2026/11/18/Vancouver-New-Council-Uphill-Battle-Reform-Policing/",
-   "outlet": "The Tyee",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9121
-  },
-  {
-   "title": "What We\u2019re Reading: Phone Bans Are Improving Kids\u2019 Test Scores",
-   "link": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
-   "outlet": "Reasons to be Cheerful",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9049
-  },
-  {
-   "title": "India Looks to Stronger ASEAN Partnership Amid Increasing Global Turbulence",
-   "link": "https://thediplomat.com/2026/11/india-looks-to-stronger-asean-partnership-amid-increasing-global-turbulence/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9005
-  },
-  {
-   "title": "Diversifying funding was supposed to protect civil society: It did not",
-   "link": "https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/",
-   "outlet": "Global Voices",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8509
-  },
-  {
-   "title": "Milburn has buried Starmerism",
-   "link": "https://unherd.com/2026/11/milburns-has-buried-starmerism/?edition=us",
-   "outlet": "UnHerd",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8262
-  },
-  {
-   "title": "US homelessness decline hits its steepest one-year drop in a decade",
-   "link": "https://www.optimistdaily.com/2026/11/us-homelessness-decline-hits-its-steepest-one-year-drop-in-a-decade/",
-   "outlet": "The Optimist Daily",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8258
-  },
-  {
-   "title": "Russian warplanes enter Taiwan ADIZ",
-   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/18/2003867931",
-   "outlet": "Taipei Times",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8257
-  },
-  {
-   "title": "Feds, Inuit Tapiriit Kanatami set to announce Inuit child initiative",
-   "link": "https://www.aptnnews.ca/national-news/feds-inuit-tapiriit-kanatami-set-to-announce-inuit-child-initiative/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8217
-  },
-  {
-   "title": "Jensen Huang scandal illustrates why human nature is cybersecurity\u2019s weakest link",
-   "link": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
-   "outlet": "The Conversation",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7895
-  },
-  {
-   "title": "Catastrophic flooding in B.C. is bringing First Nations and farmers together",
-   "link": "https://thenarwhal.ca/bc-fraser-valley-flooding-farmers-first-nations/?utm_source=rss",
-   "outlet": "The Narwhal",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.75
-  },
-  {
-   "title": "DUBAWA partners TikTok to strengthen media literacy ahead Nigeria\u2019s 2027 elections",
-   "link": "https://www.premiumtimesng.com/news/top-news/926239-dubawa-partners-tiktok-to-strengthen-media-literacy-ahead-nigerias-2027-elections.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9987
-  },
-  {
-   "title": "Quantum physics can verify a person's location, researchers show",
-   "link": "https://phys.org/news/2026-11-quantum-physics-person.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9974
-  },
-  {
-   "title": "Never played, already gone. JJ Gabriel leaves Man United",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9954
-  },
-  {
-   "title": "Kenya: Ruto Takes Veiled Swipe At Gachagua Over Mt Kenya Voting Bloc Politics",
-   "link": "https://allafrica.com/stories/202611180497.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9938
-  },
-  {
-   "title": "EU launches new sanctions office, appoints official to analyze and enforce Russia restrictions",
-   "link": "https://kyivindependent.com/eu-launches-new-sanctions-office-appoints-official-to-analyze-and-enforce-russia-restrictions/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.993
+   "score": 0.9602
   },
   {
    "title": "TAC Right Now: Rubio, the Iran War\u2019s New Face",
@@ -475,27 +215,347 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9905
+   "score": 0.9554
   },
   {
-   "title": "20 Questions: 20 Questions with Anda Martin Tolibadi",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-18-20-questions-with-anda-martin-tolibadi/",
+   "title": "Nathan Cofnas and the violent cult of fragility",
+   "link": "https://www.spiked-online.com/2026/11/18/nathan-cofnas-and-the-violent-cult-of-fragility/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9536
+  },
+  {
+   "title": "Hamburg tribunal confirms it will deliver its Sea Lion order on November 28",
+   "link": "https://en.mercopress.com/2026/11/18/hamburg-tribunal-confirms-it-will-deliver-its-sea-lion-order-on-november-28?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9427
+  },
+  {
+   "title": "Marcos welcomes Trump to Malaca\u00f1ang | The wRap",
+   "link": "https://www.rappler.com/video/daily-wrap/november-18-2026/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9388
+  },
+  {
+   "title": "The biggest upsets that changed who CA sent to Congress",
+   "link": "https://calmatters.org/newsletter/midterm-congress-upsets/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9388
+  },
+  {
+   "title": "A world so busy \u2013 overworked \u2013 can\u2019t run with nothing in reserve",
+   "link": "https://asiatimes.com/2026/11/a-world-so-busy-overworked-cant-run-with-nothing-in-reserve/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9297
+  },
+  {
+   "title": "Hong Kong whistleblower of student app scandal charged with doxxing",
+   "link": "https://hongkongfp.com/2026/11/18/hong-kong-whistleblower-of-student-app-scandal-charged-with-doxxing/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9084
+  },
+  {
+   "title": "They Were Just Admitted to the Bar. Now They\u2019re Federal Prosecutors. Meet Trump\u2019s New DOJ.",
+   "link": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9057
+  },
+  {
+   "title": "When the U.S. Military Implemented AI, Civilian Deaths Rose",
+   "link": "https://theintercept.com/2026/11/18/ai-strikes-project-maven-civilian-deaths/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9057
+  },
+  {
+   "title": "Texas sees political momentum for legalizing weed, but significant hurdles remain",
+   "link": "https://feeds.texastribune.org/link/16799/17527008/texas-thc-cannabis-bills-lawmakers",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9057
+  },
+  {
+   "title": "They migrated to New York for work. Now they\u2019re fighting to climate-proof it.",
+   "link": "https://grist.org/food-and-agriculture/they-migrated-to-new-york-for-work-now-theyre-fighting-to-climate-proof-it/",
+   "outlet": "Grist",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8925
+  },
+  {
+   "title": "In Western Pennsylvania, You Might Live Next to\u2014or on Top of\u2014an Unplugged Well",
+   "link": "https://insideclimatenews.org/news/18112026/western-pennsylvania-residents-unplugged-oil-wells/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8856
+  },
+  {
+   "title": "Vancouver\u2019s New Council Faces an Uphill Battle to Reform Policing",
+   "link": "https://thetyee.ca/Opinion/2026/11/18/Vancouver-New-Council-Uphill-Battle-Reform-Policing/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8813
+  },
+  {
+   "title": "What We\u2019re Reading: Phone Bans Are Improving Kids\u2019 Test Scores",
+   "link": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
+   "outlet": "Reasons to be Cheerful",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8745
+  },
+  {
+   "title": "India Looks to Stronger ASEAN Partnership Amid Increasing Global Turbulence",
+   "link": "https://thediplomat.com/2026/11/india-looks-to-stronger-asean-partnership-amid-increasing-global-turbulence/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8703
+  },
+  {
+   "title": "CIB identifies 30 suspected election interference cases",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867999",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8096
+  },
+  {
+   "title": "Milburn has buried Starmerism",
+   "link": "https://unherd.com/2026/11/milburns-has-buried-starmerism/?edition=us",
+   "outlet": "UnHerd",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8001
+  },
+  {
+   "title": "US homelessness decline hits its steepest one-year drop in a decade",
+   "link": "https://www.optimistdaily.com/2026/11/us-homelessness-decline-hits-its-steepest-one-year-drop-in-a-decade/",
+   "outlet": "The Optimist Daily",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7997
+  },
+  {
+   "title": "Feds, Inuit Tapiriit Kanatami set to announce Inuit child initiative",
+   "link": "https://www.aptnnews.ca/national-news/feds-inuit-tapiriit-kanatami-set-to-announce-inuit-child-initiative/",
+   "outlet": "APTN News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7958
+  },
+  {
+   "title": "Jensen Huang scandal illustrates why human nature is cybersecurity\u2019s weakest link",
+   "link": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+   "outlet": "The Conversation",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7654
+  },
+  {
+   "title": "Physicists send an unblockable message using gravity",
+   "link": "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9983
+  },
+  {
+   "title": "Russian prosecutors call for an end to the Khachaturyan sisters\u2019 murder case, saying they acted in self-defense when they killed their abusive father",
+   "link": "https://meduza.io/en/news/2026/11/18/russian-prosecutors-call-for-an-end-to-the-khachaturyan-sisters-murder-case-saying-they-acted-in-self-defense-when-they-killed-their-abusive-father",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9962
+  },
+  {
+   "title": "Treating Cars as a Commerce Clause Hook Would Vastly Expand Federal Power, a SCOTUS Petition Warns",
+   "link": "https://reason.com/2026/11/18/treating-cars-as-a-commerce-clause-hook-would-vastly-expand-federal-power-a-scotus-petition-warns/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9952
+  },
+  {
+   "title": "Ukraine, Russia 'negotiating' another Oleshky-style humanitarian mission, Lubinets says",
+   "link": "https://kyivindependent.com/ukraine-russia-negotiating-another-oleshky-style-humanitarian-mission-lubinets-says/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.991
+  },
+  {
+   "title": "Central African Republic: Rights Defender in Central African Republic Dies",
+   "link": "https://allafrica.com/stories/202611180679.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9892
+  },
+  {
+   "title": "WHO calls for urgent action to curb drug resistance in Africa",
+   "link": "https://www.premiumtimesng.com/health/health-news/926301-who-calls-for-urgent-action-to-curb-drug-resistance-in-africa.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9888
+  },
+  {
+   "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9838
+  },
+  {
+   "title": "MISSING BEDS: St Luke\u2019s hospice unit closure \u2014 Has dying without dignity become acceptable?",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-18-st-lukes-hospice-unit-closure-has-dying-without-dignity-become-acceptable/",
    "outlet": "Daily Maverick",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9898
+   "score": 0.9816
   },
   {
-   "title": "No non-veg food during \u2018Ramayana: Part 1\u2019 screenings, says Bengal multiplex",
-   "link": "https://scroll.in/latest/1097165/no-non-veg-food-during-ramayana-part-1-screenings-says-bengal-multiplex?utm_source=rss&utm_medium=public",
+   "title": "Inside Nvidia\u2019s First Post-Jensen All-Hands: Pay Raises and More Equity",
+   "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9804
+  },
+  {
+   "title": "The Longest Hotel Strike in Washington State History",
+   "link": "https://jacobin.com/2026/11/seattle-hilton-unite-here-strike",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9757
+  },
+  {
+   "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "link": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9738
+  },
+  {
+   "title": "Catastrophic flooding in B.C. is bringing First Nations and farmers together",
+   "link": "https://thenarwhal.ca/bc-fraser-valley-flooding-farmers-first-nations/?utm_source=rss",
+   "outlet": "The Narwhal",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7281
+  },
+  {
+   "title": "Bhutan wins $1.3m Earthshot Prize for maintaining 70% forest cover",
+   "link": "https://news.mongabay.com/short-article/2026/11/bhutan-wins-1-3m-earthshot-prize-for-maintaining-70-forest-cover/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9694
+  },
+  {
+   "title": "Mexico claims narrow win over Jamaica following line-up change",
+   "link": "https://mexiconewsdaily.com/sports/mexico-win-jamaica-line-up-change/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9684
+  },
+  {
+   "title": "What would a global collapse look like? These six post\u2011apocalyptic novels imagine it in various ways",
+   "link": "https://scroll.in/article/1097100/what-would-a-global-collapse-look-like-these-six-post-apocalyptic-novels-imagine-it-in-various-ways?utm_source=rss&utm_medium=public",
    "outlet": "Scroll.in",
    "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9847
+   "score": 0.9502
   },
   {
    "title": "The Milburn review promises yet more welfarism",
@@ -505,7 +565,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9814
+   "score": 0.9468
+  },
+  {
+   "title": "Ag School Students Serve Up Thanksgiving Dinner They Grew For Seniors",
+   "link": "https://blockclubchicago.org/2026/11/18/ag-school-students-serve-up-thanksgiving-dinner-they-grew-for-seniors/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9462
   },
   {
    "title": "Vukovar Remembers 1991 Victims as Croatia Renews Call for Serbia\u2019s Cooperation",
@@ -515,47 +585,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9803
+   "score": 0.9458
   },
   {
-   "title": "What the Hell Is Happening?",
-   "link": "https://reason.com/2026/11/18/what-the-hell-is-happening/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9791
-  },
-  {
-   "title": "Morgan Park Residential Development To Break Ground This Winter",
-   "link": "https://blockclubchicago.org/2026/11/18/morgan-park-residential-development-to-break-ground-this-winter/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9763
-  },
-  {
-   "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
-   "link": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9729
-  },
-  {
-   "title": "Study maps jaguars across the Americas to help their populations rebound",
-   "link": "https://news.mongabay.com/2026/11/study-maps-jaguars-across-the-americas-to-help-their-populations-rebound/",
-   "outlet": "Mongabay",
+   "title": "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling",
+   "link": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
+   "outlet": "Good News Network",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9638
+   "score": 0.9389
   },
   {
    "title": "San Diego County\u2019s latest recruits to its fire-fighting ranks? Hundreds of hungry goats.",
@@ -565,47 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.961
-  },
-  {
-   "title": "Fractured US foreign policy elite takes stock of the Trump era",
-   "link": "https://asiatimes.com/2026/11/fractured-us-foreign-policy-elite-takes-stock-of-the-trump-era/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9584
-  },
-  {
-   "title": "Scientists \u2018Cure\u2019 Deadly Brain Tumors in Every Mouse Tested with New Cancer Therapy",
-   "link": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9552
-  },
-  {
-   "title": "Why the Lopez cousins are breaking up \u2014 and what other feuding dynasties teach us",
-   "link": "https://www.rappler.com/business/why-lopez-cousins-breaking-up-what-lessons-family-feud-dynasties/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9509
-  },
-  {
-   "title": "Russian businessman sentenced to 23 years in prison over killing of General Yaroslav Moskalik",
-   "link": "https://meduza.io/en/news/2026/11/18/russian-businessman-sentenced-to-23-years-in-prison-over-killing-of-general-yaroslav-moskalik",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9407
+   "score": 0.9275
   }
  ]
 }
