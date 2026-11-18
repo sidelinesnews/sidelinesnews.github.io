@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 51,
-  "undated_or_future": 9,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -76,7 +76,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 49,
-  "undated_or_future": 49,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -174,7 +174,7 @@
   "name": "The Conversation",
   "url": "https://theconversation.com/global/articles.atom",
   "ok": true,
-  "items": 47,
+  "items": 46,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 27,
+  "items": 28,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 58,
+  "items": 59,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 10,
+  "items": 13,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
