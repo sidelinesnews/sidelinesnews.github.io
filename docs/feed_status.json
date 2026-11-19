@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 51,
-  "undated_or_future": 4,
+  "undated_or_future": 5,
   "error": null,
   "baseline": false
  },
@@ -75,8 +75,8 @@
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
-  "items": 53,
-  "undated_or_future": 0,
+  "items": 52,
+  "undated_or_future": 52,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 36,
+  "items": 35,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 14,
+  "items": 12,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
