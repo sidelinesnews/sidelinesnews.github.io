@@ -1,61 +1,181 @@
 {
- "updated": "2026-11-21T09:57:45.777971+00:00",
+ "updated": "2026-11-21T13:09:36.272284+00:00",
  "meter": {
-  "outlets": 40,
+  "outlets": 41,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Iran seeking 'good, honorable and dignified agreement': Araghchi",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-seeking-good-honorable-and-dignified-agreement-araghchi",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
+   "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+   "link": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
+   "outlet": "Phys.org",
+   "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9992
+   "score": 0.998
   },
   {
-   "title": "2027 Politics Watch: From two ADC court rulings to Obi\u2019s 10,000MW pledge",
-   "link": "https://www.premiumtimesng.com/news/top-news/926905-2027-politics-watch-from-two-adc-court-rulings-to-obis-10000mw-pledge.html",
-   "outlet": "Premium Times",
+   "title": "Thousands of mixed-status California families to lose housing under Trump HUD rule",
+   "link": "https://calmatters.org/housing/2026/11/hud-mixed-status/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.998
+  },
+  {
+   "title": "The Outages Are Just Getting Started",
+   "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.998
+  },
+  {
+   "title": "Iran War Day 277: American and Israeli Hawks Push for Major Attack",
+   "link": "https://www.theamericanconservative.com/iran-war-day-277-american-and-israeli-hawks-push-for-major-attack/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9929
+  },
+  {
+   "title": "Africa: WGS Dialogue for Latin America and the Caribbean Explores Stronger Cooperation in Shaping the Future",
+   "link": "https://allafrica.com/stories/202611210135.html",
+   "outlet": "AllAfrica",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9975
+   "score": 0.9922
   },
   {
-   "title": "Sandpapergate: Cummins has Australia\u2019s \u2018unanimous support\u2019 as Test captain",
-   "link": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
+   "title": "Sudan\u2019s elderly face hardship and heartbreak in a life of displacement",
+   "link": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
    "outlet": "Al Jazeera",
    "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.996
+   "score": 0.992
   },
   {
-   "title": "\u2018Belonging\u2019: Sonia and Rajiv Gandhi\u2019s love story has all the makings of a great romance novel",
-   "link": "https://scroll.in/article/1097186/belonging-sonia-and-rajiv-gandhis-love-story-has-all-the-makings-of-a-great-romance-novel?utm_source=rss&utm_medium=public",
+   "title": "Russia may need a year to clear collapsed Crimean Bridge section, Ukraine says",
+   "link": "https://kyivindependent.com/russia-could-take-a-year-to-clear-collapsed-crimean-bridge-section-ukraines-defense-minister-says/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9901
+  },
+  {
+   "title": "D.C. May Abolish the Tip Credit\u2014Again. This Time, the Minimum Wage Would Be $25.",
+   "link": "https://reason.com/2026/11/21/d-c-may-abolish-the-tip-credit-again-this-time-the-minimum-wage-would-be-25/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9857
+  },
+  {
+   "title": "\u2018Gandhi in 1946-\u201947 is pursued, haunted by failure\u2019: Political theorist Manash Firaq Bhattacharjee",
+   "link": "https://scroll.in/article/1097025/gandhi-in-1946-47-is-pursued-haunted-by-failure-political-theorist-manash-firaq-bhattacharjee?utm_source=rss&utm_medium=public",
    "outlet": "Scroll.in",
    "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9948
+   "score": 0.9856
   },
   {
-   "title": "Maria Ressa: Understand AI to defend ourselves from \u2018predatory\u2019 tech",
-   "link": "https://www.rappler.com/technology/maria-ressa-understand-ai-defend-ourselves-social-good-summit-2026/",
+   "title": "Iran says new air defence system intercepted US Reaper drone over Hormuz",
+   "link": "https://www.middleeasteye.net/news/iran-says-newly-developed-air-defence-system-intercepted-us-drone-over-hormuz",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9814
+  },
+  {
+   "title": "2027: NDC supporters shut down Onitsha for Obi/Kwankwaso",
+   "link": "https://www.premiumtimesng.com/news/top-news/926958-2027-ndc-supporters-shut-down-onitsha-for-obi-kwankwaso.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9807
+  },
+  {
+   "title": "At Rappler summit, human rights figures call for solidarity amid AI threats",
+   "link": "https://www.rappler.com/technology/human-rights-figures-call-solidarity-ai-threats-social-good-summit-2026/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9944
+   "score": 0.9765
+  },
+  {
+   "title": "Your Positive Weekly Horoscope: \u2018Free Will Astrology\u2019 by Rob Brezsny",
+   "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-21-2026/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9737
+  },
+  {
+   "title": "What\u2019s Working: Why a Thanksgiving meal costs less in Colorado than the rest of the nation this year",
+   "link": "https://coloradosun.com/2026/11/21/thanksgiving-meal-inflation-turkey-sales-prices-colorado/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9735
+  },
+  {
+   "title": "Calvin Robinson: the making of an anti-Semite",
+   "link": "https://www.spiked-online.com/2026/11/21/calvin-robinson-the-making-of-an-anti-semite/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9727
+  },
+  {
+   "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
+   "link": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9616
+  },
+  {
+   "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don\u2019t Care.",
+   "link": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9616
   },
   {
    "title": "THE CONVERSATION: Using honeytraps for advantage is a strategy that goes back centuries",
@@ -65,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9907
+   "score": 0.9525
   },
   {
    "title": "The British island that made a deal with nature",
@@ -75,37 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9902
-  },
-  {
-   "title": "Essay: This holiday season, Colorado moms need to put down the camera and get in the picture",
-   "link": "https://coloradosun.com/2026/11/21/opinion-holiday-moms-photographs-colorado-2/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9819
-  },
-  {
-   "title": "Good News in History, November 21",
-   "link": "https://www.goodnewsnetwork.org/events061121/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9759
-  },
-  {
-   "title": "General Staff: Russia has lost 1,634,860 troops in Ukraine since Feb. 24, 2022",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-634-860-troops-in-ukraine-since-feb-24-2022/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9698
+   "score": 0.952
   },
   {
    "title": "Why Takaichi should stick to her guns on Taiwan",
@@ -115,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9619
+   "score": 0.9253
   },
   {
    "title": "Former Brazilian President Jair Bolsonaro hospitalised in Bras\u00edlia with abdominal pain",
@@ -125,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9571
+   "score": 0.9209
   },
   {
    "title": "Reclaiming Indigenous culinary histories in Nepal",
@@ -135,27 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9548
-  },
-  {
-   "title": "Mint Mobile Discounts for November 2026",
-   "link": "https://www.wired.com/story/mint-mobile-promo-code/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9523
-  },
-  {
-   "title": "False Dreams of a Young White Male Electorate",
-   "link": "https://www.theamericanconservative.com/false-dreams-of-a-young-white-male-electorate/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9417
+   "score": 0.9187
   },
   {
    "title": "State dismisses lawsuit against Latino voting group Jolt Initiative",
@@ -165,17 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9335
-  },
-  {
-   "title": "What makes rock deep beneath continents break away and sink?",
-   "link": "https://phys.org/news/2026-11-deep-beneath-continents.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9332
+   "score": 0.8987
   },
   {
    "title": "\u2018The Assembly\u2019 Is Extraordinary",
@@ -185,17 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.904
-  },
-  {
-   "title": "En Banc Fifth Circuit Declares House COVID Proxy Voting Rule Unconstitutional",
-   "link": "https://reason.com/volokh/2026/11/20/en-banc-fifth-circuit-declares-house-covid-proxy-voting-rule-unconstitutional/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9001
+   "score": 0.871
   },
   {
    "title": "Research schooner Tara sets sail from Hong Kong on 18-month mission to unlock coral resilience secrets",
@@ -205,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8917
+   "score": 0.8594
   },
   {
    "title": "God save us from King William",
@@ -215,7 +265,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8871
+   "score": 0.855
+  },
+  {
+   "title": "Additional budget passes with no cuts",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8545
   },
   {
    "title": "B.C. premier unveils new cabinet, changing key portfolios from mining to environment",
@@ -225,17 +285,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8858
+   "score": 0.8538
   },
   {
-   "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
-   "link": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
+   "title": "How the Vikings and 49ers are training for Mexico City\u2019s thin air",
+   "link": "https://mexiconewsdaily.com/lifestyle/how-vikings-and-49ers-training-mexico-citys-thin-air/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8818
+   "score": 0.8509
   },
   {
    "title": "APTN Nouvelles nationales \u2013 20 novembre 2026",
@@ -245,17 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8815
-  },
-  {
-   "title": "Former Iguala mayor sentenced to 60 years for Ayotzinapa-related crimes",
-   "link": "https://mexiconewsdaily.com/news/former-iguala-mayor-sentenced-t60-years-fayotzinapa-related-crimes/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8697
+   "score": 0.8498
   },
   {
    "title": "Some Russians are now being asked to take part in interviews after clearing passport control at German airports. Who\u2019s conducting them, and why?",
@@ -265,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8686
+   "score": 0.8377
   },
   {
    "title": "Montrose Saloon Shutting Down In January As Owners Decide Future Of 50-Year-Old Pub",
@@ -275,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8597
+   "score": 0.8293
   },
   {
    "title": "Amazon Is Ratcheting Up Its Fight With NYC Delivery Drivers",
@@ -285,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8589
+   "score": 0.8285
   },
   {
    "title": "Alta Rock Carvings in Alta, Norway",
@@ -295,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8564
+   "score": 0.8262
   },
   {
    "title": "Russia\u2019s Changing Positions on North Korea Sanctions and Denuclearization",
@@ -305,17 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8277
-  },
-  {
-   "title": "Rwanda: Women-Owned Exports Decline By 51 Percent As Finance Challenges Linger - New Report",
-   "link": "https://allafrica.com/stories/202611200689.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8272
+   "score": 0.7992
   },
   {
    "title": "Republika Srpska Ban on 1990s Bosnian Army Symbols Ruled Unconstitutional",
@@ -325,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8229
+   "score": 0.7946
   },
   {
    "title": "Podcast Transcript November 20th, 2026\u2014 A Tourette\u2019s wristband, a trash map and why you dread your plans",
@@ -335,7 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8145
+   "score": 0.7867
   },
   {
    "title": "Network Researchers Nail Down Theory of \u2018Perfect Resilience\u2019",
@@ -345,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7998
+   "score": 0.773
   },
   {
    "title": "Burnham in Brussels: why party politics still defines the UK\u2019s relationship with Europe",
@@ -355,37 +395,47 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7964
+   "score": 0.7697
   },
   {
-   "title": "It\u2019s raining money for Anthropic, and just plain old water on the rest of us",
-   "link": "https://calmatters.org/newsletter/el-nino-flood-plans/",
-   "outlet": "CalMatters",
+   "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9902
+  },
+  {
+   "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+   "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+   "outlet": "WIRED",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7926
+   "score": 0.9858
   },
   {
-   "title": "Changing the age of consent won\u2019t protect young women",
-   "link": "https://www.spiked-online.com/2026/11/20/changing-the-age-of-consent-wont-protect-young-women/",
-   "outlet": "Spiked",
+   "title": "Milei's Push To Privatize Companies Is Running Up Against Congressional Pushback",
+   "link": "https://reason.com/2026/11/21/how-much-can-milei-privatize/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9797
+  },
+  {
+   "title": "EU budget proposal keeps Ukraine funding unchanged as cost of Russia's war rises",
+   "link": "https://kyivindependent.com/eu-budget-proposal-keeps-ukraine-funding-unchanged-as-cost-of-russias-war-rises/",
+   "outlet": "Kyiv Independent",
    "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7729
-  },
-  {
-   "title": "Ohio Jobs Program Wants Its Money Back After Company\u2019s Failure to Deliver GMO Salmon",
-   "link": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
-   "outlet": "ProPublica",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7637
+   "score": 0.9795
   },
   {
    "title": "Data centers\u2019 electricity use is soaring \u2014 especially in these states",
@@ -395,27 +445,57 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7578
+   "score": 0.7335
   },
   {
-   "title": "Explosive-laden boxes dropped from the sky: Israel\u2019s latest weapon in Gaza",
-   "link": "https://www.middleeasteye.net/news/explosive-laden-boxes-dropped-sky-israels-latest-weapon-gaza",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
+   "title": "After Siang dam protests, Amit Shah says Centre will hold \u2018constructive\u2019 talks in Arunachal",
+   "link": "https://scroll.in/latest/1097228/after-siang-dam-protests-amit-shah-says-centre-will-hold-constructive-talks-in-arunachal?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9987
+   "score": 0.9767
   },
   {
-   "title": "Wizkid, Davido, others to headline Nigerian Breweries\u2019 Legendary Christmas 2026",
-   "link": "https://www.premiumtimesng.com/entertainment/music/926912-wizkid-davido-others-to-headline-nigerian-breweries-legendary-christmas-2026.html",
+   "title": "Anambra CityBoy Movement threatens mass defection over leadership crisis",
+   "link": "https://www.premiumtimesng.com/news/more-news/926955-anambra-cityboy-movement-threatens-mass-defection-over-leadership-crisis.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9974
+   "score": 0.9736
+  },
+  {
+   "title": "NU extends UAAP cheerdance reign with 3-peat; UE cops historic silver",
+   "link": "https://www.rappler.com/people/athletes/nu-pep-squad-three-peat-uaap-cheerdance-competition-2026/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9666
+  },
+  {
+   "title": "From screens in class to smart glasses, Norway rethinks new technologies",
+   "link": "https://phys.org/news/2026-11-screens-class-smart-glasses-norway.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9656
+  },
+  {
+   "title": "Explosive-laden boxes dropped from the sky: Israel\u2019s latest weapon in Gaza",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosive-laden-boxes-dropped-sky-israels-latest-weapon-gaza",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9615
   },
   {
    "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
@@ -425,27 +505,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7443
+   "score": 0.7208
   },
   {
-   "title": "Fire sprinkler sprays water at flame-covered sign in China",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "Essay: This holiday season, Colorado moms need to put down the camera and get in the picture",
+   "link": "https://coloradosun.com/2026/11/21/opinion-holiday-moms-photographs-colorado-2/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9923
-  },
-  {
-   "title": "Beyond the classroom, UPLB skaters carve out space in town with no skatepark",
-   "link": "https://www.rappler.com/people/human-interest/university-of-the-philippines-los-banos-skaters-no-skatepark/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9881
+   "score": 0.9442
   },
   {
    "title": "Neville Alexander\u2019s legacy can\u2019t be honoured by policing who may speak in his name",
@@ -455,27 +525,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9759
+   "score": 0.9385
   },
   {
-   "title": "Delimitation: Congress seeks consultation, says Opposition on board with its four-point plan",
-   "link": "https://scroll.in/latest/1097224/delimitation-congress-seeks-consultation-says-opposition-on-board-with-its-four-point-plan?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9622
-  },
-  {
-   "title": "Laws and Men with Swords",
-   "link": "https://www.theamericanconservative.com/laws-and-men-with-swords/",
+   "title": "False Dreams of a Young White Male Electorate",
+   "link": "https://www.theamericanconservative.com/false-dreams-of-a-young-white-male-electorate/",
    "outlet": "The American Conservative",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9413
+   "score": 0.9064
   },
   {
    "title": "Godlike AI is coming, whether we pace the frontier or not",
@@ -485,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9403
+   "score": 0.905
   },
   {
    "title": "Texas drops abortion pill lawsuits against out-of-state medical providers",
@@ -495,17 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9301
-  },
-  {
-   "title": "Device that measures strawberry skin's strength will aid breeders",
-   "link": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9258
+   "score": 0.8954
   },
   {
    "title": "Extreme rainfalls flood Sri Lanka\u2019s coastal city as wetlands, drains vanish",
@@ -515,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9211
+   "score": 0.887
   },
   {
    "title": "We Did It! We Saved the Daylight",
@@ -525,17 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9005
-  },
-  {
-   "title": "Colorado PERA board approves new limits on investment staff bonuses",
-   "link": "https://coloradosun.com/2026/11/20/colorado-pera-board-limits-bonus-pay-investment-staff/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.891
+   "score": 0.8676
   },
   {
    "title": "Why tech bros disdain humanity",
@@ -545,67 +585,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.887
+   "score": 0.855
   },
   {
-   "title": "Incoming Democratic chairman warns US lawmakers could halt SpaceX funding following Starshield slowdown in Ukraine, CNN reports",
-   "link": "https://kyivindependent.com/incoming-democratic-chairman-warns-us-lawmakers-could-halt-spacex-funding-following-starshield-slowdown-in-ukraine-cnn-reports/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
+   "title": "Legislature approves KMT\u2019s NT$20,000 payout bill",
+   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868119",
+   "outlet": "Taipei Times",
+   "region": "East Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8855
+   "score": 0.8545
   },
   {
-   "title": "Second Amendment as a Right to Sell Guns as Well as to Have and Buy Them?",
-   "link": "https://reason.com/volokh/2026/11/20/second-amendment-as-a-right-to-sell-guns-as-well-as-to-have-and-buy-them/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.878
-  },
-  {
-   "title": "\u2018They don\u2019t see us as humans\u2019: Indigenous youth call for national day of action",
-   "link": "https://www.aptnnews.ca/national-news/indigenous-youth-call-for-national-day-of-action-bill-c39/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8752
-  },
-  {
-   "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
-   "link": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
+   "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
+   "link": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
    "outlet": "Inside Climate News",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8714
-  },
-  {
-   "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
-   "link": "https://www.goodnewsnetwork.org/__trashed-70/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8664
-  },
-  {
-   "title": "Legislator apologizes for fumigating a Monterrey park full of migrating monarch butterflies",
-   "link": "https://mexiconewsdaily.com/news/legislator-apologizes-fumigatiing-monterrey-park-with-monarch-butterflies/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8596
+   "score": 0.8501
   }
  ]
 }
