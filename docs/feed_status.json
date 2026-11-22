@@ -14,7 +14,7 @@
   "ok": false,
   "items": 0,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 4",
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
@@ -290,10 +290,10 @@
  {
   "name": "The Intercept",
   "url": "https://theintercept.com/feed/?lang=en",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 500: Internal Server Error",
+  "error": null,
   "baseline": false
  },
  {
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 53,
+  "items": 52,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
