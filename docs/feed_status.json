@@ -76,7 +76,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 47,
-  "undated_or_future": 47,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 26,
+  "items": 27,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 14,
+  "items": 12,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
