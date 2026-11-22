@@ -1,41 +1,151 @@
 {
- "updated": "2026-11-22T13:07:43.976601+00:00",
+ "updated": "2026-11-22T15:55:23.707433+00:00",
  "meter": {
-  "outlets": 41,
+  "outlets": 40,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
-   "link": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
-   "outlet": "Phys.org",
-   "region": "Global",
+   "title": "Residents lament another increase in cooking gas prices",
+   "link": "https://www.premiumtimesng.com/news/top-news/927211-residents-lament-another-increase-in-cooking-gas-prices.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
    "score": 0.9984
   },
   {
-   "title": "Pomp, glamour as 37th NAFEST kicks off in Enugu",
-   "link": "https://www.premiumtimesng.com/promoted/927150-pomp-glamour-as-37th-nafest-kicks-off-in-enugu.html",
-   "outlet": "Premium Times",
+   "title": "Ukrainian troops share battlefield drone expertise with 4 NATO allies in US-led exercise",
+   "link": "https://kyivindependent.com/ukrainian-troops-share-battlefield-drone-expertise-with-4-nato-allies-in-us-led-exercise/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9976
+  },
+  {
+   "title": "Protecting our children starts with vetting every adult in basic education",
+   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-22-protecting-our-children-starts-with-vetting-every-adult-in-basic-education/",
+   "outlet": "Daily Maverick",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9951
+   "score": 0.9964
   },
   {
-   "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-   "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+   "title": "Can we build a more ethical AI future?",
+   "link": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
    "outlet": "Al Jazeera",
    "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9925
+   "score": 0.9948
+  },
+  {
+   "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+   "link": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9927
+  },
+  {
+   "title": "\u2018A complete humanist\u2019: Remembering playwright Omcherry NN Pillai, the \u2018Malayali Bagh\u2019 of Delhi",
+   "link": "https://scroll.in/article/1097158/a-complete-humanist-remembering-playwright-omcherry-nn-pillai-the-malayali-bagh-of-delhi?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9885
+  },
+  {
+   "title": "\u2018Extraordinary\u2019 Drug May Actually Cure High Blood Pressure Caused by Hormones, And it\u2019s FDA-Approved",
+   "link": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9883
+  },
+  {
+   "title": "As the Kerch Bridge goes down, the Ukraine War clock is ticking",
+   "link": "https://asiatimes.com/2026/11/as-the-kerch-bridge-goes-down-the-ukraine-war-clock-is-ticking/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.98
+  },
+  {
+   "title": "Iran War Day 268: Iran Strikes Bahrain as Tensions Soar",
+   "link": "https://www.theamericanconservative.com/iran-war-day-268-iran-strikes-bahrain-as-tensions-soar/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9799
+  },
+  {
+   "title": "\u2018He woke us up\u2019: The man who changed the map of Mexico (Part I)",
+   "link": "https://mexiconewsdaily.com/culture/carlos-chavez-wixarika-indigenous-land-rights/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9765
+  },
+  {
+   "title": "Los Angeles Socialists Won Big in the Blue Electoral Wave",
+   "link": "https://jacobin.com/2026/11/dsa-la-elections-raman-roy",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9764
+  },
+  {
+   "title": "How wildfire litigation became big business in America",
+   "link": "https://grist.org/wildfires/how-wildfire-litigation-became-big-business-in-america/",
+   "outlet": "Grist",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9764
+  },
+  {
+   "title": "Argentina's lawyer in Hamburg: if Sea Lion goes ahead, \"those rights are lost forever\"",
+   "link": "https://en.mercopress.com/2026/11/22/argentina-s-lawyer-in-hamburg-if-sea-lion-goes-ahead-those-rights-are-lost-forever?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9664
+  },
+  {
+   "title": "The authoritarian legacy of the Southport riots",
+   "link": "https://www.spiked-online.com/2026/11/22/the-authoritarian-legacy-of-the-southport-riots/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9645
   },
   {
    "title": "America Needs More Nurses. The Trump Administration Wants To Make Them Much Harder To Hire.",
@@ -45,17 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9861
-  },
-  {
-   "title": "Sunday book pick: \u2018Madonna in a Fur Coat\u2019 enlightens young adults about inevitability of heartbreak",
-   "link": "https://scroll.in/article/1097011/sunday-book-pick-madonna-in-a-fur-coat-enlightens-young-adults-about-inevitability-of-heartbreak?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.986
+   "score": 0.9528
   },
   {
    "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
@@ -65,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.986
+   "score": 0.9527
   },
   {
    "title": "Peter Moore: Let\u2019s buy a Colorado ski area!",
@@ -75,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9773
+   "score": 0.9444
   },
   {
    "title": "\u2018Proud Bisdak\u2019 KZ Tandingan wants Filipino music to transcend borders",
@@ -85,27 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9739
-  },
-  {
-   "title": "Zelensky says US delays on Patriot missiles are 'difficult to understand' as Russia fires 165 missiles in a week",
-   "link": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9709
-  },
-  {
-   "title": "HIGH-STAKES SEAS : As COP31 sounds climate warnings, SA\u2019s coastal communities fight to survive",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-22-as-cop31-sounds-climate-warnings-sas-coastal-communities-fight-to-survive/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9677
+   "score": 0.9412
   },
   {
    "title": "The Defenders of Mexico\u2019s Scorpion Reef",
@@ -115,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.962
+   "score": 0.9299
   },
   {
    "title": "Africa: Statement By The African Women Leaders Network (AWLN) On The Passing Of H.E. Dr. Phumzile Mlambo-Ngcuka",
@@ -125,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9264
+   "score": 0.8962
   },
   {
    "title": "Nvidia faces US accounting probe amid deepening turmoil: media",
@@ -135,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.92
+   "score": 0.8901
   },
   {
    "title": "Breaking the silence: Pratishta\u2019s journey from childhood abuse to advocacy",
@@ -145,27 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9185
-  },
-  {
-   "title": "Can \u2018America First\u2019 Be Saved?",
-   "link": "https://www.theamericanconservative.com/can-america-first-be-saved/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9067
-  },
-  {
-   "title": "Rohingya genocide justice now runs through the Arakan Army",
-   "link": "https://asiatimes.com/2026/11/rohingya-genocide-justice-now-runs-through-the-arakan-army/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8874
+   "score": 0.8887
   },
   {
    "title": "US lawmaker upbeat on Taiwan ties",
@@ -175,17 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8548
-  },
-  {
-   "title": "MND Tutor | Sheinbaum in China",
-   "link": "https://mexiconewsdaily.com/mnd-tutor/sheinbaum-xi-jinping-mexico-china-relations-mnd-tutor/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8359
+   "score": 0.8284
   },
   {
    "title": "Texas Sports Academy, tied to AI-driven Alpha School, is Texas\u2019 biggest voucher recipient so far",
@@ -195,37 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8334
-  },
-  {
-   "title": "David Dinkins Wasn\u2019t Loud Enough for New York City",
-   "link": "https://jacobin.com/2026/11/review-dinkins-mayoralty-police-reform",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8065
-  },
-  {
-   "title": "Burnham wants to turn Britain into a colony of the EU",
-   "link": "https://www.spiked-online.com/2026/11/21/burnham-wants-to-turn-britain-into-a-colony-of-the-eu/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8042
-  },
-  {
-   "title": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
-   "link": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7955
+   "score": 0.8081
   },
   {
    "title": "Inside Lorne Doerkson\u2019s Trimmed-Down BC Cabinet",
@@ -235,17 +255,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7869
+   "score": 0.764
   },
   {
-   "title": "New net-zero community will become Michigan\u2019s first virtual power plant",
-   "link": "https://grist.org/cities/new-net-zero-community-will-become-michigans-first-virtual-power-plant/",
-   "outlet": "Grist",
-   "region": "North America",
+   "title": "MOVIE REVIEW: Sam Dede returns, but nostalgia cannot carry \u2018Issakaba\u2019 alone",
+   "link": "https://www.premiumtimesng.com/entertainment/nollywood/927197-movie-review-sam-dede-returns-but-nostalgia-cannot-carry-issakaba-alone.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7664
+   "score": 0.9973
+  },
+  {
+   "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9936
+  },
+  {
+   "title": "COP31 fails to agree on climate deal in chaotic finale",
+   "link": "https://phys.org/news/2026-11-cop31-climate-chaotic.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9902
   },
   {
    "title": "Thousands of mixed-status California families to lose housing under Trump HUD rule",
@@ -255,7 +295,47 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7585
+   "score": 0.7371
+  },
+  {
+   "title": "Russian attacks cause 'serious damage' to Odesa power grid as outages disrupt city",
+   "link": "https://kyivindependent.com/russian-attacks-cause-serious-damage-to-odesa-power-grid-as-outages-disrupt-city/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.978
+  },
+  {
+   "title": "Readers\u2019 comments: In drought year, effects of cow slaughter ban are already becoming evident",
+   "link": "https://scroll.in/article/1097118/readers-comments-in-drought-year-effects-of-cow-slaughter-ban-are-already-becoming-evident?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9764
+  },
+  {
+   "title": "The Enshittification of Everyday Life",
+   "link": "https://jacobin.com/2026/11/tech-enshittification-services-time-inconvenience",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9704
+  },
+  {
+   "title": "Falklands: Public Accounts Committee to scrutinize several contracts and projects",
+   "link": "https://en.mercopress.com/2026/11/22/falklands-public-accounts-committee-to-scrutinize-several-contracts-and-projects?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9662
   },
   {
    "title": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump on CNN",
@@ -265,37 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7452
-  },
-  {
-   "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-   "link": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9907
-  },
-  {
-   "title": "COP31: Five contentious issues shaping final climate talks in Turkey",
-   "link": "https://www.premiumtimesng.com/business/business-news/927137-cop31-five-contentious-issues-shaping-final-climate-talks-in-turkey.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9897
-  },
-  {
-   "title": "Madhya Pradesh: 118 children, 12 adults hospitalised after eating \u2018chow mein\u2019 at fair in Balaghat",
-   "link": "https://scroll.in/latest/1097235/madhya-pradesh-118-children-12-adults-hospitalised-after-eating-chow-mein-at-fair-in-balaghat?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9821
+   "score": 0.7245
   },
   {
    "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
@@ -305,7 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7355
+   "score": 0.7153
   },
   {
    "title": "Rents, Internet Speeds, and Airfares: 3 Deregulation Success Stories From Milei's Argentina",
@@ -315,27 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9801
-  },
-  {
-   "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-   "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9743
-  },
-  {
-   "title": "How little free libraries are making a difference in Colorado\u2019s book deserts",
-   "link": "https://coloradosun.com/2026/11/22/colorado-little-free-library-book-deserts/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9739
+   "score": 0.9471
   },
   {
    "title": "The British island that made a deal with nature",
@@ -345,7 +375,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7295
+   "score": 0.7096
+  },
+  {
+   "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+   "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9416
+  },
+  {
+   "title": "How little free libraries are making a difference in Colorado\u2019s book deserts",
+   "link": "https://coloradosun.com/2026/11/22/colorado-little-free-library-book-deserts/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9412
+  },
+  {
+   "title": "HIGH-STAKES SEAS : COP31 talks fall apart as SA\u2019s coastal communities fight to survive",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-22-as-cop31-sounds-climate-warnings-sas-coastal-communities-fight-to-survive/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9354
   },
   {
    "title": "The US midterm elections and this Norman Rockwell painting",
@@ -355,37 +415,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.962
+   "score": 0.9299
   },
   {
-   "title": "Russian attacks across Ukraine injure 30 over past day as rescue operation continues near Kyiv after drone strike",
-   "link": "https://kyivindependent.com/russian-attacks-across-ukraine-injure-30-over-past-day-as-rescue-operation-continues-near-kyiv-after-drone-strike/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9609
-  },
-  {
-   "title": "THE LOWLY NEWSPAPERMAN: Ramaphosa checks out as petty politics, personal beefs trump SA\u2019s metro crises",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-22-ramaphosa-checks-out-as-petty-politics-personal-beefs-trump-sas-metro-crises/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.951
-  },
-  {
-   "title": "Keynesianism for the Gender-Dysphoric",
-   "link": "https://www.theamericanconservative.com/keynesianism-for-the-gender-dysphoric/",
+   "title": "Can \u2018America First\u2019 Be Saved?",
+   "link": "https://www.theamericanconservative.com/can-america-first-be-saved/",
    "outlet": "The American Conservative",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9064
+   "score": 0.8776
   },
   {
    "title": "The first hockey-sex classic",
@@ -395,7 +435,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6686
+   "score": 0.6519
   },
   {
    "title": "B.C. premier unveils new cabinet, changing key portfolios from mining to environment",
@@ -405,7 +445,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6675
+   "score": 0.6509
   },
   {
    "title": "APTN Nouvelles nationales \u2013 20 novembre 2026",
@@ -415,7 +455,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.665
+   "score": 0.6485
+  },
+  {
+   "title": "Rohingya genocide justice now runs through the Arakan Army",
+   "link": "https://asiatimes.com/2026/11/rohingya-genocide-justice-now-runs-through-the-arakan-army/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8593
   },
   {
    "title": "Some Russians are now being asked to take part in interviews after clearing passport control at German airports. Who\u2019s conducting them, and why?",
@@ -425,7 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6574
+   "score": 0.6413
   },
   {
    "title": "Montrose Saloon Shutting Down In January As Owners Decide Future Of 50-Year-Old Pub",
@@ -435,7 +485,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6521
+   "score": 0.6363
   },
   {
    "title": "Alta Rock Carvings in Alta, Norway",
@@ -445,17 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6502
-  },
-  {
-   "title": "Single feathers may reveal whether eastern black rails stay in Texas or migrate north",
-   "link": "https://phys.org/news/2026-11-feathers-reveal-eastern-black-rails.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8646
+   "score": 0.6344
   },
   {
    "title": "FSC announces measures after stock market losses",
@@ -465,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8548
+   "score": 0.8284
   },
   {
    "title": "A Moment of New Hope for the Rohingya Community",
@@ -475,7 +515,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6351
+   "score": 0.6202
   },
   {
    "title": "Republika Srpska Ban on 1990s Bosnian Army Symbols Ruled Unconstitutional",
@@ -485,7 +525,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6303
+   "score": 0.6156
   },
   {
    "title": "Podcast Transcript November 20th, 2026\u2014 A Tourette\u2019s wristband, a trash map and why you dread your plans",
@@ -495,7 +535,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6253
+   "score": 0.6109
+  },
+  {
+   "title": "MND Tutor | Sheinbaum in China",
+   "link": "https://mexiconewsdaily.com/mnd-tutor/sheinbaum-xi-jinping-mexico-china-relations-mnd-tutor/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8104
   },
   {
    "title": "Network Researchers Nail Down Theory of \u2018Perfect Resilience\u2019",
@@ -505,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6166
+   "score": 0.6027
   },
   {
    "title": "Burnham in Brussels: why party politics still defines the UK\u2019s relationship with Europe",
@@ -515,27 +565,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6146
+   "score": 0.6007
   },
   {
-   "title": "Buenos Aires marks King Charles's birthday with a reconciliation message amid bilateral tension",
-   "link": "https://en.mercopress.com/2026/11/20/buenos-aires-marks-king-charles-s-birthday-with-a-reconciliation-message-amid-bilateral-tension?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
+   "title": "Burnham wants to turn Britain into a colony of the EU",
+   "link": "https://www.spiked-online.com/2026/11/21/burnham-wants-to-turn-britain-into-a-colony-of-the-eu/",
+   "outlet": "Spiked",
+   "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6141
-  },
-  {
-   "title": "From the archive: A comprehensive guide to Mexican hangover cures",
-   "link": "https://mexiconewsdaily.com/lifestyle/food/from-the-archive-mexicans-cure-hangovers/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8175
+   "score": 0.7804
   },
   {
    "title": "Paxton drops suits against two Texas doctors over transgender care as he prepares to leave office",
@@ -545,7 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8017
+   "score": 0.7781
   },
   {
    "title": "Growing up displaced in Cameroon after ten years of conflict",
@@ -555,57 +595,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8001
+   "score": 0.7765
   },
   {
-   "title": "Inflation Is About Resources \u2014 and Power",
-   "link": "https://jacobin.com/2026/11/inflation-austerity-oil-class-sweden",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7861
-  },
-  {
-   "title": "Does James Bond make any sense in woke, broken Britain?",
-   "link": "https://www.spiked-online.com/2026/11/21/does-james-bond-make-any-sense-in-woke-broken-britain/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7828
-  },
-  {
-   "title": "Pub Owner Spends Thousands on Stunning Holiday Display\u2013All to Cheer Up Depressed Locals",
-   "link": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+   "title": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
+   "link": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
    "outlet": "Good News Network",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7819
-  },
-  {
-   "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
-   "link": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
-   "outlet": "Reasons to be Cheerful",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.5837
-  },
-  {
-   "title": "Africa: Presidents And Government Leaders Discuss Strengthening Strategic Partnerships And Expanding Cooperation With The UAE",
-   "link": "https://allafrica.com/stories/202611210136.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7708
+   "score": 0.7722
   }
  ]
 }
