@@ -1,61 +1,241 @@
 {
- "updated": "2026-11-23T19:13:34.728866+00:00",
+ "updated": "2026-11-23T22:00:50.814039+00:00",
  "meter": {
-  "outlets": 43,
+  "outlets": 42,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Oxidative stress alters and 'clogs' grass pollen allergens, study finds",
-   "link": "https://phys.org/news/2026-11-oxidative-stress-clogs-grass-pollen.html",
+   "title": "CORRUPTION TRIAL : Bribes or suspicion? Mapisa-Nqakula awaits judgment in R4.5m bribery case",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-23-bribes-or-suspicion-mapisa-nqakula-awaits-judgment-in-r45m-bribery-case/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 1.0
+  },
+  {
+   "title": "Hera surveys asteroids with superhuman vision",
+   "link": "https://phys.org/news/2026-11-hera-surveys-asteroids-superhuman-vision.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9993
+   "score": 0.9998
   },
   {
-   "title": "AFTER THE BELL: There\u2019s a tragedy in Spar, wherever you are...",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-23-theres-a-tragedy-in-spar-wherever-you-are/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
+   "title": "Center for experimental sargassum solutions to open in Playa del Carmen",
+   "link": "https://mexiconewsdaily.com/news/center-experimental-sargassum-solutions-playa-del-carmen/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.999
+  },
+  {
+   "title": "German Chancellor Friedrich Merz says it was a mistake to leave Ukraine out of NATO in 2008",
+   "link": "https://meduza.io/en/news/2026/11/24/german-chancellor-friedrich-merz-says-it-was-a-mistake-to-leave-ukraine-out-of-nato-in-2008",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
    "score": 0.9983
   },
   {
-   "title": "Fountain of Life Crisis: Court summons Jimmy Odukoya over alleged contempt",
-   "link": "https://www.premiumtimesng.com/entertainment/naija-fashion/927488-fountain-of-life-crisis-court-summons-jimmy-odukoya-over-alleged-contempt.html",
+   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+   "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.997
+  },
+  {
+   "title": "Brazil's Supreme Court summons Fl\u00e1vio Bolsonaro by public notice over alleged slander of Lula",
+   "link": "https://en.mercopress.com/2026/11/23/brazil-s-supreme-court-summons-flavio-bolsonaro-by-public-notice-over-alleged-slander-of-lula?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9965
+  },
+  {
+   "title": "Far North Side Park Officially Renamed Edgewater Prairie Park After Neighbor-Led Restoration",
+   "link": "https://blockclubchicago.org/2026/11/23/far-north-side-park-officially-renamed-edgewater-prairie-park-after-neighbor-led-restoration/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9963
+  },
+  {
+   "title": "Police speak on deadly attack on NDC supporters in Delta",
+   "link": "https://www.premiumtimesng.com/news/top-news/927528-police-speak-on-deadly-attack-on-ndc-supporters-in-delta.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9975
+   "score": 0.9954
   },
   {
-   "title": "Longer droughts threaten floating health clinics as Amazon streams run dry",
-   "link": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
-   "outlet": "Mongabay",
-   "region": "Global",
+   "title": "Africa: In Tokyo, Dr Sidi Ould Tah Calls On Japanese Companies to Invest More in Local Value Addition to African Resources",
+   "link": "https://allafrica.com/stories/202611230776.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9973
+   "score": 0.9945
   },
   {
-   "title": "Indianola in Port Lavaca, Texas",
-   "link": "https://www.atlasobscura.com/places/indianola",
+   "title": "Musique Nomade : 20 ans \u00e0 faire voyager la musique et la culture des artistes autochtones",
+   "link": "https://www.aptnnews.ca/reportages/musique-nomade-20-ans-a-faire-voyager-la-musique-et-la-culture-des-artistes-autochtones/",
+   "outlet": "APTN News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9925
+  },
+  {
+   "title": "Qatar needs US and Iran to resume talks to end war, PM says",
+   "link": "https://www.middleeasteye.net/news/qatar-needs-us-iran-resume-talks-end-war-pm-says",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.992
+  },
+  {
+   "title": "Israel\u2019s southern Syria incursion triggers fear and destruction",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9914
+  },
+  {
+   "title": "How COP31 became climate diplomacy\u2019s \u2018darkest moment\u2019",
+   "link": "https://grist.org/cop31/how-cop31-became-climate-diplomacys-darkest-moment/",
+   "outlet": "Grist",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9904
+  },
+  {
+   "title": "Russia repeatedly altered details on killing of imprisoned Ukrainian journalist Viktoriia Roshchyna",
+   "link": "https://kyivindependent.com/russia-repeatedly-altered-details-on-killing-of-imprisoned-ukrainian-journalist-viktoriia-roshchyna/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9887
+  },
+  {
+   "title": "Alberta tables legislation to enable government control of natural gas system",
+   "link": "https://thenarwhal.ca/alberta-natural-gas-pipeline-legislation/?utm_source=rss",
+   "outlet": "The Narwhal",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9878
+  },
+  {
+   "title": "California sues to block Trump rule denying aid to families with mixed immigration statuses",
+   "link": "https://calmatters.org/housing/2026/11/hud-mixed-status-lawsuit/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9875
+  },
+  {
+   "title": "\u2018El Vagamundos\u2019 in Madrid, Spain",
+   "link": "https://www.atlasobscura.com/places/el-vagamundos",
    "outlet": "Atlas Obscura",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9972
+   "score": 0.9874
+  },
+  {
+   "title": "Army Wants to Detonate Lead Explosives in Iowa Despite Court Ruling",
+   "link": "https://insideclimatenews.org/news/23112026/iowa-army-lead-explosives-detonation/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9868
+  },
+  {
+   "title": "Trump Barges Into Nvidia's Internal Decisions, Opens Door to Even More Federal Meddling in the Economy",
+   "link": "https://reason.com/2026/11/23/trump-barges-into-nvidias-internal-decisions-opens-door-to-even-more-federal-meddling-in-the-economy/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9853
+  },
+  {
+   "title": "Billy Evans\u2019s You Can See Everything Deal Is the Real Story",
+   "link": "https://jacobin.com/2026/11/holmes-evans-fielder-documentary-payment",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9846
+  },
+  {
+   "title": "Please Advise! Did Jeff Bezos Pick the Right James Bond?",
+   "link": "https://thetyee.ca/Opinion/2026/11/23/Please-Advise-Did-Jeff-Bezos-Pick-Right-Bond/",
+   "outlet": "The Tyee",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9842
+  },
+  {
+   "title": "\u2018Diversity bollards\u2019 are putting the frighteners on the festive season",
+   "link": "https://www.spiked-online.com/2026/11/23/diversity-bollards-are-putting-the-frighteners-on-the-festive-season/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9743
+  },
+  {
+   "title": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
+   "link": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9678
   },
   {
    "title": "Private Prison Told ICE Its Jail Was Worth $67 Million. ICE Bought It for Nearly Half a Billion.",
@@ -65,67 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9966
-  },
-  {
-   "title": "It\u2019s official: mass immigration is recklessly endangering British women",
-   "link": "https://www.spiked-online.com/2026/11/23/its-official-mass-immigration-is-recklessly-endangering-british-women/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9962
-  },
-  {
-   "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
-   "link": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9944
-  },
-  {
-   "title": "Palestinian critically wounded by Israeli gunfire in Gaza, Al Jazeera reports",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-critically-wounded-israeli-fires-al-jazeera-reports",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9943
-  },
-  {
-   "title": "Interview: UK Defense Secretary on 'nauseating' Putin",
-   "link": "https://kyivindependent.com/interview-uk-defense-secretary-on-nauseating-putin/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9905
-  },
-  {
-   "title": "Inside Friday\u2019s takedown of \u2018El Chapo Isidro\u2019: Monday\u2019s ma\u00f1anera recapped",
-   "link": "https://mexiconewsdaily.com/politics/inside-takedown-chapo-isidro-mananera-monday/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9887
-  },
-  {
-   "title": "Virginia Needn't Help with Federal Immigration Enforcement, But Can't Interfere With It",
-   "link": "https://reason.com/volokh/2026/11/23/virginia-neednt-help-with-federal-immigration-enforcement-but-cant-interfere-with-it/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9864
+   "score": 0.9628
   },
   {
    "title": "Determined Volunteer Rescues Lost Toddler in the Desert: \u2018She may not be our child, but she could be\u2019",
@@ -135,47 +255,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9849
+   "score": 0.9517
   },
   {
-   "title": "Danish top court\u2019s \u2018ghetto law\u2019 ruling supports hardline immigration policy",
-   "link": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9849
-  },
-  {
-   "title": "A geography teacher joked about closing a window before telling his class how many regions Russia has. He says someone reported him, likely over the video.",
-   "link": "https://meduza.io/en/feature/2026/11/23/a-geography-teacher-joked-about-closing-a-window-before-telling-his-class-how-many-regions-russia-has-he-says-someone-filed-a-complaint-against-him-likely-over-the-video",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9703
-  },
-  {
-   "title": "Man\u2019s Hope Is a Masterful Tableau of Spain\u2019s Civil War",
-   "link": "https://jacobin.com/2026/11/malraux-lespoir-spanish-civil-war",
-   "outlet": "Jacobin",
+   "title": "Mexico demands SpaceX clean up suspected rocket debris washing ashore near Texas",
+   "link": "https://feeds.texastribune.org/link/16799/17538489/spacex-rocket-debris-beach-texas-mexico",
+   "outlet": "Texas Tribune",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.97
+   "score": 0.9477
   },
   {
-   "title": "Metra Adds Another Holiday Train After Tickets Sold Out \u2018In Minutes\u2019",
-   "link": "https://blockclubchicago.org/2026/11/23/metra-adds-another-holiday-train-after-tickets-sold-out-in-minutes/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
+   "title": "Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?",
+   "link": "https://thediplomat.com/2026/11/can-the-china-russia-us-summit-turn-political-momentum-into-nuclear-risk-reduction/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9679
+   "score": 0.9476
   },
   {
    "title": "Serbia\u2019s Student Movement Criticises European Parliament\u2019s Vukovar Resolution",
@@ -185,27 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9625
-  },
-  {
-   "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
-   "link": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
-   "outlet": "Quanta Magazine",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9545
-  },
-  {
-   "title": "Mozambique: Nampula Targets 157,000 Tonnes of Fish Production in 2027",
-   "link": "https://allafrica.com/stories/202611230544.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9544
+   "score": 0.9305
   },
   {
    "title": "India a \u2018major power\u2019, ranked 3rd globally; Pakistan \u2018punched above its weight\u2019 in 2026, says study",
@@ -215,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9532
+   "score": 0.9217
   },
   {
    "title": "Sandiganbayan denies Marcoleta\u2019s bail | The wRap",
@@ -225,27 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9378
-  },
-  {
-   "title": "Measles is spreading in the U.S. What it means for California",
-   "link": "https://calmatters.org/newsletter/california-measles-outbreak/",
-   "outlet": "CalMatters",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9378
-  },
-  {
-   "title": "This sm\u01ddlqm\u00edx farmer\u2019s community garden is strengthening food sovereignty for future generations",
-   "link": "https://thenarwhal.ca/bc-lower-similkameen-community-garden-food-sovereignty/?utm_source=rss",
-   "outlet": "The Narwhal",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9266
+   "score": 0.9071
   },
   {
    "title": "AI\u2011enabled scientific research is a sharp double\u2011edged sword",
@@ -255,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9132
+   "score": 0.8837
   },
   {
    "title": "China says disappointed in COP31 deal failure but green transition \u2018irreversible\u2019",
@@ -265,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9116
+   "score": 0.8822
   },
   {
    "title": "New rules require Front Range lawn care companies to trim summer use of gas-powered equipment",
@@ -275,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9062
+   "score": 0.8771
   },
   {
    "title": "The catch in IBM\u2019s offer to relocate its U.S.-based immigrant workers",
@@ -285,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9048
+   "score": 0.8758
   },
   {
    "title": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
@@ -295,57 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9048
-  },
-  {
-   "title": "From pre-K to school funding, Texas Dems hope power shift gives education priorities momentum",
-   "link": "https://feeds.texastribune.org/link/16799/17538206/texas-democrats-education-priorities-school-funding",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9048
-  },
-  {
-   "title": "Climate Hope",
-   "link": "https://insideclimatenews.org/news/23112026/inside-climate-podcast-glimmers-of-hope/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8995
-  },
-  {
-   "title": "The world doesn\u2019t need solar or wind \u2014 it needs both",
-   "link": "https://grist.org/energy/the-world-doesnt-need-solar-or-wind-it-needs-solar-and-wind/",
-   "outlet": "Grist",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8916
-  },
-  {
-   "title": "Canada begins recruiting commissioners to review possible wrongful convictions",
-   "link": "https://www.aptnnews.ca/national-news/canada-begins-recruiting-commissioners-for-wrongful-conviction-review-body/",
-   "outlet": "APTN News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8839
-  },
-  {
-   "title": "The Case for BC Creating a Public Developer",
-   "link": "https://thetyee.ca/Analysis/2026/11/23/Case-BC-Public-Developer/",
-   "outlet": "The Tyee",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8804
+   "score": 0.8758
   },
   {
    "title": "The City That Kicked Out Cars Before It Was Cool",
@@ -355,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8737
+   "score": 0.8464
   },
   {
    "title": "Nigerien women lose their rights before ever reaching a courtroom",
@@ -365,47 +375,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8613
+   "score": 0.8345
   },
   {
-   "title": "Despite COP31\u2019s Disappointments, There Are Reasons to Be Optimistic About Climate Progress",
-   "link": "https://thediplomat.com/2026/11/despite-cop31s-disappointments-there-are-reasons-to-be-optimistic-about-climate-progress/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8609
-  },
-  {
-   "title": "Child Migrants Would Fare Better in Their Home Countries",
-   "link": "https://www.theamericanconservative.com/child-migrants-would-fare-better-in-their-home-countries/",
+   "title": "Why Neocons Hate Being Called Neocons",
+   "link": "https://www.theamericanconservative.com/why-neocons-hate-being-called-neocons/",
    "outlet": "The American Conservative",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8447
-  },
-  {
-   "title": "Bolsonaro \"clinically stable\" in intensive care with an intestinal obstruction",
-   "link": "https://en.mercopress.com/2026/11/23/bolsonaro-clinically-stable-in-intensive-care-with-an-intestinal-obstruction?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8375
-  },
-  {
-   "title": "How did the COP31 climate agreement fall apart \u2013 and what happens now?",
-   "link": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
-   "outlet": "The Conversation",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8251
+   "score": 0.8189
   },
   {
    "title": "NSF expansion a possibility: premier",
@@ -418,6 +398,16 @@
    "score": 0.8096
   },
   {
+   "title": "How did the COP31 climate agreement fall apart \u2013 and what happens now?",
+   "link": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
+   "outlet": "The Conversation",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8003
+  },
+  {
    "title": "Andy Burnham\u2019s EU delusion",
    "link": "https://unherd.com/2026/11/andy-burnhams-rejoin-delusion/?edition=us",
    "outlet": "UnHerd",
@@ -425,7 +415,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7995
+   "score": 0.776
   },
   {
    "title": "Bored of your holiday decorations? 6 ways to make old holiday decorations feel new",
@@ -435,177 +425,187 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7989
+   "score": 0.7755
   },
   {
-   "title": "2027 Politics Watch: Atiku\u2019s withdrawal denial, Tinubu\u2019s Lagos turnout push, SERAP\u2019s suit against INEC",
-   "link": "https://www.premiumtimesng.com/news/top-news/927454-2027-politics-watch-atikus-withdrawal-denial-tinubus-lagos-turnout-push-seraps-suit-against-inec.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9972
-  },
-  {
-   "title": "New modeling tool sheds light on how climate change could reshape marine ecosystems",
-   "link": "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html",
+   "title": "Data center policy review reveals 'chaotic' patchwork of rules across all 50 states",
+   "link": "https://phys.org/news/2026-11-center-policy-reveals-chaotic-patchwork.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9972
+   "score": 0.9977
   },
   {
-   "title": "China\u2019s mangroves have bounced back. Birds have returned too",
-   "link": "https://news.mongabay.com/short-article/2026/11/chinas-mangroves-have-bounced-back-birds-have-returned-too/",
-   "outlet": "Mongabay",
-   "region": "Global",
+   "title": "Brazil cuts its 2027 growth forecast to 1.8% and raises inflation to the top of its target",
+   "link": "https://en.mercopress.com/2026/11/23/brazil-cuts-its-2027-growth-forecast-to-1.8-and-raises-inflation-to-the-top-of-its-target?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9966
+   "score": 0.9957
   },
   {
-   "title": "US imposes new Iran-related sanctions",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-imposes-new-iran-related-sanctions",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9912
-  },
-  {
-   "title": "My New Book Chapter on How to Curb Dangerous Emergency Powers",
-   "link": "https://reason.com/volokh/2026/11/23/my-new-book-chapter-on-how-to-curb-dangerous-emergency-powers/",
-   "outlet": "Reason",
+   "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+   "link": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+   "outlet": "WIRED",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9864
+   "score": 0.9938
   },
   {
-   "title": "Russian war death toll likely near 700,000, media reports after studying leaked government data",
-   "link": "https://kyivindependent.com/russian-war-death-toll-likely-near-700-000-media-reports-after-studying-leaked-government-data/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
+   "title": "Action collective autoris\u00e9e contre la SQ pour discrimination envers les autochtones",
+   "link": "https://www.aptnnews.ca/reportages/action-collective-autorisee-contre-la-sq-pour-discrimination-envers-les-autochtones/",
+   "outlet": "APTN News",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9839
+   "score": 0.9918
   },
   {
-   "title": "Barnham\u2019s declaration of independence from broken-borders Britain",
-   "link": "https://www.spiked-online.com/2026/11/23/barnhams-declaration-of-independence-from-broken-borders-britain/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9818
-  },
-  {
-   "title": "Summit House/Prospect House in Hadley, Massachusetts",
-   "link": "https://www.atlasobscura.com/places/summit-house-prospect-house",
-   "outlet": "Atlas Obscura",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9727
-  },
-  {
-   "title": "AGRICULTURAL SECTOR OP-ED: SA\u2019s citrus and table grape exports face port and weather risks in 2027",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-23-sas-citrus-and-table-grape-exports-face-port-and-weather-risks-in-2027/",
+   "title": "PATRONAGE SCHEME?: Inside the Patriotic Alliance\u2019s \u2018cadre deployment\u2019 network",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-23-inside-the-patriotic-alliances-cadre-deployment-network/",
    "outlet": "Daily Maverick",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9704
+   "score": 0.991
   },
   {
-   "title": "European Commission proposes denying visas to Russians who fought in war against Ukraine",
-   "link": "https://meduza.io/en/news/2026/11/23/european-commission-proposes-denying-visas-to-russians-who-fought-in-war-against-ukraine",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
+   "title": "Jared Kushner says Israel becoming 'global-pariah state'",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jared-kushner-says-israel-becoming-global-pariah-state",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.97
+   "score": 0.9908
   },
   {
-   "title": "Russia warns Ukraine of \u2018dangerous trend\u2019 after Libya and Baltic attacks",
-   "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+   "title": "US drug prices leave patients facing impossible choices",
+   "link": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
    "outlet": "Al Jazeera",
    "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9655
+   "score": 0.9878
   },
   {
-   "title": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
-   "link": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9617
-  },
-  {
-   "title": "A Global Socialism Built on Shared Prosperity",
-   "link": "https://jacobin.com/2026/11/piketty-global-justice-growth-prosperity-climate",
-   "outlet": "Jacobin",
+   "title": "Miles de familias californianas con estatus migratorio mixto perder\u00e1n sus viviendas bajo nueva norma del gobierno de Trump",
+   "link": "https://calmatters.org/calmatters-en-espanol/2026/11/familias-californianas-estatus-migratorio-mixto-viviendas-hud/",
+   "outlet": "CalMatters",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9545
+   "score": 0.987
   },
   {
-   "title": "Bosnia\u2019s Dodik Gathers Votes, Seeking Veto Over State Policy",
-   "link": "https://balkaninsight.com/2026/11/23/bosnias-dodik-gathers-votes-seeking-veto-over-state-policy/bi/",
-   "outlet": "Balkan Insight",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9543
-  },
-  {
-   "title": "Africa: Health Financing Top of Agenda As African Leaders Meet in Addis",
-   "link": "https://allafrica.com/stories/202611230542.html",
-   "outlet": "AllAfrica",
+   "title": "2027: Tinubu meets with Igbo leaders, traders in Lagos",
+   "link": "https://www.premiumtimesng.com/news/top-news/927518-2027-tinubu-meets-with-igbo-leaders-traders-in-lagos.html",
+   "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9541
+   "score": 0.9869
   },
   {
-   "title": "Tove Jansson\u2019s illustrations for \u2018The Hobbit\u2019 capture the \u2018ecstatic truth\u2019 of childhood",
-   "link": "https://scroll.in/article/1097104/tove-janssons-illustrations-for-the-hobbit-capture-the-ecstatic-truth-of-childhood?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9492
-  },
-  {
-   "title": "City\u2019s Largest Tent Encampment In Uptown Park Sparks Calls From Neighbors To Assist Unhoused",
-   "link": "https://blockclubchicago.org/2026/11/23/citys-largest-tent-encampment-at-margate-park-sparks-calls-from-neighbors-to-assist-unhoused/",
+   "title": "Sit Down Cafe Closing This Week In Hyde Park Following Building Sale, Rent Hike",
+   "link": "https://blockclubchicago.org/2026/11/23/sit-down-cafe-closing-this-week-in-hyde-park-following-building-sale-rent-hike/",
    "outlet": "Block Club Chicago",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9492
+   "score": 0.9852
+  },
+  {
+   "title": "Farmacias Guadalajara, the national drugstore chain, introduces robot technology in its customer service",
+   "link": "https://mexiconewsdaily.com/news/farmacias-guadalajara-robot-technology/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9836
+  },
+  {
+   "title": "Trump's Legal Rationales for Prosecuting Congressional Investigators Range From Vague to Implausible",
+   "link": "https://reason.com/2026/11/23/trumps-legal-rationales-for-prosecuting-congressional-investigators-range-from-vague-to-implausible/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9813
+  },
+  {
+   "title": "Russia detains Murmansk region Governor Andrey Chibis on suspicion of embezzlement",
+   "link": "https://meduza.io/en/news/2026/11/23/russia-detains-murmansk-region-governor-andrey-chibis-on-suspicion-of-embezzlement",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9773
+  },
+  {
+   "title": "TC Energy says Alberta\u2019s gas pipeline plans could create \u2018negative consequences for Albertans\u2019 and \u2018significant market instability\u2019",
+   "link": "https://thenarwhal.ca/alberta-tc-energy-letter-danielle-smith-2026/?utm_source=rss",
+   "outlet": "The Narwhal",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9697
+  },
+  {
+   "title": "Stella Lefty: Data Center Music",
+   "link": "https://jacobin.com/2026/11/stella-lefty-billionaire-music-class",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9694
+  },
+  {
+   "title": "Vodafone Ukraine to use US financing for early repayment of international bonds",
+   "link": "https://kyivindependent.com/vodafone-ukraine-to-use-us-financing-for-early-repayment-of-international-bonds/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9678
+  },
+  {
+   "title": "Longer droughts threaten floating health clinics as Amazon streams run dry",
+   "link": "https://news.mongabay.com/2026/11/longer-droughts-dry-amazon-waterways-and-threaten-floating-health-clinics/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9635
+  },
+  {
+   "title": "Indianola in Port Lavaca, Texas",
+   "link": "https://www.atlasobscura.com/places/indianola",
+   "outlet": "Atlas Obscura",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9634
   }
  ]
 }
