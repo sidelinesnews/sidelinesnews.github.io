@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Five Stars</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="star" viewBox="0 0 24 24"><path d="M12 1.8l3.1 6.6 7.2.9-5.3 5 1.4 7.1L12 17.9l-6.4 3.5L7 14.3 1.7 9.3l7.2-.9z"/></symbol>
+  <symbol id="tick" viewBox="0 0 24 24"><path d="M4.5 12.5l5 5 10-11" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+</svg>
+<main>
+  <!-- Language anchors: index.html#fr opens in French. Checkboxes: up here so ~ can reach everything below. -->
+  <a id="en" class="anchor"></a><a id="fr" class="anchor"></a>
+  <input class="cb" type="checkbox" id="m1">
+  <input class="cb" type="checkbox" id="m2">
+  <input class="cb" type="checkbox" id="m3">
+  <input class="cb" type="checkbox" id="m4">
+  <input class="cb" type="checkbox" id="m5">
+
+  <nav class="topbar">
+    <span class="lang"><span class="t-en"><a href="#fr" lang="fr">Français</a></span><span class="t-fr"><a href="#en" lang="en">English</a></span></span>
+  </nav>
+
+  <section class="hud hud-top">
+    <div class="mono paused">▮▮ <span class="t-en">Game paused</span><span class="t-fr" lang="fr">Jeu en pause</span></div>
+  </section>
+
+  <div class="starbar"><div class="stars" aria-hidden="true">
+      <svg class="s1" viewBox="0 0 24 24"><use href="#star"/></svg><svg class="s2" viewBox="0 0 24 24"><use href="#star"/></svg><svg class="s3" viewBox="0 0 24 24"><use href="#star"/></svg><svg class="s4" viewBox="0 0 24 24"><use href="#star"/></svg><svg class="s5" viewBox="0 0 24 24"><use href="#star"/></svg>
+    </div></div>
+
+  <section class="hud">
+    <div class="mono wl"><span class="t-en">Wanted level</span><span class="t-fr" lang="fr">Niveau de recherche</span></div>
+    <div class="b-en">
+      <h1>Your wanted level online is always five stars. You just can't see it.</h1>
+      <p class="lede">In the game, the cops find you by your trail: your car, your clothes, where you were last seen. Online it's the same. Five trails, five stars. Clear a mission, lose a star.</p>
+      <p class="side-link"><a href="parents.html">Parent? Your side's here →</a></p>
+    </div>
+    <div class="b-fr" lang="fr-CA">
+      <h1>En ligne, ton niveau de recherche est toujours à cinq étoiles. Tu ne le vois juste pas.</h1>
+      <p class="lede">Dans le jeu, la police te retrouve grâce à tes traces : ton auto, tes vêtements, l'endroit où on t'a vu la dernière fois. En ligne, c'est pareil. Cinq traces, cinq étoiles. Réussis une mission, perds une étoile.</p>
+      <p class="side-link"><a href="parents.html#fr">Vous êtes parent? C'est par ici →</a></p>
+    </div>
+  </section>
+
+  <section class="card" aria-label="Missions">
+    <header><span class="mono">Missions</span><span class="t-en">Tick them yourself. Nothing is scanned.</span><span class="t-fr" lang="fr">Coche-les toi-même. Rien n'est scanné.</span></header>
+    <div class="b-en"><p class="why"><b>The one rule behind every star:</b> sharing isn't the problem. Trouble starts when something that's fine in one place ends up somewhere it was never meant to go. You don't have to go silent. Keep each thing in its own room.</p></div>
+    <div class="b-fr" lang="fr-CA"><p class="why"><b>La règle derrière chaque étoile :</b> partager, ce n'est pas le problème. Le trouble commence quand quelque chose qui est correct à un endroit se retrouve là où ce n'était jamais censé aller. Pas besoin de te taire. Garde chaque chose dans sa pièce.</p></div>
+    <ol class="missions">
+      <li class="m m1">
+        <label class="head" for="m1"><span class="box"><svg viewBox="0 0 24 24"><use href="#tick"/></svg></span><span class="tag mono"><span class="t-en">Star 1</span><span class="t-fr">Étoile 1</span></span><span class="title"><span class="t-en">Your location</span><span class="t-fr" lang="fr">Ta position</span></span></label>
+        <div class="body b-en">
+          <p><b class="trail">The trail:</b> your phone tells apps where you are, and your photos can carry the exact spot they were taken.</p>
+          <p class="lose">Lose the star:</p>
+          <ul>
+            <li>In your phone's privacy or location settings, set apps that don't need it to <i>Never</i> or <i>While using</i>.</li>
+            <li>In your camera settings, turn off saving location in photos.</li>
+            <li>Still post the trip. Just post it after you've left.</li>
+          </ul>
+          <p class="rule">Same info. Wrong time.</p>
+        </div>
+        <div class="body b-fr" lang="fr-CA">
+          <p><b class="trail">La trace :</b> ton téléphone dit aux applis où tu es, et tes photos peuvent garder l'endroit exact où elles ont été prises.</p>
+          <p class="lose">Perds l'étoile :</p>
+          <ul>
+            <li>Dans les réglages de confidentialité ou de localisation, mets les applis qui n'en ont pas besoin à <i>Jamais</i> ou <i>Pendant l'utilisation</i>.</li>
+            <li>Dans les réglages de l'appareil photo, désactive l'enregistrement de la position.</li>
+            <li>Publie quand même ta sortie. Juste après être parti.</li>
+          </ul>
+          <p class="rule">Même info. Mauvais moment.</p>
+        </div>
+      </li>
+      <li class="m m2">
+        <label class="head" for="m2"><span class="box"><svg viewBox="0 0 24 24"><use href="#tick"/></svg></span><span class="tag mono"><span class="t-en">Star 2</span><span class="t-fr">Étoile 2</span></span><span class="title"><span class="t-en">Your username</span><span class="t-fr" lang="fr">Ton nom d'utilisateur</span></span></label>
+        <div class="body b-en">
+          <p><b class="trail">The trail:</b> the same name everywhere links your gaming, school and social accounts into one profile.</p>
+          <p class="lose">Lose the star:</p>
+          <ul>
+            <li>Use a different name in different places.</li>
+            <li>Keep your gamer tag separate from your real name.</li>
+            <li>Have a "game you" and a "school you". Both are you. They just don't need to meet.</li>
+          </ul>
+          <p class="rule">Same info. Wrong room.</p>
+        </div>
+        <div class="body b-fr" lang="fr-CA">
+          <p><b class="trail">La trace :</b> le même nom partout relie tes comptes de jeu, d'école et de réseaux sociaux en un seul profil.</p>
+          <p class="lose">Perds l'étoile :</p>
+          <ul>
+            <li>Utilise un nom différent selon l'endroit.</li>
+            <li>Garde ton gamertag séparé de ton vrai nom.</li>
+            <li>Aie un « toi du jeu » et un « toi de l'école ». Les deux, c'est toi. Ils n'ont juste pas besoin de se rencontrer.</li>
+          </ul>
+          <p class="rule">Même info. Mauvaise pièce.</p>
+        </div>
+      </li>
+      <li class="m m3">
+        <label class="head" for="m3"><span class="box"><svg viewBox="0 0 24 24"><use href="#tick"/></svg></span><span class="tag mono"><span class="t-en">Star 3</span><span class="t-fr">Étoile 3</span></span><span class="title"><span class="t-en">Your face</span><span class="t-fr" lang="fr">Ton visage</span></span></label>
+        <div class="body b-en">
+          <p><b class="trail">The trail:</b> face-search tools can match photos of you across the internet, and the background can give away your school or your street.</p>
+          <p class="lose">Lose the star:</p>
+          <ul>
+            <li>Post your face for your friends, not the whole world: a private account or a close-friends list.</li>
+            <li>Check the background before you post: school logos, street signs, house numbers.</li>
+            <li>Your profile picture doesn't have to be your face.</li>
+          </ul>
+          <p class="rule">Same photo. Wrong crowd.</p>
+        </div>
+        <div class="body b-fr" lang="fr-CA">
+          <p><b class="trail">La trace :</b> des outils de recherche faciale peuvent retrouver tes photos partout sur Internet, et l'arrière-plan peut révéler ton école ou ta rue.</p>
+          <p class="lose">Perds l'étoile :</p>
+          <ul>
+            <li>Montre ton visage à tes amis, pas au monde entier : un compte privé ou une liste d'amis proches.</li>
+            <li>Vérifie l'arrière-plan avant de publier : logo d'école, panneaux de rue, numéros de maison.</li>
+            <li>Ta photo de profil n'a pas besoin d'être ton visage.</li>
+          </ul>
+          <p class="rule">Même photo. Mauvaise gang.</p>
+        </div>
+      </li>
+      <li class="m m4">
+        <label class="head" for="m4"><span class="box"><svg viewBox="0 0 24 24"><use href="#tick"/></svg></span><span class="tag mono"><span class="t-en">Star 4</span><span class="t-fr">Étoile 4</span></span><span class="title"><span class="t-en">Your logins</span><span class="t-fr" lang="fr">Tes connexions</span></span></label>
+        <div class="body b-en">
+          <p><b class="trail">The trail:</b> one password everywhere, or "Log in with Google" on everything, ties all your accounts together. One leak and every door opens.</p>
+          <p class="lose">Lose the star:</p>
+          <ul>
+            <li>Let a password manager do the remembering, so every site gets its own password.</li>
+            <li>Turn on two-step login, starting with your email. Your email can reset everything else.</li>
+          </ul>
+          <p class="rule">One key. Every door.</p>
+        </div>
+        <div class="body b-fr" lang="fr-CA">
+          <p><b class="trail">La trace :</b> un seul mot de passe partout, ou « Se connecter avec Google » pour tout, relie tous tes comptes ensemble. Une fuite, et toutes les portes s'ouvrent.</p>
+          <p class="lose">Perds l'étoile :</p>
+          <ul>
+            <li>Laisse un gestionnaire de mots de passe s'en souvenir, pour que chaque site ait son propre mot de passe.</li>
+            <li>Active la connexion en deux étapes, en commençant par ton courriel. Ton courriel peut réinitialiser tout le reste.</li>
+          </ul>
+          <p class="rule">Une clé. Toutes les portes.</p>
+        </div>
+      </li>
+      <li class="m m5">
+        <label class="head" for="m5"><span class="box"><svg viewBox="0 0 24 24"><use href="#tick"/></svg></span><span class="tag mono"><span class="t-en">Star 5</span><span class="t-fr">Étoile 5</span></span><span class="title"><span class="t-en">Your friends</span><span class="t-fr" lang="fr">Tes amis</span></span></label>
+        <div class="body b-en">
+          <p><b class="trail">The trail:</b> you can be careful and still show up in a friend's post, tag or screenshot of the group chat.</p>
+          <p class="lose">Lose the star:</p>
+          <ul>
+            <li>Set tags so they need your OK before they show up.</li>
+            <li>Make "ask before you post me" a crew rule, and follow it for them too.</li>
+            <li>What's said in the group chat stays in the group chat.</li>
+          </ul>
+          <p class="rule">Your info. Their post.</p>
+        </div>
+        <div class="body b-fr" lang="fr-CA">
+          <p><b class="trail">La trace :</b> tu peux faire attention et quand même apparaître dans la publication d'un ami, une identification ou une capture d'écran de la conversation de groupe.</p>
+          <p class="lose">Perds l'étoile :</p>
+          <ul>
+            <li>Règle les identifications pour qu'elles aient besoin de ton OK avant d'apparaître.</li>
+            <li>Fais de « demande avant de me publier » une règle de ta gang, et respecte-la pour eux aussi.</li>
+            <li>Ce qui se dit dans la conversation de groupe reste dans la conversation de groupe.</li>
+          </ul>
+          <p class="rule">Ton info. Leur publication.</p>
+        </div>
+      </li>
+    </ol>
+    <div class="tally" aria-hidden="true"><span class="t-en">Stars cleared: </span><span class="t-fr">Étoiles effacées : </span><span class="n"></span><span class="t-en"> of 5</span><span class="t-fr"> sur 5</span></div>
+  </section>
+
+  <section class="end" aria-live="polite">
+    <div class="b-en">
+      <div class="mono" style="color:var(--green)">Mission complete</div>
+      <h2>Wanted level: zero. They lost the trail.</h2>
+      <p>You didn't go silent. You went smart. Keep posting, gaming and sharing. Just keep each thing in its own room.</p>
+      <p class="mute">Teach a friend. Every player who covers their trail makes the whole crew harder to track.</p>
+    </div>
+    <div class="b-fr" lang="fr-CA">
+      <div class="mono" style="color:var(--green)">Mission accomplie</div>
+      <h2>Niveau de recherche : zéro. Ils ont perdu ta trace.</h2>
+      <p>Tu n'as pas disparu. Tu as été futé. Continue de publier, de jouer et de partager. Garde juste chaque chose dans sa pièce.</p>
+      <p class="mute">Montre ça à un ami. Chaque joueur qui couvre ses traces rend toute la gang plus difficile à suivre.</p>
+    </div>
+  </section>
+
+  <section class="box2 help" aria-label="Get help">
+    <div class="b-en">
+      <div class="mono">Already happened?</div>
+      <h2>It's not your fault, and you're not in trouble</h2>
+      <p>If something online is scaring you, or someone is pressuring you, tell an adult you trust. Or reach Kids Help Phone. It's free, any time, day or night.</p>
+      <p class="big">Text CONNECT to 686868 · Call 1-800-668-6868</p>
+    </div>
+    <div class="b-fr" lang="fr-CA">
+      <div class="mono">C'est déjà arrivé?</div>
+      <h2>Ce n'est pas ta faute, et tu n'es pas dans le trouble</h2>
+      <p>Si quelque chose en ligne te fait peur, ou si quelqu'un te met de la pression, parles-en à un adulte de confiance. Ou contacte Jeunesse, J'écoute. C'est gratuit, jour et nuit.</p>
+      <p class="big">Texte PARLER au 686868 · Appelle au 1 800 668-6868</p>
+    </div>
+  </section>
+
+  <section class="box2 seal" aria-label="Spot a fake copy">
+    <div class="b-en">
+      <div class="mono">Tamper check</div>
+      <h2>Is this the real one?</h2>
+      <p>This page is free for anyone to copy. Most people who copy it mean well. Some won't. The real one never changes these rules, so if any of them is broken, you're looking at a <b>compromised copy</b>. Close it.</p>
+      <ul>
+        <li>The real one has <b>no ads</b> and <b>no pop-ups</b>.</li>
+        <li>The real one <b>never asks you for anything</b>: no login, no email, no name, no "scan your account", no app to download.</li>
+        <li>The real address is <b>wantedlevelca.github.io</b>. Check the address bar, especially after scanning a QR code. Fake codes get stuck over real ones.</li>
+      </ul>
+      <p class="mute">A fake that asks for your info is a trail all by itself. Spotting it is a sixth mission.</p>
+    </div>
+    <div class="b-fr" lang="fr-CA">
+      <div class="mono">Vérif anti-copie</div>
+      <h2>Est-ce le vrai site?</h2>
+      <p>N'importe qui peut copier cette page gratuitement. La plupart des gens qui la copient ont de bonnes intentions. Pas tous. Le vrai site ne change jamais ces règles. Si une seule est brisée, tu regardes une <b>copie compromise</b>. Ferme-la.</p>
+      <ul>
+        <li>Le vrai n'a <b>pas de pubs</b> ni de <b>fenêtres surgissantes</b>.</li>
+        <li>Le vrai ne te <b>demande jamais rien</b> : pas de connexion, pas de courriel, pas de nom, pas de « scanne ton compte », pas d'appli à télécharger.</li>
+        <li>La vraie adresse est <b>wantedlevelca.github.io</b>. Vérifie la barre d'adresse, surtout après avoir scanné un code QR. Des faux codes sont parfois collés par-dessus les vrais.</li>
+      </ul>
+      <p class="mute">Une fausse page qui demande tes infos, c'est une trace à elle seule. La repérer, c'est une sixième mission.</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="b-en">
+      <p>No tracking. No ads. No scripts. Your ticks stay on this page and vanish when you close it.</p>
+      <p><b>Don't trust us. Check us.</b> Not a company. Not the government. Every line of this site is public. <a href="https://github.com/wantedlevelca/wantedlevelca.github.io">Read it on GitHub.</a></p>
+    </div>
+    <div class="b-fr" lang="fr-CA">
+      <p>Aucun pistage. Aucune pub. Aucun script. Tes coches restent sur cette page et disparaissent quand tu la fermes.</p>
+      <p><b>Ne nous croyez pas sur parole. Vérifiez.</b> Pas une compagnie. Pas le gouvernement. Chaque ligne de ce site est publique. <a href="https://github.com/wantedlevelca/wantedlevelca.github.io">Lisez-la sur GitHub.</a></p>
+    </div>
+  </footer>
+</main>
+</body>
+</html>
