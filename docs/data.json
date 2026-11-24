@@ -1,101 +1,161 @@
 {
- "updated": "2026-11-24T04:12:16.289244+00:00",
+ "updated": "2026-11-24T07:32:45.734436+00:00",
  "meter": {
-  "outlets": 43,
+  "outlets": 41,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "2027: APC will lose Delta State to NDC \u2013 Omo-Agege",
-   "link": "https://www.premiumtimesng.com/news/top-news/927537-2027-apc-will-lose-delta-state-to-ndc-omo-agege.html",
+   "title": "Kenya: KEBS Sets Jan 2027 Deadline for Importation of Used Cars, Bars Vehicles Registered Before 2020",
+   "link": "https://allafrica.com/stories/202611240195.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9994
+  },
+  {
+   "title": "General Staff: Russia has lost 1,641,489 troops in Ukraine since Feb. 24, 2022",
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-641-489-troops-in-ukraine-since-feb-24-2022/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9968
+  },
+  {
+   "title": "Gunmen kill two soldiers, civilian in Taraba border community",
+   "link": "https://www.premiumtimesng.com/news/top-news/927557-gunmen-kill-two-soldiers-civilian-in-taraba-border-community.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9989
+   "score": 0.996
   },
   {
-   "title": "[Vantage Point] Boardroom gymnastics, retail stakes: Unpacking the Rockwell deal",
-   "link": "https://www.rappler.com/voices/newsletters/vantage-point-unpacking-rockwell-deal/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
+   "title": "Member states must not betray the ICC",
+   "link": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9974
+   "score": 0.996
   },
   {
-   "title": "Watch: Three people killed in Israeli strike near police outpost in Gaza\u2019s Khan Younis",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-three-people-killed-israeli-strike-near-police-outpost-gazas-khan",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
+   "title": "Ex-OpenAI engineer vibecoded better bugs to record meetings \u2013 court filing",
+   "link": "https://www.rappler.com/technology/openai-engineer-abdulrahman-alfozan-vibecode-recording-devices-filing/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
    "score": 0.9954
   },
   {
-   "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
-   "link": "https://phys.org/news/2026-11-workplace-absenteeism-temporary-disability-expense.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9933
-  },
-  {
-   "title": "CJP\u2019s Saurav Das alleges he was stopped at Delhi airport from travelling to UK",
-   "link": "https://scroll.in/latest/1097267/cjps-saurav-das-alleges-he-was-stopped-at-delhi-airport-from-travelling-to-uk?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9925
-  },
-  {
-   "title": "Yuan strength is changing the math on dollar holdings",
-   "link": "https://asiatimes.com/2026/11/yuan-strength-is-changing-the-math-on-dollar-holdings/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9874
-  },
-  {
-   "title": "Second Amendment Roundup, II: Much Ado About Bowie Knives",
-   "link": "https://reason.com/volokh/2026/11/23/second-amendment-roundup-ii-much-ado-about-bowie-knives/",
+   "title": "Setting the Record Straight On Senator Cornyn And The N.D. Tex. Seat",
+   "link": "https://reason.com/volokh/2026/11/24/setting-the-record-straight-on-senator-cornyn-and-the-n-d-tex-seat/",
    "outlet": "Reason",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9874
+   "score": 0.995
   },
   {
-   "title": "Excavator threatens sacred alpine lake in the Himalayas",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "Indonesian Borneo\u2019s forests go quiet as smoke silences gibbons. Their singing matter",
+   "link": "https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9926
+  },
+  {
+   "title": "After \u2018Propaganda\u2019 Ban, Bulgarian LGBT Pupils Report Greater Insecurity",
+   "link": "https://balkaninsight.com/2026/11/24/after-propaganda-ban-bulgarian-lgbt-pupils-report-greater-insecurity/bi/",
+   "outlet": "Balkan Insight",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9908
+  },
+  {
+   "title": "Japan wants a bigger say in where its $550 billion goes in the US",
+   "link": "https://asiatimes.com/2026/11/japan-wants-a-bigger-say-in-where-its-550-billion-goes-in-the-us/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9881
+  },
+  {
+   "title": "Saharanpur mosque demolition: SC refuses plea alleging violation of its \u2018bulldozer justice\u2019 order",
+   "link": "https://scroll.in/latest/1097270/saharanpur-mosque-demolition-sc-refuses-plea-alleging-violation-of-its-bulldozer-justice-order?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9855
+  },
+  {
+   "title": "The Spanish government has lost control of its borders",
+   "link": "https://www.spiked-online.com/2026/11/24/the-spanish-government-has-lost-control-its-borders/",
+   "outlet": "Spiked",
+   "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
    "score": 0.9801
   },
   {
-   "title": "Explosion, fire reported after drone crashes in Transnistria",
-   "link": "https://kyivindependent.com/explosion-fire-reported-after-drone-crashes-in-transnistria/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
+   "title": "MEMOIR EXCERPT: A Change of Pace \u2014 Adriaan Wildschutt\u2019s journey from dirt roads to Olympic track",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-24-a-change-of-pace-memoir-of-sa-distance-runner-and-olympian-adriaan-wildschutt/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9794
+   "score": 0.9749
+  },
+  {
+   "title": "Hong Kong government rules out official Tai Po fire memorial, announces HK$630 million in new victim grants",
+   "link": "https://hongkongfp.com/2026/11/24/hong-kong-government-rules-out-official-tai-po-fire-memorial-announces-hk630-million-in-new-victim-grants/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9704
+  },
+  {
+   "title": "Why Iran Hawks Are Now Hyping \u2018Radical Shiite\u2019 Threats",
+   "link": "https://www.theamericanconservative.com/why-iran-hawks-are-now-hyping-radical-shiite-threats/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9699
+  },
+  {
+   "title": "Funding must work better for SMEs to tackle energy challenges, finds research",
+   "link": "https://phys.org/news/2026-11-funding-smes-tackle-energy.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.961
   },
   {
    "title": "Texas Supreme Court dismisses challenge to abortion restrictions",
@@ -105,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9509
+   "score": 0.9135
   },
   {
    "title": "Bond and the curse of the British Empire",
@@ -115,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9504
+   "score": 0.913
   },
   {
    "title": "Fall hunger is real: four reasons your appetite changes with the season",
@@ -125,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9496
+   "score": 0.9123
   },
   {
    "title": "NSF expansion a possibility: premier",
@@ -135,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9495
+   "score": 0.9121
   },
   {
    "title": "While at APEC, President Sheinbaum took a moment to center her qi",
@@ -145,17 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9479
-  },
-  {
-   "title": "Tai Po fire: Wang Fuk Court residents who sold titles excluded from third owners\u2019 meeting next month",
-   "link": "https://hongkongfp.com/2026/11/24/tai-po-fire-wang-fuk-court-residents-who-sold-titles-excluded-from-third-owners-meeting-next-month/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9466
+   "score": 0.9107
   },
   {
    "title": "Regional leaders say future of Aurora College campuses remains unclear",
@@ -165,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9405
+   "score": 0.9037
   },
   {
    "title": "An Alabama Pipeline Exploded. Its Owner Is Fighting To Expand It.",
@@ -175,17 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9401
-  },
-  {
-   "title": "ANALYSIS: Honor sponsorship of Stormers shows that rugby\u2019s a game of phones",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-23-honor-sponsorship-of-stormers-shows-that-rugbys-a-game-of-phones/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9373
+   "score": 0.9034
   },
   {
    "title": "Estonia\u2019s interior minister suggests petitioning Putin to end war in Ukraine after Narva resident launches petition to keep border with Russia open for family visits",
@@ -195,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9348
+   "score": 0.8983
   },
   {
    "title": "Pneumonia complicates Jair Bolsonaro's hospital stay in Bras\u00edlia",
@@ -205,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9285
+   "score": 0.8924
   },
   {
    "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
@@ -215,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9269
+   "score": 0.891
   },
   {
    "title": "Far North Side Park Officially Renamed Edgewater Prairie Park After Neighbor-Led Restoration",
@@ -225,17 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9237
-  },
-  {
-   "title": "Africa: In Tokyo, Dr Sidi Ould Tah Calls On Japanese Companies to Invest More in Local Value Addition to African Resources",
-   "link": "https://allafrica.com/stories/202611230776.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.922
+   "score": 0.8879
   },
   {
    "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
@@ -245,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9215
+   "score": 0.8859
   },
   {
    "title": "How COP31 became climate diplomacy\u2019s \u2018darkest moment\u2019",
@@ -255,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9184
+   "score": 0.883
   },
   {
    "title": "Alberta tables legislation to enable government control of natural gas system",
@@ -265,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9161
+   "score": 0.8808
   },
   {
    "title": "California sues to block Trump rule denying aid to families with mixed immigration statuses",
@@ -275,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9159
+   "score": 0.8806
   },
   {
    "title": "\u2018El Vagamundos\u2019 in Madrid, Spain",
@@ -285,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9158
+   "score": 0.8806
   },
   {
    "title": "Billy Evans\u2019s You Can See Everything Deal Is the Real Story",
@@ -295,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9133
+   "score": 0.8782
   },
   {
    "title": "Please Advise! Did Jeff Bezos Pick the Right James Bond?",
@@ -305,27 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9129
-  },
-  {
-   "title": "\u2018Diversity bollards\u2019 are putting the frighteners on the festive season",
-   "link": "https://www.spiked-online.com/2026/11/23/diversity-bollards-are-putting-the-frighteners-on-the-festive-season/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9042
-  },
-  {
-   "title": "Mongabay Kids launches Wild Guardians: A free education initiative to engage children with nature",
-   "link": "https://news.mongabay.com/short-article/2026/11/mongabay-kids-launches-wild-guardians-a-free-education-initiative-to-engage-children-with-nature/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8983
+   "score": 0.8778
   },
   {
    "title": "PNG\u2019s parliament is voting on ratifying Bougainville independence. A \u2018no\u2019 won\u2019t be the end of the story",
@@ -335,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8976
+   "score": 0.8635
   },
   {
    "title": "Private Prison Told ICE Its Jail Was Worth $67 Million. ICE Bought It for Nearly Half a Billion.",
@@ -345,27 +355,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8939
+   "score": 0.86
   },
   {
-   "title": "Tajikistan Is Leaving the ICC",
-   "link": "https://thediplomat.com/2026/11/tajikistan-is-leaving-the-icc/",
+   "title": "Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?",
+   "link": "https://thediplomat.com/2026/11/can-the-china-russia-us-summit-turn-political-momentum-into-nuclear-risk-reduction/",
    "outlet": "The Diplomat",
    "region": "Asia-Pacific",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8889
-  },
-  {
-   "title": "Serbia\u2019s Student Movement Criticises European Parliament\u2019s Vukovar Resolution",
-   "link": "https://balkaninsight.com/2026/11/23/serbias-student-movement-criticises-european-parliaments-vukovar-resolution/bi/",
-   "outlet": "Balkan Insight",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8653
+   "score": 0.8474
   },
   {
    "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
@@ -375,17 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8585
-  },
-  {
-   "title": "Iran War Day 269: Tehran Says Will Use \u2018All Available Means\u2019 to Break Blockade",
-   "link": "https://www.theamericanconservative.com/tehran-says-will-use-all-available-means-to-break-blockade/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8557
+   "score": 0.8268
   },
   {
    "title": "New rules require Front Range lawn care companies to trim summer use of gas-powered equipment",
@@ -395,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8179
+   "score": 0.7888
   },
   {
    "title": "The catch in IBM\u2019s offer to relocate its U.S.-based immigrant workers",
@@ -405,7 +395,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8167
+   "score": 0.7876
   },
   {
    "title": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
@@ -415,7 +405,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8167
+   "score": 0.7876
   },
   {
    "title": "The City That Kicked Out Cars Before It Was Cool",
@@ -425,77 +415,147 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7906
+   "score": 0.7631
   },
   {
-   "title": "Nigerien women lose their rights before ever reaching a courtroom",
-   "link": "https://globalvoices.org/2026/11/23/nigerien-women-lose-their-rights-before-ever-reaching-a-courtroom/",
-   "outlet": "Global Voices",
-   "region": "Global",
+   "title": "Nigeria: Omo Agege Attack - 'Enough Is Enough', Arrest, Prosecute Perpetrators - Keyamo Tells Police",
+   "link": "https://allafrica.com/stories/202611240196.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7801
+   "score": 0.9994
   },
   {
-   "title": "New light-conversion tool could help speed up quantum computing",
-   "link": "https://phys.org/news/2026-11-conversion-tool-quantum.html",
-   "outlet": "Phys.org",
-   "region": "Global",
+   "title": "Police \u200c\u200cdetain man for alleged unlawful possession of firearm",
+   "link": "https://www.premiumtimesng.com/regional/ssouth-east/927554-police-%e2%81%a0%e2%81%a0%e2%81%a0detain-man-for-alleged-unlawful-possession-of-fir.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9892
+   "score": 0.9947
   },
   {
-   "title": "Cochin history: How the medieval royal dynasty, Perumpadappu Swaroopam, came into being",
-   "link": "https://scroll.in/article/1097223/cochin-history-how-the-medieval-royal-dynasty-perumpadappu-swaroopam-came-into-being?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9851
-  },
-  {
-   "title": "Order in the Court: Supreme Court\u2019s good news for seafarers",
-   "link": "https://www.rappler.com/philippines/order-in-the-court-supreme-court-ruling-magna-carta-seafarers/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9796
-  },
-  {
-   "title": "UN chief calls for world to agree on AI oversight within a year",
-   "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+   "title": "Australia warns tech giants of multibillion-dollar fines for online \u2018harm\u2019",
+   "link": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
    "outlet": "Al Jazeera",
    "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9785
+   "score": 0.9938
   },
   {
-   "title": "Israeli army storms Syrian village",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
+   "title": "Serbia\u2019s New Leadership Won\u2019t Transform Old Policy on Kosovo",
+   "link": "https://balkaninsight.com/2026/11/24/serbias-new-leadership-wont-transform-old-policy-on-kosovo/bi/",
+   "outlet": "Balkan Insight",
+   "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9763
+   "score": 0.9906
   },
   {
-   "title": "Russian unmanned aerial vehicle violates Polish airspace days after missile incursion",
-   "link": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/",
+   "title": "Who is Angel Ignacio, new Maharlika Investment president and CEO?",
+   "link": "https://www.rappler.com/people/who-is-angel-ignacio-new-maharlika-investment-president-ceo/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9904
+  },
+  {
+   "title": "Bush dogs are very rare. You\u2019re 100x more likely to see a jaguar",
+   "link": "https://news.mongabay.com/short-article/2026/11/bush-dogs-are-very-rare-youre-100x-more-likely-to-see-a-jaguar/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9827
+  },
+  {
+   "title": "The Antisemitism Smear Is Wearing Thin",
+   "link": "https://www.theamericanconservative.com/the-antisemitism-smear-is-wearing-thin/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9691
+  },
+  {
+   "title": "Exclusive: Freshly made European, American components found in Russian drones attacking Ukraine",
+   "link": "https://kyivindependent.com/exclusive-freshly-made-european-american-components-found-in-russian-drones-attacking-ukraine/",
    "outlet": "Kyiv Independent",
    "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9589
+   "score": 0.969
+  },
+  {
+   "title": "CJP\u2019s Saurav Das alleges he was stopped at Delhi airport from travelling to UK",
+   "link": "https://scroll.in/latest/1097267/cjps-saurav-das-alleges-he-was-stopped-at-delhi-airport-from-travelling-to-uk?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9647
+  },
+  {
+   "title": "Update: US legislators criticise Nvidia decision to reinstate Huang as CEO",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-24-update-6-us-lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9643
+  },
+  {
+   "title": "In Taiwan, investors \u2018really happy\u2019 at Jensen Huang\u2019s return",
+   "link": "https://hongkongfp.com/2026/11/24/in-taiwan-investors-really-happy-at-jensen-huangs-return/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9604
+  },
+  {
+   "title": "Workplace absenteeism: Why temporary disability is a right, not an expense",
+   "link": "https://phys.org/news/2026-11-workplace-absenteeism-temporary-disability-expense.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9532
+  },
+  {
+   "title": "Yuan strength is changing the math on dollar holdings",
+   "link": "https://asiatimes.com/2026/11/yuan-strength-is-changing-the-math-on-dollar-holdings/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9477
+  },
+  {
+   "title": "Second Amendment Roundup, II: Much Ado About Bowie Knives",
+   "link": "https://reason.com/volokh/2026/11/23/second-amendment-roundup-ii-much-ado-about-bowie-knives/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9477
   },
   {
    "title": "In defense of Jilly Cooper",
@@ -505,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.95
+   "score": 0.9126
   },
   {
    "title": "Why a Viagra-like blood flow drug may open a new front against Alzheimer\u2019s",
@@ -515,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9496
+   "score": 0.9122
   },
   {
    "title": "Urban foresting incentives coming: minister",
@@ -525,17 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9495
-  },
-  {
-   "title": "Google\u2019s AI helps a thriller writer-investor think about Micron",
-   "link": "https://asiatimes.com/2026/11/googles-ai-helps-a-thriller-writer-investor-think-about-micron/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9461
+   "score": 0.9121
   },
   {
    "title": "In Q3, Mexico\u2019s economy grew 3.3% over 2025, its best showing since 2023",
@@ -545,37 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9375
-  },
-  {
-   "title": "Fourth Circuit Upholds Virginia's Law Terminating Agreements to Help With Immigration Enforcement - but Strikes Down anti-Mask Law",
-   "link": "https://reason.com/volokh/2026/11/23/fourth-circuit-upholds-virginias-law-terminating-agreements-to-help-with-immigration-enforcement-but-strikes-down-anti-mask-law/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9363
-  },
-  {
-   "title": "What Silicon Valley and China\u2019s new productive forces teach us about economic growth",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-23-what-silicon-valley-and-chinas-new-productive-forces-teach-us-about-economic-growth/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9351
-  },
-  {
-   "title": "2027: Ebonyi PDP inaugurates campaign council",
-   "link": "https://www.premiumtimesng.com/news/more-news/927519-2027-ebonyi-pdp-inaugurates-campaign-council.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.934
+   "score": 0.9009
   },
   {
    "title": "Letters from 1914 reveal worry that Shoal Lake water rights would cripple Winnipeg aqueduct",
@@ -585,27 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9317
-  },
-  {
-   "title": "Russia charges Moscow military gear retailer with \u2018financing extremist activity\u2019 over alleged donations to Navalny\u2019s Anti-Corruption Foundation",
-   "link": "https://meduza.io/en/news/2026/11/24/russia-charges-moscow-military-gear-retailer-with-financing-extremist-activity-over-alleged-donations-to-navalny-s-anti-corruption-foundation",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9314
-  },
-  {
-   "title": "Clayton Tucker names former state Rep. Tracy King as deputy agriculture commissioner",
-   "link": "https://feeds.texastribune.org/link/16799/17538579/clayton-tucker-tracy-king-texas-agriculture-department",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9278
+   "score": 0.8955
   }
  ]
 }
