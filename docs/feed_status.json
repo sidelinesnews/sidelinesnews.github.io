@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 53,
-  "undated_or_future": 0,
+  "undated_or_future": 5,
   "error": null,
   "baseline": false
  },
@@ -38,10 +38,10 @@
  {
   "name": "AllAfrica",
   "url": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
-  "ok": true,
-  "items": 33,
+  "ok": false,
+  "items": 0,
   "undated_or_future": 0,
-  "error": null,
+  "error": "URLError: <urlopen error [Errno 111] Connection refused>",
   "baseline": false
  },
  {
@@ -146,10 +146,10 @@
  {
   "name": "Global Voices",
   "url": "https://globalvoices.org/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 15,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 502: Bad Gateway",
+  "error": null,
   "baseline": false
  },
  {
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 3,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 22,
+  "items": 24,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 51,
+  "items": 53,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 12,
+  "items": 11,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
