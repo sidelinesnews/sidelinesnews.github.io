@@ -1,51 +1,261 @@
 {
- "updated": "2026-11-24T10:21:26.968262+00:00",
+ "updated": "2026-11-24T13:28:44.202218+00:00",
  "meter": {
-  "outlets": 41,
+  "outlets": 42,
   "regions": 11,
   "evenness": 98,
   "top_share": 3
  },
  "stories": [
   {
-   "title": "Don\u2019t scare off investors, Padilla tells protesters \u2018demonizing\u2019 AI",
-   "link": "https://www.rappler.com/newsbreak/inside-track/robin-padilla-protestors-demonize-artificial-intelligence-investors/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
+   "title": "Barzani rejects Baghdad\u2019s orders to take over Kurdish oil fields and border crossings",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/barzani-rejects-baghdads-orders-take-over-kurdish-oil-fields-and-border",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9989
+   "score": 0.9993
   },
   {
-   "title": "Trump\u2019s Nvidia deal leaves Asian allies holding the bag",
-   "link": "https://asiatimes.com/2026/11/trumps-nvidia-deal-leaves-asian-allies-holding-the-bag/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9988
-  },
-  {
-   "title": "Hong Kong privacy watchdog urges stronger cybersecurity measures amid surge in cyberattacks",
-   "link": "https://hongkongfp.com/2026/11/24/hong-kong-privacy-watchdog-urges-stronger-cybersecurity-measures-amid-surge-in-cyberattacks/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9983
-  },
-  {
-   "title": "US citizenship rules give some foreigners shorter route to naturalisation",
-   "link": "https://www.premiumtimesng.com/news/more-news/927620-us-citizenship-rules-give-some-foreigners-shorter-route-to-naturalisation.html",
+   "title": "Akwa Ibom: CSOs raise alarm over budget secrecy, exclusion of women, others",
+   "link": "https://www.premiumtimesng.com/news/top-news/927640-akwa-ibom-csos-raise-alarm-over-budget-secrecy-exclusion-of-women-others.html",
    "outlet": "Premium Times",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9967
+   "score": 0.9985
+  },
+  {
+   "title": "Could Mayor Brandon Johnson Get Kicked Off The Ballot? Review To Continue Into December",
+   "link": "https://blockclubchicago.org/2026/11/24/could-mayor-brandon-johnson-get-kicked-off-the-ballot-review-to-continue-into-december/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9982
+  },
+  {
+   "title": "Moldova to bring its Russia, Belarus sanctions in line with EU as part of membership requirements",
+   "link": "https://kyivindependent.com/moldova-to-bring-its-russia-belarus-sanctions-in-line-with-eu-as-part-of-membership-requirements/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9977
+  },
+  {
+   "title": "UK bought fake C4 explosives for Ukraine, FT investigation finds",
+   "link": "https://meduza.io/en/news/2026/11/24/uk-bought-fake-c4-explosives-for-ukraine-ft-investigation-finds",
+   "outlet": "Meduza (English)",
+   "region": "Russia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9943
+  },
+  {
+   "title": "Strategies to ensure DEI workforce safeguards in hospitality and tourism",
+   "link": "https://phys.org/news/2026-11-strategies-dei-workforce-safeguards-hospitality.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.994
+  },
+  {
+   "title": "Playwright, filmmaker Dustin Celestino inducted into Palanca Hall of Fame",
+   "link": "https://www.rappler.com/people/newsmakers/dustin-celestino-palanca-awards-hall-of-fame-2026/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.994
+  },
+  {
+   "title": "Rise of anti-establishment Indian Americans like Nithya Raman signals a new political era",
+   "link": "https://calmatters.org/commentary/2026/11/anti-establishment-indians-nithya-raman/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.994
+  },
+  {
+   "title": "Iran files lawsuits in US, EU courts: Will it get justice for \u2018war crimes\u2019?",
+   "link": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9933
+  },
+  {
+   "title": "A Childhood Promise Mobilizes \u2018Thanksgiving Heroes,\u2019 Serving Thousands Nationwide This Holiday",
+   "link": "https://www.goodnewsnetwork.org/thanksgiving-heroes-rob-adams-childhood-promise/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9925
+  },
+  {
+   "title": "Global marine conservation gathering seeks solutions amid mounting ocean challenges",
+   "link": "https://news.mongabay.com/2026/11/global-marine-conservation-gathering-seeks-solutions-amid-mounting-ocean-challenges/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9908
+  },
+  {
+   "title": "A Global Socialism Built on Shared Prosperity",
+   "link": "https://jacobin.com/2026/11/piketty-global-justice-growth-prosperity-climate",
+   "outlet": "Jacobin",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9907
+  },
+  {
+   "title": "Kenya: The Man Who Turned a Bmx Bike Into a Dance Partner Is Coming to Nairobi",
+   "link": "https://allafrica.com/stories/202611240436.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9901
+  },
+  {
+   "title": "The danger of criminalizing clinical therapy",
+   "link": "https://unherd.com/2026/11/the-danger-of-criminalising-clinical-therapy/?edition=us",
+   "outlet": "UnHerd",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.99
+  },
+  {
+   "title": "Argentina receives two bids for the Ushuaia naval base pier amid Sea Lion tensions",
+   "link": "https://en.mercopress.com/2026/11/24/argentina-receives-two-bids-for-the-ushuaia-naval-base-pier-amid-sea-lion-tensions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9897
+  },
+  {
+   "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
+   "link": "https://www.wired.com/gallery/best-espresso-machines/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9883
+  },
+  {
+   "title": "UP: Azam Khan asked to join probe in 2007 property destruction case, days after release from jail",
+   "link": "https://scroll.in/latest/1097284/up-azam-khan-asked-to-join-probe-in-2007-property-destruction-case-days-after-release-from-jail?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9865
+  },
+  {
+   "title": "Former Srebrenica Commander Oric Arrested in Attempted Murder Probe",
+   "link": "https://balkaninsight.com/2026/11/24/former-srebrenica-commander-oric-arrested-in-attempted-murder-probe/bi/",
+   "outlet": "Balkan Insight",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9827
+  },
+  {
+   "title": "The Supreme Court's Next Big Immigration Case Is Here",
+   "link": "https://reason.com/2026/11/24/the-supreme-courts-next-big-immigration-case-is-here/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9818
+  },
+  {
+   "title": "Huang\u2019s comeback won\u2019t ease Southeast Asia\u2019s data center crunch",
+   "link": "https://asiatimes.com/2026/11/huangs-comeback-wont-ease-southeast-asias-data-center-crunch/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9814
+  },
+  {
+   "title": "Crypto Corner: Power of stablecoin relies on the money never touching the banks",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-24-power-of-stablecoin-relies-on-the-money-never-touching-the-banks/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9762
+  },
+  {
+   "title": "Aurora Water spending $23M to buy up two renowned, century-old farms in Lower Arkansas Valley",
+   "link": "https://coloradosun.com/2026/11/24/aurora-water-farm-purchases-lower-arkansas/",
+   "outlet": "The Colorado Sun",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9713
+  },
+  {
+   "title": "At a Doomed U.N. Conference, Saudi Arabia and Other Oil States Pushed Hard for an Unproven Climate Fix",
+   "link": "https://www.propublica.org/article/cop31-climate-conference-fossil-fuels-carbon-capture",
+   "outlet": "ProPublica",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9697
+  },
+  {
+   "title": "New cypress trees grow in Kerr County, bringing hope and healing after floods",
+   "link": "https://feeds.texastribune.org/link/16799/17539087/texas-floods-trees-guadalupe-river-recovery-kerr-county",
+   "outlet": "Texas Tribune",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9697
+  },
+  {
+   "title": "Hong Kong court orders activist Eddie Tse to pay gov\u2019t legal fees over dropped San Tin Technopole challenge",
+   "link": "https://hongkongfp.com/2026/11/24/hong-kong-court-orders-activist-eddie-tse-to-pay-govt-legal-fees-over-dropped-san-tin-technopole-challenge/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9636
   },
   {
    "title": "As Wildfires Stress Montana\u2019s Insurance Market, the State is Getting Harder to Call Home",
@@ -55,47 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9955
-  },
-  {
-   "title": "Affordability and accountability will be the focus of Colorado\u2019s new members of Congress",
-   "link": "https://coloradosun.com/2026/11/24/colorado-new-congressional-delegation-focus/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9955
-  },
-  {
-   "title": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life",
-   "link": "https://www.wired.com/story/wish-list-2026/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9955
-  },
-  {
-   "title": "Exclusive: 7 countries back EU push to limit Russian visas for tourists, sports",
-   "link": "https://kyivindependent.com/exclusive-7-countries-back-eu-push-to-limit-russian-visas-for-tourists-sports/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9933
-  },
-  {
-   "title": "Interview: \u2018We are pushed into forgetting futures we anticipated once, but it wounds and festers\u2019",
-   "link": "https://scroll.in/article/1097233/interview-we-are-pushed-into-forgetting-futures-we-anticipated-once-but-it-wounds-and-festers?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9929
+   "score": 0.9579
   },
   {
    "title": "A walkable city of tomorrow is growing in suburban Utah",
@@ -105,27 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9924
-  },
-  {
-   "title": "Russian lawmakers draft bill that would ban foreign films from cinemas for weeks at a time",
-   "link": "https://meduza.io/en/news/2026/11/24/russian-lawmakers-draft-bill-that-would-ban-foreign-films-from-cinemas-for-weeks-at-a-time",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.984
-  },
-  {
-   "title": "Brickbat: Fourth Opinion",
-   "link": "https://reason.com/2026/11/24/brickbat-fourth-opinion/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9833
+   "score": 0.955
   },
   {
    "title": "I Travelled from Ottawa to Germany to Understand the European Far Right",
@@ -135,57 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9792
-  },
-  {
-   "title": "New quasar record tightens constraints on black hole formation scenarios",
-   "link": "https://phys.org/news/2026-11-quasar-tightens-constraints-black-hole.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9712
-  },
-  {
-   "title": "Good News in History, November 24",
-   "link": "https://www.goodnewsnetwork.org/events061124/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9712
-  },
-  {
-   "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-   "link": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9697
-  },
-  {
-   "title": "Elders in Bali renew push against new offshore gas terminal",
-   "link": "https://news.mongabay.com/2026/11/elders-in-bali-renew-push-against-new-offshore-gas-terminal/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9677
-  },
-  {
-   "title": "After \u2018Propaganda\u2019 Ban, Bulgarian LGBT Pupils Report Greater Insecurity",
-   "link": "https://balkaninsight.com/2026/11/24/after-propaganda-ban-bulgarian-lgbt-pupils-report-greater-insecurity/bi/",
-   "outlet": "Balkan Insight",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.957
+   "score": 0.9425
   },
   {
    "title": "In Kyrgyzstan, public meetings with the president turn into a quest to seek justice",
@@ -195,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9498
+   "score": 0.9148
   },
   {
    "title": "The Spanish government has lost control of its borders",
@@ -205,17 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9469
-  },
-  {
-   "title": "MEMOIR EXCERPT: A Change of Pace \u2014 Adriaan Wildschutt\u2019s journey from dirt roads to Olympic track",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-24-a-change-of-pace-memoir-of-sa-distance-runner-and-olympian-adriaan-wildschutt/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.942
+   "score": 0.912
   },
   {
    "title": "Why Iran Hawks Are Now Hyping \u2018Radical Shiite\u2019 Threats",
@@ -225,17 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9372
-  },
-  {
-   "title": "Bond and the curse of the British Empire",
-   "link": "https://unherd.com/2026/11/bond-and-the-curse-of-the-british-empire/?edition=us",
-   "outlet": "UnHerd",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8833
+   "score": 0.903
   },
   {
    "title": "Fall hunger is real: four reasons your appetite changes with the season",
@@ -245,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8826
+   "score": 0.8516
   },
   {
    "title": "NSF expansion a possibility: premier",
@@ -255,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8825
+   "score": 0.8514
   },
   {
    "title": "While at APEC, President Sheinbaum took a moment to center her qi",
@@ -265,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8811
+   "score": 0.8501
   },
   {
    "title": "Regional leaders say future of Aurora College campuses remains unclear",
@@ -275,37 +355,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8745
+   "score": 0.8439
   },
   {
-   "title": "Pneumonia complicates Jair Bolsonaro's hospital stay in Bras\u00edlia",
-   "link": "https://en.mercopress.com/2026/11/23/pneumonia-complicates-jair-bolsonaro-s-hospital-stay-in-brasilia?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
+   "title": "Indonesia\u2019s Prabowo Names 2 Cabinet Members as Vice-Presidential Candidates",
+   "link": "https://thediplomat.com/2026/11/indonesias-prabowo-names-2-cabinet-members-as-vice-presidential-candidates/",
+   "outlet": "The Diplomat",
+   "region": "Asia-Pacific",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8638
-  },
-  {
-   "title": "Clayton Tucker names former state Rep. Tracy King as deputy agriculture commissioner",
-   "link": "https://feeds.texastribune.org/link/16799/17538579/clayton-tucker-tracy-king-texas-agriculture-department",
-   "outlet": "Texas Tribune",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8633
-  },
-  {
-   "title": "Far North Side Park Officially Renamed Edgewater Prairie Park After Neighbor-Led Restoration",
-   "link": "https://blockclubchicago.org/2026/11/23/far-north-side-park-officially-renamed-edgewater-prairie-park-after-neighbor-led-restoration/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8596
+   "score": 0.842
   },
   {
    "title": "Alberta tables legislation to enable government control of natural gas system",
@@ -315,17 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8529
-  },
-  {
-   "title": "California sues to block Trump rule denying aid to families with mixed immigration statuses",
-   "link": "https://calmatters.org/housing/2026/11/hud-mixed-status-lawsuit/",
-   "outlet": "CalMatters",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8527
+   "score": 0.8235
   },
   {
    "title": "\u2018El Vagamundos\u2019 in Madrid, Spain",
@@ -335,17 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8526
-  },
-  {
-   "title": "Billy Evans\u2019s You Can See Everything Deal Is the Real Story",
-   "link": "https://jacobin.com/2026/11/holmes-evans-fielder-documentary-payment",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8504
+   "score": 0.8233
   },
   {
    "title": "PNG\u2019s parliament is voting on ratifying Bougainville independence. A \u2018no\u2019 won\u2019t be the end of the story",
@@ -355,7 +395,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8365
+   "score": 0.8081
   },
   {
    "title": "Private Prison Told ICE Its Jail Was Worth $67 Million. ICE Bought It for Nearly Half a Billion.",
@@ -365,17 +405,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8332
-  },
-  {
-   "title": "Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?",
-   "link": "https://thediplomat.com/2026/11/can-the-china-russia-us-summit-turn-political-momentum-into-nuclear-risk-reduction/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8212
+   "score": 0.805
   },
   {
    "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
@@ -385,7 +415,97 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8017
+   "score": 0.7753
+  },
+  {
+   "title": "30+ Pop-Ups And Bars In Chicago To Get You In The Holiday Spirit",
+   "link": "https://blockclubchicago.org/2026/11/24/30-pop-ups-and-bars-in-chicago-to-get-you-in-the-holiday-spirit/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.995
+  },
+  {
+   "title": "Does Gavin Newsom have any regrets? He\u2019s not saying as he looks to 2028",
+   "link": "https://calmatters.org/politics/2026/11/gavin-newsom-press-club-exit-interview/",
+   "outlet": "CalMatters",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9934
+  },
+  {
+   "title": "UK sanctions Yemen\u2019s Houthi group, four senior officials",
+   "link": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9932
+  },
+  {
+   "title": "Qatar urges restraint and diplomacy amid US-Iran tensions",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-urges-restraint-and-diplomacy-amid-us-iran-tensions",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9922
+  },
+  {
+   "title": "Liberia: LEC Regularizes 304 Workers As Labour Group Pushes for 140 More",
+   "link": "https://allafrica.com/stories/202611240434.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.99
+  },
+  {
+   "title": "Beneficial fungus could offer a new way to control strawberry powdery mildew",
+   "link": "https://phys.org/news/2026-11-beneficial-fungus-strawberry-powdery-mildew.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9899
+  },
+  {
+   "title": "Indonesia fires test palm oil certification scheme as NGOs question RSPO accountability",
+   "link": "https://news.mongabay.com/2026/11/indonesia-fires-test-palm-oil-certification-scheme-as-ngos-question-rspo-accountability/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9894
+  },
+  {
+   "title": "Ukraine condemns decision to hand world nuclear body lead role to sanctioned Russian",
+   "link": "https://kyivindependent.com/ukraine-condemns-decision-to-hand-world-nuclear-body-lead-role-to-sanctioned-russian/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9893
+  },
+  {
+   "title": "Charity Swaps Tuition Fees for Coconuts So Every Islander Can Afford School",
+   "link": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.988
   },
   {
    "title": "The catch in IBM\u2019s offer to relocate its U.S.-based immigrant workers",
@@ -395,217 +515,97 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7646
+   "score": 0.7404
   },
   {
-   "title": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
-   "link": "https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan",
-   "outlet": "ProPublica",
+   "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+   "link": "https://www.wired.com/story/gifts-for-friends/",
+   "outlet": "WIRED",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7646
+   "score": 0.9824
   },
   {
-   "title": "Fani-Kayode reaffirms commitment to stronger Nigeria-South Africa ties",
-   "link": "https://www.premiumtimesng.com/news/top-news/927617-fani-kayode-reaffirms-commitment-to-stronger-nigeria-south-africa-ties.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.996
-  },
-  {
-   "title": "Coating wear makes China\u2019s stealth fighters easier to target",
-   "link": "https://asiatimes.com/2026/11/coating-wear-makes-chinas-stealth-fighters-easier-to-target/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.994
-  },
-  {
-   "title": "Demwe dam project in Arunachal should be scrapped, say ex-civil servants",
-   "link": "https://scroll.in/latest/1097273/demwe-dam-project-in-arunachal-should-be-scrapped-say-ex-civil-servants?utm_source=rss&utm_medium=public",
+   "title": "Fantasy: Adwait, a mortal, must stop Vairarakta as he prepares to restore the age of the rakshasas",
+   "link": "https://scroll.in/article/1096751/fantasy-adwait-a-mortal-must-stop-vairarakta-as-he-prepares-to-restore-the-age-of-the-rakshasas?utm_source=rss&utm_medium=public",
    "outlet": "Scroll.in",
    "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9926
+   "score": 0.9818
   },
   {
-   "title": "There\u2019s hope of recovery from COP31 deadlock \u2018as long as we learn from it\u2019",
-   "link": "https://www.rappler.com/environment/climate-change/cop31-hope-recovery-lessons-learned-deadlock-turkey/",
+   "title": "Rappler Talk: UN Special Envoy Jean Todt on making roads safer",
+   "link": "https://www.rappler.com/philippines/rappler-talk/un-special-envoy-jean-todt-making-roads-safer/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9903
+   "score": 0.9818
   },
   {
-   "title": "Voters are fed up with for-profit utilities, but they keep rejecting \u2018public power\u2019",
-   "link": "https://grist.org/elections/public-power-ballot-kitsap-county-washington-ann-arbor-michigan/",
-   "outlet": "Grist",
-   "region": "North America",
+   "title": "INEC selects 520 polling units for mock election in Enugu",
+   "link": "https://www.premiumtimesng.com/news/more-news/927638-inec-selects-520-polling-units-for-mock-election-in-enugu.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9894
+   "score": 0.981
   },
   {
-   "title": "The City That Kicked Out Cars Before It Was Cool",
-   "link": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
-   "outlet": "Reasons to be Cheerful",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7414
-  },
-  {
-   "title": "Germany first country to receive access to Ukraine's Delta combat system",
-   "link": "https://kyivindependent.com/germany-first-country-to-receive-access-to-ukraines-delta-combat-system/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9807
-  },
-  {
-   "title": "355 Ukrainian drones flew toward Moscow overnight, prompting flight restrictions at two airports",
-   "link": "https://meduza.io/en/news/2026/11/24/355-ukrainian-drones-flew-toward-moscow-overnight-prompting-flight-restrictions-at-two-airports",
+   "title": "Why is Estonia closing its border with Russia? Estonian Foreign Minister Margus Tsahkna explains in a column for Politico.",
+   "link": "https://meduza.io/en/feature/2026/11/24/why-is-estonia-closing-its-border-with-russia-estonian-foreign-minister-margus-tsahkna-explains-in-a-column-for-politico",
    "outlet": "Meduza (English)",
    "region": "Russia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9757
+   "score": 0.9749
   },
   {
-   "title": "The Scientist Who Took Big Oil to Court and Won",
-   "link": "https://thetyee.ca/Culture/2026/11/24/Briony-Penn-Interview/",
-   "outlet": "The Tyee",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9752
-  },
-  {
-   "title": "Why has Yemen\u2019s offensive against the Houthis in al-Bayda stalled?",
-   "link": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9664
-  },
-  {
-   "title": "Setting the Record Straight On Senator Cornyn And The N.D. Tex. Seat",
-   "link": "https://reason.com/volokh/2026/11/24/setting-the-record-straight-on-senator-cornyn-and-the-n-d-tex-seat/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.961
-  },
-  {
-   "title": "Indonesian Borneo\u2019s forests go quiet as smoke silences gibbons. Their singing matters",
-   "link": "https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9587
-  },
-  {
-   "title": "Serbia\u2019s New Leadership Won\u2019t Transform Old Policy on Kosovo",
-   "link": "https://balkaninsight.com/2026/11/24/serbias-new-leadership-wont-transform-old-policy-on-kosovo/bi/",
+   "title": "Croatian Border Police \u2018Doing Europe\u2019s Dirty Work\u2019 with Migrants: Report",
+   "link": "https://balkaninsight.com/2026/11/24/croatian-border-police-doing-europes-dirty-work-with-migrants-report/bi/",
    "outlet": "Balkan Insight",
    "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9569
+   "score": 0.9743
   },
   {
-   "title": "Hong Kong government rules out official Tai Po fire memorial, announces HK$630 million in new victim grants",
-   "link": "https://hongkongfp.com/2026/11/24/hong-kong-government-rules-out-official-tai-po-fire-memorial-announces-hk630-million-in-new-victim-grants/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9377
-  },
-  {
-   "title": "The Antisemitism Smear Is Wearing Thin",
-   "link": "https://www.theamericanconservative.com/the-antisemitism-smear-is-wearing-thin/",
-   "outlet": "The American Conservative",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9365
-  },
-  {
-   "title": "Update: US legislators criticise Nvidia decision to reinstate Huang as CEO",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-24-update-6-us-lawmakers-criticize-nvidia-decision-to-reinstate-huang-as-ceo/",
+   "title": "Japan accelerates ICC funding as US sanctions threaten court",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-24-japan-accelerates-icc-funding-as-us-sanctions-threaten-court/",
    "outlet": "Daily Maverick",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9319
+   "score": 0.9731
   },
   {
-   "title": "Funding must work better for SMEs to tackle energy challenges, finds research",
-   "link": "https://phys.org/news/2026-11-funding-smes-tackle-energy.html",
-   "outlet": "Phys.org",
-   "region": "Global",
+   "title": "Archives: December 2026",
+   "link": "https://reason.com/2026/11/24/archives-december-2026/",
+   "outlet": "Reason",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9288
+   "score": 0.9697
   },
   {
-   "title": "In defense of Jilly Cooper",
-   "link": "https://unherd.com/2026/11/in-defence-of-jilly-cooper/?edition=us",
-   "outlet": "UnHerd",
-   "region": "Europe",
+   "title": "Texas\u2019 first review of college DEI ban doesn\u2019t answer key questions about its impact",
+   "link": "https://feeds.texastribune.org/link/16799/17539088/texas-college-dei-ban-student-impact-report",
+   "outlet": "Texas Tribune",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.883
-  },
-  {
-   "title": "Why a Viagra-like blood flow drug may open a new front against Alzheimer\u2019s",
-   "link": "https://www.optimistdaily.com/2026/11/why-a-viagra-like-blood-flow-drug-may-open-a-new-front-against-alzheimers/",
-   "outlet": "The Optimist Daily",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8826
-  },
-  {
-   "title": "Urban foresting incentives coming: minister",
-   "link": "https://www.taipeitimes.com/News/front/archives/2026/11/24/2003868272",
-   "outlet": "Taipei Times",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8825
+   "score": 0.9697
   }
  ]
 }
