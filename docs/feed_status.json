@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 50,
-  "undated_or_future": 6,
+  "undated_or_future": 1,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 29,
+  "items": 31,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 56,
+  "items": 57,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 11,
+  "items": 10,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
