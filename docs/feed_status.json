@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 50,
-  "undated_or_future": 1,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -76,7 +76,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 51,
-  "undated_or_future": 51,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
