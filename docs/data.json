@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:30:31.110608+00:00",
+ "updated": "2026-11-25T04:20:41.407856+00:00",
  "meter": {
   "outlets": 40,
   "regions": 11,
@@ -8,14 +8,94 @@
  },
  "stories": [
   {
-   "title": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
-   "link": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
+   "title": "Tai Po fire: Hong Kong security chief defends police enquiries surrounding memorial events citing \u2018sedition\u2019 risks",
+   "link": "https://hongkongfp.com/2026/11/25/tai-po-fire-hong-kong-security-chief-defends-police-enquiries-surrounding-memorial-events-citing-sedition-risks/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9996
+  },
+  {
+   "title": "Africa: COP31 - Is Article 6 Delivering Climate Finance?",
+   "link": "https://allafrica.com/stories/202611250044.html",
+   "outlet": "AllAfrica",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9967
+  },
+  {
+   "title": "Queensland keeps learning disaster lessons. So why do we keep forgetting them?",
+   "link": "https://phys.org/news/2026-11-queensland-disaster-lessons.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9978
+   "score": 0.9957
+  },
+  {
+   "title": "How Telugu translations of Shakespeare\u2019s plays changed the culture in 19th-century Madras Presidency",
+   "link": "https://scroll.in/article/1096965/how-telugu-translations-of-shakespeares-plays-changed-the-culture-in-19th-century-madras-presidency?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9951
+  },
+  {
+   "title": "Asia\u2019s stock markets dive as doubts swirl over AI boom",
+   "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9899
+  },
+  {
+   "title": "Second Amendment Roundup: The AK-47 Semiautomatic is Encompassed in the Viramontes Question Presented",
+   "link": "https://reason.com/volokh/2026/11/24/second-amendment-roundup-the-ak-47-semiautomatic-is-encompassed-in-the-viramontes-question-presented/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9865
+  },
+  {
+   "title": "Study reveals rising \u2018double threat\u2019 of wildfire smoke and heatwaves in Indonesia",
+   "link": "https://news.mongabay.com/2026/11/study-reveals-rising-double-threat-of-wildfire-smoke-and-heatwaves-in-indonesia/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9743
+  },
+  {
+   "title": "UN SecGen, Barbados PM hold press conference at Bridgetown Special Summit on AI Safety",
+   "link": "https://www.rappler.com/technology/press-conference-bridgetown-special-summit-ai-safety/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9734
+  },
+  {
+   "title": "Pritzker Says Illinois Won\u2019t Join Trump\u2019s Tax Credit Scholarship Program",
+   "link": "https://blockclubchicago.org/2026/11/24/pritzker-says-illinois-wont-join-trumps-tax-credit-scholarship-program/",
+   "outlet": "Block Club Chicago",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9656
   },
   {
    "title": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
@@ -25,37 +105,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9926
-  },
-  {
-   "title": "Raya School brings Reggio Emilia exhibition, conference to Manila January 2027",
-   "link": "https://www.rappler.com/bulletin-board/events/raya-school-reggio-emilia-exhibition-conference-manila-january-2027/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9875
-  },
-  {
-   "title": "Alaska ends deal to give voter records to US Justice Department",
-   "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9872
-  },
-  {
-   "title": "Species down to the last 50 animals can recover, but rarely without help",
-   "link": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.985
+   "score": 0.9585
   },
   {
    "title": "US midterms weaken Trump, strengthen Taiwan\u2019s hand with Congress",
@@ -65,7 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9827
+   "score": 0.9491
   },
   {
    "title": "My all-AI Thanksgiving",
@@ -75,7 +125,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9825
+   "score": 0.9489
+  },
+  {
+   "title": "Miki Kawamura: a 19-year-old\u2019s peace network brings ice cream to a Nobel summit",
+   "link": "https://www.optimistdaily.com/2026/11/miki-kawamura-a-19-year-olds-peace-network-brings-ice-cream-to-a-nobel-summit/",
+   "outlet": "The Optimist Daily",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9479
   },
   {
    "title": "Realistic sims, tech enhance army drills: Lai",
@@ -85,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9814
+   "score": 0.9478
   },
   {
    "title": "In Beijing, Ebrard pushes for more Mexican exports to China",
@@ -95,27 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.981
-  },
-  {
-   "title": "Hong Kong visitor arrivals hit 5.13 million in October, up 12% year-on-year",
-   "link": "https://hongkongfp.com/2026/11/25/hong-kong-visitor-arrivals-hit-5-13-million-in-october-up-12-year-on-year/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9804
-  },
-  {
-   "title": "Privacy Act Claim Against U.S. Over Release of Victims' Names in Epstein Files Can Go Forward",
-   "link": "https://reason.com/volokh/2026/11/24/privacy-act-claim-against-u-s-over-release-of-victims-names-in-epstein-files-can-go-forward/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9728
+   "score": 0.9475
   },
   {
    "title": "M\u00e9tis country singer Catie St. Germain and her journey from insecurity to the top of the charts",
@@ -125,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9708
+   "score": 0.9378
   },
   {
    "title": "Iowa Lead Blast Will Have Lasting Health Impacts",
@@ -135,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9704
+   "score": 0.9374
   },
   {
    "title": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
@@ -145,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9694
+   "score": 0.9364
   },
   {
    "title": "LOCAL ELECTIONS 2026: ANC and ActionSA carve up key Joburg positions in potential 18-party coalition",
@@ -155,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9646
+   "score": 0.9319
   },
   {
    "title": "Disability groups, others demand representation, funding ahead of 2027 polls",
@@ -165,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9633
+   "score": 0.9307
   },
   {
    "title": "Court Orders Trump Media to Hand Over Truth Social Records in The Intercept Lawsuit",
@@ -175,17 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9628
-  },
-  {
-   "title": "Wilco Fans Can Buy Band-Used Gear, Merch At December Pop-Up",
-   "link": "https://blockclubchicago.org/2026/11/24/wilco-fans-can-buy-band-used-gear-merch-at-december-pop-up/",
-   "outlet": "Block Club Chicago",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9578
+   "score": 0.9302
   },
   {
    "title": "Nearly 6,000 people receive Russian military pensions in Latvia. Moscow warns the payments could stop.",
@@ -195,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9513
+   "score": 0.9193
   },
   {
    "title": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
@@ -205,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.946
+   "score": 0.9143
   },
   {
    "title": "New ACA identity checks delay health insurance enrollment",
@@ -215,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9413
+   "score": 0.9099
   },
   {
    "title": "Major Success Sees Viral Infections Fall 68% in Brazil After Releasing Wolbachia-Infected Mosquitoes",
@@ -225,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9402
+   "score": 0.9089
   },
   {
    "title": "Today\u2019s EU is far worse than the one we voted to leave",
@@ -235,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9337
+   "score": 0.9027
   },
   {
    "title": "It\u2019s Time to Update the BC Home Owner Grant Program",
@@ -245,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.931
+   "score": 0.9002
   },
   {
    "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
@@ -255,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9234
+   "score": 0.893
   },
   {
    "title": "Around 100 civilians trapped on Russian-occupied Kinburn Spit face severe food, medicine shortages, Ukrainian military says",
@@ -265,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.923
+   "score": 0.8925
   },
   {
    "title": "Amazon Workers Have Won a First North American Contract",
@@ -275,17 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9218
-  },
-  {
-   "title": "Africa: Malawi Agriculture Minister Champions Investment-Led Economic Transformation",
-   "link": "https://allafrica.com/stories/202611240635.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9124
+   "score": 0.8914
   },
   {
    "title": "Belgrade Court Convicts Bosnian Serb Woman of Wartime Killings",
@@ -295,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9004
+   "score": 0.8712
   },
   {
    "title": "Mother tongue language rights don\u2019t implement themselves: Lessons from Nepal\u2019s classrooms",
@@ -305,17 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8998
-  },
-  {
-   "title": "As 2026 US polls loom, both Democrats and Republicans confront key questions about their identities",
-   "link": "https://scroll.in/article/1097261/as-2026-us-polls-loom-both-democrats-and-republicans-confront-key-questions-about-their-identities?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8965
+   "score": 0.8706
   },
   {
    "title": "Making the Most of South Korea\u2019s Semiconductor Boom",
@@ -325,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8949
+   "score": 0.866
   },
   {
    "title": "myColorado app remains down ahead of Thanksgiving travel after cybersecurity incident",
@@ -335,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8947
+   "score": 0.8657
   },
   {
    "title": "Iran War Day 270: Vance, Rubio Meet With Qatar\u2019s Prime Minister",
@@ -345,7 +355,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8884
+   "score": 0.8598
   },
   {
    "title": "\u2018Masters of our destiny\u2019: Canada\u2019s electrification plan revives a slogan that carries a painful history for First Nations",
@@ -355,7 +365,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8809
+   "score": 0.8527
   },
   {
    "title": "Rise of anti-establishment Indian Americans like Nithya Raman signals a new political era",
@@ -365,7 +375,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8609
+   "score": 0.8337
   },
   {
    "title": "A walkable city of tomorrow is growing in suburban Utah",
@@ -375,7 +385,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8299
+   "score": 0.8044
   },
   {
    "title": "In Kyrgyzstan, public meetings with the president turn into a quest to seek justice",
@@ -385,27 +395,57 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.798
+   "score": 0.7742
   },
   {
-   "title": "Fall hunger is real: four reasons your appetite changes with the season",
-   "link": "https://www.optimistdaily.com/2026/11/fall-hunger-is-real-four-reasons-your-appetite-changes-with-the-season/",
-   "outlet": "The Optimist Daily",
-   "region": "Global",
+   "title": "Maharashtra awards Adani company a contract to supply power using power from another Adani company",
+   "link": "https://scroll.in/article/1097262/maharashtra-awards-adani-company-a-contract-to-supply-power-using-power-from-another-adani-company?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7479
+   "score": 0.9895
   },
   {
-   "title": "Quantum ingenuity can sidestep limits of conventional chips\u2014while using commercially accessible components",
-   "link": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
+   "title": "A star's 'obliquity' likely has little impact on a given planet's habitability",
+   "link": "https://phys.org/news/2026-11-star-obliquity-impact-planet-habitability.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9937
+   "score": 0.9875
+  },
+  {
+   "title": "Spared from Maguindanao massacre: Unnamed journalist\u2019s 17 years of silence",
+   "link": "https://www.rappler.com/philippines/spared-maguindanao-massacre-unnamed-journalist-silence/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.972
+  },
+  {
+   "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9636
+  },
+  {
+   "title": "Species down to the last 50 animals can recover, but rarely without help",
+   "link": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9513
   },
   {
    "title": "Natural England is killing the economy",
@@ -415,27 +455,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9823
+   "score": 0.9487
   },
   {
-   "title": "Iran war live: Houthis threaten Saudi ports over coalition\u2019s Hodeidah order",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "Sunscreen, sweat and permastank: the science of stubborn laundry stains",
+   "link": "https://www.optimistdaily.com/2026/11/sunscreen-sweat-and-permastank-the-science-of-stubborn-laundry-stains/",
+   "outlet": "The Optimist Daily",
+   "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9814
-  },
-  {
-   "title": "SGS 2026: Newsrooms collaboration, data safeguards a must in new AI age",
-   "link": "https://www.rappler.com/moveph/social-good-summit/newsroom-collaboration-data-artificial-intelligence/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9814
+   "score": 0.9479
   },
   {
    "title": "China financing scheme bound to fail: experts",
@@ -445,7 +475,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9814
+   "score": 0.9478
+  },
+  {
+   "title": "Hong Kong visitor arrivals hit 5.13 million in October, up 12% year-on-year",
+   "link": "https://hongkongfp.com/2026/11/25/hong-kong-visitor-arrivals-hit-5-13-million-in-october-up-12-year-on-year/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9469
+  },
+  {
+   "title": "Privacy Act Claim Against U.S. Over Release of Victims' Names in Epstein Files Can Go Forward",
+   "link": "https://reason.com/volokh/2026/11/24/privacy-act-claim-against-u-s-over-release-of-victims-names-in-epstein-files-can-go-forward/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9397
   },
   {
    "title": "Nescaf\u00e9 coffee producers protest in southern Mexico over low pay",
@@ -455,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9709
+   "score": 0.9379
   },
   {
    "title": "AFN calls for strengthening of First Nations Clean Water Act",
@@ -465,7 +515,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9703
+   "score": 0.9373
   },
   {
    "title": "The flag at waist height: the rules for visiting the Argentine Military Cemetery in the Falklands",
@@ -475,17 +525,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9636
-  },
-  {
-   "title": "Federal Government Suing San Jose over $1591 Fee for License to Carry Concealed Weapon",
-   "link": "https://reason.com/volokh/2026/11/24/federal-government-suing-san-jose-over-1591-fee-for-license-to-carry-concealed-weapon/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9627
+   "score": 0.931
   },
   {
    "title": "Nigerian govt identifies 268 obsolete laws, asks NASS to approve revised compendium",
@@ -495,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9602
+   "score": 0.9277
   },
   {
    "title": "OIL SPILL: Modelled West Coast blowout \u2014 oil reached shore in 75% of simulations",
@@ -505,17 +545,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9581
+   "score": 0.9258
   },
   {
-   "title": "Amtrak Scraps Bridgeport Rail Yard Plan, Throwing Sox Owner\u2019s Plan For New Stadium Into Doubt",
-   "link": "https://blockclubchicago.org/2026/11/24/amtrak-scraps-bridgeport-rail-yard-plan-throwing-sox-owners-plan-for-new-stadium-into-doubt/",
+   "title": "Wilco Fans Can Buy Band-Used Gear, Merch At December Pop-Up",
+   "link": "https://blockclubchicago.org/2026/11/24/wilco-fans-can-buy-band-used-gear-merch-at-december-pop-up/",
    "outlet": "Block Club Chicago",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9539
+   "score": 0.9255
   },
   {
    "title": "Kazakhstan wanted to transfer Chechen activist Mansur Movlaev to Russia in secret. He twice attempted suicide, fearing extradition.",
@@ -525,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9503
+   "score": 0.9184
   },
   {
    "title": "Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work",
@@ -535,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9467
+   "score": 0.915
   },
   {
    "title": "Washington\u2019s chip export controls weaken America\u2019s AI edge",
@@ -545,17 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9348
-  },
-  {
-   "title": "\u2018We don\u2019t want it\u2019: First Nations reject plan to release mining waste into water source",
-   "link": "https://news.mongabay.com/podcast/2026/11/we-dont-want-it-first-nations-reject-plan-to-release-mining-waste-into-water-source/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9334
+   "score": 0.9037
   },
   {
    "title": "Bolsover Town Earthworks in Bolsover, England",
@@ -565,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9234
+   "score": 0.893
   },
   {
    "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
@@ -575,37 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6874
-  },
-  {
-   "title": "What the Ottomans Tell Us About Plunder and Capitalism",
-   "link": "https://jacobin.com/2026/11/ottoman-history-capitalism-colonialism-origins",
-   "outlet": "Jacobin",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9134
-  },
-  {
-   "title": "Bridges become new battlefield between Russia and Ukraine as front line gains freeze",
-   "link": "https://kyivindependent.com/bridges-become-new-battlefield-between-russia-and-ukraine-as-front-line-gains-freeze/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9104
-  },
-  {
-   "title": "Britain\u2019s \u2018Rigged\u2019 Fishing Industry Is Fueling Overfishing",
-   "link": "https://insideclimatenews.org/news/24112026/uk-fishing-industry-fuels-overfishing/",
-   "outlet": "Inside Climate News",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9023
+   "score": 0.6695
   }
  ]
 }
