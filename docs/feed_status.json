@@ -14,15 +14,15 @@
   "ok": false,
   "items": 0,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 3",
+  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
   "baseline": false
  },
  {
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 51,
-  "undated_or_future": 5,
+  "items": 50,
+  "undated_or_future": 3,
   "error": null,
   "baseline": false
  },
@@ -84,7 +84,7 @@
   "name": "The Diplomat",
   "url": "https://thediplomat.com/feed/",
   "ok": true,
-  "items": 96,
+  "items": 95,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 0,
+  "undated_or_future": 4,
   "error": null,
   "baseline": false
  },
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 16,
+  "items": 15,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
