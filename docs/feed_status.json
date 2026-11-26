@@ -11,18 +11,18 @@
  {
   "name": "Middle East Eye",
   "url": "https://www.middleeasteye.net/rss",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: not well-formed (invalid token): line 1, column 1",
+  "error": null,
   "baseline": false
  },
  {
   "name": "Daily Maverick",
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
-  "items": 50,
-  "undated_or_future": 3,
+  "items": 48,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -74,17 +74,17 @@
  {
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 50,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "error": null,
   "baseline": false
  },
  {
   "name": "The Diplomat",
   "url": "https://thediplomat.com/feed/",
   "ok": true,
-  "items": 95,
+  "items": 96,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -174,7 +174,7 @@
   "name": "The Conversation",
   "url": "https://theconversation.com/global/articles.atom",
   "ok": true,
-  "items": 49,
+  "items": 50,
   "undated_or_future": 0,
   "error": null,
   "baseline": false
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 28,
+  "items": 35,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 60,
+  "items": 61,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -524,10 +524,10 @@
  {
   "name": "CBC",
   "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "baseline": true
  },
  {
@@ -542,19 +542,19 @@
  {
   "name": "Associated Press",
   "url": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "baseline": true
  },
  {
   "name": "Reuters",
   "url": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 100,
   "undated_or_future": 0,
-  "error": "HTTPError: HTTP Error 503: Service Unavailable",
+  "error": null,
   "baseline": true
  }
 ]
