@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 51,
-  "undated_or_future": 2,
+  "undated_or_future": 1,
   "error": null,
   "baseline": false
  },
@@ -85,7 +85,7 @@
   "url": "https://thediplomat.com/feed/",
   "ok": true,
   "items": 96,
-  "undated_or_future": 1,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -373,7 +373,7 @@
   "url": "https://thetyee.ca/rss2.xml",
   "ok": true,
   "items": 21,
-  "undated_or_future": 0,
+  "undated_or_future": 2,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 31,
+  "items": 32,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 16,
+  "items": 14,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
