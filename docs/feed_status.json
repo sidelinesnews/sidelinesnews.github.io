@@ -75,8 +75,8 @@
   "name": "Taipei Times",
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
-  "items": 57,
-  "undated_or_future": 0,
+  "items": 46,
+  "undated_or_future": 46,
   "error": null,
   "baseline": false
  },
@@ -209,10 +209,10 @@
  {
   "name": "Hakai Magazine",
   "url": "https://hakaimagazine.com/feed/",
-  "ok": false,
-  "items": 0,
+  "ok": true,
+  "items": 20,
   "undated_or_future": 0,
-  "error": "ParseError: mismatched tag: line 93, column 2",
+  "error": null,
   "baseline": false
  },
  {
@@ -489,7 +489,7 @@
   "name": "New York Times",
   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
   "ok": true,
-  "items": 60,
+  "items": 59,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
@@ -534,7 +534,7 @@
   "name": "Washington Post",
   "url": "https://feeds.washingtonpost.com/rss/world",
   "ok": true,
-  "items": 15,
+  "items": 16,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
