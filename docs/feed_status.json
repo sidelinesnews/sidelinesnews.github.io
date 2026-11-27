@@ -22,7 +22,7 @@
   "url": "https://www.dailymaverick.co.za/dmrss/",
   "ok": true,
   "items": 49,
-  "undated_or_future": 3,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -76,7 +76,7 @@
   "url": "https://www.taipeitimes.com/xml/index.rss",
   "ok": true,
   "items": 57,
-  "undated_or_future": 57,
+  "undated_or_future": 0,
   "error": null,
   "baseline": false
  },
@@ -471,7 +471,7 @@
   "name": "BBC",
   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "ok": true,
-  "items": 28,
+  "items": 30,
   "undated_or_future": 0,
   "error": null,
   "baseline": true
