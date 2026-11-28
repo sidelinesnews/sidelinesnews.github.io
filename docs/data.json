@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:01:25.805964+00:00",
+ "updated": "2026-11-28T13:13:07.245177+00:00",
  "meter": {
   "outlets": 36,
   "regions": 11,
@@ -8,14 +8,114 @@
  },
  "stories": [
   {
-   "title": "Buklod: Songs of an unfinished struggle",
-   "link": "https://www.rappler.com/people/artists/buklod-songs-unfinished-struggle/",
+   "title": "New podcast episode: Is there such a thing as the \u2018real Mexico\u2019?",
+   "link": "https://mexiconewsdaily.com/news/new-podcast-episode-is-there-such-a-thing-as-the-real-mexico/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9975
+  },
+  {
+   "title": "Why squeezing a rock can pull it apart",
+   "link": "https://phys.org/news/2026-11-why-squeezing-a-rock-can.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9931
+  },
+  {
+   "title": "Wanogho wins Nigeria\u2019s first gold at World Para Powerlifting Championships",
+   "link": "https://www.premiumtimesng.com/sports/nigeria-sports-news/928582-wanogho-wins-nigerias-first-gold-at-world-para-powerlifting-championships.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9916
+  },
+  {
+   "title": "Hungary reportedly lifts entry ban on Ukraine's drone forces commander",
+   "link": "https://kyivindependent.com/hungary-reportedly-lifts-entry-ban-on-ukraines-drone-forces-commander/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9898
+  },
+  {
+   "title": "Tarantulas, scorpions and more found in luggage at Peru airport",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9894
+  },
+  {
+   "title": "Today in Supreme Court History: November 28, 1872",
+   "link": "https://reason.com/volokh/2026/11/28/today-in-supreme-court-history-november-28-1872-8/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9851
+  },
+  {
+   "title": "M John Harrison\u2019s 2026 Booker Prize win signals an end to literary snobbery towards science fiction",
+   "link": "https://scroll.in/article/1097301/m-john-harrisons-2026-booker-prize-win-signals-an-end-to-literary-snobbery-towards-science-fiction?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9849
+  },
+  {
+   "title": "7 Pro Tips to Get More Out of the Google Health App",
+   "link": "https://www.wired.com/story/7-pro-tips-to-get-more-out-of-the-google-health-app/",
+   "outlet": "WIRED",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9849
+  },
+  {
+   "title": "Rappler Live Jam: ALAMAT",
+   "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-alamat-november-2026/",
    "outlet": "Rappler",
    "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9997
+   "score": 0.9849
+  },
+  {
+   "title": "Iran official: Iraq must not become a 'tool' of Trump",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-official-iraq-must-not-become-tool-trump",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9843
+  },
+  {
+   "title": "Journalists Could Be Forced to Out Their Sources Unless the Supreme Court Steps In",
+   "link": "https://theintercept.com/2026/11/28/journalist-source-subpoena-herridge/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9752
   },
   {
    "title": "Some Hawaiian Birds Face Extinction as Mosquitoes Spread Avian Malaria to Higher Forests",
@@ -25,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9997
+   "score": 0.9609
   },
   {
    "title": "What\u2019s behind the great sex recession?",
@@ -35,57 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9988
-  },
-  {
-   "title": "Eco India, Episode 340: How citizens across cities are championing clean and accessible mobility",
-   "link": "https://scroll.in/video/1097359/eco-india-episode-340-how-citizens-across-cities-are-championing-clean-and-accessible-mobility?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9987
-  },
-  {
-   "title": "Court sentences two to death for murder of NYSC member",
-   "link": "https://www.premiumtimesng.com/news/top-news/928561-court-sentences-two-to-death-for-murder-of-nysc-member.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.995
-  },
-  {
-   "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
-   "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9946
-  },
-  {
-   "title": "South Africa accused of hypocrisy over Israeli offshore oil project",
-   "link": "https://www.middleeasteye.net/news/south-africa-accused-hypocrisy-over-israeli-offshore-oil-project",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9938
-  },
-  {
-   "title": "Russian attacks kill 10, injure 55 across Ukraine over past day as deadly strike hits Chernihiv Oblast businesses",
-   "link": "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9877
+   "score": 0.9601
   },
   {
    "title": "Indonesia\u2019s Mama Aleta: Don\u2019t wait for permission to protect Mother Nature",
@@ -95,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9818
+   "score": 0.9441
   },
   {
    "title": "Will my glacier go extinct? Interview with Lander Van Tricht",
@@ -105,7 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9772
+   "score": 0.9398
   },
   {
    "title": "Colombia's president backs Abascal: \"Spain deserves a president like you\"",
@@ -115,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9469
+   "score": 0.9113
   },
   {
    "title": "PUBLIC ACCOUNTABILITY OP-ED: Cape Town\u2019s baboons \u2014 the rising cost of deciding without independent ethical review",
@@ -125,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9458
+   "score": 0.9102
   },
   {
    "title": "What Do You Call an Animal That Can\u2019t Escalate, Disengage, or Negotiate?",
@@ -135,17 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.941
-  },
-  {
-   "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
-   "link": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9326
+   "score": 0.9058
   },
   {
    "title": "Taiwan voters flaunt their political colours ahead of local polls",
@@ -155,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9299
+   "score": 0.8953
   },
   {
    "title": "Rumi is one of America\u2019s most popular poets",
@@ -165,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9081
+   "score": 0.8748
   },
   {
    "title": "What Happens When Winter Is No Longer Cold?",
@@ -175,37 +215,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9034
+   "score": 0.8704
   },
   {
-   "title": "Peso regains some ground after nearing 20 to the dollar in a week of losses",
-   "link": "https://mexiconewsdaily.com/business/peso-regains-some-ground-after-nearing-20-to-the-dollar-in-week-of-losses/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.891
-  },
-  {
-   "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
-   "link": "https://theintercept.com/2026/11/27/mel-duncan-west-bank-arrest-israel/",
-   "outlet": "The Intercept",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.891
-  },
-  {
-   "title": "In defense of Man City",
+   "title": "In defense of Manchester City",
    "link": "https://unherd.com/2026/11/in-defence-of-man-city/?edition=us",
    "outlet": "UnHerd",
    "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8865
+   "score": 0.8545
   },
   {
    "title": "2026 Elections: CEC reminds public no campaigning at the polls",
@@ -215,17 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8859
-  },
-  {
-   "title": "\"His Majesty\"'s \"International Common Law Court of Justice\" Threat to \"Illuminati Police Forces\" Was Criminally Punishable",
-   "link": "https://reason.com/volokh/2026/11/27/his-majestys-international-common-law-court-of-justice-threat-to-illuminati-police-forces-was-criminally-punishable/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.882
+   "score": 0.8539
   },
   {
    "title": "APTN Nouvelles nationales \u2013 27 novembre 2026",
@@ -235,17 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8808
-  },
-  {
-   "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
-   "link": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8803
+   "score": 0.8492
   },
   {
    "title": "In Europe, Too, Amazon\u2019s Warehouses Are a Dystopia",
@@ -255,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8781
+   "score": 0.8466
   },
   {
    "title": "In the Shadow of the Afghanistan-Pakistan Border",
@@ -265,17 +265,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8486
+   "score": 0.8188
   },
   {
-   "title": "South Africa: Joburg Women Lead March Against Pie Act Amendments",
-   "link": "https://allafrica.com/stories/202611270605.html",
+   "title": "Cote d'Ivoire: Coris Bank International C\u00f4te d'Ivoire IPO - Subscription Window Opens Soon",
+   "link": "https://allafrica.com/stories/202611270647.html",
    "outlet": "AllAfrica",
    "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8269
+   "score": 0.8022
   },
   {
    "title": "How Russian soldiers are escaping Putin\u2019s war. Five deserters recount their journeys across borders, through forests with bears, and over the English Channel.",
@@ -285,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8183
+   "score": 0.7904
   },
   {
    "title": "Week in Review: Between Transformation and Evolution",
@@ -295,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8107
+   "score": 0.7832
   },
   {
    "title": "California\u2019s philanthropic funders need to give bravely to counteract federal cuts",
@@ -305,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7836
+   "score": 0.7578
   },
   {
    "title": "Gas plants, battery storage and now a data centre: inside Napanee\u2019s unknown energy boom",
@@ -315,7 +315,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7836
+   "score": 0.7578
+  },
+  {
+   "title": "Are you a tourist or a traveler? A perspective from our CEO",
+   "link": "https://mexiconewsdaily.com/travel/tourist-traveler-camino-copalita-oaxaca-ceo-perspective/",
+   "outlet": "Mexico News Daily",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9963
   },
   {
    "title": "How are local Colorado merchants are competing with AI this holiday? They\u2019re not.",
@@ -325,17 +335,77 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7672
+   "score": 0.7424
   },
   {
-   "title": "The Climate Hero Hiding Beneath the Ocean\u2019s Surface",
-   "link": "https://insideclimatenews.org/news/28112026/kelp-forest-climate-hero/",
-   "outlet": "Inside Climate News",
+   "title": "Can Adeleke\u2019s Tinubu campaign role resolve Osun\u2019s political disputes amid APC resentment at home?",
+   "link": "https://www.premiumtimesng.com/news/headlines/928578-can-adelekes-tinubu-campaign-role-resolve-osuns-political-disputes-amid-apc-resentment-at-home.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9896
+  },
+  {
+   "title": "Manchester United vs Brentford LIVE: Premier League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9863
+  },
+  {
+   "title": "Tamil Nadu: Ceremonial lamp lit at dispute pillar atop Madurai hill after SC order",
+   "link": "https://scroll.in/latest/1097399/tamil-nadu-ceremonial-lamp-lit-at-dispute-pillar-atop-madurai-hill-after-sc-order?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9849
+  },
+  {
+   "title": "Swift Saw the Secrets of Space Before Falling to Earth",
+   "link": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
+   "outlet": "WIRED",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9987
+   "score": 0.9788
+  },
+  {
+   "title": "Ukraine commemorates victims of Holodomor famine",
+   "link": "https://kyivindependent.com/ukraine-commemorates-victims-of-holodomor-famine/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9739
+  },
+  {
+   "title": "Pezeshkian announces return of damaged South Pars gas pipelines to production",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-announces-return-damaged-south-pars-gas-pipelines-production",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9736
+  },
+  {
+   "title": "Adam Smith's Simple Formula Explains Argentina's Rise, Fall, and Comeback",
+   "link": "https://reason.com/2026/11/28/a-peaceful-easy-and-tolerable-argentina/",
+   "outlet": "Reason",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9729
   },
   {
    "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
@@ -345,17 +415,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9935
-  },
-  {
-   "title": "PREMIUM TIMES reporter wins 2026 Ray Ekpu Investigative Journalism Prize",
-   "link": "https://www.premiumtimesng.com/regional/south-south-regional/928560-premium-times-reporter-wins-2026-ray-ekpu-investigative-journalism-prize.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9929
+   "score": 0.9728
   },
   {
    "title": "Making Peace With a Himalayan \u2018Ghost\u2019",
@@ -365,7 +425,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7439
+   "score": 0.7204
   },
   {
    "title": "For Sale: Custom Space Program, Ready to Launch",
@@ -375,17 +435,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7439
+   "score": 0.7204
   },
   {
-   "title": "DMK to support delimitation bill",
-   "link": "https://scroll.in/latest/1097391/dmk-announces-support-for-delimitation-bill-ahead-of-special-session?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
+   "title": "The Climate Hero Hiding Beneath the Ocean\u2019s Surface",
+   "link": "https://insideclimatenews.org/news/28112026/kelp-forest-climate-hero/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9877
+   "score": 0.96
   },
   {
    "title": "Populism vs anti-populism: the great political divide of our time",
@@ -395,37 +455,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9863
-  },
-  {
-   "title": "Spain faces political shift as far right gains ground",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9861
-  },
-  {
-   "title": "Morning update",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-683",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9749
-  },
-  {
-   "title": "General Staff: Russia has lost 1,650,986 troops in Ukraine since Feb. 24, 2022",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-650-986-troops-in-ukraine-since-feb-24-2022/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9641
+   "score": 0.9484
   },
   {
    "title": "Spain wraps up its campaign: S\u00e1nchez appeals for a \"progressive majority\", Feij\u00f3o for \"change\"",
@@ -435,7 +465,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9464
+   "score": 0.9108
   },
   {
    "title": "Have the Democrats Learned Their Lesson?",
@@ -445,7 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9406
+   "score": 0.9054
   },
   {
    "title": "Russia wants to build a new security framework to end the war. This is why it won\u2019t work",
@@ -455,17 +485,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6963
+   "score": 0.6757
   },
   {
-   "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
-   "link": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+   "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
+   "link": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html",
    "outlet": "Phys.org",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9142
+   "score": 0.8978
   },
   {
    "title": "The Canadian Transformation of Paul Theroux",
@@ -475,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8981
+   "score": 0.8654
   },
   {
    "title": "Hong Kong\u2019s top court quashes autistic man\u2019s conviction for flag desecration citing his condition",
@@ -485,7 +515,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8928
+   "score": 0.8605
+  },
+  {
+   "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
+   "link": "https://theintercept.com/2026/11/27/mel-duncan-west-bank-arrest-israel/",
+   "outlet": "The Intercept",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8587
   },
   {
    "title": "The phony war for Trump\u2019s crown",
@@ -495,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8863
+   "score": 0.8543
   },
   {
    "title": "DGBAS raises 2026 economic growth forecast to 13.28%",
@@ -505,27 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8859
-  },
-  {
-   "title": "Defamation Case by Ex-Husband Against Ex-Wife, Based on Her Allegations to Police, Can Go Forward",
-   "link": "https://reason.com/volokh/2026/11/27/defamation-case-by-ex-husband-against-ex-wife-based-on-her-allegations-to-police-can-go-forward/",
-   "outlet": "Reason",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8805
-  },
-  {
-   "title": "Working poverty in Mexico hits its lowest level on record",
-   "link": "https://mexiconewsdaily.com/news/working-poverty-mexico-lowest-level-on-record/",
-   "outlet": "Mexico News Daily",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8797
+   "score": 0.8539
   },
   {
    "title": "LOCAL ELECTIONS 2026: Mashaba\u2019s manoeuvres win the day as ANC-ActionSA claim Gauteng, leaving DA in the cold",
@@ -535,7 +555,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8769
+   "score": 0.8455
+  },
+  {
+   "title": "Bangladesh garment workers protest wages despite police crackdown",
+   "link": "https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8454
   },
   {
    "title": "Officer who shot Neqotkuk First Nation man six times not charged",
@@ -545,7 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8726
+   "score": 0.8415
   },
   {
    "title": "Chuck Schumer\u2019s Former Aides Now Lobby for Corporate America",
@@ -555,17 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8721
-  },
-  {
-   "title": "What sex and state strategy have in common",
-   "link": "https://asiatimes.com/2026/11/what-sex-and-state-strategy-have-in-common/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8712
+   "score": 0.841
   },
   {
    "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
@@ -575,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8474
+   "score": 0.8177
   },
   {
    "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
@@ -585,27 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.6286
-  },
-  {
-   "title": "Kenya: DCI to Help Investigate and Dismantle Doping Networks",
-   "link": "https://allafrica.com/stories/202611270600.html",
-   "outlet": "AllAfrica",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8264
-  },
-  {
-   "title": "International Jaguar Day: Big cats hold on at the edges of their range",
-   "link": "https://news.mongabay.com/short-article/2026/11/international-jaguar-day-big-cats-hold-on-at-the-edges-of-their-range/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.824
+   "score": 0.6119
   }
  ]
 }
