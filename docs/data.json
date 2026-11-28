@@ -1,12 +1,112 @@
 {
- "updated": "2026-11-28T04:08:07.724486+00:00",
+ "updated": "2026-11-28T07:28:17.491903+00:00",
  "meter": {
-  "outlets": 35,
+  "outlets": 36,
   "regions": 11,
   "evenness": 99,
   "top_share": 3
  },
  "stories": [
+  {
+   "title": "'Banana republic again': Former Costa Rican president slams Albanese ban",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/banana-republic-again-former-costa-rican-president-slams-albanese-ban",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9994
+  },
+  {
+   "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+   "link": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9987
+  },
+  {
+   "title": "Nigeria eyes hosting historic first U-17 Women\u2019s AFCON",
+   "link": "https://www.premiumtimesng.com/news/more-news/928538-nigeria-eyes-hosting-historic-first-u-17-womens-afcon.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9987
+  },
+  {
+   "title": "General Staff: Russia has lost 1,650,986 troops in Ukraine since Feb. 24, 2022",
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-650-986-troops-in-ukraine-since-feb-24-2022/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.995
+  },
+  {
+   "title": "In \u2018Shux,\u2019 Bicol band Kilyab calls out \u2018ayuda\u2019 politics, climate neglect",
+   "link": "https://www.rappler.com/people/artists/bicol-band-kilyab-shux-ayuda-politics-climate-neglect/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9941
+  },
+  {
+   "title": "DMK announces support for delimitation bill ahead of special session",
+   "link": "https://scroll.in/latest/1097391/dmk-announces-support-for-delimitation-bill-ahead-of-special-session?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9904
+  },
+  {
+   "title": "Colombia's president backs Abascal: \"Spain deserves a president like you\"",
+   "link": "https://en.mercopress.com/2026/11/28/colombia-s-president-backs-abascal-spain-deserves-a-president-like-you?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.977
+  },
+  {
+   "title": "PUBLIC ACCOUNTABILITY OP-ED: Cape Town\u2019s baboons \u2014 the rising cost of deciding without independent ethical review",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-28-cape-towns-baboons-the-rising-cost-of-deciding-without-independent-ethical-review/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9758
+  },
+  {
+   "title": "What Do You Call an Animal That Can\u2019t Escalate, Disengage, or Negotiate?",
+   "link": "https://www.theamericanconservative.com/what-do-you-call-an-animal-that-cant-escalate-disengage-or-negotiate/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9708
+  },
+  {
+   "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
+   "link": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9619
+  },
   {
    "title": "Taiwan voters flaunt their political colours ahead of local polls",
    "link": "https://hongkongfp.com/2026/11/28/taiwan-voters-flaunt-their-political-colours-ahead-of-local-polls/",
@@ -15,57 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9995
-  },
-  {
-   "title": "More than a place to eat: Inside Cavite\u2019s thriving food bazaar culture",
-   "link": "https://www.rappler.com/people/human-interest/mendez-cavite-food-bazaar-culture/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9928
-  },
-  {
-   "title": "R Cheran (1960-2026): The Eelam Tamil poet who wrote the history of a people who lived through war",
-   "link": "https://scroll.in/article/1097272/r-cheran-1960-2026-the-eelam-tamil-poet-who-wrote-the-history-of-a-people-who-lived-through-war?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9859
-  },
-  {
-   "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
-   "link": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9819
-  },
-  {
-   "title": "'Normal staffing issue' \u2014 IAEA chief dismisses criticism over appointment of sanctioned Russian as deputy",
-   "link": "https://kyivindependent.com/normal-staffing-issue-iaea-chief-deflects-criticism-over-appointment-of-sanctioned-russian-as-deputy/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9763
-  },
-  {
-   "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
-   "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9755
+   "score": 0.9591
   },
   {
    "title": "Rumi is one of America\u2019s most popular poets",
@@ -75,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9751
+   "score": 0.9362
   },
   {
    "title": "What Happens When Winter Is No Longer Cold?",
@@ -85,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9698
+   "score": 0.9313
   },
   {
    "title": "Peso regains some ground after nearing 20 to the dollar in a week of losses",
@@ -95,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.956
+   "score": 0.9183
   },
   {
    "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
@@ -105,17 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.956
-  },
-  {
-   "title": "Gov Lawal pledges more projects as APC campaign storms Shinkafi LGA",
-   "link": "https://www.premiumtimesng.com/promoted/928511-gov-lawal-pledges-more-projects-as-apc-campaign-storms-shinkafi-lga.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9547
+   "score": 0.9183
   },
   {
    "title": "In defense of Man City",
@@ -125,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9509
+   "score": 0.9135
   },
   {
    "title": "2026 Elections: CEC reminds public no campaigning at the polls",
@@ -135,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9503
+   "score": 0.9129
   },
   {
    "title": "\"His Majesty\"'s \"International Common Law Court of Justice\" Threat to \"Illuminati Police Forces\" Was Criminally Punishable",
@@ -145,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9458
+   "score": 0.9088
   },
   {
    "title": "APTN Nouvelles nationales \u2013 27 novembre 2026",
@@ -155,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9446
+   "score": 0.9076
   },
   {
    "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
@@ -165,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9439
+   "score": 0.907
   },
   {
    "title": "In Europe, Too, Amazon\u2019s Warehouses Are a Dystopia",
@@ -175,17 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9415
-  },
-  {
-   "title": "LOCAL ELECTIONS 2026: Mashaba\u2019s manoeuvres win the day as ANC-ActionSA claim Gauteng, leaving DA in the cold",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-27-mashabas-manoeuvres-win-the-day-as-anc-actionsa-claim-gauteng-leaving-da-in-the-cold/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9402
+   "score": 0.9047
   },
   {
    "title": "In the Shadow of the Afghanistan-Pakistan Border",
@@ -195,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9084
+   "score": 0.8737
   },
   {
    "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
@@ -205,7 +235,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9071
+   "score": 0.8725
+  },
+  {
+   "title": "2 of the World\u2019s Largest Rice Producers Ban Toxic Pesticide Linked to Suicide",
+   "link": "https://www.goodnewsnetwork.org/2-of-the-worlds-largest-rice-producers-ban-toxic-pesticide-linked-to-suicide/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8713
   },
   {
    "title": "South Africa: Joburg Women Lead March Against Pie Act Amendments",
@@ -215,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8842
+   "score": 0.8509
   },
   {
    "title": "International Jaguar Day: Big cats hold on at the edges of their range",
@@ -225,17 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8809
-  },
-  {
-   "title": "Milei wins Senate approval to suspend primaries, with debates mandatory only in a run-off",
-   "link": "https://en.mercopress.com/2026/11/27/milei-wins-senate-approval-to-suspend-primaries-with-debates-mandatory-only-in-a-run-off?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8781
+   "score": 0.8479
   },
   {
    "title": "How Russian soldiers are escaping Putin\u2019s war. Five deserters recount their journeys across borders, through forests with bears, and over the English Channel.",
@@ -245,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8746
+   "score": 0.8419
   },
   {
    "title": "Week in Review: Between Transformation and Evolution",
@@ -255,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.866
+   "score": 0.8339
   },
   {
    "title": "Behold the totalitarian nightmare of DEI",
@@ -265,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8455
+   "score": 0.8146
   },
   {
    "title": "California\u2019s philanthropic funders need to give bravely to counteract federal cuts",
@@ -275,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8357
+   "score": 0.8055
   },
   {
    "title": "Gas plants, battery storage and now a data centre: inside Napanee\u2019s unknown energy boom",
@@ -285,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8357
+   "score": 0.8055
   },
   {
    "title": "How are local Colorado merchants are competing with AI this holiday? They\u2019re not.",
@@ -295,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8173
+   "score": 0.7883
   },
   {
    "title": "The Scientist Who Kickstarted Pennsylvania\u2019s Fracking Boom Thought Gas Would Be a \u2018Bridge Fuel\u2019",
@@ -305,7 +335,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8084
+   "score": 0.7799
   },
   {
    "title": "Making Peace With a Himalayan \u2018Ghost\u2019",
@@ -315,7 +345,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7912
+   "score": 0.7638
   },
   {
    "title": "For Sale: Custom Space Program, Ready to Launch",
@@ -325,17 +355,47 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7911
+   "score": 0.7637
   },
   {
-   "title": "Not Even the Israelis Seem to Buy the Iranian Chemical Weapons Line",
-   "link": "https://www.theamericanconservative.com/not-even-the-israelis-seem-to-buy-the-iranian-chemical-weapons-line/",
-   "outlet": "The American Conservative",
-   "region": "North America",
+   "title": "How Israel is fast-tracking data centres in bid to become \u2018AI superpower\u2019",
+   "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.767
+   "score": 0.9986
+  },
+  {
+   "title": "2027 Politics Watch: 140 killed in election-related violence \u2013 IPAC",
+   "link": "https://www.premiumtimesng.com/news/headlines/928533-2027-politics-watch-140-killed-in-election-related-violence-ipac.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9943
+  },
+  {
+   "title": "Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-carry-out-air-raid-lebanese-town-nabatieh-nna-reports",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9926
+  },
+  {
+   "title": "Geoff Dyer wins inaugural \u00a310,000 Ved Mehta Prize in Creative Nonfiction for his memoir, \u2018Homework\u2019",
+   "link": "https://scroll.in/article/1097394/geoff-dyer-wins-inaugural-ps10000-ved-mehta-prize-in-creative-nonfiction-for-his-memoir-homework?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.988
   },
   {
    "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
@@ -345,7 +405,37 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9921
+   "score": 0.988
+  },
+  {
+   "title": "Spain wraps up its campaign: S\u00e1nchez appeals for a \"progressive majority\", Feij\u00f3o for \"change\"",
+   "link": "https://en.mercopress.com/2026/11/28/spain-wraps-up-its-campaign-sanchez-appeals-for-a-progressive-majority-feijoo-for-change?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+   "outlet": "MercoPress",
+   "region": "Latin America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9764
+  },
+  {
+   "title": "Have the Democrats Learned Their Lesson?",
+   "link": "https://www.theamericanconservative.com/have-the-democrats-learned-their-lesson/",
+   "outlet": "The American Conservative",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9704
+  },
+  {
+   "title": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack",
+   "link": "https://kyivindependent.com/fire-reported-near-oil-refinery-in-russias-rostov-oblast-amid-ukrainian-drone-attack/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9591
   },
   {
    "title": "Russia wants to build a new security framework to end the war. This is why it won\u2019t work",
@@ -355,17 +445,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7379
+   "score": 0.7138
   },
   {
-   "title": "Weekend Watch: \u2018Locke\u2019 is a treat for Tom Hardy fans",
-   "link": "https://scroll.in/reel/1097386/weekend-watch-locke-is-a-treat-for-tom-hardy-fans?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
+   "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+   "link": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+   "outlet": "Phys.org",
+   "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9799
+   "score": 0.9426
   },
   {
    "title": "The Canadian Transformation of Paul Theroux",
@@ -375,17 +465,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9639
-  },
-  {
-   "title": "Thousands of Puerto Ricans join \u2018Day of National Outrage\u2019 protest",
-   "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9619
+   "score": 0.9257
   },
   {
    "title": "Hong Kong\u2019s top court quashes autistic man\u2019s conviction for flag desecration citing his condition",
@@ -395,27 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.958
-  },
-  {
-   "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports",
-   "link": "https://kyivindependent.com/russian-soldier-who-was-13-when-full-scale-invasion-began-killed-in-ukraine-media-reports/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9548
-  },
-  {
-   "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
-   "link": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9541
+   "score": 0.9202
   },
   {
    "title": "The phony war for Trump\u2019s crown",
@@ -425,7 +485,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9507
+   "score": 0.9133
   },
   {
    "title": "DGBAS raises 2026 economic growth forecast to 13.28%",
@@ -435,7 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9503
+   "score": 0.9129
   },
   {
    "title": "Defamation Case by Ex-Husband Against Ex-Wife, Based on Her Allegations to Police, Can Go Forward",
@@ -445,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9442
+   "score": 0.9072
   },
   {
    "title": "Working poverty in Mexico hits its lowest level on record",
@@ -455,17 +515,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9433
+   "score": 0.9064
   },
   {
-   "title": "Bangladesh garment workers protest wages despite police crackdown",
-   "link": "https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
+   "title": "LOCAL ELECTIONS 2026: Mashaba\u2019s manoeuvres win the day as ANC-ActionSA claim Gauteng, leaving DA in the cold",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-27-mashabas-manoeuvres-win-the-day-as-anc-actionsa-claim-gauteng-leaving-da-in-the-cold/",
+   "outlet": "Daily Maverick",
+   "region": "Africa",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9401
+   "score": 0.9034
   },
   {
    "title": "Officer who shot Neqotkuk First Nation man six times not charged",
@@ -475,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9354
+   "score": 0.899
   },
   {
    "title": "Chuck Schumer\u2019s Former Aides Now Lobby for Corporate America",
@@ -485,27 +545,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9348
+   "score": 0.8984
   },
   {
-   "title": "Four PREMIUM TIMES journalists emerge finalists for 2026 Wole Soyinka Investigative Reporting Award",
-   "link": "https://www.premiumtimesng.com/news/top-news/928508-four-premium-times-journalists-emerge-finalists-for-2026-wole-soyinka-investigative-reporting-award.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
+   "title": "What sex and state strategy have in common",
+   "link": "https://asiatimes.com/2026/11/what-sex-and-state-strategy-have-in-common/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9221
+   "score": 0.8975
   },
   {
-   "title": "AI is rapidly advancing while we dangerously sleepwalk, and time is running out",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-27-ai-is-rapidly-advancing-while-we-dangerously-sleepwalk-and-time-is-running-out/",
-   "outlet": "Daily Maverick",
-   "region": "Africa",
+   "title": "Asphalt Artworks Are Making People Drive More Safely, New Studies Find",
+   "link": "https://www.goodnewsnetwork.org/asphalt-artworks-seems-to-make-people-drive-more-safely-new-studies-find/",
+   "outlet": "Good News Network",
+   "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9193
+   "score": 0.868
   },
   {
    "title": "Kenya: DCI to Help Investigate and Dismantle Doping Networks",
@@ -515,27 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8836
-  },
-  {
-   "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
-   "link": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.662
-  },
-  {
-   "title": "Argentina bans online betting advertising, including in football and on social media",
-   "link": "https://en.mercopress.com/2026/11/27/argentina-bans-online-betting-advertising-including-in-football-and-on-social-media?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-   "outlet": "MercoPress",
-   "region": "Latin America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8759
+   "score": 0.8504
   },
   {
    "title": "\u2018No reports, no strikes\u2019: Russia\u2019s pro-war bloggers slam proposed prison sentences for sharing photos and videos of Ukrainian attacks",
@@ -545,7 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8605
+   "score": 0.8287
   },
   {
    "title": "Refugee families use agroforestry to restore degraded landscape in Bangladesh camp",
@@ -555,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.86
+   "score": 0.8282
   },
   {
    "title": "Chen Jining: The Tragedy of the \u2018Potential Successor\u2019 in Chinese Politics",
@@ -565,47 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8575
-  },
-  {
-   "title": "ARTE Europe Weekly: Artists Under Threat from AI Theft",
-   "link": "https://balkaninsight.com/2026/11/27/arte-europe-weekly-artists-under-threat-from-ai-theft/bi/",
-   "outlet": "Balkan Insight",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8504
-  },
-  {
-   "title": "How the Gaza Encampments Unleashed the Blue Tsunami and Helped Spark a Worldwide Movement",
-   "link": "https://theintercept.com/2026/11/27/midterms-columbia-palestine-student-protests/",
-   "outlet": "The Intercept",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8357
-  },
-  {
-   "title": "Welcome to the Repair Caf\u00e9, Where Neighbors Fight Throwaway Culture",
-   "link": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
-   "outlet": "WIRED",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8219
-  },
-  {
-   "title": "The $25.5M question hanging over Deion Sanders and the University of Colorado",
-   "link": "https://coloradosun.com/2026/11/27/deion-sanders-colorado-football-contract/",
-   "outlet": "The Colorado Sun",
-   "region": "North America",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.812
+   "score": 0.8259
   }
  ]
 }
