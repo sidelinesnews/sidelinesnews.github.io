@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:28:08.989379+00:00",
+ "updated": "2026-11-28T04:08:07.724486+00:00",
  "meter": {
   "outlets": 35,
   "regions": 11,
@@ -8,6 +8,76 @@
  },
  "stories": [
   {
+   "title": "Taiwan voters flaunt their political colours ahead of local polls",
+   "link": "https://hongkongfp.com/2026/11/28/taiwan-voters-flaunt-their-political-colours-ahead-of-local-polls/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9995
+  },
+  {
+   "title": "More than a place to eat: Inside Cavite\u2019s thriving food bazaar culture",
+   "link": "https://www.rappler.com/people/human-interest/mendez-cavite-food-bazaar-culture/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9928
+  },
+  {
+   "title": "R Cheran (1960-2026): The Eelam Tamil poet who wrote the history of a people who lived through war",
+   "link": "https://scroll.in/article/1097272/r-cheran-1960-2026-the-eelam-tamil-poet-who-wrote-the-history-of-a-people-who-lived-through-war?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9859
+  },
+  {
+   "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+   "link": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9819
+  },
+  {
+   "title": "'Normal staffing issue' \u2014 IAEA chief dismisses criticism over appointment of sanctioned Russian as deputy",
+   "link": "https://kyivindependent.com/normal-staffing-issue-iaea-chief-deflects-criticism-over-appointment-of-sanctioned-russian-as-deputy/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9763
+  },
+  {
+   "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+   "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9755
+  },
+  {
+   "title": "Rumi is one of America\u2019s most popular poets",
+   "link": "https://asiatimes.com/2026/11/rumi-is-one-of-americas-most-popular-poets/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9751
+  },
+  {
    "title": "What Happens When Winter Is No Longer Cold?",
    "link": "https://thetyee.ca/Culture/2026/11/27/Nuisance-Bear-Film-Human-Animal-Relations-Warming-Planet/",
    "outlet": "The Tyee",
@@ -15,47 +85,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 1.0
-  },
-  {
-   "title": "Removing British-era place names is ridiculous \u2013 English ensures Indian unity",
-   "link": "https://scroll.in/article/1097352/removing-british-era-place-names-is-ridiculous-english-ensures-indian-unity?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9942
-  },
-  {
-   "title": "Thousands of Puerto Ricans join \u2018Day of National Outrage\u2019 protest",
-   "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9942
-  },
-  {
-   "title": "Saving reefs: Coral Triangle expedition makes its way to the Philippines",
-   "link": "https://www.rappler.com/environment/coral-triangle-expedition-philippines-stop-2026/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9942
-  },
-  {
-   "title": "Hong Kong\u2019s top court quashes autistic man\u2019s conviction for flag desecration citing his condition",
-   "link": "https://hongkongfp.com/2026/11/28/hong-kongs-top-court-quashes-autistic-mans-conviction-for-flag-desecration-citing-his-condition/",
-   "outlet": "Hong Kong Free Press",
-   "region": "East Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.99
+   "score": 0.9698
   },
   {
    "title": "Peso regains some ground after nearing 20 to the dollar in a week of losses",
@@ -65,7 +95,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9879
+   "score": 0.956
   },
   {
    "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
@@ -75,17 +105,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9879
-  },
-  {
-   "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports",
-   "link": "https://kyivindependent.com/russian-soldier-who-was-13-when-full-scale-invasion-began-killed-in-ukraine-media-reports/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9867
+   "score": 0.956
   },
   {
    "title": "Gov Lawal pledges more projects as APC campaign storms Shinkafi LGA",
@@ -95,17 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9865
-  },
-  {
-   "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
-   "link": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.986
+   "score": 0.9547
   },
   {
    "title": "In defense of Man City",
@@ -115,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9825
+   "score": 0.9509
   },
   {
    "title": "2026 Elections: CEC reminds public no campaigning at the polls",
@@ -125,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9819
+   "score": 0.9503
   },
   {
    "title": "\"His Majesty\"'s \"International Common Law Court of Justice\" Threat to \"Illuminati Police Forces\" Was Criminally Punishable",
@@ -135,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9772
+   "score": 0.9458
   },
   {
    "title": "APTN Nouvelles nationales \u2013 27 novembre 2026",
@@ -145,7 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9759
+   "score": 0.9446
   },
   {
    "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
@@ -155,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9752
+   "score": 0.9439
   },
   {
    "title": "In Europe, Too, Amazon\u2019s Warehouses Are a Dystopia",
@@ -165,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9726
+   "score": 0.9415
   },
   {
    "title": "LOCAL ELECTIONS 2026: Mashaba\u2019s manoeuvres win the day as ANC-ActionSA claim Gauteng, leaving DA in the cold",
@@ -175,17 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9713
-  },
-  {
-   "title": "Bangladesh garment workers protest wages despite police crackdown",
-   "link": "https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9711
+   "score": 0.9402
   },
   {
    "title": "In the Shadow of the Afghanistan-Pakistan Border",
@@ -195,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9379
+   "score": 0.9084
   },
   {
    "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
@@ -205,17 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9365
-  },
-  {
-   "title": "2 of the World\u2019s Largest Rice Producers Ban Toxic Pesticide Linked to Suicide",
-   "link": "https://www.goodnewsnetwork.org/2-of-the-worlds-largest-rice-producers-ban-toxic-pesticide-linked-to-suicide/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9352
+   "score": 0.9071
   },
   {
    "title": "South Africa: Joburg Women Lead March Against Pie Act Amendments",
@@ -225,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9123
+   "score": 0.8842
   },
   {
    "title": "International Jaguar Day: Big cats hold on at the edges of their range",
@@ -235,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9089
+   "score": 0.8809
   },
   {
    "title": "Milei wins Senate approval to suspend primaries, with debates mandatory only in a run-off",
@@ -245,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9059
+   "score": 0.8781
   },
   {
    "title": "How Russian soldiers are escaping Putin\u2019s war. Five deserters recount their journeys across borders, through forests with bears, and over the English Channel.",
@@ -255,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9022
+   "score": 0.8746
   },
   {
    "title": "Week in Review: Between Transformation and Evolution",
@@ -265,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8932
+   "score": 0.866
   },
   {
    "title": "Behold the totalitarian nightmare of DEI",
@@ -275,7 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8716
+   "score": 0.8455
   },
   {
    "title": "California\u2019s philanthropic funders need to give bravely to counteract federal cuts",
@@ -285,7 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8613
+   "score": 0.8357
   },
   {
    "title": "Gas plants, battery storage and now a data centre: inside Napanee\u2019s unknown energy boom",
@@ -295,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8613
+   "score": 0.8357
   },
   {
    "title": "How are local Colorado merchants are competing with AI this holiday? They\u2019re not.",
@@ -305,7 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.842
+   "score": 0.8173
   },
   {
    "title": "The Scientist Who Kickstarted Pennsylvania\u2019s Fracking Boom Thought Gas Would Be a \u2018Bridge Fuel\u2019",
@@ -315,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8326
+   "score": 0.8084
   },
   {
    "title": "Making Peace With a Himalayan \u2018Ghost\u2019",
@@ -325,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8145
+   "score": 0.7912
   },
   {
    "title": "For Sale: Custom Space Program, Ready to Launch",
@@ -335,7 +325,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8144
+   "score": 0.7911
   },
   {
    "title": "Not Even the Israelis Seem to Buy the Iranian Chemical Weapons Line",
@@ -345,7 +335,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.789
+   "score": 0.767
+  },
+  {
+   "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
+   "link": "https://www.rappler.com/philippines/rodrigo-duterte-trial-international-criminal-court-hague-updates-videos/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9921
   },
   {
    "title": "Russia wants to build a new security framework to end the war. This is why it won\u2019t work",
@@ -355,7 +355,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7583
+   "score": 0.7379
+  },
+  {
+   "title": "Weekend Watch: \u2018Locke\u2019 is a treat for Tom Hardy fans",
+   "link": "https://scroll.in/reel/1097386/weekend-watch-locke-is-a-treat-for-tom-hardy-fans?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9799
   },
   {
    "title": "The Canadian Transformation of Paul Theroux",
@@ -365,7 +375,47 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9962
+   "score": 0.9639
+  },
+  {
+   "title": "Thousands of Puerto Ricans join \u2018Day of National Outrage\u2019 protest",
+   "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9619
+  },
+  {
+   "title": "Hong Kong\u2019s top court quashes autistic man\u2019s conviction for flag desecration citing his condition",
+   "link": "https://hongkongfp.com/2026/11/28/hong-kongs-top-court-quashes-autistic-mans-conviction-for-flag-desecration-citing-his-condition/",
+   "outlet": "Hong Kong Free Press",
+   "region": "East Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.958
+  },
+  {
+   "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports",
+   "link": "https://kyivindependent.com/russian-soldier-who-was-13-when-full-scale-invasion-began-killed-in-ukraine-media-reports/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9548
+  },
+  {
+   "title": "New technologies help Natural History Museum uncover 92 species in its transformed gardens",
+   "link": "https://phys.org/news/2026-11-technologies-natural-history-museum-uncover.html",
+   "outlet": "Phys.org",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9541
   },
   {
    "title": "The phony war for Trump\u2019s crown",
@@ -375,17 +425,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9824
-  },
-  {
-   "title": "RNA discovery reveals how gut bacterium adapts to life in intestinal mucus",
-   "link": "https://phys.org/news/2026-11-rna-discovery-reveals-gut-bacterium.html",
-   "outlet": "Phys.org",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9819
+   "score": 0.9507
   },
   {
    "title": "DGBAS raises 2026 economic growth forecast to 13.28%",
@@ -395,7 +435,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9819
+   "score": 0.9503
   },
   {
    "title": "Defamation Case by Ex-Husband Against Ex-Wife, Based on Her Allegations to Police, Can Go Forward",
@@ -405,7 +445,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9755
+   "score": 0.9442
   },
   {
    "title": "Working poverty in Mexico hits its lowest level on record",
@@ -415,17 +455,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9745
+   "score": 0.9433
   },
   {
-   "title": "Will Taiwan vote to revive nuclear power \u2013 and why does that matter for AI?",
-   "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "Bangladesh garment workers protest wages despite police crackdown",
+   "link": "https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/",
+   "outlet": "Asia Times",
+   "region": "Asia-Pacific",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9716
+   "score": 0.9401
   },
   {
    "title": "Officer who shot Neqotkuk First Nation man six times not charged",
@@ -435,7 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9662
+   "score": 0.9354
   },
   {
    "title": "Chuck Schumer\u2019s Former Aides Now Lobby for Corporate America",
@@ -445,27 +485,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9656
-  },
-  {
-   "title": "What sex and state strategy have in common",
-   "link": "https://asiatimes.com/2026/11/what-sex-and-state-strategy-have-in-common/",
-   "outlet": "Asia Times",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9646
-  },
-  {
-   "title": "Russian drone attack on Kremenchuk injures 4, including 3 children",
-   "link": "https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9605
+   "score": 0.9348
   },
   {
    "title": "Four PREMIUM TIMES journalists emerge finalists for 2026 Wole Soyinka Investigative Reporting Award",
@@ -475,7 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9522
+   "score": 0.9221
   },
   {
    "title": "AI is rapidly advancing while we dangerously sleepwalk, and time is running out",
@@ -485,17 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9493
-  },
-  {
-   "title": "Asphalt Artworks Are Making People Drive More Safely, New Studies Find",
-   "link": "https://www.goodnewsnetwork.org/asphalt-artworks-seems-to-make-people-drive-more-safely-new-studies-find/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9314
+   "score": 0.9193
   },
   {
    "title": "Kenya: DCI to Help Investigate and Dismantle Doping Networks",
@@ -505,7 +515,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9117
+   "score": 0.8836
+  },
+  {
+   "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
+   "link": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
+   "outlet": "Good News Network",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.662
   },
   {
    "title": "Argentina bans online betting advertising, including in football and on social media",
@@ -515,17 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9036
-  },
-  {
-   "title": "US midterms: Anger over data centres may have helped Democrats",
-   "link": "https://scroll.in/article/1097311/us-midterms-anger-over-data-centres-may-have-helped-democrats?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8969
+   "score": 0.8759
   },
   {
    "title": "\u2018No reports, no strikes\u2019: Russia\u2019s pro-war bloggers slam proposed prison sentences for sharing photos and videos of Ukrainian attacks",
@@ -535,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8874
+   "score": 0.8605
   },
   {
    "title": "Refugee families use agroforestry to restore degraded landscape in Bangladesh camp",
@@ -545,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8868
+   "score": 0.86
   },
   {
    "title": "Chen Jining: The Tragedy of the \u2018Potential Successor\u2019 in Chinese Politics",
@@ -555,7 +565,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8842
+   "score": 0.8575
   },
   {
    "title": "ARTE Europe Weekly: Artists Under Threat from AI Theft",
@@ -565,17 +575,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8768
-  },
-  {
-   "title": "Nobel Committee chair pushes human accountability for AI\u2019s potential harms | The wRap",
-   "link": "https://www.rappler.com/video/daily-wrap/november-27-2026/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8712
+   "score": 0.8504
   },
   {
    "title": "How the Gaza Encampments Unleashed the Blue Tsunami and Helped Spark a Worldwide Movement",
@@ -585,7 +585,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8613
+   "score": 0.8357
   },
   {
    "title": "Welcome to the Repair Caf\u00e9, Where Neighbors Fight Throwaway Culture",
@@ -595,7 +595,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8467
+   "score": 0.8219
   },
   {
    "title": "The $25.5M question hanging over Deion Sanders and the University of Colorado",
@@ -605,7 +605,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8363
+   "score": 0.812
   }
  ]
 }
