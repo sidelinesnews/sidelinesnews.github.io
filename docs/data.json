@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:28:17.491903+00:00",
+ "updated": "2026-11-28T10:01:25.805964+00:00",
  "meter": {
   "outlets": 36,
   "regions": 11,
@@ -8,64 +8,104 @@
  },
  "stories": [
   {
-   "title": "'Banana republic again': Former Costa Rican president slams Albanese ban",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/banana-republic-again-former-costa-rican-president-slams-albanese-ban",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
+   "title": "Buklod: Songs of an unfinished struggle",
+   "link": "https://www.rappler.com/people/artists/buklod-songs-unfinished-struggle/",
+   "outlet": "Rappler",
+   "region": "Southeast Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9994
+   "score": 0.9997
   },
   {
-   "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
-   "link": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
+   "title": "Some Hawaiian Birds Face Extinction as Mosquitoes Spread Avian Malaria to Higher Forests",
+   "link": "https://insideclimatenews.org/news/28112026/kauai-honeycreepers-mosquito-risk/",
+   "outlet": "Inside Climate News",
+   "region": "North America",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9997
+  },
+  {
+   "title": "What\u2019s behind the great sex recession?",
+   "link": "https://www.spiked-online.com/2026/11/28/whats-behind-the-great-sex-recession/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9988
+  },
+  {
+   "title": "Eco India, Episode 340: How citizens across cities are championing clean and accessible mobility",
+   "link": "https://scroll.in/video/1097359/eco-india-episode-340-how-citizens-across-cities-are-championing-clean-and-accessible-mobility?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
    "score": 0.9987
   },
   {
-   "title": "Nigeria eyes hosting historic first U-17 Women\u2019s AFCON",
-   "link": "https://www.premiumtimesng.com/news/more-news/928538-nigeria-eyes-hosting-historic-first-u-17-womens-afcon.html",
+   "title": "Court sentences two to death for murder of NYSC member",
+   "link": "https://www.premiumtimesng.com/news/top-news/928561-court-sentences-two-to-death-for-murder-of-nysc-member.html",
    "outlet": "Premium Times",
    "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9987
-  },
-  {
-   "title": "General Staff: Russia has lost 1,650,986 troops in Ukraine since Feb. 24, 2022",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-650-986-troops-in-ukraine-since-feb-24-2022/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
    "score": 0.995
   },
   {
-   "title": "In \u2018Shux,\u2019 Bicol band Kilyab calls out \u2018ayuda\u2019 politics, climate neglect",
-   "link": "https://www.rappler.com/people/artists/bicol-band-kilyab-shux-ayuda-politics-climate-neglect/",
-   "outlet": "Rappler",
-   "region": "Southeast Asia",
+   "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+   "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9941
+   "score": 0.9946
   },
   {
-   "title": "DMK announces support for delimitation bill ahead of special session",
-   "link": "https://scroll.in/latest/1097391/dmk-announces-support-for-delimitation-bill-ahead-of-special-session?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
+   "title": "South Africa accused of hypocrisy over Israeli offshore oil project",
+   "link": "https://www.middleeasteye.net/news/south-africa-accused-hypocrisy-over-israeli-offshore-oil-project",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9904
+   "score": 0.9938
+  },
+  {
+   "title": "Russian attacks kill 10, injure 55 across Ukraine over past day as deadly strike hits Chernihiv Oblast businesses",
+   "link": "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9877
+  },
+  {
+   "title": "Indonesia\u2019s Mama Aleta: Don\u2019t wait for permission to protect Mother Nature",
+   "link": "https://globalvoices.org/2026/11/28/indonesias-mama-aleta-dont-wait-for-permission-to-protect-mother-nature/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9818
+  },
+  {
+   "title": "Will my glacier go extinct? Interview with Lander Van Tricht",
+   "link": "https://news.mongabay.com/2026/11/will-my-glacier-go-extinct-interview-with-lander-van-tricht/",
+   "outlet": "Mongabay",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9772
   },
   {
    "title": "Colombia's president backs Abascal: \"Spain deserves a president like you\"",
@@ -75,7 +115,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.977
+   "score": 0.9469
   },
   {
    "title": "PUBLIC ACCOUNTABILITY OP-ED: Cape Town\u2019s baboons \u2014 the rising cost of deciding without independent ethical review",
@@ -85,7 +125,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9758
+   "score": 0.9458
   },
   {
    "title": "What Do You Call an Animal That Can\u2019t Escalate, Disengage, or Negotiate?",
@@ -95,7 +135,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9708
+   "score": 0.941
   },
   {
    "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
@@ -105,7 +145,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9619
+   "score": 0.9326
   },
   {
    "title": "Taiwan voters flaunt their political colours ahead of local polls",
@@ -115,7 +155,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9591
+   "score": 0.9299
   },
   {
    "title": "Rumi is one of America\u2019s most popular poets",
@@ -125,7 +165,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9362
+   "score": 0.9081
   },
   {
    "title": "What Happens When Winter Is No Longer Cold?",
@@ -135,7 +175,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9313
+   "score": 0.9034
   },
   {
    "title": "Peso regains some ground after nearing 20 to the dollar in a week of losses",
@@ -145,7 +185,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9183
+   "score": 0.891
   },
   {
    "title": "Israeli Forces Arrest American Human Rights Worker Mel Duncan in the West Bank",
@@ -155,7 +195,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9183
+   "score": 0.891
   },
   {
    "title": "In defense of Man City",
@@ -165,7 +205,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9135
+   "score": 0.8865
   },
   {
    "title": "2026 Elections: CEC reminds public no campaigning at the polls",
@@ -175,7 +215,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9129
+   "score": 0.8859
   },
   {
    "title": "\"His Majesty\"'s \"International Common Law Court of Justice\" Threat to \"Illuminati Police Forces\" Was Criminally Punishable",
@@ -185,7 +225,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9088
+   "score": 0.882
   },
   {
    "title": "APTN Nouvelles nationales \u2013 27 novembre 2026",
@@ -195,7 +235,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9076
+   "score": 0.8808
   },
   {
    "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
@@ -205,7 +245,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.907
+   "score": 0.8803
   },
   {
    "title": "In Europe, Too, Amazon\u2019s Warehouses Are a Dystopia",
@@ -215,7 +255,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9047
+   "score": 0.8781
   },
   {
    "title": "In the Shadow of the Afghanistan-Pakistan Border",
@@ -225,27 +265,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8737
-  },
-  {
-   "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
-   "link": "https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/",
-   "outlet": "Global Voices",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8725
-  },
-  {
-   "title": "2 of the World\u2019s Largest Rice Producers Ban Toxic Pesticide Linked to Suicide",
-   "link": "https://www.goodnewsnetwork.org/2-of-the-worlds-largest-rice-producers-ban-toxic-pesticide-linked-to-suicide/",
-   "outlet": "Good News Network",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8713
+   "score": 0.8486
   },
   {
    "title": "South Africa: Joburg Women Lead March Against Pie Act Amendments",
@@ -255,17 +275,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8509
-  },
-  {
-   "title": "International Jaguar Day: Big cats hold on at the edges of their range",
-   "link": "https://news.mongabay.com/short-article/2026/11/international-jaguar-day-big-cats-hold-on-at-the-edges-of-their-range/",
-   "outlet": "Mongabay",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8479
+   "score": 0.8269
   },
   {
    "title": "How Russian soldiers are escaping Putin\u2019s war. Five deserters recount their journeys across borders, through forests with bears, and over the English Channel.",
@@ -275,7 +285,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8419
+   "score": 0.8183
   },
   {
    "title": "Week in Review: Between Transformation and Evolution",
@@ -285,17 +295,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8339
-  },
-  {
-   "title": "Behold the totalitarian nightmare of DEI",
-   "link": "https://www.spiked-online.com/2026/11/27/behold-the-totalitarian-nightmare-of-dei/",
-   "outlet": "Spiked",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8146
+   "score": 0.8107
   },
   {
    "title": "California\u2019s philanthropic funders need to give bravely to counteract federal cuts",
@@ -305,7 +305,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8055
+   "score": 0.7836
   },
   {
    "title": "Gas plants, battery storage and now a data centre: inside Napanee\u2019s unknown energy boom",
@@ -315,7 +315,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8055
+   "score": 0.7836
   },
   {
    "title": "How are local Colorado merchants are competing with AI this holiday? They\u2019re not.",
@@ -325,77 +325,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7883
+   "score": 0.7672
   },
   {
-   "title": "The Scientist Who Kickstarted Pennsylvania\u2019s Fracking Boom Thought Gas Would Be a \u2018Bridge Fuel\u2019",
-   "link": "https://insideclimatenews.org/news/27112026/marcellus-shale-geoscientist-pennsylvania-fracking-boom/",
+   "title": "The Climate Hero Hiding Beneath the Ocean\u2019s Surface",
+   "link": "https://insideclimatenews.org/news/28112026/kelp-forest-climate-hero/",
    "outlet": "Inside Climate News",
    "region": "North America",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7799
-  },
-  {
-   "title": "Making Peace With a Himalayan \u2018Ghost\u2019",
-   "link": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/",
-   "outlet": "Reasons to be Cheerful",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7638
-  },
-  {
-   "title": "For Sale: Custom Space Program, Ready to Launch",
-   "link": "https://undark.org/2026/11/27/space-for-sale/",
-   "outlet": "Undark",
-   "region": "Global",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.7637
-  },
-  {
-   "title": "How Israel is fast-tracking data centres in bid to become \u2018AI superpower\u2019",
-   "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
-   "outlet": "Al Jazeera",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9986
-  },
-  {
-   "title": "2027 Politics Watch: 140 killed in election-related violence \u2013 IPAC",
-   "link": "https://www.premiumtimesng.com/news/headlines/928533-2027-politics-watch-140-killed-in-election-related-violence-ipac.html",
-   "outlet": "Premium Times",
-   "region": "Africa",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9943
-  },
-  {
-   "title": "Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-carry-out-air-raid-lebanese-town-nabatieh-nna-reports",
-   "outlet": "Middle East Eye",
-   "region": "Middle East",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9926
-  },
-  {
-   "title": "Geoff Dyer wins inaugural \u00a310,000 Ved Mehta Prize in Creative Nonfiction for his memoir, \u2018Homework\u2019",
-   "link": "https://scroll.in/article/1097394/geoff-dyer-wins-inaugural-ps10000-ved-mehta-prize-in-creative-nonfiction-for-his-memoir-homework?utm_source=rss&utm_medium=public",
-   "outlet": "Scroll.in",
-   "region": "South Asia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.988
+   "score": 0.9987
   },
   {
    "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
@@ -405,7 +345,87 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.988
+   "score": 0.9935
+  },
+  {
+   "title": "PREMIUM TIMES reporter wins 2026 Ray Ekpu Investigative Journalism Prize",
+   "link": "https://www.premiumtimesng.com/regional/south-south-regional/928560-premium-times-reporter-wins-2026-ray-ekpu-investigative-journalism-prize.html",
+   "outlet": "Premium Times",
+   "region": "Africa",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9929
+  },
+  {
+   "title": "Making Peace With a Himalayan \u2018Ghost\u2019",
+   "link": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/",
+   "outlet": "Reasons to be Cheerful",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7439
+  },
+  {
+   "title": "For Sale: Custom Space Program, Ready to Launch",
+   "link": "https://undark.org/2026/11/27/space-for-sale/",
+   "outlet": "Undark",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.7439
+  },
+  {
+   "title": "DMK to support delimitation bill",
+   "link": "https://scroll.in/latest/1097391/dmk-announces-support-for-delimitation-bill-ahead-of-special-session?utm_source=rss&utm_medium=public",
+   "outlet": "Scroll.in",
+   "region": "South Asia",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9877
+  },
+  {
+   "title": "Populism vs anti-populism: the great political divide of our time",
+   "link": "https://www.spiked-online.com/2026/11/28/populism-vs-anti-populism-the-great-political-divide-of-our-time/",
+   "outlet": "Spiked",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9863
+  },
+  {
+   "title": "Spain faces political shift as far right gains ground",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+   "outlet": "Al Jazeera",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9861
+  },
+  {
+   "title": "Morning update",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-683",
+   "outlet": "Middle East Eye",
+   "region": "Middle East",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9749
+  },
+  {
+   "title": "General Staff: Russia has lost 1,650,986 troops in Ukraine since Feb. 24, 2022",
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-650-986-troops-in-ukraine-since-feb-24-2022/",
+   "outlet": "Kyiv Independent",
+   "region": "Europe",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.9641
   },
   {
    "title": "Spain wraps up its campaign: S\u00e1nchez appeals for a \"progressive majority\", Feij\u00f3o for \"change\"",
@@ -415,7 +435,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9764
+   "score": 0.9464
   },
   {
    "title": "Have the Democrats Learned Their Lesson?",
@@ -425,17 +445,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9704
-  },
-  {
-   "title": "Fire reported near oil refinery in Russia's Rostov Oblast amid Ukrainian drone attack",
-   "link": "https://kyivindependent.com/fire-reported-near-oil-refinery-in-russias-rostov-oblast-amid-ukrainian-drone-attack/",
-   "outlet": "Kyiv Independent",
-   "region": "Europe",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.9591
+   "score": 0.9406
   },
   {
    "title": "Russia wants to build a new security framework to end the war. This is why it won\u2019t work",
@@ -445,7 +455,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.7138
+   "score": 0.6963
   },
   {
    "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
@@ -455,7 +465,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9426
+   "score": 0.9142
   },
   {
    "title": "The Canadian Transformation of Paul Theroux",
@@ -465,7 +475,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9257
+   "score": 0.8981
   },
   {
    "title": "Hong Kong\u2019s top court quashes autistic man\u2019s conviction for flag desecration citing his condition",
@@ -475,7 +485,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9202
+   "score": 0.8928
   },
   {
    "title": "The phony war for Trump\u2019s crown",
@@ -485,7 +495,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9133
+   "score": 0.8863
   },
   {
    "title": "DGBAS raises 2026 economic growth forecast to 13.28%",
@@ -495,7 +505,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9129
+   "score": 0.8859
   },
   {
    "title": "Defamation Case by Ex-Husband Against Ex-Wife, Based on Her Allegations to Police, Can Go Forward",
@@ -505,7 +515,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9072
+   "score": 0.8805
   },
   {
    "title": "Working poverty in Mexico hits its lowest level on record",
@@ -515,7 +525,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9064
+   "score": 0.8797
   },
   {
    "title": "LOCAL ELECTIONS 2026: Mashaba\u2019s manoeuvres win the day as ANC-ActionSA claim Gauteng, leaving DA in the cold",
@@ -525,7 +535,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.9034
+   "score": 0.8769
   },
   {
    "title": "Officer who shot Neqotkuk First Nation man six times not charged",
@@ -535,7 +545,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.899
+   "score": 0.8726
   },
   {
    "title": "Chuck Schumer\u2019s Former Aides Now Lobby for Corporate America",
@@ -545,7 +555,7 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8984
+   "score": 0.8721
   },
   {
    "title": "What sex and state strategy have in common",
@@ -555,17 +565,27 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8975
+   "score": 0.8712
   },
   {
-   "title": "Asphalt Artworks Are Making People Drive More Safely, New Studies Find",
-   "link": "https://www.goodnewsnetwork.org/asphalt-artworks-seems-to-make-people-drive-more-safely-new-studies-find/",
+   "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
+   "link": "https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/",
+   "outlet": "Global Voices",
+   "region": "Global",
+   "also": [],
+   "mainstream": [],
+   "rarity": 1.0,
+   "score": 0.8474
+  },
+  {
+   "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
+   "link": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
    "outlet": "Good News Network",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.868
+   "score": 0.6286
   },
   {
    "title": "Kenya: DCI to Help Investigate and Dismantle Doping Networks",
@@ -575,37 +595,17 @@
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8504
+   "score": 0.8264
   },
   {
-   "title": "\u2018No reports, no strikes\u2019: Russia\u2019s pro-war bloggers slam proposed prison sentences for sharing photos and videos of Ukrainian attacks",
-   "link": "https://meduza.io/en/feature/2026/11/27/no-reports-no-strikes-russia-s-pro-war-bloggers-slam-proposed-prison-sentences-for-sharing-photos-and-videos-of-ukrainian-attacks",
-   "outlet": "Meduza (English)",
-   "region": "Russia",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8287
-  },
-  {
-   "title": "Refugee families use agroforestry to restore degraded landscape in Bangladesh camp",
-   "link": "https://news.mongabay.com/2026/11/refugee-families-use-agroforestry-to-restore-degraded-landscape-in-bangladesh-camp/",
+   "title": "International Jaguar Day: Big cats hold on at the edges of their range",
+   "link": "https://news.mongabay.com/short-article/2026/11/international-jaguar-day-big-cats-hold-on-at-the-edges-of-their-range/",
    "outlet": "Mongabay",
    "region": "Global",
    "also": [],
    "mainstream": [],
    "rarity": 1.0,
-   "score": 0.8282
-  },
-  {
-   "title": "Chen Jining: The Tragedy of the \u2018Potential Successor\u2019 in Chinese Politics",
-   "link": "https://thediplomat.com/2026/11/chen-jining-the-tragedy-of-the-potential-successor-in-chinese-politics/",
-   "outlet": "The Diplomat",
-   "region": "Asia-Pacific",
-   "also": [],
-   "mainstream": [],
-   "rarity": 1.0,
-   "score": 0.8259
+   "score": 0.824
   }
  ]
 }
